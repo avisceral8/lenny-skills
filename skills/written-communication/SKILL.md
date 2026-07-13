@@ -1,83 +1,94 @@
 ---
 name: written-communication
-description: Help users communicate more effectively in writing. Use when someone is drafting memos, emails, strategy docs, announcements, or any written communication that needs to be clear, concise, and persuasive.
+description: Help users master professional writing to bridge gaps between stakeholders, scale their leadership influence, and ensure organizational clarity through structured narratives and async-first norms.
 ---
 
-# Written Communication
+# Written Communication for Leaders
 
-Help the user communicate more effectively in writing using frameworks and insights from 38 product leaders.
+Scale your influence and drive alignment through structured, clear, and persuasive writing.
+
+Help the user with written communication for leaders using insights from 12 guests and posts across Lenny's Podcast and Newsletter.
 
 ## How to Help
 
-When the user asks for help with written communication:
-
-1. **Clarify the purpose** - Ask what action or outcome they want from readers
-2. **Apply the pyramid principle** - Guide them to lead with the conclusion, not build up to it
-3. **Cut ruthlessly** - Help them eliminate unnecessary context and get to the point faster
-4. **Test for simplicity** - Ensure someone unfamiliar with the topic could understand the core message
+1. **Framework application** - Guide the user in applying the SCR or Minto Pyramid frameworks to their current draft.
+2. **Narrative sharpening** - Help the user identify and lead with their primary conclusion to ensure executive clarity.
+3. **Tone and conciseness** - Review drafts to remove fluff, strengthen logic, and adapt the tone for the intended audience.
+4. **Process design** - Assist in establishing async communication norms or structured feedback loops for the team.
 
 ## Core Principles
 
-### Focus on the how, not the what
-Wes Kao: "Most writers spend too much time on the what and the why and not enough time on how. Most readers already agree with the general premise of what you're saying." Minimize context and justification; focus on specific steps, nuances, and examples.
+### Prioritize Novelty
+Julian Shapiro: "Someone like Paul Graham, the founder of Y Combinator, is doing original takes. He's not trying to write threads for the sake of gaining followers. He's trying to write interesting novel ideas. When he does that, he strengthens the affinity that his followers have for him and his mind, because like, 'Wow! That was an original interesting take.'"
 
-### Writing clarifies thinking
-Julie Zhuo: "I approach my writing as letters to myself. This is the framework, this is the advice I need to give myself. It was hugely helpful for clarifying my train of thought." Use writing as a tool to organize scattered thoughts and force clarity.
+Focus on injecting original and non-obvious ideas into your writing to capture reader attention and build long term affinity.
 
-### Writing is clarity at scale
-Kevin Yien: "Writing is clarity at scale. A key component to a PM's job is creating clarity both internally and externally." Write in the voice of the customer to demonstrate deep understanding.
+### Write for Personal Mastery
+Julian Shapiro: "They're forcing functions for me to hold myself accountable and to be thorough when learning something for my own benefit. That's all they are. Basically if I want to go learn growth or writing well or some other topic, I will go ahead and do a ton of research, read everything I can get my hands on, do a ton of experimentation to try to build a set of novel insights that you couldn't find from other people's research hopefully, and then the next stage is try to make it as concise and actionable as possible so that I can reference it for my own selfish benefit."
 
-### Every project needs one canonical doc
-Naomi Gleit: "There needs to be one canonical doc. Everyone should know exactly where it is. It links to all other docs." Create a single source of truth for every project.
+Use writing as a selfish tool for your own learning to ensure the resulting work is thorough and high quality.
 
-### Communication is the job
-Boz: "Communication is the job. Leadership is exclusively done through the creation of artifacts or verbalizations that affect other humans." Take extreme ownership of whether your message was successfully received.
+### Scale Influence via Documentation
+Kevin Yien: "writing is clarity at scale, and a key component to a PM's job is creating clarity both i"
 
-### Start right before the bear attack
-Wes Kao: "Don't start talking about going to REI to buy a Patagonia jacket. Start right before your friend left a Clif Bar out and you almost got mauled by a bear." Cut preamble and start at the point of highest tension or relevance.
+Effective writing is a primary tool for maintaining clarity and alignment across an entire organization simultaneously.
 
-### Conclusion first, always
-Wes Kao: "In business, start with your conclusion, then here's why. Not here's all my thinking, here's all my data points, and then my conclusion at the end." Place the recommendation at the very top.
+### Standardize Narrative Frameworks
+From "The Minto Pyramid Principle and the SCR Framework": "If you simplify this further, there are three parts to every narrative: Situation, Complication, Resolution. 1. Situation: What is the state of affairs today. Facts, data, and unambiguous background. 2. Complication: What has changed that requires action. What is the problem? 3. Resolution: What we need to do to resolve this complication."
 
-### Write what you repeat
-Deb Liu: "Write what you repeat. If you say something more than once, write it down. Then the next time someone asks, you can just hand them." Document recurring advice to scale your influence.
+Structure business communications around a Situation, Complication, and Resolution to provide necessary context before proposing solutions.
 
-### Concision is density, not brevity
-Wes Kao: "Being concise is not about absolute word count, it's about economy of words. You can have a 300 word memo that's meandering and a thousand word memo that is tight and concise." Focus on insight density, not just making things shorter.
+### Drain the Creativity Faucet
+Julian Shapiro: "Why do good ideas arrive after the bad ideas are empty? It's because when you've gone through a bunch of bad ideas, your brain, your mind starts reflexively identifying what elements are causing the badness. Then it becomes way better at avoiding those bad elements and you become way better at pattern matching the novel ideas with way greater intuition."
 
-### Repeat across modalities
-Boz: "I will give an all-hands and then write a post with the content of the all-hands, because different people respond differently to these modalities." Use multiple channels and formats to ensure messages are absorbed.
+Acknowledge that your best ideas often only emerge after you have systematically expressed and exhausted your more obvious thoughts.
 
-### Use numbered lists for reference
-Naomi Gleit: "I never use bulleted lists because you can never refer to a bullet. I always use numbered lists because you can say 'as referenced in number two.'" Enable precise referencing during discussions.
+### Plan Before Prompting
+Zevi Arnovitz: "Planning is really important when you're implementing something technical and let's say you're implementing payments or something that's going to be a change to your database. If the coding agent is just like, 'All right, I got it.' And just starts writing code, this always results in terrible things, some really gnarly bugs that I had."
 
-### Full sentences expose gaps in logic
-Wes Kao: "I dislike when people overuse bullets and sentence fragments when they should use complete sentences that show the connected tissue between ideas." Turn bullet fragments into full sentences to test if the idea is fully thought out.
+Prevent low quality AI output by enforcing a strict planning phase and providing deep context on your style and goals.
+
+### Establish Shared Situations
+From "Essential reading for product builders—part 2": "The best executive communication starts with the state of affairs. It’s fact-based, unambiguous. It’s totally not controversial. No matter what side of an issue or a hard choice you’re on, you should be able to read the situation and go, ‘That pretty much sums it up.’"
+
+Achieve executive level clarity by starting with a non-controversial set of facts that everyone can agree on before introducing complications.
+
+## Templates & Frameworks
+
+- **SCR (Situation-Complication-Resolution) Framework** (The Minto Pyramid Principle and the SCR Framework) - A narrative structure for business communication derived from the universal story arc. Provides context before the recommendation to avoid being too abrupt. Als
+- **The Minto Pyramid Principle** (The Minto Pyramid Principle and the SCR Framework) - A communication framework developed by Barbara Minto at McKinsey for structuring persuasive business arguments. Instead of building up from data to conclusions 
+- **6-Part Ask Template** (On asking for help (even when you really don’t want to)) - A structured template for making effective help requests in professional contexts. Can be adapted based on relationship strength, goal overlap, and recipient ex
+- **Writing Quality Improvement Checklist** (500,000) - Actionable steps for improving newsletter writing quality based on Lenny's experience and three recommended books
+- **The Executive Editor GPT** (How to become a supermanager with AI) - A custom GPT that grades written communications (emails, decks, Slack messages) on structure, clarity, level of detail, and tone, and provides actionable improv
+- **TLDR + Context Message Structure** (Wes Kao) - A format for written business communication that puts the most important point at the top followed by optional context below
+- **Using AI as a Writing/Editing Partner** (Seth Godin) - Seth's specific process for using Claude as an editorial assistant while maintaining authorial voice.
+- **Combined SCR + Minto Pyramid Framework** (The Minto Pyramid Principle and the SCR Framework) - The integration of both frameworks: SCR provides the narrative wrapper, and the Minto Pyramid structures the Resolution section specifically.
+
+See `references/artifacts.md` for the full list with details.
 
 ## Questions to Help Users
 
-- "What do you want the reader to do after reading this?"
-- "What is your conclusion - can you state it in one sentence at the top?"
-- "Are your first two paragraphs actually necessary, or are they preamble?"
-- "Could someone unfamiliar with this topic understand the core point?"
-- "Is this something you've explained multiple times that should be documented?"
-- "Have you read this out loud to check if it sounds like natural conversation?"
+- "Who is the primary audience for this document, and what is the one thing you need them to do after reading?"
+- "What is the shared, non-controversial Situation that everyone involved can agree on?"
+- "If you had to put your main recommendation in the first sentence, what would it say?"
+- "What are the specific areas where you need critical feedback versus just general awareness?"
+- "Which supporting data or facts might be missing that would strengthen your Resolution?"
+- "How can we transition this update from a synchronous meeting to an asynchronous document?"
 
 ## Common Mistakes to Flag
 
-- **Building up to the conclusion** - Business writing should lead with the answer, not build suspense
-- **Too much context** - Cut the backstory; start at the point of relevance
-- **Bullet fragments hiding weak logic** - Full sentences force clearer thinking
-- **Single-channel communication** - Important messages need multiple modalities
-- **Assuming one communication is enough** - Messages need repetition across formats
+- **Leading with the discovery process** - Busy stakeholders care about the conclusion first and the discovery process second.
+- **Burying the ask** - Unclear requests create friction and delay the help or decisions you need to move forward.
+- **Ignoring the Situation** - Proposing solutions without shared context leads to misalignment and unnecessary debate over the problem itself.
+- **Over-reliance on AI generation** - Using AI without a strict planning phase results in generic content that lacks your unique perspective and authority.
 
 ## Deep Dive
 
-For all 61 insights from 38 guests, see `references/guest-insights.md`
+For all 13 sourced insights from 12 guests, see `references/guest-insights.md`
 
 ## Related Skills
 
-- Stakeholder Alignment
-- Giving Presentations
-- Running Effective Meetings
-- Writing PRDs
+- Product Reviews
+- Executive Communication
+- Managing Up
+- Running Meetings

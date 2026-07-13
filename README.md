@@ -1,288 +1,185 @@
-# Lenny's Product Skills for Claude Code
+# Lenny's Product Skills for Claude Code — 2.0
 
-[![GitHub stars](https://img.shields.io/github/stars/RefoundAI/lenny-skills?style=social)](https://github.com/RefoundAI/lenny-skills)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills-86-blue)](https://github.com/RefoundAI/lenny-skills/tree/main/skills)
-[![Podcast Episodes](https://img.shields.io/badge/podcast%20episodes-100%2B-green)](https://www.lennyspodcast.com/)
+[![Skills](https://img.shields.io/badge/skills-76-blue)](https://github.com/RefoundAI/lenny-skills/tree/v2/skills)
 
-**86 product management skills** distilled from [Lenny's Podcast](https://www.lennyspodcast.com/) interviews with world-class product leaders. Built for PMs, founders, and product teams who want Claude to help with real product work.
+**76 product management and engineering skills**, distilled from the full archive of [Lenny's Podcast](https://www.lennyspodcast.com/) and [Lenny's Newsletter](https://www.lennysnewsletter.com/): 597 episodes and posts, 4,019 sourced insights, every quote verified verbatim against its source.
 
-> *"The best product advice from Shreyas Doshi, Marty Cagan, Elena Verna, and 90+ more leaders — available in your terminal."*
+Curated by [Refound AI](https://refoundai.com). Browse the full database with guides, quotes, and templates at [refoundai.com/lenny-skills](https://refoundai.com/lenny-skills/).
 
-Curated by [Refound AI](https://refound.ai) from 100+ podcast episodes featuring guests like Shreyas Doshi, Marty Cagan, Elena Verna, Christina Wodtke, and more.
+## What's new in 2.0
 
-**Contributions welcome!** Found a way to improve a skill or have a new one to add? [Open a PR](#contributing).
+- **Organized as a product operating model** — skills are grouped into the process areas a product org actually runs: strategy, planning, discovery, building, launch, growth, team, and operating cadence, plus vertical playbooks and a career track.
+- **Newsletter content included** — 1.0 was podcast-only; 2.0 adds frameworks and templates from 349 newsletter posts, including the 'How X builds product' series.
+- **Templates & frameworks per skill** — each skill ships with the named frameworks, checklists, and templates guests actually use, in `references/artifacts.md`.
+- **Verified quotes** — every quote is checked verbatim against the source transcript or post. No paraphrase drift.
 
 ## What are Skills?
 
-Skills are markdown files that give AI agents specialized knowledge and workflows for specific tasks. When you add these to your project, Claude Code can recognize when you're working on a product task and apply the right frameworks and best practices from experienced product leaders.
-
-## Available Skills
-
-| Skill | Description |
-|-------|-------------|
-| [ai-evals](skills/ai-evals/) | Help users create and run AI evaluations for LLM products |
-| [ai-product-strategy](skills/ai-product-strategy/) | Help users define AI product strategy and decide where to apply AI |
-| [analyzing-user-feedback](skills/analyzing-user-feedback/) | Help users synthesize and act on customer feedback |
-| [behavioral-product-design](skills/behavioral-product-design/) | Help users apply behavioral science to product design |
-| [brand-storytelling](skills/brand-storytelling/) | Help users craft compelling brand narratives |
-| [building-a-promotion-case](skills/building-a-promotion-case/) | Help users prepare for promotion conversations |
-| [building-sales-team](skills/building-sales-team/) | Help users build and scale their sales organization |
-| [building-team-culture](skills/building-team-culture/) | Help users build and maintain strong team culture |
-| [building-with-llms](skills/building-with-llms/) | Help users build effective AI applications |
-| [career-transitions](skills/career-transitions/) | Help users navigate career changes and pivots |
-| [coaching-pms](skills/coaching-pms/) | Help users develop and coach product managers |
-| [community-building](skills/community-building/) | Help users build and grow product communities |
-| [competitive-analysis](skills/competitive-analysis/) | Help users understand and respond to competition |
-| [conducting-interviews](skills/conducting-interviews/) | Help users conduct effective hiring interviews |
-| [conducting-user-interviews](skills/conducting-user-interviews/) | Help users run better customer and user interviews |
-| [content-marketing](skills/content-marketing/) | Help users build content marketing strategies |
-| [cross-functional-collaboration](skills/cross-functional-collaboration/) | Help users work effectively across functions |
-| [defining-product-vision](skills/defining-product-vision/) | Help users create compelling product visions |
-| [delegating-work](skills/delegating-work/) | Help users delegate effectively |
-| [design-engineering](skills/design-engineering/) | Help users build design engineering capabilities |
-| [design-systems](skills/design-systems/) | Help users build and scale design systems |
-| [designing-growth-loops](skills/designing-growth-loops/) | Help users design and optimize growth loops |
-| [designing-surveys](skills/designing-surveys/) | Help users design effective surveys |
-| [dogfooding](skills/dogfooding/) | Help users implement effective dogfooding practices |
-| [energy-management](skills/energy-management/) | Help users manage energy for sustained performance |
-| [engineering-culture](skills/engineering-culture/) | Help users build strong engineering culture |
-| [enterprise-sales](skills/enterprise-sales/) | Help users navigate enterprise sales |
-| [evaluating-candidates](skills/evaluating-candidates/) | Help users make better hiring decisions |
-| [evaluating-new-technology](skills/evaluating-new-technology/) | Help users evaluate emerging technologies |
-| [evaluating-trade-offs](skills/evaluating-trade-offs/) | Help users make better decisions between competing options |
-| [finding-mentors-sponsors](skills/finding-mentors-sponsors/) | Help users build relationships with mentors and sponsors |
-| [founder-sales](skills/founder-sales/) | Help founders close their first customers |
-| [fundraising](skills/fundraising/) | Help founders raise capital and build investor relationships |
-| [giving-presentations](skills/giving-presentations/) | Help users create and deliver compelling presentations |
-| [having-difficult-conversations](skills/having-difficult-conversations/) | Help users navigate tough feedback and conflict |
-| [launch-marketing](skills/launch-marketing/) | Help users plan and execute product launches |
-| [managing-imposter-syndrome](skills/managing-imposter-syndrome/) | Help users work through feelings of inadequacy |
-| [managing-tech-debt](skills/managing-tech-debt/) | Help users manage technical debt strategically |
-| [managing-timelines](skills/managing-timelines/) | Help users set and hit realistic deadlines |
-| [managing-up](skills/managing-up/) | Help users work effectively with their manager |
-| [marketplace-liquidity](skills/marketplace-liquidity/) | Help users build and manage marketplace liquidity |
-| [measuring-product-market-fit](skills/measuring-product-market-fit/) | Help users assess and achieve product-market fit |
-| [media-relations](skills/media-relations/) | Help users build relationships with journalists |
-| [negotiating-offers](skills/negotiating-offers/) | Help users negotiate job offers and compensation |
-| [onboarding-new-hires](skills/onboarding-new-hires/) | Help users onboard new team members effectively |
-| [organizational-design](skills/organizational-design/) | Help users design effective organizational structures |
-| [organizational-transformation](skills/organizational-transformation/) | Help users transform organizations toward modern practices |
-| [partnership-bd](skills/partnership-bd/) | Help users build strategic partnerships |
-| [personal-productivity](skills/personal-productivity/) | Help users manage their time and tasks |
-| [planning-under-uncertainty](skills/planning-under-uncertainty/) | Help users plan when outcomes are unpredictable |
-| [platform-infrastructure](skills/platform-infrastructure/) | Help users build and scale internal platforms |
-| [platform-strategy](skills/platform-strategy/) | Help users design platform business strategies |
-| [positioning-messaging](skills/positioning-messaging/) | Help users craft product positioning and messaging |
-| [post-mortems-retrospectives](skills/post-mortems-retrospectives/) | Help users run effective post-mortems and retrospectives |
-| [pricing-strategy](skills/pricing-strategy/) | Help users design and optimize pricing strategies |
-| [prioritizing-roadmap](skills/prioritizing-roadmap/) | Help users prioritize product roadmaps |
-| [problem-definition](skills/problem-definition/) | Help users define problems clearly before solutions |
-| [product-led-sales](skills/product-led-sales/) | Help users implement product-led sales motions |
-| [product-operations](skills/product-operations/) | Help users build and scale product operations |
-| [product-taste-intuition](skills/product-taste-intuition/) | Help users develop product taste and intuition |
-| [retention-engagement](skills/retention-engagement/) | Help users improve retention and engagement metrics |
-| [running-decision-processes](skills/running-decision-processes/) | Help users run effective decision-making processes |
-| [running-design-reviews](skills/running-design-reviews/) | Help users run effective design reviews |
-| [running-effective-1-1s](skills/running-effective-1-1s/) | Help users run effective one-on-one meetings |
-| [running-effective-meetings](skills/running-effective-meetings/) | Help users run more effective meetings |
-| [running-offsites](skills/running-offsites/) | Help users plan and run effective team offsites |
-| [sales-compensation](skills/sales-compensation/) | Help users design sales compensation plans |
-| [sales-qualification](skills/sales-qualification/) | Help users qualify sales leads effectively |
-| [scoping-cutting](skills/scoping-cutting/) | Help users scope projects and cut features |
-| [setting-okrs-goals](skills/setting-okrs-goals/) | Help users set effective OKRs and goals |
-| [shipping-products](skills/shipping-products/) | Help users ship products faster with higher quality |
-| [stakeholder-alignment](skills/stakeholder-alignment/) | Help users align stakeholders and get buy-in |
-| [startup-ideation](skills/startup-ideation/) | Help users generate and evaluate startup ideas |
-| [startup-pivoting](skills/startup-pivoting/) | Help users decide when and how to pivot |
-| [systems-thinking](skills/systems-thinking/) | Help users think in systems and understand dynamics |
-| [team-rituals](skills/team-rituals/) | Help users design effective team rituals |
-| [technical-roadmaps](skills/technical-roadmaps/) | Help users create technical roadmaps |
-| [usability-testing](skills/usability-testing/) | Help users conduct effective usability testing |
-| [user-onboarding](skills/user-onboarding/) | Help users design effective product onboarding |
-| [vibe-coding](skills/vibe-coding/) | Help users build software using AI coding tools |
-| [working-backwards](skills/working-backwards/) | Help users apply the working backwards methodology |
-| [writing-job-descriptions](skills/writing-job-descriptions/) | Help users write effective job descriptions |
-| [writing-north-star-metrics](skills/writing-north-star-metrics/) | Help users define their North Star metric |
-| [writing-prds](skills/writing-prds/) | Help users write effective PRDs |
-| [writing-specs-designs](skills/writing-specs-designs/) | Help users write effective specs and design documents |
-| [written-communication](skills/written-communication/) | Help users communicate more effectively in writing |
+Skills are markdown files that give AI agents specialized knowledge and workflows. Add them to your project and Claude Code (or any agent that reads `SKILL.md` files) applies the right frameworks when you work on a matching task.
 
 ## Installation
 
-### Option 1: CLI Install (Recommended)
-
-Use [npx skills](https://github.com/vercel-labs/skills) to install skills directly:
-
-```bash
-# Install all skills
-npx skills add RefoundAI/lenny-skills
-
-# Install specific skills
-npx skills add RefoundAI/lenny-skills --skill evaluating-candidates writing-prds
-
-# List available skills
-npx skills add RefoundAI/lenny-skills --list
-```
-
-This automatically installs to your `.claude/skills/` directory.
-
-### Option 2: Clone and Copy
-
-Clone the repo and copy skills to your project:
+Copy any skill folder into your project's `.claude/skills/` directory:
 
 ```bash
 git clone https://github.com/RefoundAI/lenny-skills.git
-cp -r lenny-skills/skills/* .claude/skills/
+cp -R lenny-skills/skills/writing-prds .claude/skills/
 ```
 
-### Option 3: Git Submodule
+Or grab individual skills with download links at [refoundai.com/lenny-skills](https://refoundai.com/lenny-skills/).
 
-Add as a submodule for easy updates:
+## The Skills
 
-```bash
-git submodule add https://github.com/RefoundAI/lenny-skills.git .claude/lenny-skills
-```
+### Strategy & Positioning
 
-Then reference skills from `.claude/lenny-skills/skills/`.
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Defining Product Strategy](skills/defining-product-strategy/) | Transform vision into a concrete plan of action by making hard choices that drive customer behavior. | 47 |
+| [Product Vision Creation](skills/product-vision/) | Design an aspirational future state that inspires teams and guides strategic decision-making. | 22 |
+| [Strategic Product Positioning](skills/positioning/) | Define the context that makes your product's unique value obvious and undeniable | 28 |
+| [Pricing Strategy & Optimization](skills/pricing-strategy/) | Design and iterate on pricing models that capture the true value of your product. | 21 |
+| [North Star Metrics](skills/north-star-metrics/) | Align your team and strategy around a single, quantifiable measure of customer value and business success. | 15 |
+| [Measuring Product-Market Fit](skills/measuring-pmf/) | Transition from pushing your product to feeling the market pull it out of you. | 21 |
+| [Competitive Strategy](skills/competitive-strategy/) | Build durable moats and outmaneuver rivals by identifying structural power and customer-centric differentiation. | 24 |
+| [Recovering From Failure](skills/recovering-from-failure/) | Turn product setbacks and stalled growth into strategic breakthroughs and pivots. | 20 |
 
-### Option 4: Fork and Customize
+### Planning & Prioritization
 
-1. Fork this repository
-2. Customize skills for your specific needs
-3. Clone your fork into your projects
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Roadmap Prioritization](skills/roadmap-prioritization/) | Transform a chaotic backlog into a high-ROI strategic plan based on evidence and appetite. | 43 |
+| [Goal Setting and OKRs](skills/goal-setting-okrs/) | Drive organizational focus by translating long-term strategy into ambitious measurable outcomes. | 19 |
+| [Planning Cadence Optimization](skills/planning-cadence/) | Align long-term strategy with short-term execution through structured, tiered planning rituals. | 13 |
+| [High Stakes Decision Making](skills/high-stakes-decisions/) | Navigate irreversible choices and extreme uncertainty with speed and structural clarity. | 30 |
+| [Evaluating Trade-Offs](skills/evaluating-trade-offs/) | Master the art of weighing competing options to maximize long-term impact and team velocity. | 14 |
 
-## Usage
+### Discovery & Research
 
-Once installed, just ask Claude Code to help with product tasks:
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Mastering Customer Interviews](skills/customer-interviews/) | Uncover deep user pain and behavioral triggers to build products people actually need. | 11 |
+| [Continuous Product Discovery](skills/continuous-discovery/) | Turn customer feedback from a periodic chore into a high-frequency engine for product decisions. | 23 |
+| [Idea Validation](skills/idea-validation/) | Stop building things people don't want by moving from opinion to evidence-based development. | 34 |
+| [Product Experimentation Excellence](skills/product-experiments/) | Drive measurable growth and mitigate risk through rigorous A/B testing and data-driven learning. | 9 |
+| [Defining Your ICP](skills/defining-icp/) | Narrow your focus to win a market beachhead and build undeniable momentum. | 15 |
+| [Analyzing User Feedback](skills/analyzing-user-feedback/) | Transform raw signals into actionable insights by scaling empathy and synthesis. | 19 |
+| [Product Taste and Intuition](skills/product-taste/) | Develop a reliable internal compass to recognize and build world-class products. | 36 |
 
-```
-"Help me evaluate this PM candidate"
-→ Uses evaluating-candidates skill
+### Building & Shipping
 
-"I need to write a PRD for our new feature"
-→ Uses writing-prds skill
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Writing Product Requirement Documents](skills/writing-prds/) | Define clear problems and bounded solutions to maximize team velocity and creative output. | 14 |
+| [Shipping Velocity](skills/shipping-velocity/) | Accelerate execution by removing organizational friction and establishing a high-intensity shipping culture. | 19 |
+| [AI-Assisted Prototyping](skills/ai-assisted-prototyping/) | Transform abstract product concepts into functional, interactive software using natural language and AI tools. | 15 |
+| [Building With AI Agents](skills/building-with-ai-agents/) | Transition from writing lines of code to directing a parallel team of autonomous agents. | 15 |
+| [Product Stack Strategy](skills/product-tool-stack/) | Build a high-performance product toolkit by balancing established standards with AI-native speed. | 6 |
+| [Engineering Health and Productivity](skills/engineering-health/) | Maintain high shipping velocity by balancing technical excellence with strategic developer investments. | 18 |
 
-"How do I get stakeholder buy-in for this project?"
-→ Uses stakeholder-alignment skill
+### Launch & Go-to-Market
 
-"We're not shipping fast enough"
-→ Uses shipping-products skill
-```
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Product Launch Planning](skills/launch-planning/) | Build momentum and drive adoption by turning product updates into remarkable market events. | 18 |
+| [PLG Sales Integration](skills/plg-sales-integration/) | Bridge the gap between self-serve adoption and enterprise deal-making to maximize revenue. | 13 |
+| [Mastering Enterprise Sales Motion](skills/enterprise-sales-motion/) | Transition from founder-led sales to a repeatable, scalable enterprise engine. | 16 |
+| [Acquiring First B2B Customers](skills/first-b2b-customers/) | Transition from zero to your first ten paying customers through manual hustle and high-trust relationships. | 7 |
+| [Marketing Org and Stack](skills/marketing-org-and-stack/) | Architect high-performing marketing organizations by aligning specialized talent with scalable data infrastructure. | 11 |
+| [Mastering PR and Press](skills/pr-and-press/) | Turn media coverage into a strategic engine for credibility, growth, and brand authority. | 9 |
+| [Naming and Branding](skills/naming-and-branding/) | Build a distinctive identity that acts as a permanent competitive weapon and emotional anchor. | 11 |
 
-You can also invoke skills directly:
+### Growth & Retention
 
-```
-/evaluating-candidates
-/writing-prds
-/stakeholder-alignment
-```
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Building a Sustainable Growth Model](skills/growth-model/) | Move beyond linear funnels to build compounding loops that drive scalable, long-term product growth. | 30 |
+| [Acquisition Channel Strategy](skills/acquisition-channels/) | Identify, test, and scale the distribution engines that drive sustainable growth. | 25 |
+| [User Onboarding and Activation](skills/user-onboarding-activation/) | Bridge the gap between initial signup and realized value to maximize long-term retention. | 25 |
+| [Retention and Engagement Mastery](skills/retention-engagement/) | Build sustainable growth by embedding products into workflows and creating compounding user value. | 17 |
+| [Referrals and Word-of-Mouth](skills/referrals-word-of-mouth/) | Turn user satisfaction into a high-leverage growth engine through organic advocacy and structured referral loops. | 13 |
+| [SEO Growth Strategy](skills/seo-strategy/) | Turn organic search into a scalable acquisition engine using programmatic data and systematic experimentation. | 9 |
+| [Growth Experimentation Velocity](skills/growth-experimentation/) | Build a high-output engine to compound small wins into massive growth. | 10 |
+| [International Market Expansion](skills/international-expansion/) | Scale your product globally by balancing local empathy with operational playbooks. | 8 |
 
-## Skill Categories
+### Team & Organization
 
-### Hiring & Team Building
-- `evaluating-candidates` - Make better hiring decisions
-- `conducting-interviews` - Run effective interviews
-- `writing-job-descriptions` - Write compelling job posts
-- `onboarding-new-hires` - Onboard new team members
-- `building-team-culture` - Build strong team culture
-- `coaching-pms` - Develop and coach PMs
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Hiring World-Class Product Talent](skills/hiring-product-talent/) | Build a high-leverage product organization by sourcing, evaluating, and closing the top 1% of talent. | 30 |
+| [Interviewing and Evaluating Candidates](skills/interviewing-evaluating-candidates/) | Move beyond resumes to assess high-fidelity signals like agency, first-principles thinking, and actual craft. | 48 |
+| [Organizational Design for Product and Engineering](skills/org-design/) | Structure your teams to maximize autonomy, speed, and strategic alignment. | 60 |
+| [Building a Growth Team](skills/building-growth-team/) | Assemble and structure a high-impact team to scale distribution and optimize the user journey. | 14 |
+| [Founding Executive Team Building](skills/founding-exec-team/) | Design and scale the core leadership layer that drives company growth from zero to one. | 15 |
+| [Coaching and Talent Development](skills/coaching-development/) | Build a high-performing team by shifting from a problem-solver to a growth-accelerator. | 34 |
+| [Building High-Performing Team Culture](skills/team-culture/) | Establish a culture of ownership, transparency, and intensity to drive long-term product success. | 53 |
+| [Giving Effective Feedback](skills/giving-feedback/) | Transform difficult conversations into catalysts for growth and high performance. | 30 |
+| [Fixing Underperforming Teams](skills/fixing-underperforming-teams/) | Diagnose the root cause of dysfunction and take decisive action to restore high performance. | 12 |
+| [Leading Organizational Change](skills/leading-org-change/) | Transform culture, structure, and operations without breaking the business. | 58 |
 
-### User Research & Discovery
-- `conducting-user-interviews` - Run better discovery conversations
-- `analyzing-user-feedback` - Synthesize customer feedback
-- `usability-testing` - Conduct effective usability tests
-- `designing-surveys` - Design effective surveys
-- `measuring-product-market-fit` - Assess and achieve PMF
+### Operating Cadence & Communication
 
-### Strategy & Planning
-- `defining-product-vision` - Create compelling visions
-- `prioritizing-roadmap` - Prioritize effectively
-- `setting-okrs-goals` - Set effective OKRs
-- `writing-prds` - Write effective PRDs
-- `working-backwards` - Apply Amazon's methodology
-- `problem-definition` - Define problems clearly
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Effective Product Reviews](skills/product-reviews/) | Run rigorous alignment sessions that raise the quality bar and accelerate decision-making. | 12 |
+| [Executive Communication](skills/executive-communication/) | Master the art of framing, transparency, and decision-ready communication to build trust with leadership. | 9 |
+| [Managing Up for Leaders](skills/managing-up/) | Transform your relationship with leadership from a reporting line into a high-trust strategic partnership. | 21 |
+| [Running Effective Meetings](skills/running-meetings/) | Transform calendars from soul-crushing time-sinks into high-velocity alignment machines. | 12 |
+| [Written Communication for Leaders](skills/written-communication/) | Scale your influence and drive alignment through structured, clear, and persuasive writing. | 12 |
+| [Stakeholder Alignment](skills/stakeholder-alignment/) | Drive cross-functional momentum by mapping incentives and co-creating solutions | 57 |
 
-### Shipping & Execution
-- `shipping-products` - Ship faster with higher quality
-- `managing-timelines` - Set and hit deadlines
-- `scoping-cutting` - Scope and cut features
-- `managing-tech-debt` - Manage tech debt strategically
-- `post-mortems-retrospectives` - Run effective retros
+### Playbook: Marketplaces
 
-### Leadership & Alignment
-- `stakeholder-alignment` - Get buy-in
-- `managing-up` - Work with your manager
-- `having-difficult-conversations` - Navigate tough feedback
-- `running-effective-meetings` - Run better meetings
-- `running-effective-1-1s` - Run effective 1:1s
-- `giving-presentations` - Present compellingly
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Marketplace Fundamentals](skills/marketplace-fundamentals/) | Build, bootstrap, and scale a self-sustaining ecosystem of buyers and sellers. | 7 |
+| [Supply Demand Balance](skills/supply-demand-balance/) | Master marketplace liquidity by identifying bottlenecks and strategically scaling the harder side of the market. | 6 |
+| [Marketplace Liquidity and Take Rates](skills/marketplace-liquidity-take-rates/) | Optimize the balance between transaction reliability and monetization to build a defensible ecosystem. | 6 |
 
-### Growth & Monetization
-- `designing-growth-loops` - Design growth loops
-- `retention-engagement` - Improve retention
-- `pricing-strategy` - Design pricing
-- `user-onboarding` - Design product onboarding
+### Playbook: Building AI Products
 
-### Sales & Go-to-Market
-- `founder-sales` - Close first customers
-- `enterprise-sales` - Navigate enterprise deals
-- `launch-marketing` - Plan product launches
-- `positioning-messaging` - Craft positioning
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [AI Product Strategy](skills/ai-product-strategy/) | Prioritize high-impact workflows and navigate non-deterministic development to build defensible AI products. | 34 |
+| [AI Evaluation Strategy](skills/ai-evals/) | Move beyond vibe checks to systematic, empirical measurement of AI product quality and reliability. | 11 |
+| [Designing AI-Native User Experiences](skills/ai-native-ux/) | Transition from static interfaces to fluid, intent-driven interactions that leverage model intelligence. | 14 |
 
-### Career Development
-- `building-a-promotion-case` - Get promoted
-- `career-transitions` - Navigate career changes
-- `finding-mentors-sponsors` - Build mentorship relationships
-- `managing-imposter-syndrome` - Work through self-doubt
-- `negotiating-offers` - Negotiate compensation
+### Playbook: Zero to One
 
-### AI & Technology
-- `building-with-llms` - Build AI applications
-- `ai-product-strategy` - Define AI strategy
-- `ai-evals` - Create AI evaluations
-- `vibe-coding` - Build with AI coding tools
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Evaluating Startup Ideas](skills/evaluating-startup-ideas/) | Systematically validate problem-solution fit, market timing, and business viability before you build. | 28 |
+| [Startup Fundraising and Exits](skills/fundraising/) | Master the art of raising capital, managing investor relations, and navigating strategic acquisitions. | 16 |
+| [Founder-Led Sales](skills/founder-sales/) | Master the art of personally selling your product to build trust and find product-market fit. | 6 |
+
+### Playbook: Enterprise & PLG
+
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [PLG Fundamentals](skills/plg-fundamentals/) | Transform your product into the primary engine for distribution, activation, and expansion. | 9 |
+
+### Career
+
+| Skill | What it helps you do | Sources |
+|---|---|---|
+| [Breaking Into Product Management](skills/breaking-into-product/) | Strategically navigate the competitive path to your first product management role. | 11 |
+| [PM Career Growth](skills/pm-career-growth/) | Transition from task-executor to high-impact product leader by mastering influence, ownership, and strategic foresight. | 99 |
+| [Navigating Career Transitions](skills/career-transitions/) | Move beyond the default path by optimizing for high-growth environments and internal energy. | 56 |
+| [Building a Promotion Case](skills/building-a-promotion-case/) | Turn your professional impact into a compelling, data-backed argument for your next career move. | 6 |
+| [Negotiating Tech Compensation](skills/negotiating-compensation/) | Master the art of benchmarking, intelligence gathering, and collaborative negotiation to maximize your total rewards. | 1 |
+| [Personal Brand Network](skills/personal-brand-network/) | Transform your professional expertise into a magnetic network and a high-affinity audience. | 21 |
+| [Mastery of Public Speaking](skills/public-speaking/) | Transform your technical expertise into compelling narratives that command authority and drive action. | 12 |
+| [Time and Energy Management](skills/time-energy-management/) | Protect your focus and fuel your performance by treating time and energy as strategic assets. | 46 |
+| [Founder Psychology and Resilience](skills/founder-psychology/) | Mastering the internal landscape to sustain high performance and navigate the emotional roller coaster of leadership. | 38 |
+
+## Attribution
+
+All insights, quotes, frameworks, and templates originate from Lenny Rachitsky's podcast and newsletter and remain his and his guests' intellectual property. Every skill links back to the source episodes and posts. If you find these useful, [subscribe to Lenny's Newsletter](https://www.lennysnewsletter.com/subscribe).
 
 ## Contributing
 
-Found a way to improve a skill? Have a new skill to suggest? PRs and issues welcome!
-
-### Adding a New Skill
-
-1. Create a folder in `skills/` with your skill name (kebab-case)
-2. Add a `SKILL.md` with frontmatter and content
-3. Optionally add a `references/` folder with source material
-4. Update the README skill table
-5. Open a PR
-
-### Improving Existing Skills
-
-- Fix errors or outdated information
-- Add missing frameworks or insights
-- Improve actionability and specificity
-- Add better diagnostic questions
-
-See individual skill files for the expected format.
-
-## About
-
-These skills were created by analyzing 100+ episodes of [Lenny's Podcast](https://www.lennyspodcast.com/) and extracting actionable frameworks from guests including:
-
-- Shreyas Doshi (Twitter, Stripe)
-- Marty Cagan (Silicon Valley Product Group)
-- Elena Verna (Amplitude, Miro)
-- Christina Wodtke (Stanford)
-- Dylan Field (Figma)
-- And 90+ more product leaders
-
-Built by [Refound AI](https://refound.ai) - helping companies transform with AI.
-
-## Star History
-
-If you find this useful, please star the repo to help others discover it!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=RefoundAI/lenny-skills&type=Date)](https://star-history.com/#RefoundAI/lenny-skills&Date)
+Found a way to improve a skill? Open a PR. Please keep quotes verbatim and sourced.
 
 ## License
 
-[MIT](LICENSE) - Use these however you want.
+MIT for the skill file structure and organization. Underlying content belongs to Lenny Rachitsky and podcast guests; used with attribution, free, and ungated.

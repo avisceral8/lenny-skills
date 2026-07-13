@@ -1,313 +1,211 @@
 # Building a Promotion Case - All Guest Insights
 
-*17 guests, 22 mentions*
+*6 sources, 16 insights*
 
 ---
 
 ## Christian Idiodi
-*Christian Idiodi*
 
-> "I am promoting you to do the job, not to learn the job. You're going to work with me over the next couple of months to do those things because I am promoting you to do the job, not to learn the job."
-
-**Insight:** Promotions should be a recognition of work already being performed at the next level, rather than a chance to start learning that level's skills.
+**Insight:** The most effective way to earn a promotion into leadership is to demonstrate competency by performing the responsibilities of the next role before you officially have the title.
 
 **Tactical advice:**
-- Practice 'VP things' or 'Director things' before you actually have the title.
-- Managers should create a safe environment for reports to practice leadership tasks (like interviewing or strategy) before the official promotion.
-- Use 'Group Product Manager' roles to let individual contributors test management with one report before giving them a full team.
+- Identify the specific competencies required for the next level and begin practicing them in your current role.
+- Seek permission from your manager to take on higher-level strategic responsibilities as a form of training.
+- Build cross-functional relationships that extend your influence beyond your immediate product team.
 
-*Timestamp: 01:07:17*
-
-
-## Chris Hutchins
-*Chris Hutchins*
-
-> "the people that I've had work for me or I've worked alongside that seem to always be the outperformers, are always the people that are just solely focused on having the most impact on the company. I think the thing I learned... is when you focus too much at a company about like, 'Ooh, I want the promotion' you get caught up in this world where you're like, 'If I want the promotion, I need to do what my boss wants.'"
-
-**Insight:** Prioritizing company impact over pleasing a manager is the most reliable path to high performance and advancement.
-
-**Tactical advice:**
-- Focus on impact as your primary metric for success
-- Avoid optimizing work solely based on a manager's immediate preferences
-
-*Timestamp: 00:18:55*
-
-
-## Claire Vo
-*Claire Vo*
-
-> "know what you want out of your career, be clear and ask for it, and then make it easy for your boss or whoever can support or champion you to get you from here to there."
-
-**Insight:** Career advancement requires clarity of goals and making the promotion an easy decision for leadership by solving organizational problems.
-
-**Tactical advice:**
-- Define exactly what you want your next role to be
-- Align your promotion case with solving a specific company problem
-- Understand the talent calendar and promotion cycles of your organization
-
-*Timestamp: 00:06:08*
+*Source: [The essence of product management | Christian Idiodi (SVPG)](https://www.youtube.com/watch?v=SXYc5RoU3Lg) @ 01:04:31*
 
 ---
-
-> "I think the second thing is really the conversation needs to be about what you being in a different position does for the company and why the company needs it. Often the conversation is, 'I want to be promoted because I want to be a director of PM, because I want to become a manager, because I need direct reports.' Instead of saying, 'Look, your span of control, you have nine direct reports, you need leverage here.'"
-
-**Insight:** Frame promotion requests as solutions to organizational bottlenecks rather than personal career milestones.
-
-**Tactical advice:**
-- Identify where your manager needs leverage and propose a role that provides it
-- Prove you are good at organization design before asking for management roles
-
-*Timestamp: 00:11:00*
-
-
-## Ethan Evans
-*Ethan Evans 2.0*
-
-> "The basic idea of The Magic Loop is five steps and they're very easy. The first one is you have to be doing your current job well... Then step two is ask your boss how you can help... Step three is whatever they say, do it... the fourth step is where the magic comes in. You go back to your manager and say, 'Hey, I'm really enjoying working with you. I'm wondering is there some way I could help you that would also help me reach my goal?'"
-
-**Insight:** The Magic Loop is a five-step partnership framework designed to align your work with your manager's needs to secure promotions and career growth.
-
-**Tactical advice:**
-- Ensure you are performing at a solid level before asking for more
-- Proactively ask your manager 'What can I do to help you?'
-- Execute on the manager's requests, even if they are maintenance tasks, to build trust
-- Explicitly state your career goals (promotion, raise, or skill) and ask for work that bridges your goal with their needs
-- Repeat the loop to maintain a continuous growth trajectory
-
-*Timestamp: 00:05:40*
-
----
-
-> "The difference between a senior manager and a director is how you lead and the work you're doing. And you can get as far as senior manager by being really strong in your function and being really good at getting things done. As a director, and as a VP beyond that, it becomes much more about influence, coordination with others, and letting go of being in all the details yourself."
-
-**Insight:** Advancing to executive levels requires shifting from functional execution to strategic influence and delegation.
-
-**Tactical advice:**
-- Practice 'next level' skills like strategic project leadership before you have the title
-- Focus on influence and cross-functional coordination rather than just functional depth
-- Let go of being involved in every detail to demonstrate executive readiness
-
-*Timestamp: 00:24:29*
-
-
-## Ian McAllister
-*Ian McAllister*
-
-> "If you simply wake up every day trying to have the biggest impact you can... that's a really good guiding light. And I remember in my first 10 years at Amazon... I never talked to my manager about it and I wasn't bringing it up. I was just focused on taking my book of business and making it bigger. And then the net result was I was promoted several times."
-
-**Insight:** Focusing exclusively on business impact rather than the promotion process itself is often the most effective path to advancement.
-
-**Tactical advice:**
-- Focus on growing your 'book of business' rather than discussing promotion
-- Optimize for impact as the primary indicator for career growth
-
-*Timestamp: 00:26:38*
-
 
 ## Jackie Bavaro
-*Jackie Bavaro*
 
-> "Have a conversation with your manager and say, 'I would really like at some point in the future to grow into whatever this goal is... What do you suggest that I work on now so that I'll be ready when the opportunity comes up?'... I'm framing it in the future so that it's not threatening. It's not like going to put my manager on the defensive... And then it brings them onto your side."
-
-**Insight:** Framing promotion goals as future-dated growth opportunities makes managers allies rather than gatekeepers.
+**Insight:** Approach career growth conversations as a collaborative problem-solving exercise rather than a series of demands to keep your manager from becoming defensive.
 
 **Tactical advice:**
-- Ask: 'What do you suggest I work on now so I'll be ready when the opportunity comes up?'
-- Focus feedback requests specifically on the skills needed for the next level
+- Identify the specific gaps between your current performance and the requirements for the next level.
+- Ask your manager for concrete milestones or projects that would demonstrate readiness for promotion.
+- Use coaching to address specific interpersonal or tactical hurdles that might be blocking your progression.
 
-*Timestamp: 36:41*
-
-
-## Jeffrey Pfeffer
-*Jeffrey Pfeffer*
-
-> "The reason why you should pay attention to this is because it leads to a lot of good things, salary, getting promoted, being happy in your career, being less stressed."
-
-**Insight:** Political and power skills are directly correlated with tangible career outcomes like salary increases and promotions.
-
-**Tactical advice:**
-- Master political skills to improve your chances of advancement and higher compensation.
-
-*Timestamp: 00:00:02*
+*Source: Jackie Bavaro on getting better at product strategy, what exactly is strategy, PM pitfalls to avoid, advancing your career, getting into management, and much more @ 36:41*
 
 ---
-
-> "There are many ways to get promoted, but I will guarantee you one thing, no one is going to promote Lenny if they don't know who the hell you are. So it is not sufficient for them to know who you are. They have to know that you're smart and personable and have whatever skills you've got, but they have to know you."
-
-**Insight:** Visibility and brand recognition within an organization are prerequisites for promotion; competence alone is insufficient.
-
-**Tactical advice:**
-- Differentiate yourself so that decision-makers are aware of your existence and your specific skills.
-- Ensure you have visibility to match your substance.
-
-*Timestamp: 00:16:52*
-
-
-## Jiaona Zhang
-*Jiaona Zhang*
-
-> "I think it's really important to become really good at and also known for something. You could be known for shepherding like the most complex launches because you're just so good at quarterbacking. Working with go-to--market teams and cross-functional stakeholders that could be like your thing. You could be known for working on the most technically complex problems, find something that you can be really, really good at. And the reason I give that advice is because when you do that, you can crush the projects that you get because you're making a name for yourself, reputation, and then you are giving more responsibility. People tend to flock and give responsibility to the people that are known for being excellent at something."
-
-**Insight:** Accelerate your career by developing a 'superpower' or reputation for a specific type of excellence, which naturally attracts more responsibility and trust from leadership.
-
-**Tactical advice:**
-- Identify a specific niche to be excellent at (e.g., complex launches, technical depth, or regulatory complexity)
-- Build a reputation for 'getting shit done' to earn more responsibility
-- Flex your core strengths as you transition from IC to management
-
-*Timestamp: 00:00:00*
-
 
 ## Julie Zhuo
-*Julie Zhuo*
 
-> "A lot of these things you don't need to have the official title to do. You can do a lot of it in that capacity as an IC... If you're a part of a company that's growing and has a summer internship program, awesome. Can you go in and sign up and mentor and intern and manage an intern."
+> "The first is, well, I was lucky. I was in the right place at the right time. I was at a company that was scaling, and when you're at a company that grows, there's always a lot more opportunity to then be able to try something new, right, to raise your hand, to volunteer for things to be just thrown into because somebody has to do it because it's a growing company and a lot of other people."
 
-**Insight:** Build a case for a management promotion by performing 'manager-lite' tasks as an individual contributor to prove competency.
-
-**Tactical advice:**
-- Volunteer to be an onboarding buddy for new hires
-- Ask to lead specific processes, like restructuring a team meeting
-- Mentor interns to practice people management skills before having direct reports
-
-*Timestamp: 00:59:19*
-
-
-## Laura Schaffer
-*Laura Schaffer*
-
-> "The problem with it is that you're limited to what your manager's ability is to advocate for you, to promote you. And you're also limited by the explicit trajectory of your role at that company and where the there's room for that or not at the company... The method that I use tries to take that power back a little bit."
-
-**Insight:** Relying solely on a manager's advocacy for promotion is risky; you must proactively build your own internal brand and trajectory.
+**Insight:** To move into management, seek out scaling environments and proactively volunteer for responsibilities that fall outside your current expertise.
 
 **Tactical advice:**
-- Stay close to the customer to gain unique insights that executives lack
-- Bring insights to life by aligning them with North Star metrics
-- Build a brand as the person who 'just knows' the customers to create cross-team opportunities
+- Join a rapidly growing company where leadership opportunities are created by the need for scale.
+- Raise your hand to volunteer for new challenges, even if you do not feel fully prepared or trained.
+- Approach unfamiliar leadership tasks with curiosity and a willingness to learn through direct experience.
 
-*Timestamp: 00:06:52*
+*Source: [Julie Zhuo on accelerating your career, impostor syndrome, writing, building product sense, using intuition vs. data, hiring designers, and moving into management](https://www.youtube.com/watch?v=YLsxHa1dhSw) @ 00:57:50*
 
+---
 
-## Manik Gupta
-*Manik Gupta*
+## Lenny Rachitsky
 
-> "I'm a big fan of looking at both the what and the how. So what did they accomplish and how did they accomplish... On the what... it's really about real demonstrated impact. An ideal example is someone who had a strong product hypothesis, they rallied a bunch of people around them... On the how, I just love people who are able to create both energy and create clarity... Then the last thing I would say is followership. Really important for PMs. Do people want to work with them?"
+> "Unlike the mini-CEO label PMs often get, in reality they must keep their external stakeholders onboard to be successful"
 
-**Insight:** Promotion readiness is evaluated through a combination of objective impact, the ability to generate organizational clarity, and 'followership'—the degree to which others want to work with the individual.
-
-**Tactical advice:**
-- Demonstrate an end-to-end product cycle from hypothesis to measurable impact.
-- Focus on becoming a source of clarity and energy for the cross-functional team.
-
-*Timestamp: 00:45:01*
-
-
-## Matt LeMay
-*Matt LeMay*
-
-> "I have a friend who does resume coaching, and I showed her my resume a couple of years ago. And she said, 'I love your resume except for one thing. Why do you write like a little girl? Say what you did, say what your contributions were. Don't say 'I helped. I may have maybe helped people do this'. Say the impact. Put the number on it.'"
-
-**Insight:** When documenting your career achievements, replace passive language with specific, quantified impact to demonstrate your value to the business.
+**Insight:** Business impact is the primary driver for PM promotion, but long-term success requires balancing that impact with the ability to manage and align external stakeholders.
 
 **Tactical advice:**
-- Avoid using 'helped' or 'contributed to' in favor of direct impact statements.
-- Quantify your results with specific numbers and business outcomes.
+- Focus on demonstrating significant business impact as your primary path to promotion.
+- Invest time in keeping external stakeholders aligned and onboard rather than just operating as an independent 'mini-CEO.'
+- Research your specific company's promotion levers, as some prioritize shipping great products while others focus on hitting specific goals.
 
-*Timestamp: 00:10:40*
+*Source: [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/a-comprehensive-survey-of-product-management)*
 
+---
+
+> "Reflecting back on my experience and the experience of my colleagues, the most important ingredient has always been simply doing great work, over and over. But the process does often need a nudge, particularly if you’ve been stuck in the same role for a while."
+
+**Insight:** Securing a promotion requires a combination of consistent high performance and a proactive strategy across impact, scope, and relationships.
+
+**Tactical advice:**
+- Focus on delivering impact by hitting ambitious goals that map directly to business growth.
+- Demonstrate readiness by proactively taking on the scope and responsibilities of the next level.
+- Identify an influential champion within the organization who will advocate for you during the calibration process.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+> "The best way to get promoted into any role, including a PM manager, is to make it obvious you’d do a great job in that new role. This involves a combination of doing the job before you have the job, demonstrating that you have the necessary skills, and simply asking for it."
+
+**Insight:** Securing a promotion to management requires a proactive strategy of performing management-level duties and explicitly communicating your career ambitions to leadership.
+
+**Tactical advice:**
+- Mentor two or three junior PMs to demonstrate your ability to develop people.
+- Simplify overly-complex strategy documents for others to show you can handle complexity.
+- Bring up your interest in management during every performance review and career conversation.
+
+*Source: [Moving from IC product manager to manager of product managers](https://www.lennysnewsletter.com/p/moving-from-ic-product-manager-to-manager-of-product-managers)*
+
+---
+
+> "I wanted to reach out and let you know that I just got promoted from an APM to a PM! I have to credit your workshops for developing my skill set, pushing me to try new tactics, and raising the bar I set for myself."
+
+**Insight:** Transitioning from an APM to a PM is achieved by intentionally raising your performance bar and expanding your toolkit with new, advanced tactics.
+
+**Tactical advice:**
+- Implement new tactics and frameworks to push beyond basic APM execution.
+- Set a higher personal bar for your work to demonstrate readiness for promotion.
+- Seek out structured workshops to accelerate skill development and fill strategic gaps.
+
+*Source: [🚨 Applications now open for my live course—Product Management Fundamentals](https://www.lennysnewsletter.com/p/applications-now-open-for-my-live-course-product-management-fundamentals)*
+
+---
+
+> "Go open up a new doc and start dumping a list of times you’ve made an impact at your current job. Include metrics, screenshots, timelines, stories—anything that’ll help you tell the story of your successes."
+
+**Insight:** Capturing specific proof of your impact while you still have access to internal data is critical for successfully navigating future interviews.
+
+**Tactical advice:**
+- Start a 'brag document' today while your memory is fresh and you have access to the details.
+- Capture specific metrics, screenshots, and timelines of your successes.
+- Use established templates to organize your impact stories for future resume building.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+> "Write reviews for your team before you go out on leave (especially for anyone who you want to put up for promotion). Share them with your manager and HR before you go out, and incorporate any feedback."
+
+**Insight:** Preparing for performance review cycles before your leave starts ensures that your team—and your own career trajectory—remains on track.
+
+**Tactical advice:**
+- Complete all performance reviews and promotion cases before your leave begins.
+- Decide if your manager will represent you in calibration meetings or if you want to be available.
+- Align with HR and your manager on how they will communicate review outcomes to your reports.
+
+*Source: [How to create an exceptional coverage plan for your parental leave](https://www.lennysnewsletter.com/p/how-to-create-an-exceptional-coverage-plan-for-your-parental-leave)*
+
+---
+
+> "No matter your role or level, there’s a skill or behavior that is keeping you from the next level. To get promoted, you’ll need to demonstrate that you’ve addressed that gap, in the eyes of both your manager and other influential leaders involved in the promotion process."
+
+**Insight:** Advancing to the next level requires identifying the specific behaviors holding you back and creating a transparent, measurable action plan with your manager.
+
+**Tactical advice:**
+- Push your manager in your next 1:1 to articulate the specific 2-3 skills or behaviors keeping you from the next level.
+- Collaborate on an action plan spreadsheet with 3-10 concrete steps to improve these attributes over the next six months.
+- Schedule a monthly career coaching session to review progress on each action item and stay aligned on your status.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+> "Explicitly or implicitly, every company prioritizes different skills and behaviors. If you pay attention to who gets promoted, you can start to see what actually matters at your company."
+
+**Insight:** Promotion criteria often extend beyond formal career ladders, requiring you to observe and decode which specific behaviors are actually rewarded in practice at your organization.
+
+**Tactical advice:**
+- Analyze the common skills and impact driven by colleagues who have recently moved up to the level you want.
+- Ask your manager what you should be 'reading between the lines' of the career ladder to understand what really matters to leaders.
+- Interview recently promoted peers to learn about the specific projects and behaviors that contributed to their advancement.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+> "When was the last time you told your manager you’d love to get promoted? It may seem obvious to you, but they may not know how important this is to you. Bring it up at your next 1:1 and see what happens."
+
+**Insight:** Managers are not mind readers; you must explicitly state your career ambitions to ensure they are factored into planning and organizational calibration.
+
+**Tactical advice:**
+- Explicitly state your desire for a promotion during a 1:1 to ensure it is on your manager's radar.
+- Transition from a simple request to a collaborative discussion about the necessary action plan to get there.
+- Check in periodically to ensure you and your manager remain aligned on your progress and the timeline for advancement.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+> "People don’t get promoted for doing their jobs really well. They get promoted by demonstrating their potential to do more. At many companies, you get promoted only after you’ve demonstrated you can handle the next level."
+
+**Insight:** The most effective way to prove readiness for promotion is to proactively perform the duties and manage the scope of the target role before you officially have the title.
+
+**Tactical advice:**
+- Volunteer to lead ambitious projects or visioning exercises that exceed the expectations of your current level.
+- Proactively take on specific tasks that your manager currently handles to demonstrate you can operate at a higher level.
+- Mentor junior team members or take the lead on cross-departmental initiatives to show expanded scope.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+**Insight:** Getting promoted depends on providing influential leaders with organized evidence of your impact so they can advocate for you during company calibration sessions.
+
+**Tactical advice:**
+- Maintain a 'wins' folder to track your accomplishments and business impact in real time.
+- Prepare a written case that clearly articulates why your performance aligns with the requirements of the next level.
+- Treat your manager as a partner by consistently providing them with data points to use during calibration meetings.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
 
 ## Nikhyl Singhal
-*Nikhyl Singhal*
 
-> "I think that the biggest one in workplace is focusing career and promotion together. I think that there's perhaps a light connection between promotion and career addition, but I feel like too many people are, the moment we talk about career, they're like, 'Well, let me talk to you. I want to have a career talk with you.' And I said, 'Sure, why don't you find some time?' We sit down together and they're like, 'Well, what do you think I need to do to get to promotion?'"
-
-**Insight:** Promotion is a company-specific system for leveling, whereas a career is a long-term personal arc; don't conflate the two.
+**Insight:** Promotion is a company's measurement system, but it should be viewed only as a short-term component of your broader career arc.
 
 **Tactical advice:**
-- Distinguish between 'promotion talks' (short-term leveling) and 'career talks' (long-term growth)
-- Evaluate if a promotion is actually in service of your 'job after next'
+- Distinguish between promotion-focused conversations and long-term career planning.
+- Evaluate if a promotion serves your ultimate career goal or is just a short-term benchmark.
+- Avoid leaving a role immediately after a promotion if the move doesn't align with your long-term trajectory.
 
-*Timestamp: 00:09:17*
+*Source: [Building a long and meaningful career | Nikhyl Singhal (Meta, Google)](https://www.youtube.com/watch?v=U_WQuUIYnJg) @ 00:25:57*
 
 ---
-
-> "I think that the answer of what you do is correlated with what's the real reason. And I think that there may be, I'll suggest four kind of common things I've seen that really hold people back... One is that you just don't have advocacy... The second that's very common now... is the next role doesn't exist... The third is when you are being impatient... And then the fourth one... is really, there is a development area but it isn't quite connected to the individual."
-
-**Insight:** Failure to get promoted usually stems from one of four areas: lack of advocacy, lack of role availability, personal impatience, or unaddressed development gaps.
-
-**Tactical advice:**
-- Identify if you have an advocate who 'sees the magic' in your work
-- Assess if the organizational structure actually has a vacancy at the next level
-- Seek 'ground truth' feedback to identify development areas you might be dismissing
-
-*Timestamp: 00:26:25*
-
-
-## Petra Wille
-*Petra Wille*
-
-> "Getting promoted is way harder if you're not good in telling stories and rallying the team behind the shared goal and all these kind of things, and you usually achieve this through good storytelling techniques. And in some teams, I've seen the product person not being really, really good at it, but then the whole team helped creating these stories and stuff like this. So you definitely could compensate to some extent, but I would consider it a bit of a career staller if you don't get to a decent level of storytelling and to a decent level of public speaking."
-
-**Insight:** Storytelling and public speaking are critical competencies for advancing to leadership roles and rallying teams.
-
-**Tactical advice:**
-- Master storytelling techniques to rally teams behind shared goals
-- Develop public speaking skills to avoid career plateaus
-
-*Timestamp: 00:00:00*
-
 
 ## Shweta Shriva
-*Shweta Shriva*
 
-> "I'm going to say something that might sound a little cheeky, but I think the way to get promoted is to not want it too badly. It is about you have to focus on the impact. It's about having an impact and then doing what is right for the business. So not sort of optimizing things for your promotion... focus on the impact."
+**Insight:** 
 
-**Insight:** Promotions should be treated as a byproduct of business impact and skill development rather than the primary goal of self-optimization.
-
-**Tactical advice:**
-- Focus on creating the right outcomes for the business rather than maneuvering for a title.
-- Improve your core product management skillset to naturally qualify for higher levels.
-- Seek out challenging, high-visibility projects that stretch your current skills.
-
-*Timestamp: 33:28*
-
-
-## Paige Costello
-*Paige Costello*
-
-> "If you're present in your job, and you actually have fun with it and solve the problems, people will come out of the woodwork, say, 'You're great, and tell your boss you should be promoted.' You don't need to ask for a promotion. Your outcomes should speak for themselves."
-
-**Insight:** The strongest promotion case is built on high-quality outcomes and solving problems that make others advocate for you organically.
-
-**Tactical advice:**
-- Focus on solving high-impact problems that lead others to advocate for your advancement.
-- Prioritize raw connection to the work and team over explicit promotion-seeking.
-
-*Timestamp: 00:48:17*
-
-
-## Tamar Yehoshua
-*Tamar Yehoshua*
-
-> "One of the things that I think is overlooked is do a really good job at whatever your job is at that point. People have a tendency ... Especially product managers are very ambitious and they want to get to the next level and they're always eyeing the next job, but you're not going to get the next job unless you do really well at the job that you're in. Knock it out of the park."
-
-**Insight:** The most effective way to advance is to achieve excellence in your current role rather than focusing prematurely on the next one.
-
-**Tactical advice:**
-- Master the 'table stakes' of your current role: technical knowledge, product understanding, and metrics.
-
-*Timestamp: 00:02:47*
+*Source: [Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)](https://www.youtube.com/watch?v=VtNmAjNF3Tc) @ 00:33:05*
 
 ---
-
-> "Are you helping the business move forward? So it's not about I achieve what I was asked to do, but did you build something that people actually used? It's not about just launching something and did you do the right thing for the company? And that is different. It's a different mindset."
-
-**Insight:** Promotion-worthy performance is defined by business impact and doing the right thing for the company, not just completing assigned tasks.
-
-**Tactical advice:**
-- Focus on whether your work is actually being used by customers, not just the act of launching.
-- Be willing to suggest shutting down unproductive teams or projects, even if you were meant to lead them.
-
-*Timestamp: 00:10:00*
-
 

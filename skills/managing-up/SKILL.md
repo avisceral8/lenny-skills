@@ -1,83 +1,102 @@
 ---
 name: managing-up
-description: Help users work effectively with their manager and executives. Use when someone is struggling with their manager relationship, needs to influence leadership, wants to get better at executive communication, or is trying to build trust with their boss.
+description: Help users master the art of proactive communication and alignment with their managers and founders to unlock autonomy, secure resources, and drive business impact.
 ---
 
-# Managing Up
+# Managing Up for Leaders
 
-Help the user work effectively with their manager and executives using strategies from 35 product leaders.
+Transform your relationship with leadership from a reporting line into a high-trust strategic partnership.
+
+Help the user with managing up for leaders using insights from 21 guests and posts across Lenny's Podcast and Newsletter.
 
 ## How to Help
 
-When the user asks for help managing up:
-
-1. **Understand the relationship** - Ask about their manager's style, what they care about, and where the friction or challenge is
-2. **Diagnose the gap** - Determine if this is a communication issue, alignment issue, trust issue, or visibility issue
-3. **Apply the right approach** - Help them choose between proactive updates, reframing conversations, building trust through wins, or direct feedback conversations
-4. **Build sustainable habits** - Guide them toward ongoing practices rather than one-time fixes
+1. **Audit current communication** - Identify if the user is currently reactive or proactive in their updates and how they handle disagreement.
+2. **Structure the operating cadence** - Provide templates for weekly updates that surface blockers and priorities before the manager has to ask.
+3. **Script difficult conversations** - Draft specific language for pushing back on ideas or asking for resources using business-centered framing.
+4. **Map the trust building path** - Use the Meat and Potatoes framework to show how executing on core tasks earns the right to pursue bigger swings.
 
 ## Core Principles
 
-### Your manager is a resource to leverage, not an obstacle
-Boz: "The advice I give more frequently than any other is for people to more directly leverage their leaders." Your primary job is to achieve results. Your manager has tools and authority to clear paths. Ask for help to bulldoze blockers rather than trying to solve everything yourself.
+### Avoid the trap of isolated struggle
+Boz: "It wasn't like, 'Hey, I'm struggling with this one tricky problem. Who should I talk to?' It's like, nobody. You should talk to yourself and figure this out."
 
-### Proactively communicate before they have to ask
-Casey Winters: "People just way under communicate upward. Then they complain that executives are out of touch when they aren't telling executives what they need to know." Send weekly "state of" emails with priorities, blockers, and thoughts. Frame updates as "no response required" to keep leaders informed without creating burden.
+Professional environments provide leaders and experts to prevent the inefficiency of struggling alone on tricky tasks. Actively seek internal help to unblock yourself early.
 
-### Understand two levels up
-Fareed Mosavat: "You should understand your boss's priorities and your boss's boss's priorities. Eventually, that means you have to know what the board is thinking." Build a mental model of how your work creates leverage in the larger system. Tailor communication to address senior leadership's specific concerns.
+### Balance experience with cultural humility
+Chip Conley: "I think the key for me to work in that environment and make it work was to not pretend to know things I didn't know, it was to have a sense of humor and humility in how I operated, and it was to show respect and hope that I got it in return."
 
-### Bring recommendations, not just problems
-Wes Kao: "When you ask 'Hey manager, what should we do?' you're putting a lot of cognitive load on them. Instead say 'Hey manager, here's what I think we should do.'" Present a point of view even if it's just an initial hunch. Provide insights and takeaways, not just raw data.
+When working with high-intensity founders, avoid pretending to have knowledge you lack. Genuine trust is built by combining your expertise with a willingness to learn their unique culture.
 
-### Use structured update formats
-Boz: "We used HPM - Highlight, People, Me. Every manager at Facebook would send this to their manager." Use consistent formats. Ask your manager: "How do you like to get information about me?" Consider weekly emails with priorities, blockers, and general thoughts.
+### Reframe self-promotion as education
+Deb Liu: "It looks like self-promotion. I wouldn't want to do that because it's self-promotion. But instead, what if I called it educating about all the great work your team has been doing? Helping people see why your team should get more resources, you have to actually share what you do."
 
-### Position yourself as an ally who reduces burden
-Ethan Evans: "Management can be a lonely job. Having an ally is a huge weight off people's shoulders." Recognize managers are overwhelmed. Move from asking "How can I help?" to suggesting specific solutions. Keep them in the loop by proactively fixing problems before they ask.
+Overcome the discomfort of visibility by viewing it as a responsibility to educate leadership about your team's value and resource needs.
 
-### Start with Chapter 1 when talking to execs
-Casey Winters: "You have to start with chapter one, which is what part of the company strategy are you working on? What metrics are you trying to improve? What assumptions are you making?" Find the last point that's obvious to the audience and build from there. Don't dive into "Chapter 6" details without the strategic context.
+### Shift from pushback to business success
+Jason Shah: "It starts from a place of I need to disagree, I need to say no. It's a very negative mindset, purely based on the word that has come to label a behavior that alternatively could be about how do I shift the direction on something, or how do I help the business actually succeed when I disagree with somebody about something, and that's a very different mindset."
 
-### Use concrete artifacts, not abstract ideas
-Dylan Field: "The more concrete an artifact is or the more you can debate something, the better. I ask for examples a lot." Present designs and docs rather than abstract ideas. If you lack data for a follow-up question, pause to find the answer rather than guessing.
+Avoid the phrase 'push back' as it creates a sense of opposition. Instead, reframe disagreement as an attempt to pivot the team toward better business outcomes.
 
-### Run experiments to challenge strong opinions
-Itamar Gilad: "If you run a secret experiment and come back with data, either they get extremely mad at you... or more commonly, they're pleasantly surprised." Use evidence to flip a leader's perspective rather than engaging in a battle of opinions.
+### De-risk visions through experimentation
+Jiaona Zhang: "I think it's really important for every company to be dreaming big. If you don't have a big vision, it's really hard for you to innovate, but you got to couple that really big vision with thoughtfulness around your execution."
 
-### Understand the spirit, then offer better options
-Jiaona Zhang: "It's understanding the spirit of what they're trying to achieve. Being able to go back with 'I understand the spirit, but here's a better way to achieve it.'" Align on the underlying goal first. Present automated or scalable alternatives rather than just saying no.
+Instead of arguing against a risky solution, break the large vision into small, time-bound experiments that test the underlying strategic hypotheses.
 
-### Use the U-curve for founder involvement
-Noah Weiss: "High involvement at the start for strategy and at the end for quality, with autonomy in the middle." Involve founders early for strategic buy-in on goals. Bring them back at the end to ensure the product meets quality standards.
+### Prioritize dialogue over being right
+Kenneth Berger: "Often what I try to introduce people to, and I've learned all this stuff the hard way, believe me, is it's fundamentally disrespectful to go into a meeting already deciding that you're right and the other person is wrong because you can't know that for sure."
 
-### Say what you'll do, say you're doing it, say you did it
-Peter Deng: "Say you're going to do the thing, say that you're doing the thing, and then say that you did it." This repetitive communication ensures alignment and provides opportunities for course correction.
+Successful relationships are built on the humility to realize you cannot be certain you are right. Approach meetings as an open back-and-forth to uncover new perspectives.
+
+### Codify intuition into shared principles
+Noah Weiss: "The first is, I think as much as possible, I think maybe we'll talk about this a little bit later as well, is getting to the point where you have alignment on the principles for what it means to build a great product of that company. Not just about if the intuition and tasting gut, but how do you distill that to principles that become the language of the company so that everybody else can start thinking through a similar frame or similar lens when you're designing a product."
+
+Transform subjective founder taste into a common language by documenting shared product principles that empower the team to make aligned decisions.
+
+### Take ownership of the relationship
+Wes Kao: "And you can continue to think that way and your career might be fine, but if you embrace that if you manage your boss, they're going to appreciate you much more, you're going to get more opportunities, you're going to have more trust with them, there's all these great things that happen when you decide to manage up."
+
+Managing up is a proactive career strategy. Choose to actively manage your boss to earn their appreciation and unlock professional opportunities.
+
+### Demonstrate a partnership mindset
+From "The Magic Loop": "The 'magic' in this loop relies on simple human nature. We have a natural sense of fair play and partnership, and we want to invest in people we view as having our best interests at heart. The magic in the loop is building a collaborative, mutually beneficial relationship."
+
+Show your manager you have their best interests at heart by volunteering for high-priority or maintenance tasks that others avoid.
+
+## Templates & Frameworks
+
+- **The Magic Loop** (The Magic Loop) - A five-step repeatable framework for systematically growing your career within a company by building a collaborative relationship with your manager
+- **Three-Step Process for Saying No** (Saying no) - A structured approach for responding to manager ideas: Listen → Form your POV → Respond constructively
+- **Manager Communication Template (Autonomy Template)** (Becoming a senior Product Manager) - A 3-step template for sharing challenges and decisions with your manager that demonstrates capability, earns trust, and opens the door for feedback without soun
+- **Alignment-Confidence Matrix (Managing Up)** (Ravi Mehta) - A framework for understanding your relationship currency with your manager based on alignment with their direction and their confidence in you
+- **Meat and Potatoes Before Soufflé Trust Framework** (How to ship like a startup) - A framework for earning leadership trust to pursue your own ambitious product ideas
+- **Five Tactics for Managing Up** (Managing up) - Lenny's five-part framework for effectively managing up with your manager at any level
+- **Questions to Ask When First Hearing a Manager's Idea** (Saying no) - Five questions to ask before reacting to understand the manager's thinking and demonstrate open-mindedness
+
+See `references/artifacts.md` for the full list with details.
 
 ## Questions to Help Users
 
-- "What does your manager care most about right now? What's keeping them up at night?"
-- "How does your manager prefer to receive information - email, Slack, meetings?"
-- "Do they know what you're working on this week without having to ask?"
-- "When you bring problems to them, are you also bringing recommendations?"
-- "What does success look like for your team from your manager's perspective?"
-- "Have you asked your manager directly how they'd like you to communicate?"
+- "What is your current cadence for updating your manager on priorities and blockers?"
+- "How do you typically handle a situation where your manager proposes an idea you disagree with?"
+- "Are there specific areas where your manager's intuition and your data-driven approach are in conflict?"
+- "To what extent does your manager understand the trade-offs your team is currently making?"
+- "What is one high-priority task you could take off your manager's plate right now to build trust?"
 
 ## Common Mistakes to Flag
 
-- **Under-communicating** - If your manager has to ask what's going on, you're not communicating enough. Proactive updates build trust
-- **Bringing problems without recommendations** - This puts cognitive load on your manager. Always come with a point of view
-- **Starting with details, not strategy** - Executives need context. Start with "Chapter 1" (strategy) before "Chapter 6" (details)
-- **Trying to solve everything alone** - Your manager has tools and authority you don't. Leverage them to clear blockers
-- **Waiting to be managed** - The most senior people got there by being great at managing up. It's a proactive skill, not resentment
+- **Reacting with an immediate no** - This creates visceral opposition before you've listened to the underlying goal or asked clarifying questions.
+- **Hidden struggle** - Leaders often let their teams struggle in isolation for too long rather than leveraging internal experts to unblock progress.
+- **Ignoring the protagonism trap** - Focusing on your own career narrative rather than seeing yourself as a contributor to the organization's larger mission causes friction.
+- **Communicating only when there is a problem** - This creates a reactive dynamic and keeps the manager in a state of anxiety regarding your team's progress.
 
 ## Deep Dive
 
-For all 50 insights from 35 guests, see `references/guest-insights.md`
+For all 31 sourced insights from 21 guests, see `references/guest-insights.md`
 
 ## Related Skills
 
-- Running Effective 1:1s
-- Having Difficult Conversations
-- Stakeholder Alignment
+- Product Reviews
+- Executive Communication
+- Running Meetings
 - Written Communication

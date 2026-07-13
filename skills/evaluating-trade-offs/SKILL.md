@@ -1,83 +1,106 @@
 ---
 name: evaluating-trade-offs
-description: Help users make better decisions between competing options. Use when someone is weighing pros and cons, comparing alternatives, struggling with a difficult choice, deciding between speed and quality, or asking "should we do X or Y?"
+description: Help users navigate complex product decisions by weighing competing priorities and calculating long-term value. This skill covers build-vs-buy logic, technical debt evaluation, and communicating tradeoffs to senior leadership.
 ---
 
-# Evaluating Trade-offs
+# Evaluating Trade-Offs
 
-Help the user make clearer decisions between competing options using frameworks and mental models from 40 product leaders.
+Master the art of weighing competing options to maximize long-term impact and team velocity.
+
+Help the user with evaluating trade-offs using insights from 14 guests and posts across Lenny's Podcast and Newsletter.
 
 ## How to Help
 
-When the user asks for help evaluating trade-offs:
-
-1. **Understand the decision context** - Ask what they're optimizing for (short-term vs. long-term, growth vs. quality, speed vs. thoroughness) and what makes this decision difficult
-2. **Identify the real constraints** - Help distinguish between actual constraints and assumed ones. Ask "What would you do if [constraint] weren't an issue?"
-3. **Surface hidden costs** - Help quantify the full cost of each option, including maintenance burden, opportunity cost, and second-order effects
-4. **Apply the right framework** - Use weighted criteria matrices for complex multi-factor decisions, or simple "would I start this today?" tests for continuation decisions
+1. **Framework Selection** - Match the right decision template to the specific tradeoff scenario you are facing.
+2. **ROI Calculation** - Assist in modeling the long-term business impact versus the operational costs of a proposed path.
+3. **Stakeholder Communication** - Refine how you present tradeoffs to leadership to ensure they see the hidden costs of saying yes.
+4. **Bias Detection** - Identify common traps like the sunk cost fallacy or the just one more engineer myth in your current thinking.
 
 ## Core Principles
 
-### Optimize for order-of-magnitude, not precision
-Alex Komoroske: "It doesn't really matter if it's 1,000 or 1,001, who cares? It's orders of magnitude larger than the alternative, and so it is better." Don't waste effort on false precision in uncertain environments - focus on whether one option is dramatically better, not marginally better.
+### Avoid the trap of small wins
+Christopher Miller: "I think if you're doing growth, right, if you're doing product-led growth the right way, then you're trying to balance the science and sort of taking a somewhat hygienic approach to validating assumptions and hypotheses with being really ambitious and really pushing for the things that are going to have massive impact for your customers at the end of the day."
 
-### Apply the "would I start this today?" test
-Annie Duke: "If you wouldn't start this today, then that means that everything that you're putting into this going forward is the actual waste." When evaluating whether to continue a project, ignore sunk costs entirely. The only relevant question is whether you'd begin this effort with today's knowledge.
+Guard against chasing minor optimizations that do not fundamentally change the user experience or create massive long-term value.
 
-### Think more, ship better
-Anuj Rathi: "Most experiments should be thought experiments. They should not even be tried out because they're obviously going to fail." Don't default to "let's just try it" - rigorous upfront thinking eliminates weak ideas before they consume engineering resources.
+### Decompose radical redesigns
+Ronny Kohavi: "And it's amazing how many times I've seen people come up with new designs or a radical new idea. And they believe in it, and that's okay. I'm just cautioning them all the time to say, 'If you go for something big, try it out, but be ready to fail 80% of the time.'"
 
-### Accept "worse first" for long-term gains
-Graham Weaver: "Everything you want is on the other side of worse first." Meaningful change requires accepting short-term decline. Ask what your 5-year future self would want, not what makes tomorrow easier.
+Break down massive changes into small, testable increments because radical redesigns have an 80 percent failure rate compared to incremental iterations.
 
-### Create decision tenets to eliminate recurring debates
-Bob Baxley: "Tenets are really decision-making tools... you sort of make a rule for yourself." Identify debates your team has repeatedly and create a tenet to decide the direction once. Good tenets are specific enough that someone could reasonably argue the opposite.
+### Surface rabbit holes during shaping
+Ryan Singer: "I often use this analogy of if you're doing a home renovation, you can have the most beautiful rendering of the new bedroom and we're going to have these lamps on the side of the bed that are coming out from the wall. But if you haven't checked if there's electricity in that wall there or not, it's going to drastically change the cost and the time and everything."
 
-### Quantify countervailing metrics
-Ronny Kohavi: "Here's the money that we generate from the emails. Here's the money that we're losing on long-term value. What's the trade-off?" Assign dollar values to negative user actions (unsubscribes, churn) to make objective trade-offs against short-term gains.
+Involve senior engineers early to identify technical complexities and infrastructure constraints before committing the team to a high-fidelity design.
 
-### Use a weighted criteria matrix
-Nicole Forsgren: "Identify the criteria that are most important to you... give everything a score, and just multiply it out." Create a decision-making spreadsheet with options as rows and weighted criteria as columns. The process often reveals the answer before the math is finished.
+### Quantify the risk of inaction
+From "This Week #13: Balancing outcome-thinking with design and technical requirements ⚖️": "To answer your question about how we balanced this outcome-thinking with engineering and design needs (which often don’t directly drive that outcome), it’s simple — extend your outcome thinking further out into the future. How much would this work benefit your outcome (e.g. growth, quality, retention) 1+ years out? What happens if you don’t do it? What are the chances of it being successful?"
 
-### Present clear "either/or" choices to leadership
-Geoff Charles: "Be very clear with the tradeoffs... present those tradeoffs back to your leadership team. Here's what we're doing and here's what we're not doing." Communicate what the team is NOT doing as clearly as what they are doing. Present a "menu" of options to force a decision.
+Evaluate major technical or design investments by comparing the impact of doing the work now versus the cost and risk of doing nothing.
 
-### Separate "can" from "should"
-John Cutler: "Some people are just locked into the can. They're uber pragmatic... others ask 'What should we do here?'" Don't let feasibility constraints dominate strategic thinking. Explicitly ask what you should do if technical debt weren't an issue.
+### Use SaaS for foundational needs
+Austin Hay: "That's how you actually have a lot of velocity is thinking about not just build versus buy. It's build and buy now. So, you buy the tool to get 90% of the way there and then you build the cool thing on top with the other 10%. And so that architecting decision usually falls on this person."
 
-### Diagnose with data, treat with design
-Julie Zhuo: "Data is not a tool that's going to tell you what you should build... but it can tell you if you have a problem." Use data to identify problems and gaps, but rely on design and intuition to invent solutions.
+Avoid reinventing the wheel by buying third-party solutions for core functionality and focusing internal engineering on proprietary layers.
 
-### Beware the cost of analysis itself
-Stewart Butterfield: "The cost of doing the analysis was this much. So it's guaranteed to be a loser." Evaluate whether the person-hours spent analyzing a decision exceed the maximum possible upside of the improvement.
+### Balance taste with pragmatism
+Ivan Zhao: "Too much of yourself. Then there's no users. Then you're just doing our project. And too much for business, you're building a commodity."
 
-### Identify who loses
-Ramesh Johari: "Many of the changes that are most consequential create winners and losers." When launching a feature, explicitly identify who will lose and decide if the winners provide more net value to the ecosystem.
+Find the equilibrium between building for your personal artistic standards and addressing the objective requirements of users and revenue.
+
+### Prioritize the company roadmap over team projects
+Noam Lovinsky: "I don't think we should be putting 50 engineers on this project. Looking at the rest of the roadmap and the rest of the priorities, excuse me, I think this team would likely be better served elsewhere."
+
+Build leadership trust by being honest when your own project should be deprioritized in favor of more impactful company-wide initiatives.
+
+### Re-evaluate build costs in the age of AI
+Varun Mohan: "The engineers are now able to produce more technology. The ROI of building technology has actually gone up. This actually means you hire more."
+
+Account for the increased ROI of engineering when using AI tools, which can make building custom internal solutions more viable than buying off-the-shelf software.
+
+### Reserve first-principles for innovation
+From "First-principles thinking": "We get through life by reasoning by analogy, which essentially means copying what other people do with slight variations. And you have to do that. Otherwise, mentally, you wouldn’t be able to get through the day. But when you want to do something new, you have to apply the first-principles approach."
+
+Use efficient reasoning by analogy for standard tasks and save high-effort first-principles thinking for situations where you need to create something truly original.
+
+## Templates & Frameworks
+
+- **Five Techniques for Communicating Tradeoffs** (How to communicate tradeoffs so leaders will listen) - Tara Seshan's five-part playbook for making tradeoffs crystal clear to senior leaders, preventing the 'do both' default.
+- **Magic Lenses (4 Classic Lenses + Custom)** (Introducing the Foundation Sprint: From the creators of the Design Sprint) - A technique for evaluating multiple product approaches by plotting them on multiple 2x2 charts, each representing a different decision-making perspective
+- **Technical/Design Investment Evaluation Framework** (This Week #13: Balancing outcome-thinking with design and technical requirements ⚖️) - A scenario-based evaluation framework used at Airbnb to decide whether to invest in large technical or design work that doesn't directly drive near-term outcome
+- **Build AND Buy** (Austin Hay) - A decision-making framework that replaces the binary 'Build vs. Buy' debate with a hybrid approach to software procurement.
+- **Traffic Light Decision Matrix** (Naomi Gleit) - A visual table used in meetings to evaluate three options against specific criteria using color coding instead of a flat pros/cons list.
+- **Weighted Decision-Making Spreadsheet** (Nicole Forsgren) - A spreadsheet to evaluate options based on weighted criteria.
+- **The 'Optimizing For' Framework** (Nikita Miller) - A mental model for prioritization and trade-offs.
+- **SCQA Tradeoff Decision Document** (How to communicate tradeoffs so leaders will listen) - A structured document for presenting a prioritization tradeoff to leadership, using the Situation-Complication-Question-Answer framework with a bottom-line-up-f
+- **Should We Do This Ourselves? Document** (Jeff Weinstein) - An annual strategic document evaluating whether to build internal capabilities or use third-party vendors.
+- **Build/Buy/Partner decision framework for large companies** (Tanguy Crusson) - How Atlassian evaluates whether to build internally, acquire, or partner when entering a new market
+
+See `references/artifacts.md` for the full list with details.
 
 ## Questions to Help Users
 
-- "What are you optimizing for - today, this quarter, or this year?"
-- "If you weren't already committed to this, would you start it today?"
-- "What's the full 'all-in' cost of each option, including maintenance and opportunity cost?"
-- "Is this decision reversible or a one-way door?"
-- "Who loses if you choose option A? Is that trade-off acceptable?"
-- "What would your 5-year future self wish you had done?"
+- "What is the single clarifying question that helps the team filter priorities and resolve this specific tradeoff?"
+- "If we choose to build this internally, what are the predicted long-term maintenance and operational costs?"
+- "How does this project impact the broader company roadmap compared to our team's specific goals?"
+- "What infrastructure constraints or technical rabbit holes might we encounter once development begins?"
+- "Are we optimizing for a short-term metric or building a foundation for massive long-term customer value?"
+- "Under what specific conditions would the alternative decision be superior to the one we are leaning toward?"
 
 ## Common Mistakes to Flag
 
-- **False precision** - Spending excessive time distinguishing between options that are only marginally different when the real question is order-of-magnitude
-- **Sunk cost fallacy** - Continuing a failing path because of what's already been invested rather than evaluating future value
-- **Analysis paralysis** - When the cost of deciding exceeds the value difference between options
-- **Ignoring second-order effects** - Not accounting for maintenance burden, feature creep, or organizational complexity that comes after launch
-- **Defaulting to your skillset** - As Bret Taylor notes, "If you're a great engineer, the answer to almost every problem is engineering... you probably should question it"
+- **The binary build-vs-buy trap** - Teams often assume they must either build a total custom solution or buy a rigid tool when a hybrid approach is usually more efficient.
+- **Ignoring the cost of heroics** - Leaders often overlook how short-term pushes to do both options degrade team morale and operational stability over time.
+- **Overestimating radical redesign success** - Radical changes are statistically more likely to fail than incremental improvements yet they are often chosen for their perceived simplicity.
+- **The Just One More Engineer fallacy** - Believing that a single additional resource can fix a fundamentally flawed project structure or competitive disadvantage.
 
 ## Deep Dive
 
-For all 42 insights from 40 guests, see `references/guest-insights.md`
+For all 13 sourced insights from 14 guests, see `references/guest-insights.md`
 
 ## Related Skills
 
-- Prioritizing Roadmap
-- Running Decision Processes
-- Scoping and Cutting
-- Managing Tech Debt
+- Roadmap Prioritization
+- Goal Setting Okrs
+- Planning Cadence
+- High Stakes Decisions

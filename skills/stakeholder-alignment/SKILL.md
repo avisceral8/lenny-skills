@@ -1,77 +1,98 @@
 ---
 name: stakeholder-alignment
-description: Help users align stakeholders and get buy-in. Use when someone is struggling to get approval, facing resistance to their ideas, needs to influence without authority, or is preparing for an important executive presentation.
+description: Help users master the art of leading without formal authority by identifying stakeholder incentives, neutralizing conflict through connection, and using co-creation to build shared ownership.
 ---
 
 # Stakeholder Alignment
 
-Help the user achieve stakeholder alignment using frameworks and insights from 88 product leaders.
+Drive cross-functional momentum by mapping incentives and co-creating solutions
+
+Help the user with stakeholder alignment using insights from 30 guests and posts across Lenny's Podcast and Newsletter.
 
 ## How to Help
 
-When the user asks for help with stakeholder alignment:
-
-1. **Understand the situation** - Ask who the stakeholders are, what decision needs to be made, and where resistance is coming from
-2. **Identify motivations** - Help them understand what each stakeholder cares about and their definition of success
-3. **Structure the approach** - Guide them on pre-alignment, communication sequence, and how to present options
-4. **Prepare for objections** - Help anticipate the Most Obvious Objections (MOOs) and prepare responses
+1. **Incentive Mapping** - Guidance on how to identify the goals, fears, and OKRs of key stakeholders to tailor your messaging.
+2. **Conflict Neutralization** - Practical scripts and mindset shifts for moving from defensive pushback to collaborative discovery.
+3. **Co-creation Strategy** - Frameworks for involving partners early in the design process to ensure they feel like authors rather than reviewers.
+4. **Communication Standardization** - Methods for creating a single source of truth that prevents information drift across functions.
 
 ## Core Principles
 
-### Understand how they think, not what they think
-Hilary Gridley: "What's more helpful than understanding what your CEO thinks is understanding how your CEO thinks." Analyze recurring themes in a leader's feedback to translate it into actionable principles rather than chasing specific opinions.
+### Adopt an Improv Mindset
+Adam Grenier: "If you approach it with that 'Yes, and...', it's often still true. It's like, oh, both of these things can be true at once. You could have a different goal than I have, or you have a system problem local to you that is important to you and it's not important to me."
 
-### Present options with a recommendation
-Matt LeMay: "Options and a recommendation is the magic formula. When you present a single option, people just start poking holes." Always present at least three options with clear trade-offs and a specific recommendation to encourage constructive discussion.
+Use the Yes and technique to validate a collaborator perspective before adding your own constraints. This allows competing priorities to coexist without stalling progress or damaging the rapport between teams.
 
-### Get pre-alignment on strategy
-Shreyas Doshi: "If you have a real product strategy that everybody is aligned with, a lot of the nonsense we do with annual planning goes away." Secure alignment on strategy before formal planning seasons to prevent endless friction.
+### Assume Information Gaps
+Ami Vora: "It means that every meeting you walk into, you're probably not going to get bored and I get bored a lot, but if you assume that every person there knows something that you don't know, then it's not just wait to get to the right answer, it's like, discover the thing that they know that you don't know and it becomes just a little bit of uncovering."
 
-### Approach disagreements with curiosity
-Ami Vora: "She would respond, 'Fascinating, you have to tell me more why you think that.'" When you hear an idea you strongly disagree with, assume the other person has information you don't have yet.
+Approach disagreements by assuming your colleague possesses unique information that you lack. Transform potential conflict into a discovery process by responding to opposing opinions with curiosity rather than defense.
 
-### Distinguish disagreement from misunderstanding
-Tomer Cohen: "Are you disagreeing or misunderstanding? If misunderstanding, let's spend the time. If disagreeing, let's stop wasting time arguing." Ask the other party to articulate your point of view in their own words to verify understanding.
+### Build a Bridge of Connection
+Dr. Becky Kennedy: "He kind of joins my world where I'm embedded in my own priorities and by doing that forms a bridge, that's what connection is. So I can kind of walk back over to his world with him to do something that's a priority in his world."
 
-### Trust is built through consistency
-Ian McAllister: "Trust is the currency of a product leader. Trust is built by repeatedly setting and meeting expectations." Tell the truth, launch what and when you said, and own mistakes immediately.
+Cooperation is built when you acknowledge and join another person reality before asking them to join yours. Establish this connection bridge to ensure partners feel heard before you attempt to redirect their behavior.
 
-### Use concentric circles for communication
-Lulu Cheng Meservey: "Go out in concentric circles. Each circle assumes the inner circle knows better." Never skip a circle in the communication sequence (Team -> Stakeholders -> Leadership -> External).
+### Manifest the Visual Future
+Mihika Kapoor: "We lean heavily into designing and prototyping even before a project gets a green light. If you and your team do your job correctly, what does the world look like?"
 
-### Repeat messages relentlessly
-Zoelle Egner: "I repeated the same three talking points 5,000 times. You just have to get used to saying the same stuff." Act as 'repeater-in-chief' across multiple formats because people require multiple exposures to internalize a message.
+Secure buy-in for zero-to-one ideas by investing in high-fidelity prototypes and mocks before seeking formal resourcing. Making the vision feel real through visual evidence is more effective than abstract descriptions.
 
-### Learn the business constraints
-Marty Cagan: "You have to know how it's marketed, how it's sold, how it monetizes. You have to convince stakeholders you understand what the issues are." Build trust by demonstrating deep understanding of legal, finance, sales, and compliance constraints.
+### Establish a Canonical Source
+Naomi Gleit: "Of course, I'm sure there's hundreds of docs associated with the project, but there needs to be one canonical doc. Everyone should know exactly where the canonical doc is. That's the one place I can go to get all the information I need about a project and it will link to all the other docs, things on the canonical doc are."
 
-### Frame requests as trade-offs
-Wes Kao: "I can design this PDF for you. That means the page redesign will have to wait until later this week." When asked for new tasks, explicitly state what current work will be deprioritized rather than saying yes or no.
+Eliminate conflicting information by creating one central document that serves as the definitive source of truth for the project. This prevents stakeholders from working off different interpretations of the same goal.
+
+### Lead with Data Authority
+Paige Costello: "The thing I would say is bring the insight. Know thy customer. Know thy market. Know thy competitors. Know thy numbers. Know thy product."
+
+Young or new leaders can overcome skepticism by becoming the definitive expert on customer data and market numbers. Mastering these fundamental details establishes professional authority in the room.
+
+### The PM-Engineering Triad
+Tamar Yehoshua: "And then I think what's really important is that you're aligned. You understand your roles and responsibilities and where you're going to divide and conquer and where you're going to be aligned. You don't want any of this ... Like people in the organization, they ask mom, they asked dad and they got different opinions and playing one against the other."
+
+Success depends on establishing a high-trust, aligned partnership with engineering to ensure ideas are feasible and to prevent confusion. Meet frequently and value your partners input to ensure a unified leadership front.
+
+### Map Incentives and Fears
+From "A PM’s guide to influence": "As a product manager, or basically any leader, your ability to influence others can move your career forward or keep you stuck. And even though it’s such a critical skill for PMs, there isn’t much practical advice on how to develop it."
+
+Systematic influence requires identifying the values, incentives, and fears of each key stakeholder. Reframe your proposals to address what is already top-of-mind for your audience to reduce friction.
+
+## Templates & Frameworks
+
+- **Five Steps to Influence Prioritization in a Large Company** (This Week #9: Breaking into growth, leading with influence, and (not) stepping on toes 🦶) - A checklist for PMs to get their asks prioritized when they lack direct authority, especially in bureaucratic organizations
+- **Stakeholder Intel-Gathering Questions** (A PM’s guide to influence) - Six questions to ask in 1:1 meetings with stakeholders (or people who know them) to understand how they make decisions and how to influence them
+- **Three Strategies to Co-Create Effectively** (Getting buy-in) - A three-step approach to co-creating ideas with your team so they feel invested and produce better outcomes.
+- **PM-Engineering Alignment Operating Model** (Tamar Yehoshua) - The specific meeting cadences and rituals Tamar and CTO Cal Henderson used at Slack to stay aligned and manage the product-engineering relationship.
+- **Consulting vs. Collaboration vs. Consensus Decision-Making Model** (Autonomy vs. direction - Issue 35) - A framework distinguishing three modes of group decision-making, originally based on Crucial Conversations, to help managers set the right expectations for how 
+- **The Silver Burrito Alignment Test** (Setting goals) - A metaphor and mental model for diagnosing whether your team is truly aligned on what success looks like for a project or initiative
+- **Seven Strategies for Influence (The Frodo Framework)** (How to get better at influence) - A comprehensive framework of seven strategies PMs can use to lead through influence rather than authority, each illustrated with Lord of the Rings examples and 
+- **Five Tactics of PM Influence** (A PM’s guide to influence) - A comprehensive framework of five tactics PMs can use to drive alignment on complex initiatives
+
+See `references/artifacts.md` for the full list with details.
 
 ## Questions to Help Users
 
-- "What does success look like specifically for this stakeholder - what do they care about most?"
-- "Have you identified the 'gatekeepers' who need 1:1 alignment before the broader meeting?"
-- "What is the Most Obvious Objection you expect, and how will you address it?"
-- "Are there repeated disagreements that signal an unaligned strategy rather than a tactical issue?"
-- "How will you communicate this across different modalities (written, verbal, visual)?"
-- "What trade-offs are you asking them to accept, and have you been explicit about them?"
+- "What are the specific OKRs and goals your stakeholders are being measured on this quarter?"
+- "Is there a single source of truth document that all cross-functional partners have access to?"
+- "Have you asked your stakeholders what specific data or evidence would change their mind on this project?"
+- "At what stage of the process did you first involve your engineering and design partners?"
+- "What is the most generous interpretation of the pushback you are receiving from other teams?"
 
 ## Common Mistakes to Flag
 
-- **Presenting a single option** - This invites criticism; always present multiple options with trade-offs
-- **Skipping pre-alignment** - Treating buy-in as a single high-stakes meeting rather than a collaborative journey
-- **Framing as pushback** - Thinking of disagreement as conflict rather than a constructive effort to align on business success
-- **Assuming one communication is enough** - Messages need to be repeated across multiple channels and formats
-- **Not understanding motivations** - Trying to align someone without knowing what they personally care about and fear
+- **Confusing Consensus with Collaboration** - Seeking unanimous agreement for every decision often sacrifices speed and quality for a diluted outcome that satisfies no one.
+- **Reflexively Protecting the Roadmap** - Failing to validate a stakeholder problem because it is not on the current plan damages rapport and misses opportunities for alignment.
+- **Ignoring Individual Incentives** - Proposals often fail because they fulfill company goals but create more work or risk for the specific stakeholder who needs to approve them.
+- **Presenting Finished Solutions** - Stakeholders are more likely to reject a strategy they were not involved in building because they lack a sense of authorship.
 
 ## Deep Dive
 
-For all 124 insights from 88 guests, see `references/guest-insights.md`
+For all 50 sourced insights from 30 guests, see `references/guest-insights.md`
 
 ## Related Skills
 
-- Written Communication
-- Giving Presentations
-- Running Effective Meetings
+- Product Reviews
+- Executive Communication
 - Managing Up
+- Running Meetings

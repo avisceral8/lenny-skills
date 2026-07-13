@@ -1,74 +1,104 @@
 ---
 name: writing-prds
-description: Help users write effective PRDs. Use when someone is documenting product requirements, preparing specs for engineering, writing feature briefs, or defining what to build for their team.
+description: Help users transform abstract ideas into actionable project specs that align engineering and design teams on the problem and success metrics.
 ---
 
-# Writing PRDs
+# Writing Product Requirement Documents
 
-Help the user write effective product requirements documents using frameworks and insights from 11 product leaders.
+Define clear problems and bounded solutions to maximize team velocity and creative output.
+
+Help the user with writing product requirement documents using insights from 14 guests and posts across Lenny's Podcast and Newsletter.
 
 ## How to Help
 
-When the user asks for help with PRDs:
-
-1. **Start with the why** - Ask about the problem being solved and why it matters now, before features
-2. **Define success upfront** - Help them articulate how they'll know the feature succeeded
-3. **Choose the right format** - Discuss whether they need a traditional doc, a prototype, or executable evals
-4. **Keep it actionable** - Ensure the document leads to clear team action, not just documentation
+1. **Drafting the core problem** - Assist in articulating a concise problem statement that is agnostic of any specific solution.
+2. **Establishing success metrics** - Help define specific, measurable outcomes that will act as a filter for future feature requests.
+3. **Defining project boundaries** - Guide the user through narrowing fuzzy requests into a bounded concept using shaping techniques.
+4. **Reviewing for clarity** - Audit existing drafts for brevity, readability, and technical awareness to prevent micromanagement.
 
 ## Core Principles
 
-### Lead with problem and context
-Maggie Crowley: "The most important section is the first part - what is the background and context? What is the problem, why does it matter, and why does it matter now?" Center the team on the 'why' and the urgency before discussing solutions.
+### Design for functional prototyping
+Jenny Wen: "We used to go off and make this two-year, five-year, 10-year vision even. Now it becomes a vision that's three to six months out, and isn't necessarily creating this beautiful deck, sometimes just creating a prototype that points people in the right direction."
 
-### The PR/FAQ forces clarity
-Bill Carr: "Whenever we're devising a new product, we start by writing a press release describing it in a way that speaks to the customer. The idea better jump off the page." Use the PR to describe customer, problem, and solution in factual, data-rich language.
+Design should focus on short term functional prototyping rather than static long term planning to keep up with AI driven engineering speeds.
 
-### Demos before memos in AI age
-Aparna Chennapragada: "If you're not prototyping and building to see what you want to build, you're doing it wrong. Prompt sets are the new PRDs." For AI features, include functional prototypes and prompt sets as core requirements.
+### Maximize output through constraints
+Kevin Yien: "The purpose of product management, not the person, but the practice, is to convert that potential into as much realized value for someone as possible, right? Minimum loss. When you're just getting started with a new product, the people that should be doing that are the people who are building it."
 
-### Evals as living PRDs
-Hamel Husain & Shreya Shankar: "This is the purest sense of what a product requirements document should be - this eval judge that's telling you exactly what it should be, and it's automatic and running constantly." Translate product requirements into executable evaluations for AI products.
+The product manager must define constraints and provide direction when a project space becomes too complex for the build team to navigate alone.
 
-### Keep it lightweight for action
-Eric Simons: "We tend to keep them pretty light. I like to have the minimal amount of context that ensures everyone's on the same page and that key outcomes will be present when we get there." Focus on key outcomes rather than exhaustive details that developers ignore.
+### Shape project boundaries early
+Ryan Singer: "What we need to do in a shaping session is we come out with some kind of diagram where engineers, product and design, they're saying, "We understand that." So the first thing is we are not going to start something unless we can see the end from the beginning."
 
-### PRDs demonstrate craft
-Vikrama Dhiman: "Is your PRD quality good enough? Are you writing drafts that go to care teams, marketing teams? You must have impact through the artifacts you work on." High-quality PRDs demonstrate professional craft and create clarity at scale.
+Use high intensity collaborative sessions with design and engineering to create a shared understanding of boundaries before development begins.
 
-### AI can scaffold the basics
-Claire Vo: "I had used ChatGPT to come up with a very serviceable PRD spec for this very technical product." Use AI to scaffold basics like user stories and out-of-scope items, then focus on high-level strategy and narrative.
+### Center documents on the problem
+From "Examples and templates of 1-Pagers and PRDs": "Problem-oriented: They crystallize the problem being solved in a few strong sentences—ideally near the top of the document—to focus the brainpower of every teammate in the same direction."
 
-### Live PRDs reduce ambiguity
-Guillermo Rauch: "The product management team is now actually building the product. We've specced out in v0, think of it as a live PRD. The amount of detail - we're all saying 'just ship it.'" Interactive, animated prototypes reduce ambiguity and speed up approval.
+A successful PRD starts with a clearly defined problem and specific success metrics to ensure the team aligns on the why before the what.
 
-### Include the 'Why Now'
-Justify the timing of this investment against other opportunities. If you can't explain why this matters now versus later, the priority is questionable.
+### Force clarity through brevity
+From "My favorite product management templates": "A reminder of how valuable it is to keep these to one page, at least to start"
+
+Limiting initial project documents to a single page forces the team to stay focused on core goals and helps prevent early complexity.
+
+### Leverage physical and goal proximity
+Katie Dill: "One of the things that I believe as a necessary part of building a high-functioning organization is that, one, building together is important. So having engineers, and product managers, and designers be together, have shared goals, and align on that and be able to just look over each other's shoulder and talk about things, is important. So sitting together is important."
+
+Co-locating teams and establishing shared goals across disciplines prevents silos and ensures design intent is maintained during execution.
+
+### Document to move from chaos to clarity
+Melanie Perkins: "So we have this concept of chaos to clarity and every idea starts in the chaos side, and then you have to work all the way to the other side, which is clarity. And so chaos can be an idea, it can be a problem, it can be a philosophy or a belief."
+
+Writing down abstract ideas is the essential first step to transforming amorphous concepts into actionable projects.
+
+### Avoid creative micromanagement
+From "Five habits of highly annoying product managers": "There’s a fine line between articulating the important details of a project spec and spending three pages explaining one button. This annoying habit can apply to both the beginning of a project, telling designers and engineers exactly how a feature needs to work, and also at the end when you spec out each feature for days."
+
+Over specifying features stifles the creativity of engineers and designers. Documentation should facilitate conversation rather than replace it.
+
+### Automate technical writing with AI
+From "How AI will impact product management": "Describe what you want in human language, get an 80% complete draft, refine it, and then ship. This is already happening with tools like ChatPRD."
+
+Use AI tools to generate the majority of technical documentation so product managers can focus on the final refinement and strategic nuance.
+
+## Templates & Frameworks
+
+- **Lenny's 1-Pager Template** (Examples and templates of 1-Pagers and PRDs) - Lenny's personal template used anytime he starts a new project
+- **5 Elements of a Great 1-Pager/PRD** (Examples and templates of 1-Pagers and PRDs) - An evaluation rubric for what makes a product spec effective, used both for writing and reviewing PRDs
+- **AI Prompt: Write a PRD** (Product manager is an unfair role. So work unfairly.) - A ChatGPT prompt template (GPT-4o and up) for drafting a PRD by dictating context via speech-to-text.
+- **Breadboarding and Fat Marker Sketching** (Ryan Singer) - Two collaboration techniques for shaping sessions that are more detailed than wireframes but less polished than Figma — designed to communicate the idea clearly
+- **Technical PM Questions for PRDs and Feature Work** (Become a more technical product manager) - Questions PMs should ask when writing PRDs or working on features to demonstrate technical awareness and improve collaboration
+- **Five Attributes of a Strong Problem Statement** (A Three-Step Framework For Solving Problems 👌) - Criteria for evaluating whether a problem statement is well-crafted, used when writing the Problem section of the 1-pager.
+- **PRD Review Checklist (derived from Lenny's critiques)** (Examples and templates of 1-Pagers and PRDs) - A checklist derived from Lenny's evaluation of the four real-world examples, identifying common pitfalls to check for
+- **Duolingo One-Pager Template** (How Duolingo builds product) - The template Duolingo uses for early-stage product review one-pagers to get feedback on feature ideas
+
+See `references/artifacts.md` for the full list with details.
 
 ## Questions to Help Users
 
-- "What problem is this solving, and why does it matter now?"
-- "How will you know if this feature was successful - what metric moves?"
-- "Who is the customer, and what does their life look like after this ships?"
-- "What is explicitly out of scope to prevent scope creep?"
-- "Could you build a quick prototype instead of writing more documentation?"
-- "What are the key decisions that still need to be made?"
+- "What is the single most important problem this project is solving for the user?"
+- "What specific metrics will we use to determine if this project is a success?"
+- "Which features or tasks are explicitly out of scope for this version?"
+- "Have we gathered feedback from engineering on the technical constraints yet?"
+- "How much time are we willing to spend on this problem before we move on?"
+- "Is this document brief enough that the entire team will actually read it?"
 
 ## Common Mistakes to Flag
 
-- **Starting with the solution** - The document should lead with the problem and context
-- **No success criteria** - Every PRD needs a clear definition of how you'll measure success
-- **Exhaustive detail** - Lightweight PRDs focused on outcomes are more likely to be read and used
-- **Static when prototypes work better** - For AI and UI work, live prototypes communicate more than prose
-- **Missing the 'Why Now'** - Without urgency justification, priorities will be questioned
+- **Using the word just** - It undermines the expertise of engineers and risks burning them out on unrealistic promises of quick fixes.
+- **Premature high fidelity mocks** - It anchors the team to a specific solution before they have fully explored the problem space or technical constraints.
+- **Ignoring non-goals** - Failing to establish what you are not building leads to scope creep and loss of focus on the primary problem.
+- **Waterfall handoffs** - Excluding designers and engineers from early planning creates inefficiencies and misses opportunities for innovation.
 
 ## Deep Dive
 
-For all 14 insights from 11 guests, see `references/guest-insights.md`
+For all 24 sourced insights from 14 guests, see `references/guest-insights.md`
 
 ## Related Skills
 
-- Writing Specs & Designs
-- Working Backwards
-- Stakeholder Alignment
-- Shipping Products
+- Shipping Velocity
+- Ai Assisted Prototyping
+- Building With Ai Agents
+- Product Tool Stack

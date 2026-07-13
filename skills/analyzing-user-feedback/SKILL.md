@@ -1,76 +1,95 @@
 ---
 name: analyzing-user-feedback
-description: Help users synthesize and act on customer feedback. Use when someone is analyzing NPS responses, processing support tickets, reviewing user research, synthesizing feedback from multiple channels, or trying to identify patterns in customer input.
+description: Help users convert massive volumes of qualitative and quantitative feedback into high-confidence product decisions through rigorous synthesis and internal immersion.
 ---
 
 # Analyzing User Feedback
 
-Help the user extract actionable insights from customer feedback using techniques from 56 product leaders.
+Transform raw signals into actionable insights by scaling empathy and synthesis.
+
+Help the user with analyzing user feedback using insights from 19 guests and posts across Lenny's Podcast and Newsletter.
 
 ## How to Help
 
-When the user asks for help analyzing feedback:
-
-1. **Understand their sources** - Ask where feedback is coming from (NPS, support, sales, social, interviews)
-2. **Help identify patterns** - Assist in clustering feedback into themes and prioritizing by frequency and impact
-3. **Challenge surface-level interpretations** - Push them to find root causes, not just stated complaints
-4. **Connect to action** - Help translate insights into product decisions
+1. **Categorize signals** - Help the user group disparate feedback into themes or segments based on user influence and frequency.
+2. **Assess representativeness** - Determine if feedback reflects a vocal minority or a broad user need using representation frameworks.
+3. **Set up dogfooding** - Design internal processes to experience friction firsthand through audits and mandatory usage programs.
+4. **Apply AI synthesis** - Guide the user in using LLMs to process large datasets like transcripts, reviews, and support tickets.
 
 ## Core Principles
 
-### Feedback is a river, not a lake
-Shaun Clowes: "Really smart product managers are constantly swimming in a feedback river. Set up streams of user interview data, NPS, and competitor info to wash over you daily." Make feedback consumption continuous, not episodic.
+### Relentless Curiosity
+David Singleton: "Jeff dug into the details, the team dug into the details and we're just like kept asking, does it have to be this way? Does it have to be this way? And eventually we work with the IRS to make it possible for us to issue those numbers much, much more quickly, like instantly as you sign up."
 
-### Users lie (unintentionally)
-Bret Taylor: "Taking what a customer says in a focus group is rarely correct. Practice intellectual honesty to distinguish surface-level complaints from root causes." When users say "price," they often mean "value."
+Question every step of a painful process and ask if it truly has to be this way to find meaningful friction reduction.
 
-### Cluster, don't segment
-Bob Moesta: "Instead of segmenting by demographics, we cluster by behavioral pathways. It's not one reason why people do things—it's sets of reasons." Look for the 'hire and fire' criteria for different user clusters.
+### Experiential Empathy
+Jeff Weinstein: "We show up four to eight people total pretend to be some company with some outcome problem. Rule one is you do not work at Stripe and rule two is we're not here to solve any problems. This is just about practicing empathy for the customer."
 
-### Every support ticket is a product failure
-Geoff Charles: "We literally have 'every support ticket is a failure of our product' posted on all channels. Share every negative review with the relevant PM and designer monthly."
+Build deeper empathy by having internal teams experience product friction firsthand without the distraction of immediate problem solving.
 
-### The silent signals matter
-Ramesh Johari: "There's a lot of information in ratings that are NOT left. The absence of a rating is often a strong signal of a mediocre experience users are too polite to report."
+### Mandatory Service Participation
+Keith Yandell: "We have a program called WeDash, where, four times, a year all employees are required to go do deliveries. And I love doing it. I do it more than four times a year, and I usually take my daughters with me."
 
-### Filter the 80% noise
-Jen Abel: "80% of feedback is noise based on legacy habits, 20% is gold that guides the future product. It's the founder's job to interpret what's 'the old way' versus real market needs."
+Require every employee to perform the core service of the business to build authentic empathy and surface operational bugs.
 
-### Aggregate across all channels
-Brian Balfour: "AI can analyze existing feedback AND identify knowledge gaps—what customers are NOT saying. Aggregate feedback from all sources into a centralized repository."
+### Creator Mindset Immersion
+Maya Prohovnik: "If they talk to users all the time, they see the data, but all of them, once they finally start doing their podcast, they're like, I get it. Something clicked and now I feel like I really understand what they need. And I guess building tools for creators is similar to building a B2B product where you really have to understand business, it's their livelihood."
 
-### Talk to churned users
-Uri Levine: "The most critical insights come from users who dropped out of the funnel, not those who succeeded. Interview users who churned to find the 'why' behind the failure."
+Directly immerse team members in the product to transform abstract data into a deep understanding of complex user workflows.
 
-### Prioritize future users over vocal minorities
-Tamar Yehoshua: "Don't over-index on people unhappy with your changes. Design for the bigger number of people who will use it tomorrow, not the vocal few complaining today."
+### Collaborative Partnership Framework
+From "What 5 years at Reddit taught us about building for a highly opinionated user base": "We both spent more than five years at Reddit, and through blood, sweat, and tears, we developed a framework that helped turn a sometimes combative relationship with users into a strong, productive partnership most of the time."
 
-### Make insights stick
-Yuhki Yamashata: "The goal is 'memification'—synthesize insights so they're catchy enough for execs to cite in meetings. Use real-world metaphors to explain complex concepts."
+Transition from combative interactions with opinionated communities to a partnership by using a formal feedback framework.
+
+### Trust as Measurable Currency
+From "What 5 years at Reddit taught us about building for a highly opinionated user base": "Your Trust Vault can be filled and it can be depleted. At Reddit we had multiple Trust Vaults: a company-level Trust Vault as well as Trust Vaults for individual teams or product managers."
+
+View user trust as a quantifiable metric that fluctuates based on decisions and dictates the timing of controversial launches.
+
+### Statistical Representation Filtering
+From "What 5 years at Reddit taught us about building for a highly opinionated user base": "Just because someone is loud doesn’t mean you should act on their complaints. You need to get good at identifying whom you should pay attention to. That starts with examining who is being loud."
+
+Evaluate feedback based on its statistical representation and the influence of the users providing it to avoid building for a vocal minority.
+
+## Templates & Frameworks
+
+- **Duolingo Dogfooding Process** (How Duolingo builds product) - A structured internal testing process where every product change goes live to employees before rolling out to users
+- **Feedback Evaluation: Representation × Influence Matrix** (What 5 years at Reddit taught us about building for a highly opinionated user base) - A two-factor framework for assessing whether user feedback is worth acting on, based on what percentage of users the feedback represents and whether those users
+- **The Trust Vault** (What 5 years at Reddit taught us about building for a highly opinionated user base) - A metaphor and measurement system for tracking how much trust your user base has in you. Trust can be deposited (through wins and transparency) and depleted (th
+- **Walk the Store / Essential Journeys Audit** (Katie Dill) - A quarterly process where cross-functional leaders manually test critical user journeys and log friction.
+- **Customer Feedback Hub (Coda Template)** (This Week #8: Splitting equity with late-joining co-founders, favorite roadmap templates, and small changes that improve your org) - A Coda template for systematically tracking every piece of customer feedback and following up after improvements are shipped
+- **Ramp AI User Personas for PM Feedback** (25 proven tactics to accelerate AI adoption at your company) - AI personas loaded with user research context that give PMs instant feedback on product specs
+- **Confluent LLM-Powered Customer Feedback Clustering** (Shaun Clowes) - Confluent uses LLMs internally to semantically cluster inbound customer requests, identify the most popular ideas, and track trending demand over time.
+- **WeDash Dogfooding Program** (Keith Yandell) - A mandatory company-wide program requiring all employees to use the product in the real world to build empathy and find bugs.
+- **Feedback Prioritization 2×2: Depth of Effect × Breadth of Effect** (What 5 years at Reddit taught us about building for a highly opinionated user base) - A 2x2 matrix for deciding which user feedback to act on, plotting the depth of a feature's impact against how many users it affects.
+
+See `references/artifacts.md` for the full list with details.
 
 ## Questions to Help Users
 
-- "Where is your feedback coming from? Are you missing any channels?"
-- "Have you talked to churned users, or only happy customers?"
-- "What's the pattern behind these complaints—what's the root cause?"
-- "Are these requests from early adopters or from users stuck in old habits?"
-- "How will you act on this insight?"
+- "What percentage of your total user base does this specific negative feedback represent?"
+- "Are you experiencing the product friction firsthand or only viewing it through secondary data?"
+- "How does this request align with the needs of your most influential users versus the loudest voices?"
+- "What is the current level of trust in your community according to your most recent survey?"
+- "Have you analyzed why departing customers feel the product failed its initial promise?"
+- "What unique metaphors are users using in their feedback to describe their pain points?"
 
 ## Common Mistakes to Flag
 
-- **Taking feedback literally** - Users say they want X but often need Y
-- **Only listening to vocal users** - Silent majority may have different needs
-- **Ignoring non-users** - People who didn't convert have critical insights
-- **Feedback hoarding** - Insights trapped in silos don't help anyone
-- **Hindsight bias** - Don't dismiss research findings as "obvious" after the fact
+- **Building for the vocal minority** - Teams often over-index on the loudest users without verifying if they represent a significant portion of the base.
+- **Distracted solutioning during audits** - Discussing solutions too early prevents the team from fully experiencing and documenting the raw friction of the user journey.
+- **Confusing access requests with value requests** - Vocal demand for free access often comes from users who lack the motivation to become retained or paying customers.
+- **Failing to close the loop** - Not following up with users after their feedback is implemented wastes an opportunity to build deep long-term loyalty.
 
 ## Deep Dive
 
-For all 64 insights from 56 guests, see `references/guest-insights.md`
+For all 16 sourced insights from 19 guests, see `references/guest-insights.md`
 
 ## Related Skills
 
-- Conducting User Interviews
-- Measuring Product-Market Fit
-- Prioritizing Roadmap
-- Setting OKRs & Goals
+- Customer Interviews
+- Continuous Discovery
+- Idea Validation
+- Product Experiments

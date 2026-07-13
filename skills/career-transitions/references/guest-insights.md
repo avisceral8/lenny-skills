@@ -1,1494 +1,1813 @@
-# Career Transitions - All Guest Insights
+# Navigating Career Transitions - All Guest Insights
 
-*76 guests, 111 mentions*
+*56 sources, 139 insights*
+
+---
+
+## Ada Chen Rekhi
+
+**Insight:** 
+
+*Source: [How to make better decisions and build a joyful career | Ada Chen Rekhi (Notejoy, LinkedIn, SurveyMonkey)](https://www.youtube.com/watch?v=N64vIY2nJQo) @ 00:25:55*
 
 ---
 
 ## Adam Fishman
-*Adam Fishman*
 
-> "PMF stands for people, mission and financials. And these are my three criteria... you should have a set of criteria that you are unapologetically rigorous around and you should learn how to evaluate companies against that set of criteria."
+> "And what they really needed, and I was naive and didn't think about asking these questions or about evaluating this properly, what they really needed was to create a strategy to add on new growth loops and a system for how to execute against that strategy. If we had talked about that as part of evaluating each other, as part of them evaluating me, it would've given me a lot of confidence that it was the right hire to make."
 
-**Insight:** Evaluate potential employers with the same rigor as an investor, focusing on the quality of the people, the impact of the mission, and the company's fiscal discipline.
-
-**Tactical advice:**
-- Back-channel reference your potential manager by talking to people they have managed in the past
-- Ask to observe an executive meeting or a strategic offsite to see how the team handles disagreement
-- Ask reverse behavioral questions to leaders about how they navigated their last strategic disagreement
-
-*Timestamp: 00:53:23*
-
-
-## Ada Chen Rekhi
-*Ada Chen Rekhi*
-
-> "My early career was pretty wild... it really comes down in a nutshell to this career concept of explore and exploit... You're either in a mode of explorer where you have a bunch of unknowns and you're testing to see whether or not you like it... Or you're exploiting, where you actually have found something that's really rich and really deep and then you're just trying to get more."
-
-**Insight:** Early career should focus on 'exploration' with a growth mindset to find fit, followed by 'exploitation' to intentionally deepen specific skills needed for long-term goals.
+**Insight:** When considering a job offer, verify that the company's leaders are committed to a systematic growth strategy rather than chasing unsustainable 'silver bullet' solutions.
 
 **Tactical advice:**
-- Use early roles to test hypotheses about company size, industry, and function.
-- When in 'exploit' mode, choose roles based on specific skill gaps (e.g., growth, pricing) rather than just titles.
-- Be an agent in your own career by having proactive conversations with managers about what you want to learn.
+- Ask direct questions during the interview to determine if leadership values systematic growth over 'silver bullet' tactics.
+- Evaluate whether the founders have the patience and long-term vision required to execute a growth strategy.
+- Confirm that the company has a clear set of criteria for what success looks like in a growth role.
 
-*Timestamp: 00:25:55*
+*Source: [How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)](https://www.youtube.com/watch?v=wP8YyWH524A) @ 00:52:34*
 
 ---
-
-> "It's really easy to be a victim of inertia. It's really easy for all of us to be the frog where there are little things that make us uncomfortable, and we sit with them... you really have to be aware of your surroundings. You have to be aware of which way is the direction of the temperature of the water trending."
-
-**Insight:** Avoid 'boiling the frog' by monitoring whether your current environment still provides learning and growth or if you are staying due to inertia.
-
-**Tactical advice:**
-- Evaluate your role based on the 'learning' lens: are you being challenged and growing?
-- If learning has stalled, either seek new projects internally or use the 'gift of time' to learn independently for your next move.
-
-*Timestamp: 00:32:10*
-
-
-## Andy Johns
-*Andy Johns*
-
-> "It was a difficult decision to walk away from my career at the peak of it, but I guess the takeaway, and then I'll stop for a bit, is it's important for people to understand that there are formative experiences in our lives which put us in positions to where we form adaptations in order to survive, just like my attachment to achievement and how my self-worth was entirely tied up in that."
-
-**Insight:** Major career transitions often require recognizing when professional achievement has become a maladaptive survival mechanism for personal self-worth.
-
-**Tactical advice:**
-- Evaluate if your career drive is an 'adaptation' formed to cope with past emotional wounds.
-- Recognize when professional success is no longer providing fulfillment and is instead becoming detrimental to your present state.
-
-*Timestamp: 00:18:32*
-
----
-
-> "The transitions that I talk about are the big fundamental ones like the transition that I've been going through myself... me, for example, stepping away from my career, at the end of the day, I wasn't running from something, I was running back towards myself. That was an act of kindness towards myself."
-
-**Insight:** A radical career change can be a proactive act of self-compassion rather than a reactive escape from a job.
-
-**Tactical advice:**
-- Frame a career exit as 'running back towards yourself' rather than just running away from a role.
-- Consider if your current career foundation is built on an identity that no longer serves you.
-
-*Timestamp: 00:24:52*
-
 
 ## Ami Vora
-*Ami Vora*
 
-> "I realized that probably the most important thing is to just acknowledge that that is true for me. That I'm not going to be a person with a plan, and actually the thing that has consistently served me is to do the thing that feels right, go to the place that feels like home, work with the people who feel like my friends."
+> "And for me, the thing that has led me to the places where I do my best work is a feeling of being at home, which is all about trust and trust with the people around me. Can I walk through and feel like these people are going to have my back, they're going to let me take risks, I'm going to enjoy spending time with them?"
 
-**Insight:** Prioritize intuition and cultural fit over rigid five-year plans when choosing career moves.
+**Insight:** Assess a job's fit by visualizing its daily emotional reality and prioritizing environments built on mutual trust and a sense of 'home.'
 
 **Tactical advice:**
-- Choose roles where you feel 'lucky' to be there rather than just following a spreadsheet of axes.
-- Focus on environments where trust is a 'big unlock' for your creativity.
+- Prioritize environments where you feel coworkers will have your back and allow you to take risks.
+- Mentally simulate daily routines, such as your commute and lunch partners, to gauge your emotional response to a role.
+- Tear up the logical spreadsheet of career axes to focus on whether you feel lucky to walk through the doors.
 
-*Timestamp: 00:04:08*
+*Source: [Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)](https://www.youtube.com/watch?v=6UHAop9fhNU) @ 00:04:08*
 
 ---
 
-> "I try to just put on the coat of the job. When I wake up in the morning, I'm like, what would it be like if I were doing this job? What would I think about on my commute? Who would I have lunch with? Do I like them? What problems am I going to solve today?"
+## Andy Johns
 
-**Insight:** Use emotional simulation to evaluate if a potential role is the right fit.
+**Insight:** Navigating a career transition requires identifying the subconscious drivers, like an addiction to achievement, that may be keeping you in high-status roles at the cost of your health.
 
 **Tactical advice:**
-- Visualize the daily routine of a potential job to gauge your emotional response.
-- Assess the people you'll be working with as a primary factor in the decision.
+- Identify if your career path is fueled by a subconscious need to feel 'lovable' through professional success.
+- Be willing to walk away from high-status 'next-in-line' roles if they threaten your physical health.
+- Step away from the career ladder when professional walls become psychologically insurmountable.
 
-*Timestamp: 00:09:03*
+*Source: [When enough is enough | Andy Johns (ex-FB, Twitter, Quora)](https://www.youtube.com/watch?v=_93m4PriHyc) @ 00:15:04*
 
 ---
-
-> "I convinced one of them to introduce me to everyone at the office. I'd made a trade, I said, I'll buy you a fancy coffee at Coupa Cafe in downtown Palo Alto, and in exchange just introduced me to everyone... And the only call I got back was from the Head of PR... 'But we need a temp to review our press releases, so if you want to come join a temp agency, we'll tell them to send you here.' And that's what I did."
-
-**Insight:** Getting a foot in the door at a high-growth company often requires networking and a willingness to take non-traditional or lower-level entry points.
-
-**Tactical advice:**
-- Use your network to get office tours and meet as many people as possible.
-- Be willing to start as a temp or in a role you are 'overqualified' for to enter a target company.
-
-*Timestamp: 01:13:51*
-
-
-## Annie Pearl
-*Annie Pearl*
-
-> "I think there's really two paths. I think one is more formal in nature. There are associate product manager programs out there and many scaled companies... I think another "more formal" way to get into PM is really by just directly applying to a junior PM role where there's no expectation of any sort of experience. I've usually seen this work best when you're already working somewhere in some product adjacency. Maybe you're in customer support, implementation, or maybe you're a sales engineer."
-
-**Insight:** Transitioning into PM can happen through formal APM programs or by leveraging internal roles in product-adjacent functions.
-
-**Tactical advice:**
-- Apply to APM programs at both big tech and smaller, earlier-stage companies.
-- Look for internal junior PM roles if you are already in a product-adjacent role like support or sales engineering.
-- Seek opportunities to shadow PMs or take on 'side' product work to demonstrate skills.
-
-*Timestamp: 00:06:25*
-
-
-## Anneka Gupta
-*Anneka Gupta*
-
-> "I definitely think doing it within the same company is a lot easier than trying to switch companies and switch jobs at the same time because when you're within a company, you've already built credibility, hopefully."
-
-**Insight:** Internal transfers are the most effective path into product management because they leverage existing credibility and domain knowledge.
-
-**Tactical advice:**
-- Join a product-adjacent function (Support, Sales, Eng) and build relationships with the product team.
-- In small startups, volunteer for product-related projects that no one is currently owning.
-
-*Timestamp: 00:51:41*
-
 
 ## Bangaly Kaba
-*Bangaly Kaba*
 
-> "The framework is really that there's impact that you're really trying to drive and that is the thing that is the most important. And the impact is only achievable by looking at two sets of variables, a set of variables related to the environment, a set of variables related to your skills."
+> "The framework is really that there's impact that you're really trying to drive and that is the thing that is the most important. And the impact is only achievable by looking at two sets of variables, a set of variables related to the environment, a set of variables related to your skills, and really breaking down each and understanding what's happening in the environment bit by bit and what's happening with your skills and where are you hindered structurally within the environment?"
 
-**Insight:** When choosing a role, optimize for impact by evaluating the quality of the environment and how it leverages your specific skills.
+**Insight:** Maximizing career success requires an objective analysis of how your current professional environment either enables or hinders your specific skill set.
 
 **Tactical advice:**
-- Score environment variables (manager, resources, scope, team, compensation, culture) on a scale of 0 to 2.
-- Re-evaluate these scores annually to identify what is limiting your ability to have impact.
+- Perform an annual audit of your environment, scoring your manager, resources, scope, team, compensation, and company culture.
+- Optimize for impact as your primary metric, as compensation and scope are ultimately derivatives of the results you drive.
+- Honestly identify whether you are being limited by external structural factors or personal skill gaps.
 
-*Timestamp: 00:07:18*
+*Source: [Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YouTube, Instagram, Facebook, Instacart)](https://www.youtube.com/watch?v=Ub9UkWByFIQ) @ 00:07:18*
 
+---
 
 ## Bob Baxley
-*Bob Baxley*
 
-> "I left Apple on a Friday and I started Pinterest on a Monday. I didn't give myself time to recalibrate to the Pinterest culture. I think at some level, a lot of the challenge is that Apple, and it's not just Apple, I think every major tech company, they have really powerful cultures. You get indoctrinated into all those standards and it's really deep."
+> "The thing I took away from Apple, and I think this is true for anybody changing from one major culture to another is most likely the new place hires you because of the values of the organization you left, but not the behaviors. And so I think it's important to recalibrate and say, well, I want to hold onto these values."
 
-**Insight:** Moving between strong company cultures requires a 'recalibration' period to shed old behaviors while retaining core values.
-
-**Tactical advice:**
-- Give yourself a multi-week or multi-month gap between high-intensity roles to 'wash off' the previous culture.
-- Hold onto the values of your previous organization (e.g., excellence) but adapt your behaviors to the new culture's norms.
-
-*Timestamp: 00:07:11*
-
-
-## Bob Moesta
-*Bob Moesta*
-
-> "And you start to realize that all of these things where we think we have to pay more money, over 50% of the people who got new jobs didn't get more money. It's a lie. It's about progress. It's about what do they want to learn? What skills do they want to get?"
-
-**Insight:** Career changes are primarily driven by a desire for personal progress and learning, not just salary increases.
+**Insight:** When transitioning between companies with strong cultures, you must retain your core professional values while intentionally adapting your behavioral style to suit the new environment.
 
 **Tactical advice:**
-- When interviewing candidates, unpack their 'metric of progress' to see if it aligns with the role's growth opportunities.
-- Identify the 'pushes' (frustrations at the current job) and 'pulls' (attractions of the new role) to understand a candidate's true motivation.
+- Give yourself a significant time gap between jobs to 'car wash' the habits of your previous role.
+- Distinguish between your functional values and your social behaviors to identify what needs to be recalibrated.
+- Verify during the interview process that leadership has a genuine, soul-level belief in your specific function.
 
-*Timestamp: 00:26:08*
+*Source: [35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley](https://www.youtube.com/watch?v=X-83gvgVaWc) @ 00:06:38*
 
 ---
-
-> "The moment you stop making progress in your career is the moment you start looking for another job. And so over the last 15 years we've interviewed over a thousand people. I've coached almost a thousand people because I think there's a billion people a year who switched jobs and ultimately most of them end up with a job that's worse than the one they were at, but they don't know how to find it."
-
-**Insight:** Career stagnation is the primary trigger for job seeking, but most people fail to find better roles because they lack self-awareness and a structured search process.
-
-**Tactical advice:**
-- Identify the 'pushes' (reasons to leave) and 'pulls' (desired outcomes) driving your move.
-- Determine which of the four quests you are on: Get Out, Next Step, Regain Control, or Realign.
-
-*Timestamp: 00:00:04*
-
----
-
-> "I call it a jobcation, which is a job I can go do with one hand tie by hide my back so I can rest and recover to go do something else. It's about actually being able to go to the gym and work out and have some vacations. The moment you are comfortable doing nothing, you know who you are again, and you can actually figure this out."
-
-**Insight:** After a high-intensity role like a startup, a 'jobcation'—a lower-demand role—can provide the necessary space to recover and rediscover your professional identity.
-
-**Tactical advice:**
-- Look for roles where you are overqualified to allow for mental and physical recovery.
-- Set a time limit on a jobcation to ensure it serves as a bridge, not a permanent stall.
-
-*Timestamp: 00:00:27*
-
----
-
-> "The thing that I think has been most powerful is, again, treating you like a product. How do we prototype different job positions for you? So how do we think of you? ... It's this notion of starting by doing what we call informational interviews to other jobs that are out there."
-
-**Insight:** Treat your career search like product development by prototyping different roles through informational interviews before committing to a path.
-
-**Tactical advice:**
-- Conduct informational interviews with people currently in roles you are curious about.
-- Prototype 'wide' across different industries to see how your skills translate beyond your current field.
-
-*Timestamp: 00:31:17*
-
-
-## Boz
-*Boz*
-
-> "Jump into new things, give it six months. If it's not the thing, no problem. You just built a ton of new skills that's going to come in handy, I promise you that. Keep going."
-
-**Insight:** Optimizing for learning and variety of experience early in a career creates a 'compound interest' effect that pays off in senior leadership.
-
-**Tactical advice:**
-- Give a new role at least six months to see if you can develop a passion for it.
-- Don't fear moving horizontally if you have exhausted the learning potential in your current domain.
-
-*Timestamp: 00:40:50*
-
----
-
-> "I think there's two really good places to be. I think one is carrying a lot of water in areas that the company's not paying attention to but you are important... The second-best place to be, or maybe equally, is on the most important thing."
-
-**Insight:** Strategic career growth comes from either owning a critical but neglected 'dam' or being in the 'forge' of the company's top priority.
-
-**Tactical advice:**
-- Seek out 'rocket ship' projects where you can see how things work under extreme pressure.
-- Alternatively, own a massive, stable area that the company relies on but doesn't micromanage.
-
-*Timestamp: 00:42:12*
-
 
 ## Camille Fournier
-*Camille Fournier*
 
-> "Don't stop being a hands-on technical until you feel like it's in your bones... I do think it's probably somewhere in the 10-year range of really having spent a lot of your time over those years writing code and really understanding how to be a technical expert."
+**Insight:** 
 
-**Insight:** Engineers should achieve deep technical mastery (often requiring ~10 years) before transitioning into management to maintain long-term credibility.
-
-**Tactical advice:**
-- Wait until you have 'internal confidence' in your technical skills before moving to management
-- Don't rush into management just because it's offered early in your career
-
-*Timestamp: 00:21:18*
+*Source: [The things engineers are desperate for PMs to understand | Camille Fournier (author of “The Manager’s Path,” ex-CTO at Rent the Runway)](https://www.youtube.com/watch?v=hZSh0rs20uI) @ 00:21:18*
 
 ---
-
-> "The fact that you really don't own your time as a manager. Your team and your management and the company owns your time... individual contributors often think that if they become a manager, they will still have some of the freedom that they have as a senior individual contributor."
-
-**Insight:** The most surprising shift for new managers is the loss of autonomy over their schedule and the transition to a service-oriented role.
-
-**Tactical advice:**
-- Prepare for a schedule that is reactive to the team's needs
-- Shift mindset from 'command and control' to 'nudging and directing'
-
-*Timestamp: 00:37:08*
-
-
-## Christine Itwaru
-*Christine Itwaru*
-
-> "I'm seeing more PMs, like I said, go into the space. So, it's no longer being seen so much as a threat. It's being seen as this partner... if you love creating that healthy team environment and one where there's cross-functional collaboration and it fuels you to empower the team more, it's a wonderful fit for you."
-
-**Insight:** PMs who are motivated by organizational health and cross-functional efficiency are ideal candidates for transitioning into product operations.
-
-**Tactical advice:**
-- Identify if you enjoy solving 'meta' problems (how the team works) more than specific product problems
-- Transition into product ops if you find fulfillment in empowering other PMs to succeed
-
-*Timestamp: 00:47:41*
-
----
-
-> "I strongly advocate for product ops leaders to have done that role, to have actually had hands-on product experience building and understanding customer problems and feeling that pain, because you very quickly realize where to place your efforts."
-
-**Insight:** Hands-on product management experience is a critical prerequisite for leading a product operations function effectively.
-
-**Tactical advice:**
-- Leverage previous PM experience to identify which processes are actually 'painful' for the product team
-
-*Timestamp: 00:50:45*
-
 
 ## Chip Conley
-*Chip Conley*
 
-> "What I love to see is not so much what roles you've had... Give me, in a paragraph, a thorny problem you faced. What was the problem, and what skills you used to actually accomplish it, and what was the result of that?"
+> "If you think about the caterpillar to butterfly journey, midlife is the chrysalis. Midlife is not crisis."
 
-**Insight:** When transitioning roles, focus your resume on problem-solving narratives rather than just job titles.
+**Insight:** Midlife career transitions should be reframed as a transformative 'chrysalis' stage for growth and reinvention rather than a period of crisis.
 
 **Tactical advice:**
-- Write resume bullet points as 'thorny problems' with clear actions and results
+- Reframe midlife changes as an opportunity for metamorphosis and renewal.
+- Prioritize curiosity and energy over the fear of being an older employee in a young industry.
+- Look for happiness and professional satisfaction in the later arcs of your career journey.
 
-*Timestamp: 00:41:41*
+*Source: [Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school | Chip Conley (founder of MEA)](https://www.youtube.com/watch?v=R5_ypwiRIyo) @ 00:57:28*
 
 ---
 
-> "When you're interviewing, you're also interviewing them. When you're interviewing, it's not about you having to prove yourself. It's also for them to actually prove themselves as a company."
+**Insight:** 
 
-**Insight:** A successful career transition requires a mindset shift where the candidate evaluates the company's culture as rigorously as the company evaluates them.
-
-**Tactical advice:**
-- Approach interviews as a two-way evaluation of alignment
-
-*Timestamp: 00:51:39*
-
-
-## Christopher Miller
-*Christopher Miller*
-
-> "the founder was just like, 'I've read that the cure to all our problems is going to be hiring product manager,' and you heard that and you googled, what is product management, and then you asked them, 'Can I do that?'"
-
-**Insight:** Breaking into product management often requires identifying an unmet need within your current organization and volunteering to fill it.
-
-**Tactical advice:**
-- Identify gaps in the organization where no one owns the customer problem
-- Volunteer for 'shadow labor' or offload tasks from existing PMs to gain experience
-
-*Timestamp: 00:17:22*
+*Source: [Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school | Chip Conley (founder of MEA)](https://www.youtube.com/watch?v=R5_ypwiRIyo) @ 00:51:24*
 
 ---
 
-> "choosing where you want to break in is almost as important as choosing that you want to break in the first place. Thinking about who you're going to be reporting to, thinking about what's the track record of success for people at that company, breaking into product management, trying to think five years in advance and work backwards"
+## Christine Itwaru
 
-**Insight:** When transitioning into PM, prioritize companies with strong mentorship structures and a history of successful internal transfers.
+> "Product operations for a VP or a head of product or a product manager is the creation of some system that allows you to thrive or allows your team to thrive in product management. The second is what we've seen more of over the last couple years, and it's the more common definition. The emergence of the role itself is why it's so common."
 
-**Tactical advice:**
-- Evaluate potential managers based on their ability to coach and sponsor new PMs
-- Look for smaller shops for lower barriers to entry, but be wary of the lack of formal training
-
-*Timestamp: 00:19:13*
-
-
-## Claire Vo
-*Claire Vo*
-
-> "PM is such a generalist role, it's okay to go a little left and a little right to go up. I took this marketing growth role... It wasn't only for product, it was for marketing. And I had to learn marketing... but it was a foundation on which I could build a broader leadership career."
-
-**Insight:** Lateral moves into adjacent functions like marketing or engineering can provide the foundation for broader executive leadership.
+**Insight:** Transitioning into product ops requires shifting your mindset from building customer features to building the internal systems that empower a product organization to scale.
 
 **Tactical advice:**
-- Look for growth opportunities outside the immediate scope of product
-- Use generalist PM skills to fill gaps in other departments
-- Treat lateral moves as a way to develop the breadth needed for C-level roles
+- Identify existing operational pain points in your current organization and volunteer to design the systems that solve them.
+- Highlight your experience in cross-functional alignment and strategic data synthesis when applying for ops roles.
+- Position yourself as a strategic advisor to leadership by providing high-level insights that influence business metrics.
 
-*Timestamp: 00:14:32*
+*Source: [Understanding the role of product ops | Christine Itwaru (Pendo)](https://www.youtube.com/watch?v=tGS-NhxrN_Q) @ 00:47:41*
 
-
-## Dr. Fei Fei Li
-*Dr. Fei Fei Li*
-
-> "I chose to come to Stanford because... I was okay to take a risk of restarting my tenure clock. Becoming the first female director of SAIL, I was actually relatively speaking a very young faculty at that time, and I wanted to do that because I care about that community. I didn't spend too much time thinking about all the failure cases."
-
-**Insight:** Successful career pivots often require a willingness to sacrifice short-term security (like tenure) for long-term impact and community alignment.
-
-**Tactical advice:**
-- Evaluate transitions based on the potential for impact and the quality of the ecosystem/team.
-- Avoid over-focusing on downside risks when a move aligns with your scientific or professional 'North Star'.
-
-*Timestamp: 01:06:42*
-
+---
 
 ## Deb Liu
-*Deb Liu*
 
-> "I always balance learning and impact, which was you can have the most impact, the job you know the best, but then you stop learning. And if you're learning all the time, you're not necessarily having impact. So how do you keep going back and forth and back and forth so that you're not going straight up a lot or you're actually laddering back and forth into different things where you're having an amazing time where you know everything and then you're the newbie again and learning new things."
-
-**Insight:** Career growth is non-linear and requires balancing periods of high impact (using existing mastery) with periods of high learning (being a 'newbie').
+**Insight:** A successful leadership transition relies on a structured plan that prioritizes listening and diagnosing issues over immediate, unilateral decision-making.
 
 **Tactical advice:**
-- Alternate between roles that leverage your expertise and roles that force you to learn new domains
-- Don't fear being the 'newbie' again as it prevents career stagnation
+- Use your first 90 days to diagnose organizational health and build trust with cross-functional partners.
+- Wait to make sweeping changes until you have fully aligned with the team on a shared vision for the future.
+- Establish clear communication channels early to ensure the organization understands your priorities and values.
 
-*Timestamp: 00:03:35*
+*Source: How to own your career growth and become a powerful product leader | Deb Liu, Ancestry (ex-Facebook, PayPal) @ 00:51:00*
 
 ---
 
-> "The people who were most successful were the ones who actually through adversity, learned to turn stumbling blocks into stepping stones. They were the ones who got hard feedback and then came back stronger because now they learned what to do differently."
+## Dr. Fei Fei Li
 
-**Insight:** Resilience and the ability to convert failure or negative feedback into learning are the primary drivers of long-term career success.
+> "No matter which part of the AI development or AI deployment or AI application you are participating in, and most likely many of us, especially as technologists, we're in multiple points. We should act like responsible individuals and care about this."
 
-**Tactical advice:**
-- View hard feedback as a blueprint for improvement rather than a personal failing
-- Focus on 'bouncing back quickly' from product or role failures
-
-*Timestamp: 00:11:40*
-
-
-## Donna Lichaw
-*Donna Lichaw*
-
-> "Pull your superpowers out of your stories from your past and your present, and then eventually figure out how to apply them and transpose them to your future. But if you look at your peak experiences from life, from work, but especially from life... when you can look at these three stories as moments in time and you can lay them on top of one another, what you see at key moments is your superpowers popping through."
-
-**Insight:** To navigate career changes, identify recurring 'superpowers' in your past peak experiences to determine where you will be most effective in the future.
+**Insight:** High-impact career choices in AI should be guided by a sense of personal responsibility and a deep commitment to the technology's societal outcome.
 
 **Tactical advice:**
-- Analyze three distinct peak experiences (childhood, recent past, and career path) to find common themes that define your unique strengths.
+- Act like a responsible individual across all stages of AI development and deployment.
+- Care deeply about how your specific applications impact your community and society.
+- Align career choices with curiosity-driven problems that have civilizational impact.
 
-*Timestamp: 00:44:58*
+*Source: [The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=Ctjiatnd6Xk) @ 01:05:25*
 
+---
 
-## Dmitry Zlokazov
-*Dmitry Zlokazov*
+## Elena Verna 4.0
 
-> "It's a quite substantial part of product owners who eventually become very successful by the way. So it's like a positive self-select, so it means that someone already succeeded in another role. So it's a guaranteed culture match, it's a guaranteed domain knowledge, and then they simply grow. Usually it could be operations managers or engineers."
-
-**Insight:** Internal transfers from operations or engineering often become the most successful product owners due to existing domain knowledge and culture fit.
-
-**Tactical advice:**
-- Look for high-performing engineers or ops managers to transition into product roles
-- Leverage internal transfers to ensure a 'guaranteed culture match' in the product org
-
-*Timestamp: 00:21:18*
-
-
-## Elizabeth Stone
-*Elizabeth Stone*
-
-> "I have been surrounded by amazing people in all these roles and I have a feeling that I learned a lot by osmosis and observation and then have been able to leverage that to be stronger in the roles I was sitting in."
-
-**Insight:** Rapid career advancement is often fueled by active observation of peers and leaders to identify what works and what doesn't.
+**Insight:** Prospective employees must determine if they possess the boundary-setting skills and appetite for chaos required to succeed at a once-in-a-lifetime growth company.
 
 **Tactical advice:**
-- Watch what successful people do and decide what to adopt or reject based on your authentic style
-- Use 'osmosis' by surrounding yourself with high-performers during transitions
+- Assess your personal ability to set boundaries in an 'always-on' startup environment.
+- Evaluate whether you prefer optimization work or the high-stakes innovation required in AI.
+- Determine if your career stage allows for the intensity of a company growing at record speeds.
 
-*Timestamp: 00:12:57*
+*Source: Elena Verna 4.0 @ 01:09:00*
 
-
-## Elena Verna
-*Elena Verna 3.0*
-
-> "Full-time jobs are not the best way to monetize the skill that you have... My goal professional is actually to have options so I can choose what I want to do... Career optionality, being the ultimate north star for anybody in their professional journey."
-
-**Insight:** Focusing on career optionality rather than specific titles allows for a more flexible and satisfying professional life.
-
-**Tactical advice:**
-- Evaluate every career move based on whether it increases your future options (e.g., advisory, fractional, or interim roles).
-- Earn the right to optionality by building deep expertise in full-time roles before transitioning to horizontal work like consulting.
-
-*Timestamp: 01:20:08*
-
-
-## Eli Schwartz
-*Eli Schwartz*
-
-> "Build that growth advising muscle by staying on your day job. Don't quit your day job, and moonlighting and practice selling, closing, working, retaining, and that's where if you're successful there, you can be successful on your own."
-
-**Insight:** Transitioning to a growth advisor role requires developing sales and client management skills while still employed, rather than just relying on operational expertise.
-
-**Tactical advice:**
-- Practice 'selling' and 'closing' through moonlighting before leaving a full-time role
-- Focus on building a personal brand and consultancy framework rather than just being a 'freelance operator'
-
-*Timestamp: 01:46:11*
-
-
-## Eric Ries
-*Eric Ries*
-
-> "pivot is defined as a change in strategy without a change in vision. So we have this idea that the founder has the vision, then they try to figure out how to make the vision happen and they find a different way, but the vision stays constant."
-
-**Insight:** A pivot is a strategic shift that maintains the original vision while changing the path to get there.
-
-**Tactical advice:**
-- Maintain fidelity to the vision
-- Change the strategy based on learning
-- Acknowledge that the vision itself may be discovered through the process
-
-*Timestamp: 01:09:04*
-
+---
 
 ## Fareed Mosavat
-*Fareed Mosavat*
 
-> "We are seeing a larger percentage of our executive network... working on things like newsletters, podcasts... full-time advisors, fractional heads of growth, fractional heads of product one day a week... they love it because of the flexibility that it creates for them. They love it because of the high upside and non-linearity of possibility."
+**Insight:** 
 
-**Insight:** Senior product leaders are increasingly transitioning to 'portfolio careers' that combine advisory, fractional leadership, and content creation.
+*Source: [How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Zynga, Pixar)](https://www.youtube.com/watch?v=oo0jSep7pzc) @ 00:34:08*
+
+---
+
+**Insight:** 
+
+*Source: [How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Zynga, Pixar)](https://www.youtube.com/watch?v=oo0jSep7pzc) @ 00:50:05*
+
+---
+
+## Farhan Thawar
+
+> "If you do the hard path and it doesn't work, actually you still win because you've now done something hard. You've probably worked with smart people. You've learned something along the way that is valuable."
+
+**Insight:** Choosing the more difficult career path ensures that even if you fail, you gain valuable skills and build a network of high-caliber people.
 
 **Tactical advice:**
-- Develop 'specific knowledge' in a narrow niche where you can be among the best in the world
-- Work at high-growth, reputable companies to build the professional 'clout' necessary for advisory roles
-- Generalize your operating lessons into frameworks that can be applied across different industries and company stages
+- Opt for the harder project or role to maximize learning and exposure to top-tier talent.
+- Evaluate opportunities based on their potential for skill acquisition rather than just the likelihood of success.
+- Intentionally place yourself in challenging environments where you are forced to learn from others.
 
-*Timestamp: 00:50:41*
+*Source: [How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)](https://www.youtube.com/watch?v=C_lhMOjG7PE) @ 00:05:42*
 
+---
 
 ## Gergely
-*Gergely*
 
-> "I told myself, if four years later Uber exits and I make a bunch of money, I owe it to myself to take a risk, because then I'll have four years of savings in my bank... I decided to leave Uber. And we'll talk about it a little later in the podcast, but I didn't plan like this, but I started writing a newsletter."
+> "I told myself, if four years later Uber exits and I make a bunch of money, I owe it to myself to take a risk, because then I'll have four years of savings in my bank, which... Back then I had maybe six months of savings or something. So this was the promise to myself."
 
-**Insight:** Financial safety nets from equity exits can provide the necessary runway to transition from a stable corporate career to high-risk entrepreneurial or creative paths.
-
-**Tactical advice:**
-- Use a major financial milestone (like an IPO or stock vesting) as a pre-planned trigger to take a professional risk.
-- Ensure you have at least several years of savings before walking away from a high-compensation role to pursue a non-traditional path.
-
-*Timestamp: 00:15:32*
-
-
-## Gibson Biddle
-*Gibson Biddle*
-
-> "In your career, it's just a lot like building a product. You have theories and hypotheses, you find ways to experiment with them, and then you were successful or you failed."
-
-**Insight:** Treat your career as a product by running small experiments to test hypotheses about new roles or industries.
+**Insight:** Financial security from a major career milestone can be the necessary catalyst and safety net for taking high-stakes entrepreneurial risks.
 
 **Tactical advice:**
-- Formulate a career hypothesis (e.g., 'I would enjoy teaching')
-- Run a 'baby step' experiment to test the hypothesis with low risk
-- Iterate on your career direction based on experimental results
+- Set a specific financial or temporal milestone as your pre-planned trigger to leave a corporate role.
+- Build a multi-year savings buffer to reduce the pressure of immediate profitability in your new venture.
+- Identify organizational shifts, such as layoffs or reorgs, as optimal windows for executing a planned departure.
 
-*Timestamp: 54:50*
+*Source: [Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)](https://www.youtube.com/watch?v=CtB0O0M7YS0) @ 00:13:20*
 
+---
+
+## Gina Gotthilf
+
+> "Because I think that most of us have a lot of B-moments every day, every week, every month and every period of our lives. And it's easy to think that things aren't just not going to work out for us because we're in one of those B-moments, if we don't recognize them as moments."
+
+**Insight:** Career success is rarely linear, and setbacks like layoffs or aimlessness should be viewed as temporary 'B-side' moments rather than permanent failures.
+
+**Tactical advice:**
+- View professional setbacks as temporary 'B-side' moments in a larger success narrative.
+- Stay resilient by getting back on the horse immediately after layoffs, visa issues, or firings.
+- Focus on the psychology of how others perceive value to better tell your story when navigating career transitions.
+
+*Source: [Scaling Duolingo, embracing failure, and insight into Latin America’s tech scene | Gina Gotthilf (Latitud, Duolingo)](https://www.youtube.com/watch?v=sWClFYdbkRA) @ 00:07:41*
+
+---
 
 ## Gokul Rajaram
-*Gokul Rajaram*
 
-> "I think great careers are built by knowing a lot of people doing great work so they know and want you on their teams, and just waiting for serendipity and then seizing it and jumping."
+> "Ultimately you don't realize this, but the value of working at a leader in any space, the quality of talent you work with, the brand, the network effect, so many things accrue to you. I would much rather be the number two or number three person. If you think of it that way, and the leader in a space, than the top person."
 
-**Insight:** Career growth is often non-linear and driven by building a network of high-performers and remaining open to serendipitous opportunities.
+**Insight:** Prioritize joining a category leader over a higher title at a secondary player because the brand equity and elite network of a winner provide superior long-term career leverage.
 
 **Tactical advice:**
-- Prioritize building relationships with smart people over linear promotion paths
-- Help others without expecting immediate returns to build a 'reservoir of goodwill'
-- Be curious about what others are working on outside your core role
+- Assess founders for an authentic, mission-driven mindset rather than a primary focus on revenue or personal wealth.
+- Join mid-stage companies (300–500 employees) that have achieved product-market-channel fit and are transitioning from a single product into a platform.
+- Cultivate professional serendipity by staying curious about other teams' work and building a reservoir of goodwill through helpfulness.
 
-*Timestamp: 00:05:57*
+*Source: [Gokul Rajaram on designing your product development process, when and how to hire your first PM, a playbook for hiring leaders, getting ahead in you career, how to get started angel investing, more](https://www.youtube.com/watch?v=5p0VK_-BoJI) @ 00:07:36*
 
 ---
-
-> "I would much rather be the number two or number three person... in the leader in a space, than the top person. Say Google versus Yahoo. I saw even if you're the VP of product at Yahoo or the head of product at Yahoo versus a ICPM at Google, you probably want to be the ICPM at Google."
-
-**Insight:** Joining a market leader provides an 'unfair brand halo' and access to higher-caliber talent that outweighs a more senior title at a secondary player.
-
-**Tactical advice:**
-- Prioritize the company's market position over your individual title
-- Evaluate if a company has the potential to be the #1 player in its segment before joining
-
-*Timestamp: 00:11:25*
-
----
-
-> "People who are joining the workforce new should generally join mid-stage companies because mid-stage companies you get some mentorship and it's not just basically whatever needs to be done and ultimately you don't build any deep skills. So mid-stage company I would define as something that is a multi hundred person company, but not maybe a thousand person company."
-
-**Insight:** Mid-stage companies (300-500 people) offer the best balance of structured mentorship and the opportunity to build deep, specialized skills.
-
-**Tactical advice:**
-- Look for companies that have reached product-market-channel fit
-- Target companies transitioning from a single product to a platform with multiple interlocking products
-
-*Timestamp: 00:12:46*
-
 
 ## Graham Weaver
-*Graham Weaver*
 
-> "Imagine that you're walking home from work and you see this bright, shiny object. You walk over and you realize it's a magic lamp. And you rub the lamp and this genie comes out and the genie says, 'Hey, I haven't been in this bottle for 10,000 years yet, so I'm not fully formed. So I can't give you three wishes. But what I can do is I can give you one wish. And the wish I can give you is whatever you throw yourself into with your whole life and your career, it's going to turn out great.'"
+> "I can tell that their heart and their soul and their energy is really for B. That's really what they want, but they're talking themselves out of B, and they're going to talk themselves into A. So what I try to do is, A, first, I try to let them realize that their real energy is for B, just let them feel that and understand that."
 
-**Insight:** Use the 'Genie Framework' to identify your true career desires by removing the fear of failure from the equation.
+**Insight:** Career satisfaction is found by choosing the path that generates internal energy rather than the one that looks best on a logical "pros and cons" matrix.
 
 **Tactical advice:**
-- Ask yourself what you would pursue if success were guaranteed
-- Identify the 'genie goal' that is closest to your heart
-- Work backwards from a successful 10-year outcome to determine your current path
+- Visualize what you would choose if success were guaranteed to identify your "genie goal."
+- Notice which career option actually sparks your internal heart and soul energy.
+- Stop using logical lists of pros and cons to talk yourself out of the path you actually want.
 
-*Timestamp: 00:09:19*
+*Source: [How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor, founder of Alpine Investors)](https://www.youtube.com/watch?v=UpGR9P0Ufts) @ 00:06:10*
 
 ---
 
-> "The biggest question I think with respect to your career is, within reason, what would you do if you knew you wouldn't fail?"
+> "If I'm optimizing for tomorrow and I just want to have a great day tomorrow, I'm going to stay exactly where I am. So many people I see have this happen, where they hit a plateau and they never move past it, because they're not willing to have that hard day, month, week, year."
 
-**Insight:** Identifying your ideal career path requires stripping away the subconscious fear of failure.
+**Insight:** Deciding whether to quit depends on recognizing if you are simply in the "worse first" stage of a worthwhile journey or stuck on a plateau because you are optimizing for short-term comfort.
 
 **Tactical advice:**
-- Ask: 'If you didn't have to make money, what would you do?'
-- Identify 'play' for you that is 'work' for others
-- Identify the thing you want to do but are too embarrassed to say out loud
+- Evaluate if your desire to stop is driven by the temporary discomfort of the "worse first" phase of growth.
+- Ask yourself if you are staying in your current role just because you are optimizing for a comfortable tomorrow.
+- Distinguish between suffering that leads to a better version of yourself and suffering that has no long-term value.
 
-*Timestamp: 00:16:08*
+*Source: [How to break out of autopilot and create the life you want | Graham Weaver (Stanford GSB professor, founder of Alpine Investors)](https://www.youtube.com/watch?v=UpGR9P0Ufts) @ 01:00:37*
 
 ---
 
-> "You basically come up with nine lives. So you say your first life, life one is the life you have now... The first rule is all the lives have to start from today... And the second rule is you have to be excited about all these lives."
+## Gustaf Alstromer
 
-**Insight:** The 'Nine Lives' exercise helps de-risk career exploration by allowing you to envision multiple fulfilling paths simultaneously.
-
-**Tactical advice:**
-- List nine different lives/careers you would be excited to start today
-- Identify which life gives you the most energy
-- Pull elements of those 'other lives' into your current life as side projects or hobbies
-
-*Timestamp: 00:43:23*
-
-
-## Hari Srinivasan
-*Hari Srinivasan*
-
-> "I'd really start zoning in on roles where you might see if you don't have the functional experience, the industry experience. I think that would go a long way as how to help you differentiate from yes, what's probably more candidates, or more applications going into each role."
-
-**Insight:** When pivoting roles, leverage deep industry knowledge to differentiate yourself from candidates with more functional experience.
+**Insight:** The skills required for climate tech—product management, software engineering, and growth—are identical to those used in traditional tech companies.
 
 **Tactical advice:**
-- Target roles where your previous industry background provides a unique advantage
-- Add specific credentials and work products to your skills profile to provide evidence of capability
+- Apply standard SaaS and product management frameworks to decarbonization and carbon accounting problems.
+- Look for climate startups that require digital solutions rather than just deep-tech hardware.
+- Focus on roles in the climate sector where your existing tech stack or PM experience can be directly applied.
 
-*Timestamp: 00:24:30*
+*Source: Gustaf Alstromer @ 00:58:53*
 
+---
+
+## Inbal S
+
+> "I joined GitHub as a CPO basically a year ago. Two days ago, I celebrated my first year. And for me, the initial approach is let's look at the platform, let's look at the software development lifecycle, and draw some conviction."
+
+**Insight:** A successful transition to CPO involves auditing the existing product lifecycle to establish strong convictions about the environment and tools your team needs.
+
+**Tactical advice:**
+- Evaluate the developer environment and tooling as the foundation for productivity.
+- Analyze the entire software development lifecycle to identify where table-stakes technology like AI is missing.
+- Build conviction based on platform data before making major strategic shifts.
+
+*Source: [The future of AI in software development | Inbal Shani (CPO of GitHub)](https://www.youtube.com/watch?v=f10s3rxKaJw) @ 00:39:20*
+
+---
 
 ## Jackie Bavaro
-*Jackie Bavaro*
 
-> "Being a manager is not as much fun as being an IC. It's a lonely job. When your team goes out for drinks, they treat you differently when you're the manager than when you're one of the other ICs. It's more painful and less fun."
-
-**Insight:** The transition to management involves a significant social and emotional shift that many ICs are unprepared for.
+**Insight:** Differentiate between managing a product and managing people to understand that your early career growth is about product ownership rather than personnel oversight.
 
 **Tactical advice:**
-- Consider the 'loneliness' factor before pursuing a management track
-- Treat the move to management as a 'two-way door' that you can reverse if it doesn't fit
+- Focus on managing the product's direction and requirements early in your career.
+- Recognize that 'Product Manager' is a title of ownership over results, not a direct people-management role.
+- Apply for PM roles even if you feel underqualified to manage others, as the job is primarily about influence.
 
-*Timestamp: 16:01*
+*Source: Jackie Bavaro on getting better at product strategy, what exactly is strategy, PM pitfalls to avoid, advancing your career, getting into management, and much more @ 16:01*
 
 ---
 
-> "I think understanding that there's different ways to grow your impact and grow your career, other than getting promoted to people management... you can make a lot of money without getting that promotion title. If you're working at a small company, if you're working with other companies that isn't the highest paying company, you'll make a lot more money by switching companies than you will by getting promoted at your current company."
+## Jag Duggal
 
-**Insight:** Career growth and financial success do not strictly require moving into people management.
+**Insight:** Professional setbacks can be overcome by leveraging deep industry expertise and moving toward companies with cultures that align with your personal values.
 
 **Tactical advice:**
-- Use sites like levels.fyi to understand IC compensation benchmarks
-- Look for high-impact IC roles in platform or partnership teams
+- Look for companies where the stated values resonate with you on a personal level during the interview process.
+- Vet if a company's culture is 'alive' in employees' minds or just a sign on the wall.
+- Leverage past experiences at major tech incumbents to implement rigorous product tradecraft at startups.
 
-*Timestamp: 17:38*
+*Source: [Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google, Quantcast)](https://www.youtube.com/watch?v=8A7wXK2MncQ) @ 01:12:55*
 
 ---
-
-> "One mistake I see people make early in their career is they are trying to overdo it... A lot of times you've been assigned a problem where a huge creative solution is a bad idea. If you're in one of the situations, just do the simple thing, get it done really well. And that'll earn you the trust to be able to take on bigger things in the future."
-
-**Insight:** Early career success is built on reliable execution of narrowly scoped tasks rather than reinventing the wheel.
-
-**Tactical advice:**
-- Focus on doing the 'simple thing' exceptionally well for your first projects
-- Avoid over-engineering solutions for constrained problems
-
-*Timestamp: 39:27*
-
 
 ## Janna Bastow
-*Janna Bastow*
 
-> "Being a PM actually provides you with a lot of the skills and background to be a founder, to be a CEO. It gives you a lot of chance to work with a lot of the different teams and see a lot of the underpinnings of how business works."
+**Insight:** Transitioning from a product manager to a founder is often driven by identifying a gap in the tools or communities available to your own professional peer group.
 
-**Insight:** Product management is an excellent training ground for entrepreneurship because it exposes you to cross-functional business operations.
+*Source: [Building better product roadmaps | Janna Bastow (Mind the Product, ProdPad)](https://www.youtube.com/watch?v=W3cvqPCGcck) @ 00:48:58*
 
-**Tactical advice:**
-- Work closely with leadership in current roles to observe how business decisions are made
-- Surround yourself with advisors for different functional areas (legal, finance, etc.) to fill knowledge gaps when starting a company
-
-*Timestamp: 48:58*
-
+---
 
 ## Jason Shah
-*Jason Shah*
 
-> "The framework I like is ladder versus map, and I think that you can be either person that any point in your life... Ladder is about moving up. It's more influence, more power, a higher title, things like this, whereas map is I just want to go wherever's interesting... I'm okay with discomfort because it's interesting."
+> "So, my career has all been about solving important problems in a unique way. I think the latter part is the youngest child in me who has to be special and do things different than other people, and the former is about making sure that my time is spent well since we're all limited there."
 
-**Insight:** Viewing a career as a 'map' rather than a 'ladder' allows for more growth through diverse, interesting, and high-risk experiences.
-
-**Tactical advice:**
-- Prioritize interesting problems and character-building experiences over linear title progression.
-- Accept short-term discomfort or 'risky' moves if they lead to unique learnings and stories.
-
-*Timestamp: 00:46:46*
-
-
-## Jules Walter
-*Jules Walter*
-
-> "making that initial transition is really hard. What I've seen is the path that we just talked about, join a startup and then from there go into different companies. And then the other path that is typical is being at a company and then switching product management, especially if you develop domain expertise and there's a need for a PM."
-
-**Insight:** Breaking into product management usually requires either joining an early-stage startup to get the title or transitioning internally at a company where you already have domain expertise.
+**Insight:** When navigating a career, prioritize roles that allow you to solve significant problems using your unique strengths and personal perspective.
 
 **Tactical advice:**
-- Join a startup as one of the first PMs to establish a track record.
-- Leverage existing domain expertise to switch into a PM role within your current company.
+- Evaluate potential roles based on whether the problem being solved is truly 'important.'
+- Look for environments where you can apply a 'unique way' of working that matches your personality.
+- Move on from roles where you feel unproductive or unable to ship regularly.
 
-*Timestamp: 00:06:46*
+*Source: [Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)](https://www.youtube.com/watch?v=nMsA5VeLoOM) @ 00:46:46*
 
+---
 
-## Julia Schottenstein
-*Julia Schottenstein*
+## Jeffrey Pfeffer
 
-> "I do have an unusual background, but it doesn't surprise me that people who are interested in product are also interested in investing and vice versa. For me, I've always had three interests broadly and that's an interest in business, an interest in technology and an interest in markets. And I get to express those interests both in investing and in product, but just with different weights."
+> "I think it makes people uncomfortable because the realities of what it takes to get power bear almost no resemblance to what you're taught in Sunday school or the mosque or wherever, how your parents raised you. They bear almost no resemblance to how we think the world ought to be."
 
-**Insight:** Transitioning between VC and Product is natural because both roles require a balance of business, technology, and market analysis.
-
-**Tactical advice:**
-- Identify the common threads between your current role and your target role (e.g., business, tech, and markets).
-- Leverage high conviction in a specific product or company to facilitate a move from investing into an operating role.
-
-*Timestamp: 00:04:34*
-
-
-## Karina Nguyen
-*Karina Nguyen*
-
-> "When I first came to Anthropic and I was like, "Oh my God, I really love front-end engineering." And then the reason why I switched to research is because I realized, "Oh my God, Claude is getting better at front-end. Claude is getting better at coding. I think Claude can develop new apps.""
-
-**Insight:** The rapid advancement of AI in technical domains like coding can necessitate a career pivot from execution-focused roles to research-focused roles.
+**Insight:** Evaluating career growth requires accepting that the path to influence involves trade-offs that may clash with idealistic personal values or upbringing.
 
 **Tactical advice:**
-- Monitor the capabilities of the models you are building with to see if they are beginning to automate your own core technical skills.
+- Decide if you are willing to adopt the pragmatic behaviors required to gain and wield influence.
+- Prepare for the psychological discomfort of navigating how organizations actually work versus how they should work.
+- Evaluate the loss of privacy or autonomy against the tangible benefits of increased power and salary.
 
-*Timestamp: 00:00:06*
+*Source: [The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (author of 7 Rules of Power, professor at Stanford GSB)](https://www.youtube.com/watch?v=etVCBDRXUH8) @ 01:10:57*
 
+---
 
-## Julie Zhuo
-*Julie Zhuo 2.0*
+## Keith Coleman & Jay Baxter
 
-> "I think it's so easy for a young person to go into their career and everyone is telling them... 'You need to get that manager title.'... I think sometimes people opt into this without knowing what they're actually signing up for. What are the trade-offs? And is that really what you want to do?"
-
-**Insight:** Career unhappiness often stems from a mismatch between desired lifestyle/rewards and the actual daily work required for a role.
-
-**Tactical advice:**
-- Evaluate if a promotion to management aligns with your actual passions or just external pressure.
-- Define your goals (e.g., 'deepening craft' vs. 'VP title') before committing to a new career path.
-
-*Timestamp: 00:53:17*
-
-
-## Kenneth Berger
-*Kenneth Berger*
-
-> "I was fired from Slack three different times... I spent that year being fully out of integrity with myself. Never saying what I really wanted, how I really felt because it didn't feel safe. I was too scared. I kept it all inside. And it took me six months or a year even after that to really feel safe and okay again."
-
-**Insight:** Failing to advocate for yourself and ignoring feedback can lead to career setbacks and significant emotional burnout.
+**Insight:** Returning to a hands-on building role allows a leader to focus on zero-to-one product development without the overhead of a large management structure.
 
 **Tactical advice:**
-- Articulate what success looks like early in a new role
-- Listen to 'nos' from management as data points rather than personal attacks
-- Stay in integrity by expressing your true feelings and desires even when it feels risky
+- Assess whether your impact is maximized through direct building or organizational scale.
+- Look for high-leverage roles that prioritize lean, fast-paced execution over headcount.
 
-*Timestamp: 00:45:38*
+*Source: [An inside look at X’s Community Notes | Keith Coleman (VP of Product) and Jay Baxter (ML Lead)](https://www.youtube.com/watch?v=8dgyqYHLcCI) @ 00:30:19*
 
+---
 
 ## Kevin Yien
-*Kevin Yien*
 
-> "I discourage people from going straight into product management. If they want to become product managers, you encourage them to start somewhere else first. Why is that? ... The people that should be doing that are the people who are building it. That's an engineer, that's a designer, that's a sales person or a support person."
-
-**Insight:** The best foundation for product management is starting in a role that directly builds or sells the product to understand the core value loop.
+**Insight:** Reframing professional setbacks as environmental mismatches helps protect a product manager's identity and long-term career growth.
 
 **Tactical advice:**
-- Start as an engineer, designer, or salesperson to gain exposure to building and customer problems.
-- Use these roles to develop a unique perspective before transitioning into a formal PM role.
+- Separate your personal identity from your job performance or employment status during layoffs.
+- Analyze past failures to identify if the issue was your skill set or a lack of organizational fit.
+- Use setbacks as opportunities to seek out environments that better align with your natural strengths.
 
-*Timestamp: 00:03:45*
+*Source: [Unorthodox PM wisdom: Automating user insights, unselling job candidates, logging every decision, more | Kevin Yien (Stripe, Square, Mutiny)](https://www.youtube.com/watch?v=xOTO98MXG9o) @ 01:06:25*
 
 ---
 
-> "I land my first official, by title, PM job at a startup. I made it. I've arrived... the company is really struggling and so we go through a series of rolling layoffs and I'm round 4 something... my identity that has been completely crushed... I thought I was a product manager. This is evidence I am not."
+## Laura Modi
 
-**Insight:** Career setbacks like layoffs can trigger identity crises, but it's crucial to separate personal competence from business needs or environmental fit.
+> "And it's a big thing to take a risk because you're taking 10 steps backwards in hopes of making major leaps forward. And I think that's just always kind of been a narrative mostly in my career, which is I don't believe there's such a thing as taking a big leap without first taking a major risk, and that was."
 
-**Tactical advice:**
-- Reflect on what was in your control versus what was a result of the business environment.
-- Recognize that failing in one 'habitat' doesn't mean you lack the skills to flourish in another.
-
-*Timestamp: 01:06:44*
-
-
-## Lane Shackleton
-*Lane Shackleton*
-
-> "Moments that stretch you or moments that you feel uncomfortable in or you find yourself saying, "Oh shit. I shouldn't be here," or, "I'm under qualified to be here," those are the moments you should be seeking out. Those are the moments that stretch you and give you a new foundation. So oftentimes you'll hear a career question like, "Hey, do you feel like you're growing in your role?" And that's a very ambiguous, in my opinion, way to ask this question. A much sharper way is like, "Hey, how many, oh shit moments have you had in the last six months, year, two years, and what are they?""
-
-**Insight:** Measure career growth by the frequency of 'oh shit' moments where you feel stretched or underqualified.
+**Insight:** Major career leaps often require a temporary reduction in stability or status to unlock exponential long-term potential.
 
 **Tactical advice:**
-- Seek out roles or projects that make you feel uncomfortable or underqualified.
-- Audit your last 6-24 months to count specific moments of significant stretching.
+- Perform deep intentional research on the marketplace and business viability before resigning.
+- Assess your financial runway to determine how long you can go before needing outside capital.
+- Wait for deep personal conviction in an idea rather than jumping on every creative spark.
 
-*Timestamp: 00:00:00*
-
-
-## Lauren Ipsen
-*Lauren Ipsen*
-
-> "I think breadth is incredibly important. It's so critical, especially if someone has an end goal of wanting to step into a product leadership role to have been able to have touched lots of different components, as opposed to specializing in one specific thing."
-
-**Insight:** To reach senior product leadership, PMs should optimize for breadth of experience across different product types and business units.
-
-**Tactical advice:**
-- Rotate through different areas like platform, core product, growth, or monetization.
-- Mix experience between early-stage entrepreneurial roles and established 'academy' companies.
-
-*Timestamp: 00:37:51*
+*Source: [How to build a cult-like brand | Laura Modi (Bobbie)](https://www.youtube.com/watch?v=hzBo5c7p7VU) @ 00:11:48*
 
 ---
 
-> "Logo collecting is never something that you want to be known for... but there's also something to be said about staying somewhere too long though. And I will say that. I think sometimes you find people that are almost loyal to a fault... I think sometimes in your career you do have to be a little bit more selfish and think about what's going to be best for you in the long haul."
+## Lazar Jovanovic
 
-**Insight:** Balance the need for tenure and impact with the necessity of moving on when a company's growth plateaus.
+> "It became a job by building in public. You don't need a company to hire you. You can hire yourself as a professional vibe coder first."
+
+**Insight:** You can establish yourself in the emerging vibe coder career path by building products in public rather than waiting for traditional hiring.
 
 **Tactical advice:**
-- Avoid 'jumping' patterns (less than a year) unless there is a clear, honest reason.
-- Ensure you stay long enough to leave a 'fingerprint' or measurable impact that others can verify.
+- Build in public to demonstrate your ability to ship production-ready products using AI.
+- Maintain a 'positively delusional' mindset that assumes all technical challenges are solvable.
+- Shift your professional focus from technical execution to optimizing for clarity and judgment.
 
-*Timestamp: 00:41:27*
+*Source: [The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic (Professional Vibe Coder)](https://www.youtube.com/watch?v=0XNkUdzxiZI) @ 00:05:00*
 
 ---
 
-> "Work backwards from a goal for sure, but don't allow titles or valuation bubbles or other things to derail something that feels good. If you're in a role and you feel like you're making an impact and you're learning and you're growing and are excited about the work you're doing, do not allow a title of some other company to make you feel like what you're doing isn't worthwhile."
+## Lenny Rachitsky
 
-**Insight:** Career satisfaction should be driven by growth and impact rather than chasing external validation like titles or valuations.
+> "What skills do companies look for in a PM? What do PMs need to get right to get promoted? How much influence do PMs have at different companies? There’s surprisingly little information out there about the differences in the PM role across the industry."
 
-**Tactical advice:**
-- If your goal is CEO, move from product into GM roles with P&L ownership.
-- Ignore title-only 'step ups' if the current role offers better learning and impact.
-
-*Timestamp: 00:56:32*
-
-
-## Manik Gupta
-*Manik Gupta*
-
-> "One inflection point that I've seen is, when you go from being a manager, a first line manager, to becoming a manager of managers, and if you're able to navigate that with very strong effectiveness, then you know... Because managing ICs is so different from managing managers, because then you now need to create a structure. You need to be able to determine how much you delegate. How do you coach? How do coach your managers to do the right thing?"
-
-**Insight:** The transition from managing individual contributors to managing other managers is a critical career inflection point that requires shifting focus toward organizational structure and coaching.
+**Insight:** PM culture is not monolithic; it is defined by a specific combination of valued skills, promotion criteria, and the level of influence granted relative to other functions.
 
 **Tactical advice:**
-- Focus on building scalable structures rather than managing individual tasks.
-- Develop a coaching framework to help your direct reports become better managers themselves.
+- Analyze a potential employer's orientation toward 'Heart,' 'Hands,' or 'Head' to ensure cultural alignment with your working style.
+- Inquire about specific promotion criteria to see if the company values business impact, manager satisfaction, or stakeholder management.
+- Determine the level of PM influence relative to design and engineering to ensure the role provides the agency you expect.
 
-*Timestamp: 00:49:38*
+*Source: [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/a-comprehensive-survey-of-product-management)*
 
+---
 
-## Maggie Crowley
-*Maggie Crowley*
+> "There are countless opportunities to make a big impact and grow your career by transitioning into web3. But it can be an opaque process and a risky decision. So let’s prepare you for web3."
 
-> "If you can get someone to stamp you with the product manager role, take it. Because... it's what we screen on... once you get that first job, it all gets easier."
-
-**Insight:** Breaking into product management often requires securing the title first, as hiring managers heavily screen for prior PM experience.
-
-**Tactical advice:**
-- Seek lateral moves within your current company to get the PM title
-- Target startups where you can convince a founder to take a chance on you
-- Stay at a company long enough to see 2-3 cycles of the same product to learn the consequences of your decisions
-
-*Timestamp: 00:31:42*
-
-
-## Marty Cagan
-*Marty Cagan 2.0*
-
-> "You can raise your game so that you actually can contribute at this level. That's what you should do for your own career, but by the way, and not accidentally, that's what your company needs you to do... At a minimum, your company will appreciate it and probably promote you because you will be one of the few that actually understands these things."
-
-**Insight:** PMs can transition from 'feature team' roles to 'empowered' roles by proactively upskilling in value and viability.
+**Insight:** Moving into web3 requires a shift from the structured, specialized roles of traditional tech toward a versatile, high-execution model focused on community success.
 
 **Tactical advice:**
-- Perform a self-assessment to identify gaps between project management and true product management.
-- Take agency to move from being a 'backlog administrator' to a 'creator' within your current company.
+- Broaden your skill set to include owning incentives, partnerships, and community management.
+- Accept high levels of ambiguity and the lack of traditional career ladders or performance reviews.
+- Engage publicly on Discord and Twitter to build trust and community rather than seeking internal alignment.
 
-*Timestamp: 00:24:09*
+*Source: [A product manager’s guide to web3](https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3)*
 
+---
 
-## Matt MacInnis
-*Matt MacInnis*
+> "My approach to making this transition was simple—and I would suggest the same approach to you: 1. Ask 2. Learn 3. Do"
 
-> "It's why as an early career product manager, or it's why frankly at any stage of your career when you want to learn, you should join a winning team... I want to hear what they learned from being part of a winning team. And that's sort of one of my go to heuristics when I'm looking at candidate profiles."
-
-**Insight:** Joining a successful, high-growth company provides more valuable learning than joining a struggling one.
-
-**Tactical advice:**
-- Prioritize joining 'winning' teams where you can observe success patterns firsthand.
-- Look for companies in 'crazy growth mode' to accelerate your career learning.
-
-*Timestamp: 00:15:57*
-
-
-## Maya Prohovnik
-*Maya Prohovnik*
-
-> "I think that people who get acquired, especially founders, actually go through a relatively deep depression and existential crisis after getting acquired... you're like, wait, what is my job now?"
-
-**Insight:** The transition from startup founder to large-company executive often involves a difficult psychological shift and loss of identity.
+**Insight:** Successfully transitioning to a growth PM role requires a proactive combination of communicating intent to leadership, mastering growth theory, and demonstrating value through hands-on projects.
 
 **Tactical advice:**
-- Acknowledge the 'post-acquisition depression' as a common experience for founders
-- Seek support from other acquired founders who have navigated the transition
-- Focus on the new scale of impact rather than the loss of total ownership
+- Explicitly tell your manager that you are interested in moving into a growth-focused role and ask for a plan to get there.
+- Identify specific growth skill gaps and build a learning plan to address them while remaining in your current position.
+- Find opportunities to execute small-scale growth experiments or help existing growth teams to prove you can do the work.
 
-*Timestamp: 00:43:59*
+*Source: [Breaking into growth](https://www.lennysnewsletter.com/p/breaking-into-growth)*
 
+---
+
+> "Hybrid workers are the happiest, but remote workers are surprisingly happy as well. These findings challenge the standard narrative that in-office work inherently creates stronger engagement, belonging, or job enjoyment."
+
+**Insight:** While hybrid work provides the highest immediate job satisfaction, in-office work is often viewed as a better hedge for long-term career progression and security.
+
+**Tactical advice:**
+- Choose a hybrid work setup to achieve the optimal balance of day-to-day happiness and professional belonging.
+- Evaluate if a fully remote setup is worth the potential trade-off in long-term career optimism compared to in-office peers.
+- Prioritize flexible work arrangements over superficial office perks like free food or games.
+
+*Source: [How tech workers really feel about work right now](https://www.lennysnewsletter.com/p/how-tech-workers-really-feel-about-work-right-now)*
+
+---
+
+> "My goal in sharing this Minimum Viable Interview Prep (MVIP) process is to arm you with the employer and interviewer perspective so that you can build confidence in your job search. I’m passionate about helping people with job searching because I know how much the right role can set you up for success in your career and financial life."
+
+**Insight:** First-round interviews are high-stakes filters that require a strategic, employer-focused preparation system rather than exhaustive memorization.
+
+**Tactical advice:**
+- Audit your digital footprint to ensure your online content reflects your target role.
+- Mirror the job description’s language when describing your experiences.
+- Identify three to five major recent projects to use as the basis for all answers.
+
+*Source: [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview-even-in-a-terrible-talent-market)*
+
+---
+
+> "Most first-round interviews stick to behavioral questions, i.e. questions that ask you about your own experiences, like “Tell me about a time when you had a conflict with a colleague.”"
+
+**Insight:** Mastering behavioral interviews requires shifting from memorizing individual answers to deeply understanding the details of a few high-impact projects.
+
+**Tactical advice:**
+- Use the STAR method—Situation, Tasks, Action, Result—to structure responses.
+- Focus your examples on large and complex projects from the last two to four years.
+- Avoid over-preparing by writing out hundreds of answers; master key projects instead.
+
+*Source: [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview-even-in-a-terrible-talent-market)*
+
+---
+
+> "If everyone says, ‘Yes, that’s clearly a great idea, and you have direct competitors on day one, you are definitely late to the game. However, if someone has sailed across the sea of exploration, waded through the bog of research, and is still going on about an idea, there’s a small chance that they are ahead of the rest of us and see something I’ve yet to see."
+
+**Insight:** The most successful startups often begin with ideas that seem ludicrous or insane to the general public but represent a unique, ambitious vision of the future.
+
+**Tactical advice:**
+- Look for 'ludicrous' or 'bonkers' ideas that people laugh at but early users find indispensable.
+- Evaluate whether the company's goal is ambitious enough to be life-changing if successful, rather than a marginal improvement.
+- Prioritize companies where the mission is to be the 'most important' rather than just the most valuable.
+
+*Source: [How to spot a top 1% startup early](https://www.lennysnewsletter.com/p/how-to-spot-a-top-1-startup-early)*
+
+---
+
+> "In one sense managing PMs is the same job as an IC PM — marshaling the resources of your team to ship product and deliver business impact. In practice, it’s completely different. Instead of working directly on the product, everything now happens indirectly, through your PM team."
+
+**Insight:** Transitioning to management requires shifting from direct product execution to achieving results indirectly through the leverage of your team.
+
+**Tactical advice:**
+- Stop doing IC work like roadmapping and creating 1-pagers.
+- Focus on unblocking your teams at the short-term, medium-term, and long-term levels.
+- Evaluate your success by the output of your team plus the output of neighboring teams under your influence.
+
+*Source: [Moving from IC product manager to manager of product managers](https://www.lennysnewsletter.com/p/moving-from-ic-product-manager-to-manager-of-product-managers)*
+
+---
+
+> "First, you’re on the right track—I’ve interviewed more than 250 people from all walks of life, and I’ve never spoken to anyone who regretted taking time off."
+
+**Insight:** Sabbaticals are peak life experiences that provide the necessary space for profound personal transformation and career clarity.
+
+**Tactical advice:**
+- Evaluate your current work-life alignment to see if your heart is still in the work.
+- View extended time off as a workspace for personal development rather than just a vacation.
+- Give yourself permission to chase your happiness and tinker without immediate pressure.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+> "The short answer is: Two to three months minimum, six-ish months ideally, and up to twelve is great."
+
+**Insight:** True recovery and identity disentanglement require a significant duration, typically starting at two to three months.
+
+**Tactical advice:**
+- Allocate at least six weeks just to shed work-related anxiety and phantom phone alerts.
+- Commit to a minimum of two months off to move beyond the "doing" phase into the "being" phase.
+- Assign a specific block of time for being completely "off" to avoid short-circuiting rest.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+> "Uninstall those apps, and set up email auto-responses! But while you’re disconnecting digitally, make time and space for connecting in-person; strengthening relationships with loved ones stands out as a highlight for most sabbatical-takers."
+
+**Insight:** Effective disconnection requires rigid digital boundaries and physical distance to strip away your professional persona and rediscover your natural self.
+
+**Tactical advice:**
+- Travel at the start of your time off to create a symbolic ceremonial separation from routine.
+- Engage in somatic activities like yoga or crafts to get out of your head and into your body.
+- Use your newfound time-wealth to intentionally reconnect with loved ones in person.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+> "Life during those two periods was very different, and it’s even more different if you go from being the only PM at a small company to being one of a thousand PMs at a large company."
+
+**Insight:** Transitioning from a startup to a large company requires a shift from solo execution to mastering communication, organizational influence, and data-driven decision-making.
+
+**Tactical advice:**
+- Double-down on communication, influence, and data skills to navigate the complexity of a larger organization.
+- Watch successful PMs at the new company to learn how they get things done without direct authority.
+- Retain your startup energy to help align and excite your new cross-functional team.
+
+*Source: [Startup PM vs. big company PM](https://www.lennysnewsletter.com/p/startup-pm-vs-big-company-pm)*
+
+---
+
+> "There are over 6,000 open PM roles globally right now—53.6% above the bottom we saw in 2023, and already up 11% since the start of the year. This is the most open PM roles we’ve seen in over two years."
+
+**Insight:** The product job market is entering a period of significant recovery, with open roles and capital investment trending upward while layoffs slow down.
+
+**Tactical advice:**
+- Monitor global PM role counts to time your career move during periods of sustained growth.
+- Track capital investment signals as a lead indicator for future hiring demand.
+- Stay optimistic and persistent in your search, as the volume of opportunities is at its highest point in two years.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+> "When you look at just AI PM roles—which includes roles at both AI companies (e.g. OpenAI, Anthropic, Scale) and roles specifically focused on AI products/features at any tech company (e.g. AI/ML PM at Salesforce), the growth we’re seeing is insane."
+
+**Insight:** AI-specific product management is currently the most explosive growth area in tech, with nearly 700 open roles specifically targeting this specialty.
+
+**Tactical advice:**
+- Target roles at dedicated AI infrastructure companies like OpenAI and Anthropic.
+- Look for specialized AI/ML PM positions within non-AI companies like Figma or Salesforce.
+- Evaluate the 'AI-driven' status of a company to assess the likelihood of finding specialized product opportunities.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+> "For PMs, nearly 20% of all open roles are based in the Bay Area. Since our last analysis, Berlin and Austin entered the top 10 locations with the most open PM roles, and Boston and L.A. fell out of the top 10."
+
+**Insight:** While the Bay Area remains the dominant global hub for product roles, new opportunities are concentrating in specific emerging markets like Berlin and Austin.
+
+**Tactical advice:**
+- Focus your job search on the Bay Area to access nearly a third of all open AI-related roles.
+- Consider relocating to emerging hubs like Berlin or Austin which are seeing positive PM hiring momentum.
+- Be aware that traditional tech hubs like Boston and L.A. may have fewer open opportunities compared to previous years.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+> "We are in the middle of a slow recovery that started in Q1 of this year, and the recovery is holding steady. After a peak in early 2022 (with over 10,000 open roles) and a significant slowdown through 2023 (to about 4,000 open roles), there are currently 5,752 open product manager roles at tech companies globally."
+
+**Insight:** The product management job market is currently in a phase of stable, gradual recovery following the significant downturn of 2023.
+
+**Tactical advice:**
+- Track global tech job openings and hire/departure data to gauge overall market health.
+- Monitor quarterly reports to time your application cycle with steady recovery trends.
+- Identify regional and functional shifts in hiring volume to prioritize your search efforts.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "The data shows that, yes, new Senior and above PM roles do appear to be growing at a faster rate than other levels. That being said, Entry/Mid-level make up over a third of open PM roles and are recovering at a rate similar to Senior roles. So there are still plenty of opportunities for early-career PMs."
+
+**Insight:** While hiring for senior and lead product roles is growing fastest, entry and mid-level positions still comprise over a third of the market.
+
+**Tactical advice:**
+- Target senior or lead roles if you have the experience, as these segments are expanding most rapidly.
+- Remain active in the mid-level market, as these roles are recovering at a similar pace to senior positions.
+- Apply for higher-level roles confidently, as the trend of candidates taking lower-level positions is at its lowest point since 2019.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "The San Francisco Bay Area is ascendant. In just the past two years, the share of open PM roles in the Bay Area went from 15.4% to over 20%—up 25% year over year! Over a fifth of all open PM roles at tech companies are in the Bay Area, and that share seems to be growing."
+
+**Insight:** Product management opportunities are increasingly concentrating in physical tech hubs like San Francisco as remote job availability continues to shrink.
+
+**Tactical advice:**
+- Relocate to or focus on the San Francisco Bay Area to access 20% of all open tech PM roles.
+- Explore international opportunities in Bengaluru, India, which is now the top PM hub outside the U.S.
+- Be prepared for high competition in remote roles, which have declined by 35% from their peak.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "All PMs will be AI PMs because she sees all products needing to have personalized experiences and recommender systems, and even to make technological advancements, you need to have an AI-centric view."
+
+**Insight:** AI skills are becoming a baseline requirement for all product managers as personalization and recommendation systems become the standard user experience.
+
+**Tactical advice:**
+- Learn to code to gain a technical mindset and understand the underlying mechanisms of AI models.
+- Read research papers on Arxiv or follow research blogs like Marginal Revolution.
+- Interview internal AI and research teams to understand their workflows and constraints.
+
+*Source: [Summary: AI and product management | Marily Nika (Meta, Google)](https://www.lennysnewsletter.com/p/summary-ai-and-product-management--marily-nika-meta-google)*
+
+---
+
+> "As a PM, your job is to avoid chaos, to avoid changing course, and particularly at a large company to avoid pissing people off. The team looks to their PM to keep things running smoothly, productively, and happily. Thus, as you transition into this new role, focus on these softer skills — teamwork, collaboration, execution, buy-in, and communication."
+
+**Insight:** Transitioning from founder to PM requires shifting from a high-chaos, win-at-all-costs mentality to one focused on organizational stability and collaborative execution.
+
+**Tactical advice:**
+- Build a relationship with a successful internal PM to learn how work actually gets done.
+- Ask questions and study the business thoroughly before sharing your own perspective.
+- Acknowledge that your professional destiny is now tied to your manager's feedback and decisions.
+
+*Source: [This Week #14: Transitioning from startup founder to product manager](https://www.lennysnewsletter.com/p/this-week-14-transitioning-from-startup-founder-to-product-manager)*
+
+---
+
+> "Instead, they want to see that you are really strong at the foundational tools and that you can apply them to solve a variety of growth problems. A simple version of these foundational tools is the ability to use data analysis (qual and quant) along with user psychology within an experiment-driven methodology."
+
+**Insight:** Growth hiring managers value a demonstrated ability to apply foundational tools like data analysis and user psychology over static credentials or surface-level tactical ideas.
+
+**Tactical advice:**
+- Create a portfolio or body of work showing how you would break down and solve growth problems for products you use.
+- Research how a specific company defines 'growth'—whether it is a cross-functional product team or a marketing segment—before interviewing.
+- Form a point of view on a company's growth loops rather than just their funnels to show you understand the bigger picture.
+
+*Source: [This Week #9: Breaking into growth, leading with influence, and (not) stepping on toes 🦶](https://www.lennysnewsletter.com/p/this-week-9-breaking-into-growth-leading-with-influence-and-not-stepping-on-toes)*
+
+---
+
+> "When people ask me where they should try to go work, outside of rolling the dice on the next rocket ship, I encourage them to find the company that (1) is best at teaching them the craft of product management and (2) has a track record of creating an inflection in the careers of the PMs who’ve worked there."
+
+**Insight:** Prioritize joining organizations with a proven history of developing alumni into founders and senior leaders rather than just chasing high-growth "rocket ships."
+
+**Tactical advice:**
+- Look for companies with high "founder rates" like Palantir or Plaid.
+- Prioritize fintech firms for high-complexity leadership training.
+- Research alumni trajectories specifically into Head of Product or CPO roles.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "Intercom dominates. It’s the only company to rank in the top 10 on all four dimensions (1st in promotions internally, 5th in promotions externally, 7th in fastest to promotion, and 9th in fastest rise to leadership)."
+
+**Insight:** True career acceleration is best measured by a company's ability to drive both internal promotions and the rapid advancement of its alumni in the external market.
+
+**Tactical advice:**
+- Target companies like Intercom, Revolut, and Nubank that consistently rank high in promotion velocity.
+- Analyze internal vs. external promotion rates to determine if a company builds skills that the broader market values.
+- Prioritize organizations that show a 'fastest rise to leadership' for alumni, indicating a strong pedigree for future VPs and CPOs.
+
+*Source: [Which companies produce the best product managers](https://www.lennysnewsletter.com/p/which-companies-produce-the-best-product-managers)*
+
+---
+
+> "The headline is Chime. Wow. Over 20% (one in five) of Chime’s PM alumni go on to not just start a company but also raise a Series A."
+
+**Insight:** Aspiring founders should distinguish between companies that produce a high volume of entrepreneurs and those that produce founders capable of raising venture-scale capital.
+
+**Tactical advice:**
+- Work at Chime, Scale, or Palantir if your objective is to build a company that successfully raises a Series A.
+- Join Palantir or Intercom if you want to be surrounded by the highest density of PMs who eventually start any business.
+- Look for companies with at least a 10% founder rate among PM alumni, such as Ramp, Airbnb, or Notion, as a baseline for entrepreneurial culture.
+
+*Source: [Which companies produce the best product managers](https://www.lennysnewsletter.com/p/which-companies-produce-the-best-product-managers)*
+
+---
+
+> "There was a moment nine months in, after publishing something every single week, when I realized that it was still fun for me, people were finding it valuable, and I still had dozens of ideas for things I wanted to write about—after 36 posts. I realized then that maybe this could be a real thing."
+
+**Insight:** A side project is ready to become a full-time pursuit when it demonstrates sustained personal enjoyment, consistent audience value, and an inexhaustible backlog of ideas after a rigorous testing period.
+
+**Tactical advice:**
+- Publish consistently for at least nine months to prove the concept's durability and your own stamina.
+- Seek out positive signals from respected peers to maintain motivation during the early "ugly baby" stage.
+- Launch a paid plan as a commitment mechanism to ensure you stay focused on the business for the long term.
+
+*Source: [1,000,000](https://www.lennysnewsletter.com/p/1000000-taking-a-moment-to-celebrate-and-reflect-and-then-back-to-work)*
+
+---
+
+> "PMs have had 20 years to demonstrate value and carve out a role in Big Tech, becoming the leaders of a company’s vision or a feature’s execution. Not here."
+
+**Insight:** Evaluating a web3 career move requires accepting a role where PM value is not yet universally understood and influence is earned through execution rather than title.
+
+**Tactical advice:**
+- Determine if you are comfortable with execution being valued significantly higher than long-term vision or strategy.
+- Assess your willingness to work 'in public' where a viral meme can be more impactful than a well-written email.
+- Be prepared to handle high-risk tasks like smart contract audits and liquidity incentive design without a support team.
+
+*Source: [A product manager’s guide to web3](https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3)*
+
+---
+
+> "If you want to maximize your base salary (i.e. stability), join a public company in a Tier 1 U.S. city. If you want to maximize your upside, get into a senior IC or manager role at a private company in the U.S."
+
+**Insight:** Public companies generally offer higher cash stability, while private companies leverage significantly higher equity packages to attract top senior talent.
+
+**Tactical advice:**
+- Expect a 15% to 20% lower base salary at private companies compared to public ones.
+- Target private companies if you are a 90th-percentile performer, as equity packages there can be double or triple those of public firms.
+- Join a public company if you prioritize immediate cash flow and lower risk over long-term equity variance.
+
+*Source: [How much product managers make in the U.S., Europe, and Canada](https://www.lennysnewsletter.com/p/how-much-product-managers-make-in-the-us-europe-and-canada)*
+
+---
+
+> "Job function sentiment is even rosier, with 58.5% reporting optimistic feelings and only 25.1% pessimism about their specific role. This means that while many tech workers feel good about their immediate job situation, they have more concerns about long-term industry trends and career progression."
+
+**Insight:** Tech workers are generally optimistic about AI's impact on their specific tasks but remain anxious about how AI will shift long-term industry trajectories.
+
+**Tactical advice:**
+- Distinguish between immediate role stability and long-term career viability when planning your next move.
+- Lean into AI as a tool for immediate job function optimism while building transferable skills to hedge against industry shifts.
+- Address the significant negative sentiment change in design and research roles by proactively investigating how AI will transform those functions.
+
+*Source: [How tech workers really feel about work right now](https://www.lennysnewsletter.com/p/how-tech-workers-really-feel-about-work-right-now)*
+
+---
+
+> "Resumes still matter, and going through the exercise will help you with these other items. Update your LinkedIn profile while you’re at it."
+
+**Insight:** Keeping your resume and LinkedIn profile current ensures you are ready to move quickly if your employment situation changes unexpectedly.
+
+**Tactical advice:**
+- Put together a fresh version of your resume using modern templates.
+- Ask successful friends or colleagues for specific feedback on your profile and accomplishments.
+- Explore professional resume review services to refine your presentation.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+> "That being said, I 1,000% encourage you to explore this path if you have an idea you’re excited about. Just don’t go into it thinking it’ll lead to a huge income stream."
+
+**Insight:** Developing a side project can provide a psychological and financial safety net, even if it doesn't immediately replace your primary income.
+
+**Tactical advice:**
+- Join communities like Indie Hackers to find inspiration and support for starting side projects.
+- Listen to business podcasts to learn about different income generation models and side hustles.
+- Start small with an idea you are excited about without over-committing resources or expecting immediate massive returns.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+> "And finally, some of the most important and lasting advice was about creating distance between your work and your identity. This is especially relevant if you’re in your first full-time job, or if you’ve been there a long time."
+
+**Insight:** Decoupling your personal identity from your job title allows for greater resilience and curiosity when considering new career paths.
+
+**Tactical advice:**
+- Take time to 'blue-sky' your options by thinking about adjacent or entirely different industries.
+- Consider exploring career 'roads not taken' through short-term internships or seasonal roles.
+- Intentionally create psychological distance between your sense of self and your current professional role.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+> "The first month in my new role at monday.com, I was tasked with building our first AI agent. The goal was to create an AI co-pilot, something users could turn to for insights, explanations, or building complex workflows they wouldn’t know how to create on their own. To build that, I needed a ton of context—all the internal knowledge, decisions, assumptions, and scattered inputs that shape any product direction."
+
+**Insight:** New PMs can accelerate their onboarding by using AI to ingest and synthesize the high volume of scattered documentation and history found in a new organization.
+
+**Tactical advice:**
+- During your first month, gather all historical decks, documentation, and research into a single AI project to create a searchable knowledge base.
+- Upload exports of relevant Slack channels to quickly understand past decisions and recurring issues without manual scrolling.
+- Perform a 'word-vomit' of your initial thoughts and questions to the AI to help it surface a potential roadmap or direction.
+
+*Source: [How to build your PM second brain with ChatGPT](https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt)*
+
+---
+
+> "In many cases, it’s a matter of finding a better manager, or getting out of a rut at your current company. If you’re stuck at the same level for over two years, and nothing I’ve shared above seems to be helping, it’s probably time to explore a new gig."
+
+**Insight:** If you have consistently delivered impact and addressed gaps for over two years without recognition, the barrier to growth may be structural, necessitating a move to a new company.
+
+**Tactical advice:**
+- Determine if your lack of promotion is due to practical company blockers like budget, headcount, or minimum time-in-role.
+- Evaluate if your current manager has the influence or desire to be an effective champion for your career.
+- Consider external opportunities if the current environment doesn't offer a path to the responsibility level you are ready for.
+
+*Source: [How to get promoted](https://www.lennysnewsletter.com/p/how-to-get-promoted)*
+
+---
+
+> "It was clear that I had had enough. So I stepped down and left the company to focus on my well-being."
+
+**Insight:** Stepping away from a toxic or overwhelming environment is often a necessary health intervention when you have pushed past your zone of tolerance.
+
+**Tactical advice:**
+- Set clear 'deal-breakers' for your physical and mental health that trigger an immediate exit strategy.
+- Acknowledge when a leadership role's constant stress is fundamentally incompatible with your nervous system.
+- Prioritize your long-term survival over short-term professional status or vesting schedules.
+
+*Source: [How to know when to stop](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop)*
+
+---
+
+> "Founders who truly love to learn and look at company-building as a learning experience are quite predictive of whether founders will build durable, special companies."
+
+**Insight:** A founder's 'clock speed' and ability to rapidly iterate through unworkable strategies are more predictive of success than their initial business plan.
+
+**Tactical advice:**
+- Measure 'clock speed' by how quickly a team turns vision into software or iterates on their strategy.
+- Look for founders with a 'learning mindset' who actively seek advice and maintain an intense curiosity about various topics.
+- Assess founder-market fit by asking if the individuals seem uniquely destined to solve this specific problem better than anyone else.
+
+*Source: [How to spot a top 1% startup early](https://www.lennysnewsletter.com/p/how-to-spot-a-top-1-startup-early)*
+
+---
+
+> "In both cases, special companies have a crisp articulation of how future systems should look and how they break the mold of today’s user expectations. Their products, especially at the earliest stages, lag far behind their ambitions."
+
+**Insight:** Don't judge an early-stage company by its current unpolished product; instead, evaluate the trajectory of the mission and the intensity of customer pull.
+
+**Tactical advice:**
+- Look past a 'rough around the edges' product to see if the core vision and 'magic' are present.
+- Monitor community forums and social media to see if users love the product enough to share it even in its early, niche state.
+- Prioritize the company mission over current features, as products often pivot while the underlying 'why' remains constant.
+
+*Source: [How to spot a top 1% startup early](https://www.lennysnewsletter.com/p/how-to-spot-a-top-1-startup-early)*
+
+---
+
+> "The general consensus is that empowered teams offer more strategic and meaningful work, making them preferable for PMs. Yet despite empowered teams being dramatically more popular environments for PMs (stated preference), the majority of PMs still seem to be operating in feature teams (revealed behavior)."
+
+**Insight:** Choosing to stay on a feature team is often a pragmatic career choice driven by factors like compensation, visa sponsorship, or the need to build a stable resume.
+
+**Tactical advice:**
+- Evaluate if your high-paying role or visa dependency currently outweighs the need for strategic, empowered work.
+- Stay on a feature team temporarily to avoid a short resume stint if you have unintentionally joined one.
+- Build enough social capital through successful execution on a feature team to eventually earn the right to be empowered.
+
+*Source: [In defense of feature team product managers](https://www.lennysnewsletter.com/p/in-defense-of-feature-team-product-managers)*
+
+---
+
+> "It’s akin to the difference between being an employee vs. being a founder of a company; or being employed by a media company vs. being a solo creator. It’s a completely different level of autonomy, freedom, and ownership."
+
+**Insight:** Success in the passion economy requires shifting from a traditional employee mindset to one of personal entrepreneurship where digital platforms enable direct monetization of unique skills.
+
+**Tactical advice:**
+- Identify a non-commoditized skill or passion that can be productized and sold directly to consumers.
+- Leverage existing digital marketplaces and tools to reduce the overhead and barriers associated with starting a business.
+- Cultivate high levels of resilience and a propensity for action to navigate the challenges of working outside traditional institutions.
+
+*Source: [Li Jin launches Atelier Ventures, her debut fund to invest in the passion economy](https://www.lennysnewsletter.com/p/li-jin-launches-atelier-ventures-her-debut-fund-to-invest-in-the-passion-economy)*
+
+---
+
+> "If you find yourself feeling too comfortable (and you have the means), make a change. Switch teams, switch roles, switch companies. Life is short."
+
+**Insight:** Complacency is a signal to seek new challenges, as staying in a comfortable role for too long can hinder the most pivotal growth moments of your career.
+
+**Tactical advice:**
+- Audit your current role to see if loyalty has turned into unproductive comfort.
+- Initiate a change in teams or roles if you feel you have stopped learning.
+- Recognize that significant career pivots often happen immediately after leaving long-term positions.
+
+*Source: [Navigating your early career](https://www.lennysnewsletter.com/p/navigating-your-early-career)*
+
+---
+
+> "When looking for a job, I’d spend just as much time digging into the people as you spend on the actual job details. For sure get to know your future hiring manager and your future team before you take a role, but also focus on the company culture."
+
+**Insight:** The quality of your colleagues and the company culture are better predictors of career growth and satisfaction than the specific tasks in a job description.
+
+**Tactical advice:**
+- Research the background and reputation of your future hiring manager and team before accepting an offer.
+- Evaluate if the company culture attracts people who will push you to set a higher bar for yourself.
+- Focus on building a high-quality network, as the people you work with influence your long-term skill development.
+
+*Source: [Navigating your early career](https://www.lennysnewsletter.com/p/navigating-your-early-career)*
+
+---
+
+> "Growth roles are growing much faster than sales and marketing roles—although those roles show an upward inflection. This might mean an increasing focus on product-led growth, potentially driven by a need for capital efficiency—something investors and public markets are increasingly prioritizing."
+
+**Insight:** Pivoting toward roles focused on capital efficiency and product-led growth offers the strongest career tailwinds in the current market.
+
+**Tactical advice:**
+- Transition into Growth roles to capitalize on the market's shift toward product-led expansion and capital efficiency.
+- Shift from specialized project management roles like Scrum Master toward Product Owner roles to stay aligned with hiring trends.
+- Consider User Research if you have a strong value-add background, as firms are beginning to rehire after a period of over-correction.
+
+*Source: [New data on the product job market](https://www.lennysnewsletter.com/p/new-data-on-the-product-job-market)*
+
+---
+
+> "Yes, it’s okay to work, just don’t Work. Doing anything that resembles your current job will make it more difficult to reap the benefits of time off."
+
+**Insight:** Any activity that mirrors your professional routine prevents the mental reset necessary for a transformative sabbatical.
+
+**Tactical advice:**
+- Abstain from all consulting or job-related tasks, as these hours will inevitably expand.
+- Commit to not job-searching during your committed sabbatical period to protect your mental space.
+- Redirect your energy toward experimental projects entirely unrelated to your career.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+> "It’s obviously much more logistically difficult to do so, and a takeaway from the interviews on those traveling with partners is to ensure that you carve out some time apart to tackle personal goals (and to give each other a bit of space)."
+
+**Insight:** Sabbaticals with family require balancing shared exploration with intentional time apart for individual growth.
+
+**Tactical advice:**
+- Plan and save years in advance to handle the complex logistics of family leave.
+- Schedule periods of separate activities for you and your partner to tackle personal goals.
+- Utilize the time off to fit into the schedules of loved ones who usually don't overlap with yours.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+> "Opportunities will be there when you return and you’ll have a better story to tell if you give yourself time to do it right!"
+
+**Insight:** A well-executed sabbatical builds the confidence to pursue unconventional career paths and provides a compelling narrative for future employers.
+
+**Tactical advice:**
+- Wait until after the sabbatical to start job-searching to ensure you aren't just jumping into more of the same.
+- Use the time off to reflect upon and experiment with identities that previously felt too scary.
+- Prepare to explain your gap as a period of purposeful experimentation and growth.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+> "And if you’re pining for more, don’t forget that as a paid subscriber you have access to a thriving Slack community of thousands of PMs, founders, growth leaders, and all manner of product builders. It’s a very special place, and a great way to get answers to your burning questions."
+
+**Insight:** Accessing a curated community of industry practitioners is a high-leverage way to find job opportunities and get specific career advice.
+
+**Tactical advice:**
+- Utilize specialized job boards to discover roles curated specifically for product, growth, design, and engineering disciplines.
+- Join niche communities to network directly with founders and product leaders who are actively hiring.
+- Look for 'featured' startup roles to identify companies with high growth potential and immediate hiring needs.
+
+*Source: [Reforge applications open (and taking a sick day)](https://www.lennysnewsletter.com/p/reforge-applications-open-and-taking-a-sick-day)*
+
+---
+
+> "The number of roles that allow you to work remotely continues to decline. At remote work’s peak in late 2022, we saw about 35% listed open PM roles as remote-friendly. Today, only 23% have a remote option."
+
+**Insight:** Remote work for product managers is declining toward a new, lower baseline of roughly 20%, making location-specific searches increasingly necessary.
+
+**Tactical advice:**
+- Plan for a job market where only about one in five roles will offer remote-friendly options.
+- Prioritize hybrid or on-site roles in major tech hubs to increase your odds of success.
+- Assume that the trend for PMs will mirror declines seen in engineering and design remote opportunities.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+> "Finally, if you’re looking for a PM gig and having a hard time, keep going. The roles are out there. Here’s a list of the top 20 companies that have the most open roles."
+
+**Insight:** Success in a recovering market requires targeting the specific top-tier tech companies and startups that are leading the volume of hiring.
+
+**Tactical advice:**
+- Use tools like TrueUp to browse and filter open roles by company and category.
+- Sign up for job alerts specifically for the top 20 tech companies with the most open PM roles.
+- Maintain search momentum even when the market feels difficult, as the total volume of roles is actually increasing.
+
+*Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
+
+---
+
+> "The left side of the chart includes the top five places people come from, meaning that many companies hire from business schools, but for Amazon, it’s their number one source of new hires."
+
+**Insight:** Top tech companies often have distinct hiring pipelines, such as Amazon's heavy reliance on business school graduates for product roles.
+
+**Tactical advice:**
+- Research the specific feeder companies and educational institutions prioritized by your target employers.
+- Focus your search on high-volume hiring firms like Amazon, Google, and ByteDance.
+- Leverage alumni networks and historical hiring patterns to increase your chances at major tech companies.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "Of the 456 open AI PM roles mentioned above, 178 are at AI-first companies, and the remaining 278 roles are at tech companies that are not primarily AI-focused but have PM roles dedicated to AI projects. It’ll be interesting to see how quickly these PM roles grow."
+
+**Insight:** Dedicated AI product roles are currently more prevalent within established tech companies than at AI-first startups.
+
+**Tactical advice:**
+- Target traditional tech companies building dedicated AI teams rather than focusing solely on AI-first startups.
+- Acquire deep technical knowledge in machine learning to compete for limited openings at pure AI companies.
+- Monitor emerging niche titles like 'Prompt Engineer' as potential high-growth entry points into the AI space.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "It won’t surprise anyone that machine learning and data engineering roles are the fastest-growing in tech right now, growing 79% and 55% year over year, respectively. Two roles that are shrinking the fastest are diversity and scrum masters."
+
+**Insight:** The tech labor market is shifting heavily toward specialized engineering and data roles while moving away from administrative and generalist support functions.
+
+**Tactical advice:**
+- Prioritize technical specializations in machine learning or data engineering to align with high-growth segments.
+- Avoid generalist roles like Scrum Master that are rapidly shrinking across the tech industry.
+- Note the rebound in recruiter hiring as a positive leading indicator for overall future tech hiring.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "POs are indeed growing quickly at non-tech companies (e.g. banks, telecoms)"
+
+**Insight:** The Product Owner role is expanding primarily in traditional industries like banking and telecommunications rather than in the core tech sector.
+
+**Tactical advice:**
+- Look toward non-tech sectors like finance and telecom if you are specifically seeking Product Owner titles.
+- Recognize that 'Product Owner' is virtually non-existent as a distinct title at top FAANG-style companies.
+- Clarify the level of strategic ownership in a PO role to ensure it aligns with your long-term product management career goals.
+
+*Source: [State of the product job market, part 2](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-part-2)*
+
+---
+
+> "If your goal is to break into Product Management, an internal transfer program is by far THE BEST way to do it. I previously wrote about the four most common paths into PM and without question this path is the easiest, the least risky, and provides you with the most support."
+
+**Insight:** Internal transfers are the most effective path into product management because they allow you to build on existing domain knowledge while bridging skill gaps in a supportive environment.
+
+**Tactical advice:**
+- Identify and fill gaps in soft skills like product taste and cross-functional influence.
+- Develop a clear qualification plan with the decision-makers of your company's transition program.
+- Closely observe and model the effective behaviors of PMs you work with daily.
+
+*Source: [This Week #10: Keeping designers and engineers excited about metrics + Transitioning from DS to PM 🕺](https://www.lennysnewsletter.com/p/this-week-10-keeping-designers-and-engineers-excited-about-metrics--transitionin)*
+
+---
+
+> "Finally, when looking at the PM role, it’s important to differentiate between a startup and a big-company PM. The difference is even more significant than the two spectrums we looked at above. Every single part of the job is different."
+
+**Insight:** Product management roles are not interchangeable; the day-to-day responsibilities and expectations change completely depending on the size and stage of the company.
+
+**Tactical advice:**
+- Compare the specific day-to-day tasks required at a startup versus a large corporation.
+- Evaluate your preference for broad ownership in a startup versus specialized leverage in a big company.
+- Inquire how 'impact' is measured differently at various company stages.
+
+*Source: [What is product management](https://www.lennysnewsletter.com/p/what-is-product-management)*
+
+---
+
+> "One explanation is that PMs at FAANG companies learn how to operate well within that specific company and are less successful elsewhere. Another explanation is that the best PMs at FAANG companies are happy and don’t leave, and so we don’t see their trajectories in the data."
+
+**Insight:** High-prestige big tech companies may offer less external career acceleration than mid-sized companies because their skills can be overly specialized to internal systems.
+
+**Tactical advice:**
+- Consider companies like eBay or Intuit over Google/Meta if external promotion speed is the goal.
+- Evaluate if your current big tech experience is teaching transferable craft versus internal navigation.
+- Look at alumni data to see if high-performing PMs at your target company actually move on to leadership elsewhere.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "N26 is especially strong at launching product leaders, ranking first in both CPO rate and Head of Product rate, and in the top 10 in four other categories."
+
+**Insight:** Targeted mid-sized companies like N26 and Intuit often provide a more reliable path to executive product leadership than larger tech conglomerates.
+
+**Tactical advice:**
+- Target companies like N26 if the immediate goal is a CPO title at a subsequent company.
+- Seek out older, established firms like Intuit that have a structured history of incubating executive talent.
+- Focus on companies that rank highly in "fastest rise to leadership" metrics.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "The standout company is Palantir, where almost a quarter of Palantir PMs went on to start their own company. Almost a fifth of Plaid PM alumni went on to start a company, which is also incredible."
+
+**Insight:** If you intend to start a company, choose an employer like Palantir or LinkedIn that acts as a "founder mafia" with high rates of entrepreneurial alumni.
+
+**Tactical advice:**
+- Prioritize joining Palantir or Plaid to maximize your chances of launching a startup later.
+- Evaluate Ramp or Notion if you want to join a younger "mafia" with high founder potential.
+- Leverage LinkedIn if you prefer a large, established company that still supports entrepreneurial trajectories.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "One explanation, shared by my buddy Dennis Yang (PM at Chime), is that fintech nurtures strong product leaders because fintech work is on hard mode—lots of risk/fraud vectors, difficult stakeholders (e.g. compliance, regulations), and endless complicated tradeoffs."
+
+**Insight:** The inherent complexity and regulatory challenges of fintech create an environment that rapidly develops the "hard mode" skills required for high-level product leadership.
+
+**Tactical advice:**
+- Apply to top fintechs like Revolut or N26 to gain experience managing high-stakes tradeoffs.
+- Focus on the regulatory and risk aspects of the role to build unique leadership leverage.
+- Use the fintech "mafia" network to transition into leadership roles in other sectors.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "Palantir is a standout at fostering founders (ranking first by far) and first PMs at other companies."
+
+**Insight:** Certain organizational cultures, particularly Palantir and Notion, produce PMs with the specific versatility and ownership required to be the first hire at a startup.
+
+**Tactical advice:**
+- Target roles at Palantir or Notion if your long-term goal is to be a "founding PM."
+- Look for companies that rank highly in "highest rate of becoming the first PM at another company."
+- Develop a generalist skillset that allows you to operate without existing product infrastructure.
+
+*Source: [Which companies accelerate PM careers most](https://www.lennysnewsletter.com/p/which-companies-accelerate-pm-careers-most)*
+
+---
+
+> "eBay, Intercom, N26, Palantir,and Notion stand out as companies that produce the highest rate of product leaders across the board. Whatever they are doing we should try to learn from."
+
+**Insight:** Specific companies act as 'leadership factories' by equipping PMs with the specific skill sets required to become CPOs, Heads of Product, or early-stage founding PMs.
+
+**Tactical advice:**
+- Apply to eBay, Intercom, or Notion to maximize your chances of eventually landing a top product executive role.
+- Consider fintech leaders like N26 and Revolut as secondary targets for rapid advancement into product leadership.
+- Evaluate a potential employer by checking how many of their former PMs are now CPOs or the first PM hires at startups.
+
+*Source: [Which companies produce the best product managers](https://www.lennysnewsletter.com/p/which-companies-produce-the-best-product-managers)*
+
+---
+
+> "It turns out Stripe’s PMs get hired to be star PMs at rocketship companies. Instead of starting their own companies or climbing the ladder, they go on to become key PMs at top companies like OpenAI, Anthropic, Mercury, Adyen, Scale, etc."
+
+**Insight:** A company’s lack of high 'promotion' data can sometimes be a sign of prestige, as its alumni may be so highly valued that they move laterally into elite roles at other top-tier rocketships.
+
+**Tactical advice:**
+- Investigate where alumni go (e.g., OpenAI, Anthropic) rather than just their titles to judge the true prestige of a PM program.
+- Recognize that moving to earlier-stage 'rocketships' can be a more powerful career signal than climbing a traditional corporate ladder.
+- Don't dismiss companies with lower internal promotion rates if they consistently place talent into high-impact roles at the world's most competitive startups.
+
+*Source: [Which companies produce the best product managers](https://www.lennysnewsletter.com/p/which-companies-produce-the-best-product-managers)*
+
+---
+
+> "For better or worse, the PM job is an amalgamation of soft skills—communication, collaboration, coordination, influence, taste, vision, etc. People stuff! Glue stuff. Skills that AI will have the toughest time replacing."
+
+**Insight:** Roles characterized by soft skills and human coordination are significantly less vulnerable to AI replacement than those focused on technical execution.
+
+**Tactical advice:**
+- Assess your role's vulnerability by weighing soft skill requirements against automatable hard skills.
+- Double down on human-centric skills like stakeholder influence and collaboration.
+- If in a technical role, study PM-type skills like business strategy and customer empathy to increase resilience.
+
+*Source: [Why PMs are best positioned to thrive in an AI world](https://www.lennysnewsletter.com/p/why-pms-are-best-positioned-to-thrive-in-an-ai-world)*
+
+---
+
+> "Taking on a new project, negotiating your salary, handling a new promotion, delivering constructive feedback—these topics all tend to trigger inner conflict for most of us. IFS can help us turn toward that tension constructively so we can build the clarity and courage required for the next evolution of our professional development."
+
+**Insight:** Career paralysis often stems from irreconcilable fears and needs among different internal parts that must be addressed before an aligned decision can be made.
+
+**Tactical advice:**
+- Uncover the voices of the different 'parts' that are creating havoc on your mental health regarding a specific decision.
+- Listen to each part one by one to understand their positive intentions and what they are trying to protect you from.
+- Facilitate a dialogue between competing internal parts to build the clarity required for high-stakes professional evolution.
+
+*Source: [Why no productivity hack will solve your overwhelm](https://www.lennysnewsletter.com/p/why-no-productivity-hack-will-solve-your-overwhelm)*
+
+---
+
+**Insight:** High levels of autonomy, ownership, and purpose—most prevalent in founders and small-company roles—are the strongest predictors of job satisfaction.
+
+**Tactical advice:**
+- Prioritize roles in smaller companies if you seek a stronger sense of belonging and higher job enjoyment.
+- Consider starting your own company to maximize career optimism and minimize burnout through total autonomy.
+- Be wary of midsize companies (500–1,000 employees) which often lack the support systems of large firms while suffering from corporate bureaucracy.
+
+*Source: [How tech workers really feel about work right now](https://www.lennysnewsletter.com/p/how-tech-workers-really-feel-about-work-right-now)*
+
+---
+
+**Insight:** Proactive preparation across documentation, networking, and financial planning is the best hedge against the uncertainty of potential layoffs.
+
+**Tactical advice:**
+- Document impact metrics and screenshots while you still have access to company data.
+- Refresh your professional network and update your resume before you actually need a new job.
+- Build a financial cushion by tracking spending and cutting unnecessary subscriptions.
+
+*Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
+
+---
+
+**Insight:** Structuring a sabbatical into sequential phases ensures you properly detach before attempting to explore or reintegrate.
+
+**Tactical advice:**
+- Begin with a disconnection phase to fully let go of your previous work identity.
+- Use the exploration phase to experiment with new interests or lifestyle goals.
+- End with an integration phase to weave your new insights back into your future path.
+
+*Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
+
+---
+
+**Insight:** Geographic location remains one of the largest variables in total compensation, with U.S. Tier 1 cities commanding a significant premium in both cash and equity.
+
+**Tactical advice:**
+- Factor in a 20% base salary increase when considering a move from a Tier 3 to a Tier 1 U.S. city.
+- Compare the 40% equity premium found in Tier 1 cities against the higher cost of living in those hubs.
+- Be aware that U.K. and European PMs earn 50% to 65% of the average U.S. salary, making U.S. relocation a major financial lever.
+
+*Source: [How much product managers make in the U.S., Europe, and Canada](https://www.lennysnewsletter.com/p/how-much-product-managers-make-in-the-us-europe-and-canada)*
+
+---
+
+**Insight:** Finding a sustainable role requires vetting an organization's processes and leadership to ensure they structurally support autonomy and well-being.
+
+**Tactical advice:**
+- Intentionally seek out environments where you have high autonomy to solve challenging problems.
+- Evaluate if your organization's processes, expectations, and incentives are structurally broken.
+- Assess whether a role matches your personal strengths and curiosity to sustain long-term motivation.
+
+*Source: [How tech’s most resilient workers handle burnout](https://www.lennysnewsletter.com/p/how-techs-most-resilient-workers-handle-burnout)*
+
+---
+
+**Insight:** A stay-or-go decision should be based on whether your manager is willing to invest in your career goals in exchange for your high-quality performance and proactive help.
+
+**Tactical advice:**
+- Assess if your manager consistently offers growth opportunities after you've successfully helped them.
+- Identify if your workplace allows for the 'Magic Loop' to function or if the environment is exploitative.
+- Look for signals that your current role provides a path toward major milestones like promotions or raises.
+
+*Source: [The Magic Loop](https://www.lennysnewsletter.com/p/the-magic-loop)*
+
+---
 
 ## Mayur Kamat
-*Mayur Kamat*
 
-> "The best thing you can do is find companies that are growing fast because it compounds your learning at a much faster interval."
-
-**Insight:** Career growth is a function of compounding learning; high-growth companies provide more 'compounding events' per year.
+**Insight:** Choosing the right geographical hub and prioritizing learning over early-career salary are the most critical factors for long-term professional growth in tech.
 
 **Tactical advice:**
-- Prioritize high-growth companies over established ones early in your career.
-- Look for 'category-defining' companies where you have to solve problems for the first time in history.
+- Start a tech career on the West Coast of the U.S. to access the highest concentration of industry leaders.
+- Value learning and environment over compensation in the early stages of a career.
+- Evaluate international moves based on the specific cultural trade-offs between Asian, European, and American markets.
 
-*Timestamp: 00:19:12*
+*Source: [Unconventional product lessons from Binance, N26, Google, more | Mayur Kamat (CPO at N26, ex-Binance Head of Product)](https://www.youtube.com/watch?v=UVyfuSBwbNA) @ 00:57:26*
 
 ---
-
-> "Do not optimize for compensation, especially early in your career. If you're truly on a track to become an executive someday... you will make 90% of your compensation in the last five years of your career."
-
-**Insight:** Early career compensation is negligible compared to the back-loaded earnings of a successful executive or founder path.
-
-**Tactical advice:**
-- Choose roles based on learning potential and superpower alignment rather than a 10-20% salary bump.
-- Decide early if you want the C-suite path, as it requires different sacrifices and decision-making.
-
-*Timestamp: 00:21:46*
-
----
-
-> "Early career you want to be in intensely talents dense areas... For general tech, there's no better place than West coast of the US."
-
-**Insight:** Physical proximity to talent density (like Silicon Valley) significantly accelerates career networking and opportunity access.
-
-**Tactical advice:**
-- If possible, start your career in a high-talent-density hub like the US West Coast, Dubai (for crypto), or Bangalore.
-
-*Timestamp: 00:57:26*
-
 
 ## Molly Graham
-*Molly Graham*
 
-> "The way a lot of people do careers is a set of stairs. Just walk up the stairs and you'll get promoted every two years. But that is boring. The much more fun careers are like jumping off cliffs and you do fall, but then you climb out way beyond where the stairs could ever get you."
+> "I only like doing jobs that I'm highly unqualified for. I like being on learning curves so steep that I'm scared I'm going to fall off. And so I left and I wanted to learn what it took to build something from nothing."
 
-**Insight:** High-growth careers often involve taking high-risk roles for which you are unqualified, leading to a 'J-curve' of initial struggle followed by massive advancement.
-
-**Tactical advice:**
-- Embrace being a 'professional idiot' for the first 6-9 months of a new, challenging role.
-- Distinguish between financial fear (which requires math and a 'burn rate' calculation) and the fear of failure (which is often a green light for growth).
-- Ask 'dumb' questions in meetings to accelerate learning in unfamiliar domains.
-
-*Timestamp: 00:28:05*
-
-
-## Nabeel S. Qureshi
-*Nabeel S. Qureshi*
-
-> "They were extremely careful about only making people PMs who had first proven themselves out as forward deployed engineers. You basically could not become a PM any other way... the reason for that's pretty simple, it's going to be someone who understand how customers work and has that customer empathy."
-
-**Insight:** The best PMs are often those who have 'proven their mettle' in customer-facing, high-stakes delivery roles first.
+**Insight:** The fastest career growth occurs when you intentionally choose roles that exceed your current capabilities, forcing a steep learning curve that outpaces traditional linear promotion paths.
 
 **Tactical advice:**
-- Look for PM candidates who have successfully managed field deployments or direct customer problem-solving.
-- Prioritize internal promotions from technical field roles into product management.
+- Actively seek out 'cliff-jumping' opportunities over safe, incremental promotions.
+- Optimize for roles that make you feel slightly scared or 'highly unqualified.'
+- Prioritize being on the steepest possible learning curve over being comfortable in your current skill set.
 
-*Timestamp: 01:06:00*
-
-
-## Nan Yu
-*Nan Yu*
-
-> "It's your job when you're in the interview process to figure out what that burning problem is. So, put on your discovery hat and go figure out what is the actual job to be done of the hiring manager when they're bringing on a new PM onto their team? And if you can do that and then make a good case that you are the person to solve that problem, then hiring you becomes a binary choice."
-
-**Insight:** Treat a job interview as a product discovery exercise to identify the hiring manager's 'job to be done.'
-
-**Tactical advice:**
-- Ask the hiring manager about their specific OKRs and how a new hire can help achieve them.
-- Position yourself as the specific solution to their burning problem rather than a generalist candidate.
-
-*Timestamp: 01:04:51*
+*Source: [The high-growth handbook: Molly Graham’s frameworks for leading through chaos, change, and scale](https://www.youtube.com/watch?v=twzLDx9iers) @ 00:23:46*
 
 ---
 
-> "Just act like you already worked there. What would you do? ... During the interview loop... you can ask, 'Hey, can you put me in touch with an engineering manager who's working on the same problem?' And if no one else is asking, again, you're going to have an extra piece of feedback."
+## Nickey Skarstad
 
-**Insight:** Differentiate yourself by performing the role during the interview process.
+> "When I took a step back and was like, all right, what do I want to do next? I really loved the marketplace component at Etsy. And I don't know if this is just says something about my personality, or actually probably your personality too, is marketplace product is really hard, right? You have this constant balancing of both buyer and seller sides or both sides of the marketplace. And I really liked that. And it was something that I was good at."
 
-**Tactical advice:**
-- Request to speak with cross-functional peers (like Eng Managers) to understand the team's challenges.
-- Ask deep, specific questions that demonstrate you are already thinking about the work.
-
-*Timestamp: 01:06:42*
-
-
-## Nikita Miller
-*Nikita Miller*
-
-> "I think getting into startups as a product manager is a pretty awesome way to get into product because it's just a lot of problem-solving. The problem with that is you don't have anyone to teach you the right way, but the product will teach you the right and wrong way if you're with a team that is moving quickly."
-
-**Insight:** Startups offer the fastest learning curve for aspiring PMs because they force exposure to every part of the product discipline.
+**Insight:** Evaluate new career opportunities by identifying the specific product complexities and business models that align with your natural strengths and personality.
 
 **Tactical advice:**
-- Look for roles in smaller products or companies to get hands-on experience with all functions
-- Use the product's market performance as a feedback loop in the absence of formal mentorship
+- Analyze your personality to see if you thrive in complex environments like marketplaces.
+- Look for roles that offer layers of abstraction or complexity that go beyond building a digital interface.
+- Identify companies that are at a specific stage, such as post-product market fit, to match your current career goals.
 
-*Timestamp: 37:54*
+*Source: Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, operationalizing product quality, second-order decisions, brainstorming, influence, and much more @ 00:16:20*
 
+---
 
 ## Nikhyl Singhal
-*Nikhyl Singhal*
 
-> "I tend to help and coach hundreds of folks through transitions. So if they're in a moment where they're trying to decide between another job, if they're trying to decide to leave, if they're having sort of an alert at work, I call them 911 calls. I take a few 911 calls every week and from a relatively large group of people. So I find those are the most substantive times to help people, is when they're in moments of dilemma or forks in the road"
+> "What's the second thing? What's your career next look like? How do you ensure that you are always going to have something important and motivating to do with your career? Otherwise, you'll keep working because you know nothing else to do, but you'll be sadder or you'll find ways to create war when peace is needed."
 
-**Insight:** Career transitions are critical 'forks in the road' where external coaching and objective advice are most impactful.
+**Insight:** True career fulfillment requires finding intrinsic motivation that persists even after you have reached high-status titles and financial success.
 
 **Tactical advice:**
-- Seek external perspectives during '911' moments of career dilemma
-- Focus on the long-term arc rather than just the immediate next step
+- Identify core motivations that will sustain your engagement after achieving primary financial or title goals.
+- Define a 'second act' to ensure you always have something motivating to work toward in the future.
+- Plan for long-term fulfillment to avoid becoming bored or disruptive after reaching the top of your field.
 
-*Timestamp: 00:05:22*
+*Source: [Building a long and meaningful career | Nikhyl Singhal (Meta, Google)](https://www.youtube.com/watch?v=U_WQuUIYnJg) @ 01:02:39*
 
+---
 
 ## Noam Lovinsky
-*Noam Lovinsky*
 
-> "I always try to prioritize putting myself in positions that are going to cause a lot of growth and learning. And growth and learning can be very painful. ... I can find situations that are going to stretch me, that are going to force me to do things that I haven't done where I'm going to grow and learn significantly."
+> "What I often coach people is, do what you like. You're generally going to be a lot better at the things that really fill you up that really get you excited."
 
-**Insight:** Optimize for roles that provide maximum 'stretch' and learning potential, even if the transition involves significant discomfort or pain.
+**Insight:** Career success is driven more by authenticity and personal energy than by following industry trends or investing in non-authentic personal branding.
 
 **Tactical advice:**
-- Seek out roles that require at least one or two entirely new skills to avoid stagnation
-- Prioritize learning potential over high certainty of immediate success when choosing a new role
+- Select roles and projects that authentically excite you and align with your natural strengths.
+- Prioritize deep, high-quality work over building a public persona or networking for its own sake.
+- Ignore industry pressures to conform to certain social media or newsletter standards if they don't feel natural.
 
-*Timestamp: 00:59:37*
+*Source: [The happiness and pain of product management | Noam Lovinsky (Grammarly, Facebook, YouTube, Thumbtack)](https://www.youtube.com/watch?v=a_W5Rn0bJWE) @ 00:59:37*
 
+---
 
 ## Paul Millerd
-*Paul Millerd*
 
-> "A three month sabbatical is much more attainable than people think. Companies are desperate to keep people and are much more open to things like this these days. And the way I frame it is if you're assuming you're going to work continuously in adulthood, that's about 500 months. Try to find three months of that where you can create space and reconnect with yourself, explore things, just see what emerges, see how you feel."
+> "Are you conscious about what you're actually doing? What are the costs of your game? What are the trade-offs? What are the implicit contracts are you creating with yourself?"
 
-**Insight:** A three-month sabbatical is a small, manageable fraction of a 500-month career that allows for essential self-reconnection.
+**Insight:** True career satisfaction comes from consciously choosing your path and acknowledging the trade-offs, rather than simply following a societal script.
 
 **Tactical advice:**
-- Aim for a three-month block to allow for proper unwinding
-- Frame the request to employers as a way to stay with the company long-term
+- List your top priorities and evaluate how many your current role satisfies.
+- Question the 'implicit contracts' you have with yourself, such as the assumption that you must work 40 hours every Monday through Friday.
+- Acknowledge external disruptions and personal changes to determine if your current trajectory still serves your life reality.
 
-*Timestamp: 00:16:31*
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:05:08*
 
 ---
 
-> "I've found it takes six to eight weeks just to unwind."
+> "Take three hours during a workday. Has to be during a workday. Block off your schedule, sneak out. People can pull this off. Go for a walk without a destination or do something from your childhood that you used to do all the time."
 
-**Insight:** The psychological transition away from a high-pressure job requires nearly two months before true exploration can begin.
+**Insight:** Reconnecting with your true self requires creating intentional space to observe what brings you alive outside the constraints of professional identity.
 
 **Tactical advice:**
-- Budget at least 6-8 weeks of 'unwinding' time before expecting creative breakthroughs
+- Block off three hours during a standard workday to do something completely unrelated to work.
+- Reflect on any guilt felt during work-hour breaks to understand your internal definitions of 'good work.'
+- Revisit activities from your childhood to see which ones still generate a sense of 'aliveness.'
 
-*Timestamp: 00:22:09*
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:18:35*
 
 ---
 
-> "I always tell people you need a boomer compatible story for what you're up to, as just give them something. Just say, 'I'm an entrepreneur,' or, 'I'm a business owner.'"
+> "The big shift for me actually, when I left my job, I wanted to run away. I wanted to escape work. I wanted to not work. And I more or less accomplished that. I basically lowered my cost of living in Asia to about 1,000 per month."
 
-**Insight:** When transitioning to unconventional work, use traditional labels to satisfy the social expectations of older generations and reduce friction.
+**Insight:** Extending your career runway is often more about aggressively lowering expenses than immediately generating new income.
 
 **Tactical advice:**
-- Adopt 'legible' titles like 'entrepreneur' or 'business owner' to explain your path to family and friends
+- Identify your minimum viable cost of living to determine how long your savings can last.
+- Consider relocating to a lower-cost area to significantly extend your exploration period.
+- Prioritize saving for career transitions with the same intensity as saving for a major life purchase.
 
-*Timestamp: 00:39:41*
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:27:39*
 
 ---
 
-> "I call it ship, quit, and learn, which is what is the quickest way I can ship something designed to quit, but as soon as I ship it, I learn about what to do next?"
+> "The pathless path is basically a shift away from the default. It's a shift away from not knowing what you're doing as a problem to be solved toward an embrace of uncomfort, discomfort, and uncertainty."
 
-**Insight:** Treat career experiments as short-term projects designed to be abandoned after they provide the necessary data for the next step.
-
-**Tactical advice:**
-- Design small experiments (like a 5-episode podcast) with a pre-set 'quit' date to lower the stakes of trying something new
-
-*Timestamp: 00:45:45*
-
-
-## Phyl Terry
-*Phyl Terry*
-
-> "I talk about this in the book. Sometimes you need a two-step strategy. Let's say you want to be a VP of product at a top streaming company or whatever it is, but you not a fit for that today. So the question is how do you step there?"
-
-**Insight:** Use a two-step strategy to reach a goal role by taking an intermediate position that builds the necessary experience or proximity to the 'technology frontier.'
+**Insight:** Moving beyond a traditional career requires shifting from a scarcity mindset to an abundance mindset and learning to coexist with uncertainty.
 
 **Tactical advice:**
-- Identify if your goal role is currently out of reach based on market conditions.
-- Consider taking an individual contributor (IC) role at a top-tier company to reset your trajectory.
-- Look for internal promotion opportunities from a role you are currently a fit for.
+- Fire the manager in your head to break free from internal scripts about when and how much you must work.
+- Acknowledge that leaving a full-time job often triggers shame, which is a societal script rather than a personal failing.
+- Adopt an abundance mindset by trusting that experimentation and faith can lead to viable new paths.
 
-*Timestamp: 00:40:38*
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:40:45*
 
+---
+
+> "The goal is not to find a job, make money, build a business, or achieve any other metric. It's to actively and consciously search for the work that you want to keep doing."
+
+**Insight:** Sustainable creative work is found by shifting the focus from hitting financial metrics to discovering activities you are willing to do for the long term.
+
+**Tactical advice:**
+- Experiment with independent freelancing to establish a stable income base while building a creator path.
+- Commit to doing creative work in public to meet collaborators and refine your ideas through feedback.
+- Focus on finding a better relationship with work rather than following standard industry containers.
+
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:48:35*
+
+---
+
+> "Companies are desperate to keep people and are much more open to things like this these days. And the way I frame it is if you're assuming you're going to work continuously in adulthood, that's about 500 months. Try to find three months of that where you can create space."
+
+**Insight:** Leverage the current labor market's flexibility to request non-traditional arrangements that prioritize your personal growth and exploration.
+
+**Tactical advice:**
+- Propose a short-term sabbatical as a retention tool rather than quitting outright.
+- Evaluate your current role's flexibility against your need for time and energy to explore new interests.
+- Frame your request for space within the context of a long-term career to make it more legible to employers.
+
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:29:55*
+
+---
+
+> "You'll trigger insecurities in other people by just existing outside the frame of the default path. And it's the default path in their head of their conception of how the world should work and does work, right?"
+
+**Insight:** Recognizing that negative social reactions often stem from others' internal scripts can help you stay committed to an unconventional path.
+
+**Tactical advice:**
+- Prepare for social pushback by understanding it as a reflection of others' insecurities about their own choices.
+- Use frameworks like the 'pathless path' to give yourself and others a vocabulary for your journey.
+- Acknowledge that leaving a traditional job may feel shameful because it challenges long-standing societal norms.
+
+*Source: [Redefining success, money, and belonging | Paul Millerd (The Pathless Path)](https://www.youtube.com/watch?v=yFckwBtiCUM) @ 00:39:10*
+
+---
+
+## Peter Deng
+
+**Insight:** 
+
+*Source: [From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products | Peter Deng](https://www.youtube.com/watch?v=8TpakBfsmcQ) @ 01:36:21*
+
+---
 
 ## Raaz Herzberg
-*Raaz Herzberg*
 
-> "I had a ton to learn about marketing, with what I knew really well... I spent my life in engineering, and in any product, it's not the go to market side, even. I was never part of the go to market, or I have never heard of a lead in my life. I did not know the word "pipeline.""
-
-**Insight:** Successful transitions into new functions rely on leveraging deep domain expertise while being willing to learn the tactical language of the new role from scratch.
+**Insight:** Transitioning from product to marketing allows a leader to leverage deep technical and customer knowledge to build a more authentic go-to-market strategy.
 
 **Tactical advice:**
-- Follow 'good people' rather than a rigid career plan.
-- Identify the 'heat' in the organization—the area where the most critical bottleneck exists—and move toward it.
+- Apply product management rigor to marketing functions like product strategy and positioning.
+- Leverage a technical background to build credibility with specialized audiences.
+- Be willing to learn marketing fundamentals from scratch after mastering the product lens.
 
-*Timestamp: 00:24:11*
+*Source: [Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)](https://www.youtube.com/watch?v=vnW3zIkrOvY) @ 00:23:53*
 
 ---
 
-> "I do feel like an imposter, and I know there's always those statistics about many people feeling that way. So I think, maybe just, "Let's embrace it. I feel like an imposter, you feel like an imposter, everybody feels like an imposter," It's kind of, maybe embrace it, but don't let that stop you from making a decision."
-
-**Insight:** Accepting that you are an imposter when starting a new role allows you to focus on the work rather than the fear of being 'found out.'
+**Insight:** Prioritize following exceptional people and high-growth opportunities over following a rigid, predetermined career plan.
 
 **Tactical advice:**
-- Don't wait for confidence to take on a new role; be okay with the possibility of failing while attempting it.
+- Make career decisions based on the quality of the team and the potential for accelerated learning.
+- Be open to non-traditional transitions between engineering, product, and marketing.
+- Accept roles that feel slightly out of reach to maximize professional development.
 
-*Timestamp: 00:54:09*
+*Source: [Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)](https://www.youtube.com/watch?v=vnW3zIkrOvY) @ 00:24:11*
 
+---
 
 ## Rachel Lockett
-*Rachel Lockett*
 
-> "When people are in their gifts and their strengths firmly, most of the time, they have more energy... I try to help my leaders see that they can design their lives so they're spending 80% of their time in their gifts."
+> "It's no one else's job to help you live in your gifts. What I notice in big companies is people are often annoyed or frustrated with their management for not making their job more interesting. No, your manager's job is to help you perform in the job you are hired to do. It's your job to navigate your career."
 
-**Insight:** Career satisfaction and energy levels are directly tied to how much time is spent working within one's 'Zone of Genius.'
+**Insight:** You must take personal responsibility for steering your career toward your strengths rather than expecting management to design a fulfilling role for you.
 
 **Tactical advice:**
-- Track energy levels for two weeks: note 5 things that gave energy and 5 that depleted it daily.
-- Aim to spend 80% of your time in your 'gifts' or strengths.
+- Stop relying on management to make your work interesting and take charge of your own career navigation.
+- Commit to personal growth and expanding your leadership capacity over the long term.
+- Lean into your unique purpose to find more fun and impact in your professional life.
 
-*Timestamp: 00:44:25*
+*Source: [A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett](https://www.youtube.com/watch?v=1GDVum5IarI) @ 00:45:17*
 
+---
 
 ## Ravi Mehta
-*Ravi Mehta*
 
-> "The advantage a smaller company has really is in latency. You can have an idea one day, you can test it the next day, and as a result you can have this really short cycle time between an assumption or a hypothesis and being able to validate that hypothesis. That's just not true at larger companies where there's a lot more momentum."
+> "The advantage a smaller company has really is in latency. You can have an idea one day, you can test it the next day, and as a result you can have this really short cycle time between an assumption or a hypothesis and being able to validate that hypothesis. And that's just not true at larger companies where there's a lot more momentum."
 
-**Insight:** The primary advantage of a startup over a large company is low latency (decision speed) rather than total work volume (velocity).
+**Insight:** Startups gain a competitive edge by reducing 'latency'—the time between an idea and its validation—rather than trying to match the sheer output volume of larger companies.
 
 **Tactical advice:**
-- When moving to a startup, shift focus from high-velocity execution to reducing the time between hypothesis and validation.
-- Boil down ambitious plans into smaller, iterative pieces that provide data every few days or weeks.
+- Optimize for latency by minimizing the time between forming a hypothesis and getting a result.
+- Shift from an experimental approach to a conviction-oriented approach to avoid paralysis when data is limited.
+- Break ambitious projects into small, iterative pieces that allow for data collection every few weeks.
 
-*Timestamp: 00:09:15*
+*Source: [The secret to better AI prototypes: Why Tinder’s CPO starts with JSON, not design | Ravi Mehta (product advisor, previously EIR at Reforge)](https://www.youtube.com/watch?v=_yQMGHHl49g) @ 00:08:04*
 
 ---
 
-> "I think it's important to plug into an early stage network as soon as possible... the people sort of really build their lifestyles and their careers around a particular stage. And there are some people that like to move between stages, but the majority of people don't."
+## Ray Cao
 
-**Insight:** Big company networks and startup networks are distinct; transitioning requires intentionally building a new network of builders, freelancers, and early-stage investors.
+> "I think at the TikTok, I think besides the technology part, we do have a very keen, I would say, appetite to really understand what the markets really want and also how can we really service our clients in a better way and the clients here is not necessarily only for advertisers including our user and also creator altogether."
 
-**Tactical advice:**
-- Join communities like Indie Hackers or Everything Marketplaces to connect with early-stage builders.
-- Connect with angel investors to understand current technology trends and early-stage challenges.
-- Look for 'generalist' talent rather than specialists when hiring for the earliest stages.
-
-*Timestamp: 00:13:04*
-
-
-## Ryan Hoover
-*Ryan Hoover*
-
-> "There's many different ways to invest. There's, you know, angel investing is one... there's scouting... there's SPVs... raising a fund... one thing you can also do is just like pretend angel invest... write memos, or you can like almost create a fantasy portfolio... she was doing the job before getting the job, and anyone can do that today."
-
-**Insight:** Transitioning into venture capital can be achieved by 'doing the job before having the job' through memos and fantasy portfolios.
+**Insight:** Transitioning from a legacy tech company to a high-growth startup requires a mindset shift from technology-led innovation to customer-centric experimentation.
 
 **Tactical advice:**
-- Create a 'fantasy portfolio' and write investment memos to prove your thought process to potential firms.
-- Consider SPVs (Special Purpose Vehicles) as a way to build a track record without personal capital.
+- Prioritize understanding what the market wants over building purely based on engineering capabilities.
+- Experiment with multiple product variations simultaneously rather than following a rigid, linear development process.
+- Adopt a global-first prioritization strategy that evaluates market opportunities outside of the home country early on.
 
-*Timestamp: 01:02:20*
+*Source: [Inside TikTok: Culture, strategy, monetization, and more | Ray Cao (Global Head of Monetization Product Strategy and Operations)](https://www.youtube.com/watch?v=RJ3iPWo3-8M) @ 00:05:02*
 
+---
 
 ## Ryan J. Salva
-*Ryan J. Salva*
 
-> "The decision to move as well, I think, was really focused not just on what GitHub was and maybe is at the time, but what GitHub also can be. ... to get to an opportunity to work on so many V1 products, like that is creation itself, to be able to build an entirely new product, get it out to market, test it, iterate on it, and really feed on the energy that's coming back from the community."
+> "I really took that opportunity to make the transition out of a little bit more enterprise focused internal role at Microsoft to going where I could work on everything from, I don't know, AI technology like Copilot to a cloud hosted development environments like Codespaces, repos, which literally every single developer on the planet is participating in some way GitHub repos in a typical year."
 
-**Insight:** When transitioning roles, prioritize environments that offer high community impact and the opportunity to build 'V1' products from scratch.
-
-**Tactical advice:**
-- Evaluate potential roles based on the 'mind share' and community focus of the organization
-- Look for opportunities to lead V1 products to maximize creative impact during a transition
-
-*Timestamp: 00:09:28*
-
-
-## Shreyas Doshi
-*Shreyas Doshi*
-
-> "For about a year, I was doing the product job without having the title and I was also the engineer. So I was in this great state where I'd figure out what needed to be built and I would just build it myself. So, that's how I started. And at some point during that one year, I realized that while I was a good engineer, I was perhaps a top 20% engineer. I realized that I would never be a great engineer, that I would never be a top 10% engineer because I saw those engineers, the fortune of working with them, and I just could tell that I couldn't be that."
-
-**Insight:** Transitioning from engineering to product often involves identifying a personal performance ceiling in technical roles and starting to perform product responsibilities before the official title change.
+**Insight:** Successful transitions to new leadership roles involve moving toward areas where community innovation and creative energy are highest to maximize your potential impact.
 
 **Tactical advice:**
-- Look for opportunities to attend customer meetings as an engineer to understand user needs.
-- Start building solutions for customer problems independently to demonstrate product thinking.
+- Move from internal-facing infrastructure roles toward community-facing platforms to increase your professional reach.
+- Identify the products where the majority of your target user base is already collaborating and creating.
+- Leverage your experience with large-scale systems to help scale high-growth, early-stage product categories.
 
-*Timestamp: 00:08:40*
+*Source: [The role of AI in product development | Ryan J. Salva (VP of Product at GitHub, Copilot)](https://www.youtube.com/watch?v=awcd3P1DnX4) @ 00:07:13*
 
 ---
 
-> "I have to abandon the traditional path, that like, 'Oh, after this level, I'm supposed to do this, and then I'm supposed to do this, and then this is what society expects... Identify your superpowers, because if you identify your superpowers and work in accordance with them, you will do the best work of your life.'"
+## Sam Schillace
 
-**Insight:** Career fulfillment requires aligning your role with your natural 'superpowers' rather than following a standard corporate ladder that may force you into work you dislike.
+> "But the reality is you should go do the thing that you feel guilty to get paid for, if there's a thing like that, and do the hell out of it, right? Do it as hard as you can. If you get pleasure from doing something that people want to pay you for, do it the best you can do it, as hard as you can do it."
+
+**Insight:** High-value work often feels surprisingly easy and fun to you; follow the path where your natural talents make work feel like play.
 
 **Tactical advice:**
-- Identify whether your 'happy place' is at the Impact, Execution, or Optics level.
-- Be willing to move to earlier-stage products or smaller teams if you find 'optics' work (common in large orgs) frustrating.
-- Make career decisions based on self-truth rather than envy or external expectations.
+- Identify tasks that feel so effortless and enjoyable that you feel slightly guilty being paid to do them.
+- Stop grinding through unpleasant work under the assumption that suffering is required for career success.
+- Lean into the activities you find fun and 'do the hell out of' them as hard as you can.
 
-*Timestamp: 41:25*
+*Source: [How to be more innovative | Sam Schillace (Microsoft deputy CTO, creator of Google Docs)](https://www.youtube.com/watch?v=IOWDoDpQ7Xg) @ 00:54:19*
 
+---
+
+## Sanchan Saxena
+
+> "My biggest advice to people is, oftentimes the analysis paralysis of dotting every eye, crossing every tee sometimes chokes you out of opportunities. When you find something that gives you energy, just jump in with both feet. And try to go through that process, and pivot and learn, and pivot and learn and pivot. That's how you would create a great career as opposed to sort of a five year career plan and working backwards from that."
+
+**Insight:** Prioritize rapid learning and high-energy opportunities over rigid long-term career planning to navigate early product management choices.
+
+**Tactical advice:**
+- Take 'little bets' and build the capacity for rapid recovery if they do not work out.
+- Jump into new opportunities with both feet when you find work that gives you energy.
+- Choose roles that maximize your speed of learning the 'art and science' of product management.
+
+*Source: Sanchan Saxena (VP of Product at Coinbase) on the inside story of how Airbnb made it through Covid; what he’s learned from Brian Chesky, Brian Armstrong, and Kevin Systrom; much more @ 00:06:31*
+
+---
+
+**Insight:** Evaluate Web3 opportunities by looking past today's friction to identify the revolutionary potential of decentralized systems.
+
+**Tactical advice:**
+- Look for 'Web 2.5' opportunities that bridge today's user behavior with tomorrow's decentralized ideals.
+- Join a field as a builder rather than just an observer once you believe a technological revolution is occurring.
+- Optimize for learning speed in industries that are transitioning from niche participation to mass adoption.
+
+*Source: Sanchan Saxena (VP of Product at Coinbase) on the inside story of how Airbnb made it through Covid; what he’s learned from Brian Chesky, Brian Armstrong, and Kevin Systrom; much more @ 00:49:03*
+
+---
+
+## Scott Wu
+
+> "The form factor of what it means to be a programmer obviously is going to change, but at the end of the day, of course the discipline is all about just being able to tell your computer what's do. And so in that lens, I really think that programming is only going to become more and more important as AI gets more powerful."
+
+**Insight:** As AI handles implementation, the role of an engineer shifts toward higher-level architecture and the ability to precisely decompose and define problems.
+
+**Tactical advice:**
+- Focus on developing skills in system architecture and problem decomposition rather than rote syntax.
+- Master the ability to clearly articulate complex technical requirements to autonomous agents.
+
+*Source: [How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)](https://www.youtube.com/watch?v=7m_xKFqSxTo) @ 00:23:31*
+
+---
+
+## Seth Godin
+
+> "And so I became the de facto product manager and that is when I learned marketing is the product. You don't make a product and then hand it to some marketing yahoo and say, go put a logo on this. That the product we made, and five in a row went gold, saved the company."
+
+**Insight:** Marketing is not a layer applied after development but is the core utility and story built directly into the product itself.
+
+**Tactical advice:**
+- Lead cross-functional teams through influence and public recognition rather than formal authority.
+- Ensure the engineering team understands that the 'marketing' is the value they are building into the product.
+- Take deep ownership of project timelines and details to ensure the product meets critical delivery dates.
+
+*Source: [Seth Godin's best tactics for building remarkable products, strategies, brands and more](https://www.youtube.com/watch?v=UyWTDmDjNy4) @ 00:10:05*
+
+---
 
 ## Shaun Clowes
-*Shaun Clowes*
 
-> "My career has been a little bit like a bingo card. I've always been looking to fill in boxes I didn't have filled because I felt like that would make me a better professional. It's like if I didn't know anything about that specific type of sales model or that type of marketing or that type of product management... well, if I learn about that thing, I will become more versatile."
-
-**Insight:** Treating a career as a 'bingo card' of diverse experiences across different business models and functions builds unique versatility and pattern-matching skills.
+**Insight:** Building a versatile career requires intentionally choosing roles that fill gaps in your experience rather than staying within familiar domains.
 
 **Tactical advice:**
-- Identify 'empty boxes' on your professional experience card (e.g., consumer vs. B2B, sales vs. product) and seek roles that fill them.
+- Use a 'bingo card' approach to identify the specific skills and domains missing from your resume.
+- Index towards finding very different roles for every new job to build broader pattern-matching abilities.
 
-*Timestamp: 00:56:42*
+*Source: [Why great AI products are all about the data | Shaun Clowes (CPO Confluent, ex-Salesforce, Atlassian)](https://www.youtube.com/watch?v=yVS1gTAQYSU) @ 00:56:42*
 
 ---
 
-> "It's to constantly be choosing things that are either outside that, not totally outside the lines. Don't jump out of a plane if you've never parachuted before. Obviously you want them to be in some way and adjacency, that you want them to have something in common with what you know, but you want them to stretch you and change you."
+## Shreyas Doshi
 
-**Insight:** Optimal career growth happens by taking roles that are 'adjacent' to your current skills but provide significant new challenges.
+> "For about a year, I was doing the product job without having the title and I was also the engineer. So I was in this great state where I'd figure out what needed to be built and I would just build it myself."
 
-**Tactical advice:**
-- Look for roles that share one commonality with your current experience but introduce two or three new variables.
-
-*Timestamp: 01:00:41*
-
-
-## Tomer Cohen
-*Tomer Cohen 2.0*
-
-> "We had somebody in our user research team. We had an opening for a PM on the growth team... She used all those tools, and she's now a growth PM on the team. And really, you can start thinking about her more as a full stack builder ultimately."
-
-**Insight:** AI tools lower the barrier for career pivots by augmenting the technical or specialized skills required to move between functions.
+**Insight:** An engineering background provides a powerful foundation for product management by allowing you to both identify user needs and build solutions yourself.
 
 **Tactical advice:**
-- Encourage employees to use AI tools to bridge skill gaps when applying for internal roles in different functions
+- Start performing PM duties like customer research and product definition while still in an engineering role.
+- Leverage technical skills to build and test your own product ideas to move faster than formal processes allow.
+- Seek opportunities to attend customer meetings and manage external relationships to build cross-functional experience.
 
-*Timestamp: 00:43:11*
+*Source: [4 questions Shreyas Doshi wishes he’d asked himself sooner | Former PM leader at Stripe, Twitter, Google](https://www.youtube.com/watch?v=atS060bNpE0) @ 00:07:11*
 
+---
+
+## Sriram and Aarthi
+
+**Insight:** 
+
+*Source: [Hot takes and techno-optimism from tech’s top power couple | Sriram and Aarthi](https://www.youtube.com/watch?v=HsD5ycT_umw) @ 00:56:49*
+
+---
+
+## Tamar Yehoshua
+
+> "Make sure you go somewhere where you have a good engineering partner. Because if you have great ideas of what to build but you can't get them built, then you go nowhere. So that has to be part of your evaluation criteria that you meet and value your engineering partner before you join."
+
+**Insight:** When choosing a new role, prioritize the quality of your cross-functional partners to ensure your product vision can be successfully executed and launched.
+
+**Tactical advice:**
+- Make meeting and evaluating your potential engineering partner a core part of your interview process.
+- Prioritize roles where you can establish clear alignment on roles and responsibilities from the start.
+- Avoid joining organizations where you cannot verify that the engineering talent is capable of building your ideas.
+
+*Source: [Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua (Product at Glean, ex-Google and Slack)](https://www.youtube.com/watch?v=ZoSeOltKqQk) @ 00:18:39*
+
+---
+
+**Insight:** Approach your career one step at a time by focusing on immediate impact rather than fixating on a long-term plan.
+
+**Tactical advice:**
+- Focus on driving business impact in your current role rather than eyeing the next promotion.
+- Be willing to turn down roles or teams that don't make sense for the company's productivity.
+- Prioritize the immediate value you can provide over a fixed five-year career trajectory.
+
+*Source: [Lessons in product leadership and AI strategy from Glean, Google, Amazon, and Slack | Tamar Yehoshua (Product at Glean, ex-Google and Slack)](https://www.youtube.com/watch?v=ZoSeOltKqQk) @ 00:18:39*
+
+---
+
+## Tanguy Crusson
+
+**Insight:** Long-term career health in product management requires the courage to leave work environments that stifle innovation and breed cynicism.
+
+**Tactical advice:**
+- Evaluate if your current company culture truly supports zero-to-one work.
+- Recognize signs of cynicism in your team and act before it becomes habit.
+- Seek out environments with flat decision-making and high empowerment.
+
+*Source: [Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)](https://www.youtube.com/watch?v=cZqpqb5qR5A) @ 01:38:32*
+
+---
 
 ## Tom Conrad
-*Tom Conrad*
 
 > "When I look back on my career and think about the things that I've done, my professional satisfaction is not well correlated with those external metrics and very, very coordinated with do I love the thing we were building and do I love the people I was working with?"
 
-**Insight:** Professional satisfaction is driven more by product passion and team chemistry than by external success metrics or financial returns.
+**Insight:** Professional fulfillment is driven by personal alignment with the product and the quality of the team rather than brand prestige or external financial success.
 
 **Tactical advice:**
-- Evaluate potential roles based on personal interest in the problem space
-- Prioritize the quality of collaboration and leadership over company hype
+- Prioritize roles where you have a genuine passion for the product.
+- Evaluate potential colleagues based on whether they will challenge you and give you latitude.
+- Ignore external metrics like compensation or brand name if the day-to-day work lacks personal satisfaction.
 
-*Timestamp: 00:12:25*
-
-
-## Vikrama Dhiman
-*Vikrama Dhiman*
-
-> "My advice is if you're coming from design and research background, then you pick data or tech. If you're coming from a data or tech background, then you pick design and research, and that gives you the maximum leverage because that's a skill that you will necessarily not have developed over the years."
-
-**Insight:** When transitioning into PM, focus on developing the core skill (Data, Tech, or Design) that is furthest from your previous background to gain maximum leverage.
-
-**Tactical advice:**
-- Identify your 'opposite' skill set (e.g., Tech if you are from Design) and prioritize learning it
-- Leverage your existing strengths while aggressively filling gaps in unfamiliar domains
-
-*Timestamp: 00:41:18*
+*Source: [Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Snap, Zero)](https://www.youtube.com/watch?v=maK0XD9ARoI) @ 00:11:05*
 
 ---
 
-> "It also makes a big difference if you are transitioning when you are slightly younger in your career. If you are already senior in a function and then you are transitioning, sometimes it can take a lot of time in transitioning and picking up those skills."
+> "Every single time I've taken a job where it turned out that I was working with people who had a different set of values or working styles than I had, I knew. You tell yourself that, at least in my case, I tell myself a story about why the thing I suspect might be the case isn't the case."
 
-**Insight:** Transitioning into product management is generally easier and faster earlier in one's career.
+**Insight:** Initial gut reactions during the interview process are often more accurate reflections of culture fit than the logical justifications we create to ignore red flags.
 
 **Tactical advice:**
-- Be prepared to 'go slow' during a transition to build a foundation for faster growth later
-- Seek a strong product leader to mentor you through the skill-shaping phase of a transition
+- Pay close attention to your immediate emotional response when meeting a new team.
+- Stop rationalizing away concerns about working styles or value misalignments.
+- Trust your instinct about whether you can form a genuine connection with potential collaborators.
 
-*Timestamp: 00:44:14*
+*Source: [Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Snap, Zero)](https://www.youtube.com/watch?v=maK0XD9ARoI) @ 00:12:43*
 
+---
+
+> "There's this belief that everybody needs to be a founder. I think, in some ways, our industry would be much better off if there were fewer founders. There's an entire category of smart, creative, hardworking, talented, borderline visionary people who can raise that $2 million seed and go off and build some stupid company that's never going to go anywhere."
+
+**Insight:** Highly talented individuals can often achieve more impact and personal satisfaction by joining an existing team with a viable problem than by forcing themselves into a founder role.
+
+**Tactical advice:**
+- Reject the cultural pressure that labels founding a company as the only path to success.
+- Identify early-stage teams where your specific superpower is the missing piece for a winning formula.
+- Achieve your goals for financial reward and cultural impact through collaboration rather than solo leadership.
+
+*Source: [Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Snap, Zero)](https://www.youtube.com/watch?v=maK0XD9ARoI) @ 01:27:35*
+
+---
+
+**Insight:** The shift from product leader to CEO requires viewing the company through a financial lens while maintaining product intuition.
+
+**Tactical advice:**
+- Learn to interpret the business as a complex financial equation.
+- Prioritize the economic sustainability of the model alongside product quality.
+- Delegate technical decisions to stay focused on the broader business strategy.
+
+*Source: [Billion dollar failures, and billion dollar success | Tom Conrad (Quibi, Pandora, Pets.com, Snap, Zero)](https://www.youtube.com/watch?v=maK0XD9ARoI) @ 01:06:19*
+
+---
+
+## Tomer Cohen
+
+**Insight:** Long-term career impact comes from making choices based on internal conviction and the desire to solve specific problems rather than pursuing external prestige.
+
+**Tactical advice:**
+- Evaluate career opportunities based on where you feel you can make the most significant "dent."
+- Prioritize roles that align with your personal excitement and professional beliefs over market demand.
+- Shift your decision-making focus from external validation to internal conviction.
+
+*Source: [Why LinkedIn is turning PMs into AI-powered "full stack builders” | Tomer Cohen (LinkedIn CPO)](https://www.youtube.com/watch?v=R-zCfLQD_84) @ 00:49:53*
+
+---
+
+## Vijay
+
+> "And I think I had to unlearn that moving into product because you get a lot of ideas coming from a lot more places in the organization, and ideas are fragile in their agency and it's a hard no can really kill a whole direction that you could potentially go. They could be very high reach and high impact."
+
+**Insight:** Effective product leadership requires replacing reflexive engineering skepticism with a sincere effort to find paths for fragile but high-impact ideas.
+
+**Tactical advice:**
+- Take 10 minutes to sincerely consider how a new idea might work before responding with a reflexive no.
+- Document the earnest work done to try to make 'yes' work to ensure your final decision is well-reasoned.
+- Apply an engineering problem-solving mindset to find solutions for new ideas rather than searching for reasons to reject them.
+
+*Source: [An inside look at Mixpanel’s product journey | Vijay Iyengar (Head of Product)](https://www.youtube.com/watch?v=t-2oXtZrlEc) @ 00:03:57*
+
+---
+
+## Will Larson
+
+**Insight:** 
+
+*Source: [The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)](https://www.youtube.com/watch?v=Z9ftpRhRiJE) @ 01:02:33*
+
+---
 
 ## Yuhki Yamashata
-*Yuhki Yamashata*
 
-> "I think that it's, first of all, a really great empathy building exercise of understanding that point of view, and also pushing yourself to push on the product from a different angle. Because I think as a PM, you're in the center facilitating all these different trade offs, and when you go into design, you have to ignore some of those other aspects to really be insistent on pushing on the best experience possible."
+> "My first job out of college is actually at Microsoft, and I was the Product Manager on Hotmail. If anyone, any listener remembers Hotmail, and I didn't really know what product management was at the time, and I mute it as a interdisciplinary function that will give me exposure to all my other functions so that I can actually decide which function's interesting to me."
 
-**Insight:** Switching between product and design roles builds deep cross-functional empathy and allows you to approach product challenges from multiple perspectives.
-
-**Tactical advice:**
-- Use role switches to understand the specific pressures and languages of other functions
-- Suspend business/engineering feasibility temporarily when in a design role to push a vision
-
-*Timestamp: 00:09:16*
-
-
-## Ebi Atawodi
-*Ebi Atawodi*
-
-> "I genuinely think that some of the best product managers come from something else because you have empathy for being on the other side... already start product management, doing product management before you're a product manager. Open up your favorite apps. What are the top 10 problems you see?"
-
-**Insight:** Transitioning into PM is best achieved by practicing the craft (identifying problems and imagining solutions) in your daily life before officially holding the title.
+**Insight:** Use the product management role as a horizontal vantage point early in your career to gain exposure to multiple disciplines before specializing.
 
 **Tactical advice:**
-- Practice 'product sense' by identifying the top 10 problems in apps you use daily and sketching solutions
+- Treat early PM roles as interdisciplinary learning opportunities to explore design, engineering, and business.
+- Seek roles at companies that operate at the intersection of physical and digital worlds to develop a more complex product philosophy.
+- Follow missions that allow you to blur functional boundaries to deepen your impact and empathy.
 
-*Timestamp: 01:29:26*
-
-
-## Farhan Thawar
-*Farhan Thawar*
-
-> "If you don't have a written down framework of the things you actually care about, it's very hard not to be distracted. ... I actually sent my framework to a recruiter one time and I said, 'Hey, this thing,' because they kept going back and forth to me and I go, 'Hey, this doesn't align with my framework.'"
-
-**Insight:** Develop a personal decision-making framework to evaluate new roles and avoid being distracted by titles or compensation that don't align with your values.
-
-**Tactical advice:**
-- Write down a specific framework of values (e.g., learning, impact, people) before starting a job search
-- Share your career framework with recruiters early to filter out misaligned opportunities
-
-*Timestamp: 00:16:43*
-
-
-## Naomi Gleit
-*Naomi Gleit*
-
-> "I sort of took the same approach showing up at the office asking if there were any roles... I had been doing the job voluntarily, almost informally for a few months. And I remember this because I had a seat on the third floor. I picked up all the stuff on my desk, put it in a box, walked down to the second floor once I got the job to become a PM."
-
-**Insight:** To transition into a new role like Product Management, start doing the work informally and voluntarily before applying for the position.
-
-**Tactical advice:**
-- Volunteer for projects in the department you want to join
-- Perform the duties of the target role alongside your current job to prove capability
-
-*Timestamp: 00:11:08*
-
-
-## Nickey Skarstad
-*Nickey Skarstad*
-
-> "I actually went through my calendar and I changed the colors of all of the meetings on my calendar to red, yellow, and green after I had the meeting. And I looked. And basically if it was yellow, I was like, okay. It was a fine meeting. My energy was baseline. If it was red, I was either bored or I was stressed, or I was not having a good time. And if it was green, it gave me energy and I felt excited and I wanted to keep working on that."
-
-**Insight:** A 'calendar energy audit' is a powerful tool for determining if a role or company is the right long-term fit.
-
-**Tactical advice:**
-- Color-code your calendar (Red/Yellow/Green) based on energy levels after meetings
-- Evaluate the ratio of 'green' energy tasks to decide if a career pivot is necessary
-
-*Timestamp: 00:18:17*
-
-
-## Paige Costello
-*Paige Costello*
-
-> "I evaluate whether I'm in a healthy role and in a good setup by asking myself about my learning curve... thinking about whether the environment is positively impacting your ability to grow your career... and the third piece is really around just the problem, the problem your product is solving."
-
-**Insight:** Assess career moves based on three criteria: the steepness of the learning curve, the quality of the environment/team, and the inherent interest of the problem.
-
-**Tactical advice:**
-- Regularly audit your current role's learning curve to ensure you are still being challenged.
-- Evaluate if your environment includes people who advocate for you and provide the right tools for success.
-
-*Timestamp: 00:52:50*
-
-
-## Sanchan Saxena
-*Sanchan Saxena*
-
-> "My advice to people is go get a job which will make you the fastest learner in the field of product management. That is what will help you a lot. No course, no degree, none of those things will help. The most important thing will be how quickly can you jump in, learn the auto product management."
-
-**Insight:** Prioritize learning speed and hands-on experience over formal credentials when starting or pivoting into a product career.
-
-**Tactical advice:**
-- Choose roles based on where you will learn the fastest
-- Balance the 'art' of intuition with the 'science' of data early in your career
-
-*Timestamp: 00:08:51*
+*Source: Yuhki Yamashata @ 00:05:22*
 
 ---
 
-> "You got to figure out what are you optimizing for, what goes well with you. I've seen many successful leaders who will get choked up in a big company environment, and I've seen many big company successful executives who want to choke up in a very startup environment."
+> "Well, I decided it's not for everyone, but I think that it's, first of all, a really great empathy building exercise of understanding that point of view, and also pushing yourself to push on the product from a different angle."
 
-**Insight:** Understand whether you thrive in 'starter' (0 to 1) or 'scaler' (1 to N) environments before choosing a new role.
-
-**Tactical advice:**
-- Identify if you prefer the unencumbered hacking of a startup or the scale mechanisms of a large company
-- Recognize that different stages of company growth require different PM skill sets
-
-*Timestamp: 00:11:23*
-
-
-## Scott Belsky
-*Scott Belsky*
-
-> "If I knew then what I know now, I would not have done this... Then, quit. Your life is short. You have a great team. Pivot. Do something completely different. If you've lost conviction, you should not be doing what you're doing in the world of entrepreneurship."
-
-**Insight:** The decision to pivot or transition should be based on whether your conviction in the solution has increased or decreased after gaining real-world knowledge.
+**Insight:** Temporarily switching to a design role allows PMs to build deep functional empathy and learn to advocate for an ideal vision without the immediate weight of feasibility constraints.
 
 **Tactical advice:**
-- Regularly ask: 'Knowing all I know now, do I have more or less conviction in the problem and solution?'
-- Distinguish between a 'bad day' and a genuine loss of conviction before making a major career move
+- Practice 'suspending disbelief' in engineering or business feasibility to push for a pure, vision-led experience.
+- Use functional rotations to learn the specific language and internal motivations of your partner disciplines.
+- Focus on pushing the product from a different angle to build a more holistic understanding of product development.
 
-*Timestamp: 00:45:12*
-
-
-## Tamar Yehoshua
-*Tamar Yehoshua*
-
-> "I never had a five-year plan... follow people. You learn the most from people. I don't look for domains... you follow people who are the best at what they do. So it's not good enough to follow somebody who you like. You want to follow somebody who's either the best product thinker or the best engineer or the best salesperson."
-
-**Insight:** Career growth is better achieved by following high-caliber mentors and peers than by following a rigid long-term plan.
-
-**Tactical advice:**
-- Identify the best practitioners in your field and seek opportunities to work with them.
-- Join companies where there is a 'nexus' of great people to build a lasting network.
-
-*Timestamp: 00:19:12*
+*Source: Yuhki Yamashata @ 00:09:05*
 
 ---
-
-> "Take a job where if you hire people, it's going to make their careers... you want to make sure that it's going to be a good place for them and that they're going to learn and they're going to grow. And so you want to do right by them. And you really earnestly want to say you can make your career by coming here."
-
-**Insight:** As a leader, evaluate roles based on whether the company's trajectory will allow you to accelerate the careers of those you recruit.
-
-**Tactical advice:**
-- Avoid 'turnaround' jobs if they don't offer a clear path for your team's growth.
-- Prioritize learning opportunities over unpredictable financial returns when choosing a role.
-
-*Timestamp: 00:22:43*
-
-
-## Carilu Dietrich
-*Carilu Dietrich*
-
-> "I think the executive track isn't for everyone..."
-
-**Insight:** Getting to the C-suite requires intentionally working harder than peers.
-
-**Tactical advice:**
-- Work two hours later than everyone else
-- Volunteer for cross-functional projects
-
-*Timestamp: 00:04:55*
-
-
-## Melissa Perri
-*Melissa Perri*
-
-> "If you're a product owner... try to take some ownership over strategic work."
-
-**Insight:** Product owners transition by proactively taking ownership of strategic work.
-
-**Tactical advice:**
-- Ask to sit in on customer research
-- Push back on features by asking about outcomes
-
-*Timestamp: 00:57:14*
-
-
-## Sam Schillace
-*Sam Schillace*
-
-> "You should go do the thing that you feel guilty to get paid for."
-
-**Insight:** Best career moves are toward work that feels so natural you feel guilty getting paid.
-
-**Tactical advice:**
-- Notice what feels like flow
-- Stop gravitating toward unpleasant work
-
-*Timestamp: 00:00:00*
-
 
