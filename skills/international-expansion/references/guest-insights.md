@@ -22,8 +22,6 @@
 
 ## Gina Gotthilf
 
-> "And then they ended up asking me to come on full-time, do that across the world. In Japan, China, Korea, Turkey, Spain, France, et cetera. And then to own growth, which ended up meaning communications, social media, government partnerships, anything to grow."
-
 **Insight:** Scaling a product globally requires owning a diverse set of growth levers—from communications to government partnerships—and the willingness to scale across diverse regions simultaneously.
 
 **Tactical advice:**
@@ -104,8 +102,6 @@
 
 ---
 
-> "We like to follow a four-part framework that we’ve developed over the years. For each category below, answer each question to help you understand what you’ll need to have in place before you begin expanding. This list is sorted from most challenging to least challenging, and will help you itemize and prioritize the (sometimes unexpected) work that’ll be necessary."
-
 **Insight:** Successful international execution involves a comprehensive framework addressing business model adjustments, product localization, distribution playbooks, and organizational adaptation.
 
 **Tactical advice:**
@@ -156,8 +152,6 @@
 
 ---
 
-> "A small bug in the fraud queues resulted in a massive flood of violating items. We were able to get it cleaned up quickly by reinstating the rules, but it was an inauspicious start, to say the least."
-
 **Insight:** International scaling introduces localized fraud patterns and policy risks that require automated moderation systems to be robust from day one.
 
 **Tactical advice:**
@@ -194,8 +188,6 @@
 ---
 
 ## Manik Gupta
-
-> "When I started working on it, I think for me, my belief was, again going back to the tech optimism aspect, is why can't we in India have the same quality maps like we have in the United States? Why not? Why shouldn't we do it? Why are users here not getting the same benefit and same productivity gain, if you will, and less stress in their daily commute and things like that?"
 
 **Insight:** To scale globally, you must reject the assumption that international markets require lower product standards and instead leverage technology to solve universal human needs.
 

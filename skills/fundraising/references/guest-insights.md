@@ -6,8 +6,6 @@
 
 ## Andrew Wilkinson
 
-> "I think about if you're a first time entrepreneur or a student or something, you don't want to walk into the gym on day one and try and deadlift 300 pounds. So when someone comes to me and they're a first time entrepreneur and they say, 'I'm going to make the next great AI company,' or 'I'm going to launch a new bank,' or something like that, something that is very, very rigorous and complicated and highly competitive and regulated, I think that is the equivalent."
-
 **Insight:** Start with low-capital, high-feedback service businesses to build entrepreneurial skills and capital before attempting high-risk, complex ventures.
 
 **Tactical advice:**
@@ -115,8 +113,6 @@
 
 ---
 
-> "I talk to a lot of founders who feel like they were sold a bill of goods by their “value add” investor, who ends up doing very little for them. I can tell you from personal experience that it’s almost always the founder’s fault that they aren’t getting value from their investors."
-
 **Insight:** The responsibility for extracting value from an investor network lies solely with the founder, who must proactively and systematically ask for help.
 
 **Tactical advice:**
@@ -166,8 +162,6 @@
 *Source: [Pulling back the curtain on the magic of Y Combinator](https://www.lennysnewsletter.com/p/pulling-back-the-curtain-on-the-magic-of-y-combinator)*
 
 ---
-
-> "One theme throughout was that the magic of the incubator appears to be in picking the best founders, understanding trends, and the process within YC, not about repeating the successes of one particular startup profile."
 
 **Insight:** Founders should align their startup profile with YC’s shifting preference toward B2B and AI sectors while ideally applying as a multi-person team based in the U.S.
 
@@ -427,8 +421,6 @@
 
 ---
 
-> "the best way to prepare for this fast-approaching future is to dive in and get your hands dirty."
-
 **Insight:** AI can help organize your narrative arc and outline the necessary slides for an effective product pitch.
 
 **Tactical advice:**
@@ -453,8 +445,6 @@
 
 ---
 
-> "The durability of YC companies is significantly higher than that of the average startup. More than 50% of companies are still alive after 10 years (vs. 30% average)."
-
 **Insight:** Benchmarking against YC data allows founders to measure their survival probability and fundraising milestones against the industry's highest performers.
 
 **Tactical advice:**
@@ -466,8 +456,6 @@
 
 ---
 
-> "The investors in YC companies are the “crème de la crème.” Tier 1 VCs frequently invest in YC companies, and some have made several hundreds of investments."
-
 **Insight:** Identifying the specific Tier 1 VCs that consistently back YC's top-performing batches provides a targeted list for high-potential fundraising outreach.
 
 **Tactical advice:**
@@ -477,8 +465,6 @@
 *Source: [Pulling back the curtain on the magic of Y Combinator](https://www.lennysnewsletter.com/p/pulling-back-the-curtain-on-the-magic-of-y-combinator)*
 
 ---
-
-> "After three months of daily investor pitches from our Tahoe hideout, we closed a $2.5 million round. We were relieved, but mostly excited to go back to building and get the hell out of our cabin!"
 
 **Insight:** Closing a major deal during a market downturn requires persistent high-volume outreach and a narrative that positions your company as resilient to the crisis.
 
@@ -491,8 +477,6 @@
 
 ---
 
-> "In general, hiring before you get product/market fit slows you down, and hiring after you get product market fit speeds you up. Until you get product/market fit, you want to a) live as long as possible and b) iterate as quickly as possible."
-
 **Insight:** Hiring increases speed only after product/market fit is found; before that, a larger team actually decreases agility and burns cash faster.
 
 **Tactical advice:**
@@ -504,8 +488,6 @@
 
 ---
 
-> "The bad news is that, as Terrence and Jack pointed out in their post, the best investors look for warm introductions from people they trust, vs. cold emails. My advice is to make a list of folks you find below, and then find someone who knows someone who knows one of these people and try to get a warm introduction."
-
 **Insight:** Top-tier investors utilize warm introductions as a critical trust filter to manage overwhelming deal flow and identify the most promising startups.
 
 **Tactical advice:**
@@ -516,8 +498,6 @@
 *Source: [Top angel investors in the U.S.](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)*
 
 ---
-
-> "His investments are fairly generalist, across B2B, B2C, fintech, infrastructure, and AI. ... He seems to gravitate most to consumer products, which is rare these days."
 
 **Insight:** Efficient fundraising requires matching your startup's vertical to the specific historical preferences and current interests of an angel investor's portfolio.
 
@@ -613,8 +593,6 @@
 ---
 
 ## Mike Maples Jr
-
-> "The rock is the inflection, the slingshot is the insight that David shoots at Goliath. We're looking to create the conditions where we're going to get to play an unfair game by unfair rules that favor us."
 
 **Insight:** A compelling pitch frames the startup as an agile player using unique insights and external inflections to fight an unfair game against established giants.
 

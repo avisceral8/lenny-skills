@@ -18,11 +18,6 @@ Help the user with ai evaluation strategy using insights from 11 guests and post
 
 ## Core Principles
 
-### Collaborative Trace Analysis
-Aishwarya Naresh Reganti + Kiriti Badam: "You're probably looking at agent traces together and deciding how your product should behave. So it's a tighter form of collaboration."
-
-Effective evaluation requires cross-functional teams to review agent traces together to define and calibrate desired system behavior.
-
 ### Automate the Value Chain
 Brendan Foody: "I think that for enterprises especially, the core way to think about it is how can they build a test or systematic way to measure how well AI automates their core value chain? So if it's an architecture firm that's producing these architecture diagrams of what they provide to their end customer, how can they effectively measure that? And each company has its own value chain or maybe a handful of them if it's a multi-product company."
 
@@ -33,20 +28,10 @@ Edwin Chen: "We are looking for a Nobel Prize-winning poetry. Is this poetry uni
 
 True data quality is defined by deep, subjective human excellence, such as emotional resonance and uniqueness, rather than superficial binary checks.
 
-### Real-World Failure Mapping
-Hamel Husain & Shreya Shankar: "So let's go through the very beginning stage, what we call error analysis, which is, let's look at the data of their application and first start with what's going wrong."
-
-Start building evaluations by manually reviewing application traces to identify specific real-world failure modes and their full context.
-
 ### Eliminate Vibe Checks
 Hamel Husain & Shreya Shankar: "Evals help you create metrics that you can use to measure how your application is doing and kind of give you a way to improve your application with confidence. That you have a feedback signal in which to iterate against."
 
 Create systematic metrics to track application quality over time, allowing teams to iterate on prompts or models with the same confidence as traditional software.
-
-### Human in Control
-Nick Turley: "I think the thing that's been really important to us for a long time is to build something that feels like it's helpful to you, but you're in the driver's seat, and that's even more important as the stuff becomes agentic, the feeling of being in control, and that can be small things."
-
-Maintain user trust by ensuring the human remains in the driver's seat, using interfaces that allow them to oversee and control autonomous AI interactions.
 
 ### Structured Judge Logic
 From "Beyond vibe checks: A PM’s complete guide to evals": "Clearly articulating what you want your judge-LLM to measure isn’t just a step in the process; it’s the difference between a mediocre AI and one that consistently delights users. Building these writing skills requires practice and attention."

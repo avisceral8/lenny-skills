@@ -42,8 +42,6 @@
 
 ## Andrew Wilkinson
 
-> "It's like having the world's most reliable employee who costs $200 a month and works 24/7. So many knowledge work jobs are going to change massively. I think the fundamental question is, do all jobs just become a single prompt?"
-
 **Insight:** Treat AI as a tireless, low-cost digital employee that can fundamentally automate knowledge-work tasks through simple prompts.
 
 **Tactical advice:**
@@ -72,8 +70,6 @@
 
 ## Bret Taylor
 
-> "I think to really build something of significance, I think to be a great founder, you really need to be able to not have such a ossified view of your identity that you can't transform into what the company needs you to be at that point."
-
 **Insight:** Long-term leadership success depends on maintaining a flexible professional identity that allows you to prioritize whatever task the company needs most, even if it falls outside your preferred functional role.
 
 **Tactical advice:**
@@ -86,8 +82,6 @@
 ---
 
 ## Camille Fournier
-
-> "I'm going to find that in places where they are so quashed their creativity for the actual business or product that they're building and their voice in that is so ignored that they don't have any outlets in that space and so, they are going to use the space that they have an outlet in, the place where they have some control and that's usually the technology choices and the details there."
 
 **Insight:** Teams remain more focused on business outcomes when engineers are included in the creative process, preventing them from channeling their energy into unnecessary technical complexity.
 
@@ -114,8 +108,6 @@
 ---
 
 ## Dharmesh Shah
-
-> "I could become passively okay at management with some training, with some coaching. I don't want to spend any years of my life becoming passively okay at something."
 
 **Insight:** Avoid spending years of your life becoming 'passively okay' at tasks like management; instead, design your role to focus exclusively on your natural strengths.
 
@@ -187,8 +179,6 @@
 
 ## Gergely
 
-> "But I've been writing a blog for many, many years, and these are numbers I never thought it would be. And the growth just seems to be accelerating."
-
 **Insight:** Long-term consistency in public writing builds the necessary foundation for explosive growth once platform-specific discovery tools eventually align with your work.
 
 **Tactical advice:**
@@ -199,8 +189,6 @@
 *Source: [Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)](https://www.youtube.com/watch?v=CtB0O0M7YS0) @ 00:25:59*
 
 ---
-
-> "I had a spreadsheet that I maintained for the first year of the publication, where I listed, for every article, how much did my annual revenue go up a week later. So tracking what was the impact."
 
 **Insight:** Replacing corporate accountability with granular tracking of your own output's impact creates the structural feedback loop needed to sustain motivation as a solo founder.
 
@@ -214,8 +202,6 @@
 ---
 
 ## Graham Weaver
-
-> "It's not a day that is intentional. It's not a day where I've said, 'Where do I want to be going with my life? What's important to me in this world?'"
 
 **Insight:** Autopilot mode is a state of constant activity that feels productive but ultimately lacks the intentionality needed to reach your long-term goals.
 
@@ -266,8 +252,6 @@
 *Source: [Making time for what matters | Jake Knapp and John Zeratsky (authors of Sprint and Make Time, co-founders of Character Capital)](https://www.youtube.com/watch?v=cuce7zvOFHY) @ 00:48:37*
 
 ---
-
-> "Our perspective is basically that those are the defaults. Just like our software that we use, apps that we use have defaults, those are the defaults of life, of the companies that we work in, the culture that we live in. And so, the solution is actually to change those defaults and to really flip this way of thinking on its head."
 
 **Insight:** Escaping 'reaction mode' requires actively redesigning the default expectations of your workplace and personal culture.
 
@@ -401,8 +385,6 @@
 
 ## Laura Modi
 
-> "Sitting with my husband and determining how long I may need to be in this position before raising capital and is it possible? It certainly isn't what sometimes it can appear on the surface, which is, 'Oh, she had an idea and she left.' There's a lot of work that goes into determining is this actually going to be something that's viable?"
-
 **Insight:** Managing founder risk requires early, honest communication with personal stakeholders to set financial and temporal boundaries.
 
 **Tactical advice:**
@@ -415,8 +397,6 @@
 ---
 
 ## Lenny Rachitsky
-
-> "The Standard American Diet (SAD) is terrible. Right now, many Americans get 55% of their calories from ultraprocessed foods. The typical American diet is often bereft of nutrients, is riddled with toxins, and has created the sickest population of humans to ever exist on this planet 🇺🇲."
 
 **Insight:** Energy levels and work performance are direct results of nutritional choices, necessitating a shift away from the nutrient-poor Standard American Diet.
 
@@ -442,8 +422,6 @@
 
 ---
 
-> "Thousands of chemicals are used to make clothing, some 10% of which have been shown to disrupt the immune system, increase cancer risk, mess with hormones, and create reproductive issues. Even worse, the fun, stretchy performance fabrics you love to wear probably have the highest level of chemical treatment, and heavily utilize PFAS (forever chemicals) and PBDEs (chemicals used as flame retardants)."
-
 **Insight:** Modern chemical regulation is often reactive rather than proactive, placing the burden of safety research on the individual consumer.
 
 **Tactical advice:**
@@ -467,8 +445,6 @@
 *Source: [How a traumatic brain injury made me a better PM—and person](https://www.lennysnewsletter.com/p/how-a-traumatic-brain-injury-made-me-a-better-pm-and-person)*
 
 ---
-
-> "The key is to systematically design a career and lifestyle that make burnout structurally unlikely. We call tech workers who manage to do this ‘burnout conquerors.’"
 
 **Insight:** Preventing burnout requires moving beyond individual resilience to proactively design a career and lifestyle where exhaustion is structurally improbable.
 
@@ -507,8 +483,6 @@
 
 ---
 
-> "It also required that I step back and make a holistic assessment of what matters to me. Not just with work but with the broader tapestry that makes up a complete life, including human connection and nurturing experiences."
-
 **Insight:** To prevent total burnout, you must plan your career and life progressions concurrently, ensuring work demands don't permanently sideline human connection.
 
 **Tactical advice:**
@@ -532,8 +506,6 @@
 *Source: [On saying no](https://www.lennysnewsletter.com/p/on-saying-no)*
 
 ---
-
-> "Since I left a bunch of tactics out of that post to keep it from feeling overwhelming, I’ve got seven more productivity tricks for you that I use regularly."
 
 **Insight:** Sustainable productivity is built on a foundation of proactive scheduling, environmental control, and the regular auditing of how time and energy are actually spent.
 
@@ -572,8 +544,6 @@
 
 ---
 
-> "There are a lot of big ideas out there for how to use your time most effectively, but sometimes you just need a few really good tricks. Over the years, I’ve read dozens of productivity books and tried a bunch of stuff. Most of the ideas work for a few weeks and then fade. But below are 10 techniques that have stuck with me."
-
 **Insight:** Sustainable productivity comes from adopting a small set of enduring, simple techniques rather than complex systems that eventually fade.
 
 **Tactical advice:**
@@ -584,8 +554,6 @@
 *Source: [Time management techniques that actually work](https://www.lennysnewsletter.com/p/time-management-techniques-that-actually-work)*
 
 ---
-
-> "Using your work time most productively is a never-ending struggle. PMs are particularly prone because they rarely have clear deadlines or well thought out Gantt charts, but this hits all professionals."
 
 **Insight:** Product managers must proactively engineer their schedules to ensure they are creating new value rather than just reacting to logistical demands.
 
@@ -598,8 +566,6 @@
 
 ---
 
-> "Using your work time most productively is a never-ending struggle. PMs are particularly prone because they rarely have clear deadlines or well thought out Gantt charts, but this hits all professionals."
-
 **Insight:** Effective time management for product managers requires a deliberate system to counteract the lack of clear deadlines and the constant pull of shallow work.
 
 **Tactical advice:**
@@ -610,8 +576,6 @@
 *Source: [Using your working time well - Issue 22](https://www.lennysnewsletter.com/p/using-your-working-time-well---issue-22)*
 
 ---
-
-> "I strongly recommend *at minimum* wearing toxin-free, organic cotton or linen socks and underwear. My favorite brands are Industry of All Nations and Pact for underwear (Nads as runner-up), and Pact for socks."
 
 **Insight:** Clothing chemicals are absorbed through the skin, making organic materials essential for sensitive areas with high permeability.
 
@@ -675,8 +639,6 @@
 *Source: [How tech’s most resilient workers handle burnout](https://www.lennysnewsletter.com/p/how-techs-most-resilient-workers-handle-burnout)*
 
 ---
-
-> "Burnout conquerors know that to ruthlessly protect their time and energy, they need to erect boundaries that can withstand the pressure of a fast-paced and results-driven workplace."
 
 **Insight:** Enforcing rock-solid boundaries is the only way to prevent the relentless pressures of high-performance environments from encroaching on personal recovery time.
 
@@ -766,8 +728,6 @@
 *Source: [Inspiration for the year ahead](https://www.lennysnewsletter.com/p/inspiration-for-the-year-ahead)*
 
 ---
-
-> "My main to-do app, and probably my most-used app period. It combines a simple task list with flow-inducing music, distraction reminders, and a community of fellow-concentrators."
 
 **Insight:** Protect your personal focus by integrating distraction-blocking software, noise-canceling hardware, and flow-inducing habits.
 
@@ -884,8 +844,6 @@
 
 ---
 
-> "This one habit took my anxiety each morning from “holy shit I’ve got so much to do” to “I’ve got this.” You start feeling ahead of the curve versus always starting the day a little behind."
-
 **Insight:** A brief end-of-day planning ritual shifts your mindset from reactive to proactive, allowing you to start the next morning with clarity instead of anxiety.
 
 **Tactical advice:**
@@ -961,8 +919,6 @@
 *Source: [Taking the week off + a newsletter cadence update](https://www.lennysnewsletter.com/p/taking-the-week-off--a-newsletter-cadence-update)*
 
 ---
-
-> "Learn to prioritize and DRICE: a modern prioritization framework"
 
 **Insight:** PM productivity is optimized by adopting modern prioritization frameworks and building habits that focus on high-impact work.
 
@@ -1117,8 +1073,6 @@
 
 ---
 
-> "Now that you have the time to work, and it’s clear what you should be working on, how quickly and easily can you dive into hard work? I seriously struggle with this. I want to work on the important stuff, but my brain pulls me into the easy, surface-level stuff."
-
 **Insight:** Reaching a flow state requires intentionally reducing environmental friction and using tools that signal to your brain it is time for deep work.
 
 **Tactical advice:**
@@ -1258,8 +1212,6 @@
 ---
 
 ## Marc Andreessen
-
-> "And so this sort of incredible revolution that we have in what I've described as freedom of speech, freedom of thought, ability for people to openly discuss things that maybe they couldn't discuss even a few years ago has just dramatically expanded. And I think that's now on a one way train for just a much broader range of discourse."
 
 **Insight:** To find high-signal information in a shifting geopolitical landscape, one must look toward liberated discourse that challenges the assumptions of failing legacy institutions.
 
@@ -1426,8 +1378,6 @@
 
 ## Ray Cao
 
-> "We always have this mentality we are a startup, we're a young company, we're always hungry for growth. And a very wacky way is like, "How can I run my second half of my marathon faster than the first half?""
-
 **Insight:** Sustaining a high-growth startup requires a collective commitment to increasing momentum and speed even as the company moves deeper into its lifecycle.
 
 **Tactical advice:**
@@ -1529,8 +1479,6 @@
 ---
 
 ## Tim Holley
-
-> "And having that be part of the day-to-day conversation, it seems like such a small thing, but it adds up to having clarity on goal, the KPI point, and then clarity on why, the narrative point. If you can marry those two things, I think that's an incredibly powerful combination."
 
 **Insight:** Maintain organizational focus by continuously reinforcing the connection between the primary KPI and the company's broader strategic narrative.
 

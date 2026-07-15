@@ -37,8 +37,6 @@
 
 ## Dylan Field
 
-> "One good example of me changing my mind is that you all have Pages in Figma, you're welcome. But I think I have deep skepticism of Pages still. I'm not sure they're... If you could freeze time and I could just go in with my team, work on Figma for a very long time, I'm not sure we'd come to the same implementation of Pages that we are at today."
-
 **Insight:** Executives can be persuaded to adopt features they personally dislike if the team demonstrates that the solution is a fundamental user requirement.
 
 **Tactical advice:**
@@ -77,8 +75,6 @@
 *Source: [A PM’s guide to influence](https://www.lennysnewsletter.com/p/a-pms-guide-to-influence)*
 
 ---
-
-> "The trick to sharing bad news effectively is to imagine being on the other side of the table."
 
 **Insight:** Maintaining leadership confidence during a project failure requires shifting your perspective to provide the immediate transparency and forward-looking solutions that stakeholders need.
 
@@ -142,8 +138,6 @@
 *Source: [A PM’s guide to influence](https://www.lennysnewsletter.com/p/a-pms-guide-to-influence)*
 
 ---
-
-> "Having to take the heat for a project you didn’t initiate — how unfair. Well, that’s part of the gig. No one ever said being a PM was easy. Many of the projects your team works on aren’t going to work out."
 
 **Insight:** Product Managers must take full ownership of inherited projects because managing failure and accountability is a core part of the professional role, regardless of who initiated the work.
 
@@ -234,8 +228,6 @@
 
 ---
 
-> "If you can get better at prioritizing,you can grow your leverage as a product leader, and increase the impact you and your team drive. And while you can’t double the speed that engineers build at or designers design at, by picking better projects even a little bit better, you can double your team’s impact."
-
 **Insight:** A backlog of projects with high, verified ROI estimates serves as a powerful, revenue-backed business case when requesting additional engineering headcount.
 
 **Tactical advice:**
@@ -246,8 +238,6 @@
 *Source: [Introducing DRICE: a modern prioritization framework](https://www.lennysnewsletter.com/p/introducing-drice-a-modern-prioritization-framework)*
 
 ---
-
-> "PMs need to actually figure out ways to also monetize the ideas of research scientists, e.g. there was a willingness-to-pay survey for ChatGPT to try to monetize it and PMs have to come bridge that gap."
 
 **Insight:** To secure leadership buy-in for AI, PMs must act as the bridge between scientific research and tangible business monetization.
 
@@ -272,8 +262,6 @@
 *Source: [The Minto Pyramid Principle and the SCR Framework](https://www.lennysnewsletter.com/p/the-minto-pyramid-principle-and-the-scr-framework)*
 
 ---
-
-> "Check out the McKinsey Situation-Complication-Resolution (SCR) Framework. My last manager introduced me to this and it’s changed the way I present information ever since. You can apply this to any medium, and in many different contexts."
 
 **Insight:** Executive communication is most effective when it follows a structured narrative and adapts its medium to the specific expectations and style of the leadership audience.
 

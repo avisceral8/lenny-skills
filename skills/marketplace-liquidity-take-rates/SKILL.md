@@ -28,16 +28,6 @@ From "Choosing a take rate": "Differences in take rates are primarily driven by 
 
 Your fee should reflect the new demand you generate and the operational ease you provide. Start with a 10% baseline for platforms and 20% for marketplaces, then adjust based on product value.
 
-### Use fill rate as the comprehensive health signal
-From "The most important marketplace metrics to track": "This metric is the ultimate measure of marketplace health, because it’s the essence of what a marketplace is—a place people can consistently come to find what they want. It also bakes in important input metrics like supply quality, availability, and booking conversion, since in order for you to convert a purchaser, you need to have (1) the right supply, (2) that’s available and interested at the right time, and (3) a funnel that converts people."
-
-Fill rate accounts for supply quality, availability, and funnel conversion in one metric. Identify the specific intentful action in your journey to measure this accurately.
-
-### Experimental caution with fee structures
-Dan Hockenmaier: "When you're messing with the core incentives or mechanisms of a marketplace, be very careful, particularly if you've got something that's working on playing with those variables."
-
-Pricing and take rates are fundamental incentives that can fundamentally alter participant behavior. Test any pricing changes in isolated segments before a broad rollout to avoid destabilizing the ecosystem.
-
 ### The friction-growth trade-off
 From "Choosing a take rate": "The most dangerous strategy for any platform company is to price too high – to charge a greedy and overzealous rake that could serve to undermine the whole point of having a platform in the first place."
 

@@ -32,8 +32,6 @@
 
 ## Julie Zhuo
 
-> "The first is, well, I was lucky. I was in the right place at the right time. I was at a company that was scaling, and when you're at a company that grows, there's always a lot more opportunity to then be able to try something new, right, to raise your hand, to volunteer for things to be just thrown into because somebody has to do it because it's a growing company and a lot of other people."
-
 **Insight:** To move into management, seek out scaling environments and proactively volunteer for responsibilities that fall outside your current expertise.
 
 **Tactical advice:**
@@ -47,8 +45,6 @@
 
 ## Lenny Rachitsky
 
-> "Unlike the mini-CEO label PMs often get, in reality they must keep their external stakeholders onboard to be successful"
-
 **Insight:** Business impact is the primary driver for PM promotion, but long-term success requires balancing that impact with the ability to manage and align external stakeholders.
 
 **Tactical advice:**
@@ -59,8 +55,6 @@
 *Source: [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/a-comprehensive-survey-of-product-management)*
 
 ---
-
-> "Reflecting back on my experience and the experience of my colleagues, the most important ingredient has always been simply doing great work, over and over. But the process does often need a nudge, particularly if you’ve been stuck in the same role for a while."
 
 **Insight:** Securing a promotion requires a combination of consistent high performance and a proactive strategy across impact, scope, and relationships.
 
@@ -85,8 +79,6 @@
 *Source: [Moving from IC product manager to manager of product managers](https://www.lennysnewsletter.com/p/moving-from-ic-product-manager-to-manager-of-product-managers)*
 
 ---
-
-> "I wanted to reach out and let you know that I just got promoted from an APM to a PM! I have to credit your workshops for developing my skill set, pushing me to try new tactics, and raising the bar I set for myself."
 
 **Insight:** Transitioning from an APM to a PM is achieved by intentionally raising your performance bar and expanding your toolkit with new, advanced tactics.
 

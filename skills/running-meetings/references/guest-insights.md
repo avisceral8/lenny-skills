@@ -76,8 +76,6 @@
 
 ---
 
-> "PM team meetings can be one of your most fun and valuable meetings, getting everyone aligned and energized, but they can also easily be your most painful."
-
 **Insight:** A successful PM team meeting balances structured information sharing with deliberate efforts to strengthen interpersonal bonds and team alignment.
 
 **Tactical advice:**
@@ -128,8 +126,6 @@
 
 ---
 
-> "Aligning opinionated stakeholders, unblocking blockers, pushing teams to work harder, creating amazing experiences, getting buy-in on big ideas, understanding and acting on nuance, etc. I’m not saying AI won’t be better than humans at this stuff one day... I’m saying that these soft skills are where AI won’t take over for a long while, and thus they are the skills you should be cultivating more than ever."
-
 **Insight:** The human elements of meeting management—negotiation, unblocking, and marshaling resources—are the PM functions most resilient to AI automation.
 
 **Tactical advice:**
@@ -166,8 +162,6 @@
 *Source: [Leading a PM team meeting - Issue 19](https://www.lennysnewsletter.com/p/leading-a-pm-team-meeting---issue-19)*
 
 ---
-
-> "Again, it’s important that you have a clear goal for this meeting, and that you regularly check-in with yourself and your teammates on how you’re doing."
 
 **Insight:** Clearly defined objectives—such as alignment or connection—provide a benchmark to measure whether a recurring meeting is actually delivering value.
 
@@ -218,8 +212,6 @@
 *Source: [Leading a PM team meeting - Issue 19](https://www.lennysnewsletter.com/p/leading-a-pm-team-meeting---issue-19)*
 
 ---
-
-> "It’s a simple yet impactful ritual for supercharging decisions by equalizing voices and removing groupthink in meetings."
 
 **Insight:** Supercharge meeting productivity by using rituals like anonymous feedback or structured voting to equalize voices and remove groupthink.
 
@@ -352,8 +344,6 @@
 ---
 
 ## Sam Lessin
-
-> "Be early. Don't order the most expensive thing on the menu. For a video call, an appropriate background. Don't smell like shit."
 
 **Insight:** Professionalism in meetings is signaled by preparation and the removal of physical or environmental distractions.
 

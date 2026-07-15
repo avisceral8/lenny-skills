@@ -14,8 +14,6 @@
 
 ## Aishwarya Naresh Reganti + Kiriti Badam
 
-> "Leaders have to get back to being hands-on. You must be comfortable with the fact that your intuitions might not be right. And you probably are the dumbest person in the room and you want to learn from everyone."
-
 **Insight:** Leading an AI transformation requires executives to rebuild their technical intuition through direct experimentation and a willingness to abandon traditional software playbooks.
 
 **Tactical advice:**
@@ -54,8 +52,6 @@
 *Source: [Thinking like a gardener not a builder, organizing teams like slime mold, the adjacent possible, and other unconventional product advice | Alex Komoroske (Stripe, Google)](https://www.youtube.com/watch?v=PoWRYBWSqpU) @ 00:23:26*
 
 ---
-
-> "The mundane, pointless bullshit will take every square inch you give it. So you got to make that space to sit back and reflect and luxuriate in these ideas. And when you do, you're often like, 'Oh my God. Oh wow, that's one I'll keep.'"
 
 **Insight:** Leaders must aggressively protect mental space for deep reflection to prevent operational noise from consuming all creative and strategic energy.
 
@@ -114,8 +110,6 @@
 ---
 
 ## Brian Tolkin
-
-> "Starting on the operations side gave a really deep understanding of how the business actually works. It's a pretty good foundation for them going on to say, okay, what do we actually want to build in a more scalable technology way."
 
 **Insight:** Hands-on operational experience provides the essential foundation for identifying which manual workflows should be transitioned into scalable technological solutions.
 
@@ -259,8 +253,6 @@
 
 ## Eoghan McCabe
 
-> "The way that greatness is created is that you find a CEO who's willing to make brave hard decisions and own the results."
-
 **Insight:** Successful turnarounds depend on centralized leadership that is willing to make unpopular decisions and take full accountability for a radical change in direction.
 
 **Tactical advice:**
@@ -288,8 +280,6 @@
 ---
 
 ## Garrett Lord
-
-> "How do you make sure that three months from now, six months, you have no regrets? Get on the plane to go talk to a customer, make the late night push, check the data six times over again."
 
 **Insight:** Scaling a new business within a mature company requires a relentless, startup-like intensity to capitalize on a unique strategic advantage before the market window closes.
 
@@ -320,8 +310,6 @@
 
 ## Inbal S
 
-> "The way I think about it, you always need that human in the loop because AI cannot replace innovation. That creative spark, that creative thinking that is the center of humanity, this will not be replaced by AI, at least not in the near future."
-
 **Insight:** True innovation comes from human creativity, while AI serves as the tool to free up the bandwidth necessary for that creativity to flourish.
 
 **Tactical advice:**
@@ -332,8 +320,6 @@
 *Source: [The future of AI in software development | Inbal Shani (CPO of GitHub)](https://www.youtube.com/watch?v=f10s3rxKaJw) @ 00:32:35*
 
 ---
-
-> "Integration with AI is something that will definitely become something that is more normal for every developer, is today something that we start seeing that revolution, that acceptance, that AI tools, I need to figure out how to integrate with AI, I need to know how to use AI."
 
 **Insight:** Driving adoption of new technology requires reframing the tool as a mindset shift toward system-level thinking rather than just a technical replacement.
 
@@ -399,8 +385,6 @@
 
 ## John Cutler
 
-> "They were starting to get more and more customers who were not traditional startups or kind of growth stage startups showing up, and they needed to figure out how to convey expertise and convey things to the broader product public in a way that would land with those companies, right?"
-
 **Insight:** Transforming culture in legacy organizations requires translating modern product principles into language and expertise that resonates with their unique structural and historical backgrounds.
 
 **Tactical advice:**
@@ -450,8 +434,6 @@
 
 ## Kunal Shah
 
-> "A lot of CEOs have done well because they follow the “dharma” of the founders quite well."
-
 **Insight:** Transitioning into a leadership role at an established firm requires a commitment to sustaining the founder’s core principles while driving the next phase of growth.
 
 **Tactical advice:**
@@ -491,8 +473,6 @@
 
 ---
 
-> "Let’s just acknowledge: This shit is hard. If you are sitting there thinking, oh man this feels so much easier for everyone else than it does for me — it’s just not true. If you are stressing, just know everyone else is too. Ask for help if you need it."
-
 **Insight:** Navigating a crisis requires an immediate triage of your business state, proactive scenario planning, and the formation of a rapid-response team to preserve cash and trust.
 
 **Tactical advice:**
@@ -503,8 +483,6 @@
 *Source: [Leading your company through a pandemic - Issue 20](https://www.lennysnewsletter.com/p/leading-your-company-through-a-pandemic---issue-20)*
 
 ---
-
-> "There’s no question that the tighter and unified your product, data, engineering, research, marketing, and sales teams are, the more bottom-line impact (and less waste) you’ll end up seeing. It just makes sense—fewer silos, more collaboration, being data-informed, and leveraging complementary skill sets lead to better outcomes."
 
 **Insight:** Moving toward a cross-functional growth team model reduces waste and increases impact by breaking down silos between product, marketing, and sales.
 
@@ -542,8 +520,6 @@
 *Source: [25 proven tactics to accelerate AI adoption at your company](https://www.lennysnewsletter.com/p/25-proven-tactics-to-accelerate-ai-adoption-at-your-company)*
 
 ---
-
-> "Marty describes this as a proven transformation technique called an “outcome-based roadmap,” which could be a reasonable expectation for some teams with particularly strong product leaders."
 
 **Insight:** Unilaterally shifting from outputs to outcomes on a feature team can destroy your social capital; instead, you must demonstrate the value of empowered work while still delivering on top-down requests.
 
@@ -595,8 +571,6 @@
 
 ---
 
-> "Let’s just acknowledge: This shit is hard. If you are sitting there thinking, oh man this feels so much easier for everyone else than it does for me — it’s just not true. If you are stressing, just know everyone else is too."
-
 **Insight:** Supporting a team through a crisis requires leaders to lead with vulnerability and radical transparency to maintain trust and morale.
 
 **Tactical advice:**
@@ -633,8 +607,6 @@
 *Source: [Surviving reorgs, tactically and emotionally - Issue 32](https://www.lennysnewsletter.com/p/surviving-reorgs-tactically-and-emotionally---issue-32)*
 
 ---
-
-> "His sabbatical revealed previously unforeseen deficiencies, opportunities for advancement for his staff, and the need to proactively plan for his eventual departure in the next strategic plan."
 
 **Insight:** Leadership sabbaticals act as a proactive stress test to uncover organizational skeletons and dangerous dependencies on a single leader.
 
@@ -718,8 +690,6 @@
 
 ## Marty Cagan
 
-> "Nothing I've written about in Inspired, nothing I've written about in Empowered was invented by us. All we do is share the practices we see being used in the best teams."
-
 **Insight:** Scaling innovation requires identifying and replicating the common operational techniques used by high-performance organizations rather than copying their unique culture.
 
 **Tactical advice:**
@@ -794,8 +764,6 @@
 
 ---
 
-> "You can't just do Scrum. That's not going to make you amazing at delivering products. There's so much more to this. The leaders didn't quite understand that."
-
 **Insight:** Successful digital transformation requires shifting from a process-oriented agile implementation to a value-oriented product management mindset.
 
 **Tactical advice:**
@@ -839,8 +807,6 @@
 ---
 
 ## Paul Adams
-
-> "So there's a real tension there, a real trade-off, where people have these high standards, which we encourage. We encourage them to ship fast, and learn, and make mistakes. It's a constant tension that we're navigating."
 
 **Insight:** Balance high craft standards with a rapid 'ship to learn' culture to navigate the tension between quality and speed.
 
@@ -908,8 +874,6 @@
 ---
 
 ## Sachin Monga
-
-> "I think we're coming to the close of this kind of one-time inflection point of becoming a product driven company and having a product process and structure and PMs and full stack product teams. When I started at Substack, there was really not much of this."
 
 **Insight:** Transitioning from founder-driven development requires formalizing a product process and hiring PMs exactly when the founder can no longer personally oversee every team's progress.
 
@@ -998,8 +962,6 @@
 
 ---
 
-> "Okay, so yes, HipChat was an acquisition, team of 20 people or so. It was Slack before Slack was there. Great traction and lot of, it was a darling with startups."
-
 **Insight:** Acquired startups need protection from corporate overhead and process to maintain the agility that made them attractive targets.
 
 **Tactical advice:**
@@ -1026,8 +988,6 @@
 
 ---
 
-> "And so just getting back to good old-fashioned know your customer, what do they need from you at that moment was just a really kind of powerful thing that took away from that time."
-
 **Insight:** During a sudden demand spike, moving from automated systems to direct, manual customer outreach is the fastest way to solve critical supply-side bottlenecks.
 
 **Tactical advice:**
@@ -1040,8 +1000,6 @@
 ---
 
 ## Upasna Gautam
-
-> "Working in product in news is a very [inaudible 00:04:22]. We hear a lot about having the skills to thrive in ambiguity in order to be a successful product manager, but to be a successful product manager in news you have to be able to thrive in chaos."
 
 **Insight:** Building a product practice in non-traditional environments requires product managers to adapt their skills from managing simple ambiguity to thriving within inherent chaos.
 

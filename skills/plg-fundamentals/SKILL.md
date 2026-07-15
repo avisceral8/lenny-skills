@@ -28,11 +28,6 @@ Albert Cheng: "What if we actually sampled a number of different paid suggestion
 
 Rather than keeping features locked behind a paywall, demonstrate the potential of paid tiers by interspersing premium value directly into the free user workflow.
 
-### Champion-Centric Bottom-Up Adoption
-Claire Butler: "We had Coda. They were our first user, and they were based in Palo Alto. Dylan and I drove down and demoed the product to them, and they were the first ones. Their designer, Jeremy was like, 'Yes, we'll take this on full time.'"
-
-Win over individual power users through high-touch support and immediate problem resolution to build a foundation for wider organizational adoption.
-
 ### Automation of Repetitive Sales Tasks
 Laura Schaffer: "I've noticed this pattern where I'm repeating things over and over again and they're asking the same thing. I think we should put that online. I think we should make that available so they can just see it and then buy it, because we had an online checkout process."
 
@@ -57,11 +52,6 @@ A product is only fit for PLG if the target user can reach their first aha momen
 From "Freemium vs. trial": "Making a product free isn’t a revenue, pricing, or monetization strategy—it’s an acquisition strategy. It’s always a means to lower CAC, increased virality, and a way to get people’s attention in a crowded market."
 
 Treat your free version as a way to lower barriers to entry and build a low-friction path for prospects rather than just a monetization plan.
-
-### Growth Loop Prioritization
-From "What They'd Do Differently 🔮 Kickstarting and Scaling a Marketplace Business": "If I had to change something, I would have been less supportive of brand marketing initiatives. We eventually ran offline marketing and TV as performance marketing."
-
-Redirect resources from brand-heavy marketing toward measurable product-driven loops that generate scalable, scalable returns.
 
 ## Questions to Help Users
 

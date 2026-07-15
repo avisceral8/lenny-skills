@@ -99,8 +99,6 @@
 
 ## Lenny Rachitsky
 
-> "Next, once you feel like this is a good business as a business, it’s time to shift your focus to thinking about the marketplace elements."
-
 **Insight:** After confirming general business fundamentals, evaluate a marketplace on its ability to aggregate demand, satisfy the supply side, and scale without losing quality.
 
 **Tactical advice:**
@@ -164,8 +162,6 @@
 
 ---
 
-> "I pitched the idea for Facebook Marketplace in 2009, when Sheryl Sandberg interviewed me for a Product Marketing role at Facebook (aka Meta). We didn’t start working on Marketplace until 2015, however."
-
 **Insight:** Launching a successful marketplace inside an existing platform requires formalizing latent user behaviors that are already happening organically.
 
 **Tactical advice:**
@@ -203,8 +199,6 @@
 
 ---
 
-> "Though marketplaces, like any startup, fail for a combination of reasons, there does generally seem to be *one fatal issue* that kills a marketplace."
-
 **Insight:** Marketplace failure is rarely caused by a generic list of issues but typically stems from one specific, fatal flaw in demand, supply, liquidity, or unit economics.
 
 **Tactical advice:**
@@ -228,8 +222,6 @@
 *Source: [Evaluating a (marketplace) business idea](https://www.lennysnewsletter.com/p/evaluating-a-marketplace-business-idea)*
 
 ---
-
-> "7. 🧩 Fragmentation: How hard is it for both sides to find each other today?"
 
 **Insight:** Marketplaces provide the most value when they aggregate highly fragmented supply and demand, making it significantly easier for both sides to find and transact with each other.
 
@@ -385,8 +377,6 @@
 
 ---
 
-> "We had a year of deep focus on viral spread—syncing Twitter, FB, and other social media accounts to automate sharing every time a member posted a new project, new reasons to share projects even when they weren’t yours, and making sure our SEO game was solid."
-
 **Insight:** Supply-side marketing turns your platform's providers into an acquisition engine by incentivizing them to share their work with their own audiences.
 
 **Tactical advice:**
@@ -463,8 +453,6 @@
 
 ---
 
-> "He felt more comfortable seeing their real identities and the duration they had been on the Facebook platform, something that wasn’t possible on other, anonymous platforms."
-
 **Insight:** Trust in peer-to-peer transactions is significantly enhanced by surfacing historical platform data and real identity rather than relying on anonymous reviews.
 
 **Tactical advice:**
@@ -489,8 +477,6 @@
 
 ---
 
-> "I would have directed towards one specific use-case. Should have realized we were a use case for meetings, like 95% of the time."
-
 **Insight:** Narrowing focus to a dominant use case early on creates more value than offering a broad but lower-quality selection of services.
 
 **Tactical advice:**
@@ -501,8 +487,6 @@
 *Source: [What They'd Do Differently 🔮 Kickstarting and Scaling a Marketplace Business](https://www.lennysnewsletter.com/p/what-theyd-do-differently--kickstarting-and-scaling-a-marketplace-business)*
 
 ---
-
-> "It took us a long time was to create more customer empathy from the driver side. We were sometimes too direct, too forceful."
 
 **Insight:** Developing a holistic system that prioritizes the supply-side experience prevents short-sighted tactical decisions that alienate your providers.
 
@@ -628,8 +612,6 @@
 ---
 
 ## Sarah Tavel
-
-> "That's why we care less about market size because really, what you're looking for when you're looking at a market, are what are the dynamics of change, what's the current and momentum that's going to pull the company and make the job easier for the founders to actually build something that endures."
 
 **Insight:** Success is more likely in markets defined by a 'current' of momentum and change that pulls the company forward, rather than static market size.
 

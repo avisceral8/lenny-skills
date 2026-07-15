@@ -33,20 +33,10 @@ Melanie Perkins: "But investors also gave really helpful feedback and feedback. 
 
 Treat every investor rejection as a specific prompt to update your pitch materials. For every major critique or objection received, add a new data-driven slide to preempt that concern in future meetings.
 
-### Frame the Strategic Inflection
-Mike Maples Jr: "The rock is the inflection, the slingshot is the insight that David shoots at Goliath. We're looking to create the conditions where we're going to get to play an unfair game by unfair rules that favor us."
-
-A compelling pitch centers on the external shifts or inflections that create a unique window of opportunity. Position your startup as the agile player using a unique insight to win an unfair game.
-
 ### Position for Acquisition from Strength
 Julia Schottenstein: "M&A is always about creating plan Bs. And the way I would think about it is for any one company, there's only ever two to three buyers that find what you're building to be extremely strategic. And the strategy that I would do in how do you get noticed is I would figure out the area that you bring a competitive advantage. And I would inflict pain on that potential buyer."
 
 The best exits happen when a company is built to be enduring and becomes indispensable to a small number of potential buyers. Focus on inflicting pain on acquirers by demonstrating disruptive success in their market.
-
-### Build Skills via Low-Capital Ventures
-Andrew Wilkinson: "I think about if you're a first time entrepreneur or a student or something, you don't want to walk into the gym on day one and try and deadlift 300 pounds. So when someone comes to me and they're a first time entrepreneur and they say, 'I'm going to make the next great AI company,' or 'I'm going to launch a new bank,' or something like that, something that is very, very rigorous and complicated and highly competitive and regulated, I think that is the equivalent."
-
-Begin your entrepreneurial journey with simple service businesses or agencies that provide immediate revenue and feedback. These 'baby weights' help build the capital and experience needed for more complex, high-risk ventures.
 
 ### Ambition Dictates Funding Path
 Patrick Campbell: "The basic idea is bootstrapping is for lifestyle businesses that want to cash flow. Funding is for companies trying to create a billion dollars in annual revenue. And that answer offends everybody."

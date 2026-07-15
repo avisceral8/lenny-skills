@@ -201,8 +201,6 @@
 
 ## Geoffrey Moore
 
-> "The good news is those customers are open to hearing from someone new, because they've already talked to everybody they already know, and the problem is still... It's not that it's unsolved. It's being solved in a crummy way and, by the way, in a deteriorating crummy way. So it's getting actually worse."
-
 **Insight:** Establish your product as the new standard by identifying critical problems that existing competitors are failing to solve as conditions deteriorate.
 
 **Tactical advice:**
@@ -215,8 +213,6 @@
 ---
 
 ## Gia Laudi
-
-> "If you can identify that type of information about your customers and get to know them at that level, then you are in a way better position to be able to not only position your product but also use much more powerful messaging. So typically, what we do is, we'll identify those gaps of almost, I mean I shouldn't even say nine times out of 10, 99 times out of a hundred, a company's website is not doing as much as it could do."
 
 **Insight:** Effective messaging must bridge the gap between a customer's pre-discovery pain and their post-adoption desired outcome.
 
@@ -261,8 +257,6 @@
 
 ## Josh Miller
 
-> "By all means, numbers are a fantastic way to be honest with yourself about whether or not you are achieving what you aim to do. But at the moment of creation, at the stage as product people, wondering what should we do, and why, and how? We think it's much more important for us to think about the human, the person at the other end, and how we really want to make them feel."
-
 **Insight:** In a commodity market, differentiation comes from the emotional resonance and craft of the user experience rather than feature parity or metric optimization.
 
 **Tactical advice:**
@@ -275,8 +269,6 @@
 ---
 
 ## Karri Saarinen
-
-> "Then, as you build the 100,000 different email clients, any email client now has to be pretty good to be even considered an email client. It's like the bar is so high. I think today it's almost a very basic thing now. Pretty much from the very beginning, you need pretty high level design for people to even pay attention or consider you seriously."
 
 **Insight:** In mature markets, high-level design and craft are no longer optional extras but baseline requirements for a new product to be taken seriously.
 
@@ -386,8 +378,6 @@
 
 ---
 
-> "With so much noise and competition it’s crucial that your offering stands out. Customers need a reason to choose you over the nearly identical competition."
-
 **Insight:** Sustainable market success requires identifying and doubling down on specific value drivers that distinguish your product from nearly identical alternatives.
 
 **Tactical advice:**
@@ -412,8 +402,6 @@
 
 ---
 
-> "“The thing that I like to assume is every startup idea’s been tried … So, the question is not, has my idea been tried before? The question is, is it the right time for my idea to happen?”"
-
 **Insight:** The success of an idea often depends less on its novelty and more on whether specific inflections in technology, regulation, or social beliefs have made it viable today.
 
 **Tactical advice:**
@@ -425,8 +413,6 @@
 
 ---
 
-> "Offer a remarkable value prop"
-
 **Insight:** A powerful value proposition distills a product's differentiated value into a single, punchy sentence that promises to replace a physical object or solve a universal frustration.
 
 **Tactical advice:**
@@ -437,8 +423,6 @@
 *Source: [Generating buzz](https://www.lennysnewsletter.com/p/generating-buzz-2)*
 
 ---
-
-> "“Remarkable is a really cool word, because we think it just means neat, but it also means **worth making a remark about.**”"
 
 **Insight:** A successful value proposition isn't just clear; it is so extreme or compelling that it forces people to remark on it to others.
 
@@ -463,8 +447,6 @@
 *Source: [How to get your marketing team to drive more impact](https://www.lennysnewsletter.com/p/how-to-get-your-marketing-team-to-drive-more-impact)*
 
 ---
-
-> "Nail your hook and you’ll notice an immediate shift in interest, growth, and engagement. Miss the mark and you’ll continue to struggle."
 
 **Insight:** If growth is stagnant despite a good product, the issue often lies in a pitch that fails to communicate the right value proposition to the specific audience.
 
@@ -502,8 +484,6 @@
 *Source: [How to kickstart and scale a consumer business—Step 3: Craft your pitch](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-consumer-business-step-3-craft-your-pitch)*
 
 ---
-
-> "The product stayed the same, but the new pitch changed DoorDash’s trajectory."
 
 **Insight:** A fundamental change in how a product is pitched can dramatically alter its growth trajectory even if the product itself remains unchanged.
 
@@ -554,8 +534,6 @@
 *Source: [Maintaining Quality 🏅 Phase 2 of Kickstarting and Scaling a Marketplace Business](https://www.lennysnewsletter.com/p/maintaining-quality--phase-2-of-kickstarting-and-scaling-a-marketplace-business)*
 
 ---
-
-> "Words beginning with a hard K tend to be funnier than other words, probably because that sound is the most surprising of all sounds. It punches us in the face."
 
 **Insight:** Memorable messaging relies on the strategic use of surprising sounds, specific names, and personification to stand out.
 
@@ -672,8 +650,6 @@
 
 ---
 
-> "And with everything that now comes with your newsletter subscription (a thriving Slack community, 6+ years of evergreen content, hand-crafted podcast takeaways, 15+ free amazing products worth over $10k—and more coming soon), the value you get from it will only increase."
-
 **Insight:** When reducing volume or changing terms, reframe the announcement by highlighting the cumulative value and secondary benefits of the subscription.
 
 **Tactical advice:**
@@ -772,8 +748,6 @@
 
 ## Madhavan Ramanujam
 
-> "Think of it this way, if I have the same sales and marketing conversation that I would have with the customer six months before launch of the product, pitch the whole value, and then ask them a simple question, would you pay for this innovation?"
-
 **Insight:** Pitching the product value and asking for a price commitment months before launch acts as a litmus test for whether your value proposition actually resonates with customers.
 
 **Tactical advice:**
@@ -786,8 +760,6 @@
 ---
 
 ## Melanie Perkins
-
-> "And so starting from that, we then took that concept and applied it to the school yearbook market in Australia with our first company Fusion Books. And then we applied it to Canva where we wanted to take it much, much bigger."
 
 **Insight:** Find a high-conviction product wedge by applying a massive, long-term vision to a specific, manageable niche audience before scaling horizontally.
 

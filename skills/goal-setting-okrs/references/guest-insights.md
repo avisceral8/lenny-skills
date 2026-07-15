@@ -142,8 +142,6 @@
 
 ---
 
-> "Goals are a tool to help you align and motivate everyone on your team to successfully achieve a desired outcome. Below, I share a framework that I’ve used to set goals and institute them across an organization."
-
 **Insight:** A structured goal-setting framework ensures that individual focus and organizational resources are unified toward a single desired outcome.
 
 **Tactical advice:**
@@ -154,8 +152,6 @@
 *Source: [Setting goals - Issue 23](https://www.lennysnewsletter.com/p/setting-goals---issue-23)*
 
 ---
-
-> "As a leader, one of your most important jobs is to make sure everyone is moving in the same direction — channeling all of their energy, focus, and resources towards the same outcome. That's exactly what goals are for."
 
 **Insight:** Effective goals serve as the bridge between high-level strategy and daily execution, providing the clarity and motivation needed to ensure organizational alignment.
 
@@ -259,8 +255,6 @@
 
 ---
 
-> "Teams rowing in the same direction move faster."
-
 **Insight:** Alignment on goals ensures that every individual effort contributes directly to the team's shared success.
 
 **Tactical advice:**
@@ -285,8 +279,6 @@
 
 ---
 
-> "I want to highlight one of the biggest traps I see leaders fall into: assuming that everyone on their team is aligned on what success looks like. The metaphor I like to use for this (inspired by a former colleague) is a silver burrito."
-
 **Insight:** Leaders must explicitly clarify the definition of success to prevent team members from projecting their own conflicting priorities onto a project.
 
 **Tactical advice:**
@@ -297,8 +289,6 @@
 *Source: [Setting goals - Issue 23](https://www.lennysnewsletter.com/p/setting-goals---issue-23)*
 
 ---
-
-> "What comes next? **You need to find a way to tell whether you're successfully executing your Strategy (and thus your vision and mission)**. That's where goals come in."
 
 **Insight:** Goals function as the essential feedback mechanism for strategy, turning high-level vision into measurable execution.
 
@@ -375,8 +365,6 @@
 *Source: [This Week #10: Keeping designers and engineers excited about metrics + Transitioning from DS to PM 🕺](https://www.lennysnewsletter.com/p/this-week-10-keeping-designers-and-engineers-excited-about-metrics--transitionin)*
 
 ---
-
-> "Put together your own POV on what’s not working, and what should happen. Talk to your manager and get their perspective and support. Work with your peer leads to come up with a proposal."
 
 **Insight:** Changing established goals requires upward management and a united front with peer leadership to prove the necessity of the shift.
 
@@ -476,8 +464,6 @@
 ---
 
 ## Nickey Skarstad
-
-> "And so we actually put more friction in the onboarding flow to help to start to solve for that. So we actually slowed you down. We made you be more thoughtful about what you were listing. And by doing that, we actually helped you get to a first sale faster. And so that was another good example of a quality metric that we used, which was, I think it was first sale in seven days."
 
 **Insight:** Actionable goals should be derived from identifying specific behavioral 'magic moments' that predict long-term user success rather than just high-level growth.
 

@@ -32,8 +32,6 @@
 
 ---
 
-> "When you're messing with the core incentives or mechanisms of a marketplace, be very careful, particularly if you've got something that's working on playing with those variables."
-
 **Insight:** Pricing and take rates are fundamental marketplace incentives that can fundamentally alter participant behavior, requiring a highly experimental and cautious approach.
 
 **Tactical advice:**
@@ -59,8 +57,6 @@
 *Source: [Choosing a take rate](https://www.lennysnewsletter.com/p/choosing-a-take-rate)*
 
 ---
-
-> "This metric is the ultimate measure of marketplace health, because it’s the essence of what a marketplace is—a place people can consistently come to find what they want. It also bakes in important input metrics like supply quality, availability, and booking conversion, since in order for you to convert a purchaser, you need to have (1) the right supply, (2) that’s available and interested at the right time, and (3) a funnel that converts people."
 
 **Insight:** Fill rate acts as a comprehensive health signal because it inherently accounts for supply quality, inventory availability, and technical funnel conversion.
 
@@ -124,8 +120,6 @@
 *Source: [Choosing a take rate](https://www.lennysnewsletter.com/p/choosing-a-take-rate)*
 
 ---
-
-> "“When building a marketplace, most companies strive to excel on all fronts: high frequency, high retention, and (relatively) high transaction values. Luckily, it turns out there’s more than one way to build a successful marketplace.”"
 
 **Insight:** A successful marketplace must balance transaction frequency, average order value, and take rate to ensure it can extract enough value to be an efficient business.
 

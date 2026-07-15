@@ -27,8 +27,6 @@
 
 ## Andrew Wilkinson
 
-> "I think they really need to lean into what I call lazy leadership, which is how do I get away from the things I hate as quickly as humanly possible? How do I be Teflon for tasks?"
-
 **Insight:** Adopt a 'lazy leadership' mindset by delegating miserable tasks to employees whose natural strengths complement your weaknesses.
 
 **Tactical advice:**
@@ -54,8 +52,6 @@
 *Source: [$46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder)](https://www.youtube.com/watch?v=KPxTekxQjzc) @ 00:25:00*
 
 ---
-
-> "You can kind of quickly calculate all the bad stuff that's going to happen if you do it. But if you don't do it, that's probably going to be much worse and that's why you have to run towards the pain in darkness."
 
 **Insight:** Scaling an executive team often requires making painful decisions to replace leaders who were successful in earlier stages but cannot bridge the gap to cross-functional leadership.
 

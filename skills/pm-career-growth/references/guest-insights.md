@@ -22,8 +22,6 @@
 
 ## Alexander Embiricos
 
-> "When we use a big word like teammate, some of the things we're imagining are that it's not only able to write code, but actually it participates early on in the ideation and planning phases of writing software and then further downstream in terms of validation, deploying and maintaining code."
-
 **Insight:** As AI masters the mechanics of writing code, engineers must transition their focus toward high-level ideation, planning, and system validation.
 
 **Tactical advice:**
@@ -131,8 +129,6 @@
 
 ## Benjamin Mann
 
-> "I'm not immune to job replacement either. At some point it's coming for all of us."
-
 **Insight:** Future-proofing your career in the AI era requires acknowledging that total job replacement is likely and focusing on navigating the transition toward an economy of abundance.
 
 **Tactical advice:**
@@ -173,8 +169,6 @@
 *Source: Brandon Chu on building product at Shopify, how writing changed the trajectory of his career, the habits that make you a great PM, pros and cons of being a platform PM, how Shopify got through Covid @ 07:26*
 
 ---
-
-> "And I'd say that's my first foray because my job as a co-founder there was really to work with engineering and design. And it was through that experience that I learned everything about product and I got a lot more technical too. I was able to do a little bit on the front end."
 
 **Insight:** Building a product from scratch as a founder or through side-project moonlighting provides a holistic foundation of technical and business empathy that accelerates career development.
 
@@ -232,8 +226,6 @@
 
 ## Carilu Dietrich
 
-> "I think learning as much as you can about your expertise, working really hard, and taking on more responsibilities, and having a great attitude and a strategic mind are probably what I think helps people get to the C-suite on the personal level."
-
 **Insight:** Advancing to the C-suite requires moving beyond your specific expertise to understand how the entire business system functions cross-functionally.
 
 **Tactical advice:**
@@ -244,8 +236,6 @@
 *Source: [How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian, Miro, Segment, 1Password)](https://www.youtube.com/watch?v=Pm7QSWDIEUc) @ 00:04:35*
 
 ---
-
-> "A phenomenal net dollar retention means it's a really strong healthy business. I looked at their growth rate last year, their burn rate, are they going to run out of money? And then ideally, are they number one in their market?"
 
 **Insight:** Evaluate a startup's long-term career potential by looking for high net dollar retention and market leadership, as these indicate a self-sustaining growth engine.
 
@@ -258,8 +248,6 @@
 
 ---
 
-> "But we just need to take that fear and uncertainty and thank it for giving us urgency. And then make the list of what can we control now and what should we do next."
-
 **Insight:** In an economic downturn, focus on variables within your direct control to turn anxiety into strategic urgency.
 
 **Tactical advice:**
@@ -271,8 +259,6 @@
 ---
 
 ## Carole Robin
-
-> "It turns out that the skills you need to move along that continuum actually take you from contact and no connection and dysfunction to at least functional and robust. And then once you've acquired those skills, then you can decide whether or not you want to take a few of those relationships a lot farther, take them all the way to exceptional, but at least you've gained what you need to know in order to get to functional and robust."
 
 **Insight:** Interpersonal competence is a learned skill set that allows you to move relationships along a continuum from mere contact to functional, robust, and eventually exceptional connections.
 
@@ -356,8 +342,6 @@
 
 ## Claire Hughes Johnson
 
-> "And Elad actually helped me to realize, look, examples and details and frameworks, my working with Claire document is in there, is like... He said it's catnip. And I think that is also what inspired Patrick to push me to do basically a longer version of that chapter that I did with Elad."
-
 **Insight:** Documenting your personal operating principles in a "Working with Me" guide acts as an efficient user manual for your team, accelerating trust and clarifying work preferences.
 
 **Tactical advice:**
@@ -386,8 +370,6 @@
 
 ## Daniel Lereya
 
-> "We really want everyone's brains in the challenge, and not just one centralized brain and a lot of working hands."
-
 **Insight:** Scaling as a leader necessitates moving from being the primary decision-maker to empowering the entire organization with the information needed to solve challenges.
 
 **Tactical advice:**
@@ -400,8 +382,6 @@
 ---
 
 ## David Singleton
-
-> "In particular, I'm spending a bunch of time getting some demos together today, which I love building demos so, but it's a real pleasure to join you today."
 
 **Insight:** Engineering leaders maintain their edge and empathy by staying hands-on with the product through building demos and exploring new technical details.
 
@@ -429,8 +409,6 @@
 
 ---
 
-> "The people who were most successful were the ones who actually through adversity, learned to turn stumbling blocks into stepping stones. They were the ones who got hard feedback and then came back stronger because now they learned what to do differently. They were the ones who products failed, but they said, 'You know what? I'm going to turn this failure into success. I'm going to take those lessons and make this company stronger.'"
-
 **Insight:** Professional resilience is built by viewing failures and negative feedback as essential data points for future growth rather than as career endings.
 
 **Tactical advice:**
@@ -443,8 +421,6 @@
 ---
 
 ## Donna Lichaw
-
-> "In this case, what we did is I went out there and talked to his team. And this is something you can do for yourself as well. And I found out how people actually experienced him and his leadership."
 
 **Insight:** Internal narratives often misrepresent external reality, so you must validate or debunk them with actual feedback from your team.
 
@@ -542,8 +518,6 @@
 
 ## Ethan Evans 2.0
 
-> "This is a path to all of that, because it's forming a partnership with your leadership to say, 'Look, I'll help you, but I need you also to help me.' And most good managers are very open to that."
-
 **Insight:** Take ownership of your career growth by forming a partnership where you solve your manager's problems in exchange for opportunities that align with your goals.
 
 **Tactical advice:**
@@ -589,8 +563,6 @@
 ---
 
 ## Failure
-
-> "But yeah, I think you have to go with it with these things. When life kind of throws you these whatever curve balls you have got to kind of adapt, and it's not that big a deal. None of these things are that big a deal. At the end of the day you kind of move on, live and learn."
 
 **Insight:** Major professional setbacks and public failures are survivable learning experiences that rarely have the long-term catastrophic impact they seem to have in the moment.
 
@@ -674,8 +646,6 @@
 
 ## Hari Srinivasan
 
-> "Everything at LinkedIn is a very connected ecosystem. One of the things that we always think about is how the whole system fits together."
-
 **Insight:** Successfully managing a complex product ecosystem requires aligning all teams with a singular, clearly understood mission to guide interconnected decision-making.
 
 **Tactical advice:**
@@ -712,8 +682,6 @@
 
 ## Ian McAllister
 
-> "Probably communicate, prioritize, and execute. I think those are just the core building blocks. Other ones will be more important as you grow and become more senior, but those ones, no matter where you are in your product career I think are super important."
-
 **Insight:** Early career success in product management is built on the mastery of the foundational trifecta: clear communication, ruthless prioritization, and reliable execution.
 
 **Tactical advice:**
@@ -724,8 +692,6 @@
 *Source: [What it takes to become a top 1% PM | Ian McAllister (Uber, Amazon, Airbnb)](https://www.youtube.com/watch?v=7gaPPrAd7nc) @ 00:11:28*
 
 ---
-
-> "Earn trust with others. That's so important as a PM, but especially if you're going to grow as a product leader becomes even more important. And I think trust is the currency of a product manager and a product leader, especially if you're going to grow in your career."
 
 **Insight:** Growing into leadership requires shifting from basic output to building organizational trust and seeking outsized business impact over personal accolades.
 
@@ -765,8 +731,6 @@
 ---
 
 ## Jason Shah
-
-> "But I think what worked was making progress and actually focusing on product and your customers, and ultimately if you hire the right people who are motivated for the right reasons, I think that recipe keeps people highly motivated and highly effective at building for when things do eventually turn around."
 
 **Insight:** High-tier leadership involves hiring intrinsically motivated individuals and keeping them centered on customer-focused progress to endure difficult periods.
 
@@ -851,8 +815,6 @@
 
 ## John Cutler
 
-> "It's a company filled with passionate experts of these things, and it was like tested, iterated, tested, iterated, expanded, tested, put into motion, put into practice, and that's how you create these kind of franchise cornerstone pieces of content for your company."
-
 **Insight:** Mastering practical product management skills requires moving beyond passive content consumption to a continuous cycle of testing, iterating, and real-world application.
 
 **Tactical advice:**
@@ -865,8 +827,6 @@
 ---
 
 ## John Mark Nickels
-
-> "Get clear on your objective function, and one way that I've gotten clear on it is trying to think about it from future me because five years from now, I'm not going to give a if I made the presentation slightly better, but I'm going to care a lot about what kind of relationship I have with my daughters, and that means that the next action, the next thing I do today and tomorrow, those will translate into the relationship with her, right?"
 
 **Insight:** Establishing a life 'objective function' through the perspective of your future self helps you prioritize long-term values over temporary work pressures.
 
@@ -881,8 +841,6 @@
 
 ## Jonathan Lowenhar
 
-> "To be a founder is a state of being, it's an attitude. To be a CEO is a craft. The more founders who can accept that those are two separate things and they're both equally important to build an ascendant startup, the better all of us will be."
-
 **Insight:** Founding a company and leading it as a CEO are two distinct disciplines; longevity in the role depends on mastering the operational craft of management.
 
 **Tactical advice:**
@@ -895,8 +853,6 @@
 ---
 
 ## Jules Walter
-
-> "I did not know anything about growth, but I was like, 'Hey, this is my way in at such a great company.' So, that's what I joined to do. And then what I did there was really take a learning mindset and lean on mentors, and we can talk about that to really learn the practice of growth and applied for Slack."
 
 **Insight:** When entering an unfamiliar domain, combine a rigorous learning mindset with expert mentorship to rapidly bridge the gap between current abilities and job requirements.
 
@@ -950,8 +906,6 @@
 
 ## Karina Nguyen
 
-> "Creative thinking and you kind of want to generate a bunch of ideas and filter through them and not just build the best product experience. I think it's actually really, really hard to teach the model how to be aesthetic or really good visual design or how to be extremely creative in the way they write."
-
 **Insight:** As AI masters technical tasks, human value shifts toward high-level creative direction and aesthetic discernment.
 
 **Tactical advice:**
@@ -965,8 +919,6 @@
 
 ## Ken Norton
 
-> "I think my clients are also very introspective and surrounded by great mentors and advisors and have all sorts of people in their life who can help them, but are realizing that a lot of the work is going to be internal work that's going to get them to the next level. And so, this transformation is going to be just as much what I need to do as who I am."
-
 **Insight:** Scaling into senior leadership requires a fundamental shift from external skill acquisition to internal personal transformation.
 
 **Tactical advice:**
@@ -977,8 +929,6 @@
 *Source: How to unlock your product leadership skills | Ken Norton, Ex-Google @ 00:16:24*
 
 ---
-
-> "To me, I see executive coaching as a partnership or creative partnership. It's all about helping my client reach their goals, their potential, whatever that means to them. So an important thing about coaching is the definition of success does belong to the client."
 
 **Insight:** A successful coaching relationship is a creative partnership where the client, not the coach, defines the objectives and the meaning of success.
 
@@ -992,8 +942,6 @@
 ---
 
 ## Kenneth Berger
-
-> "But if we're asking for it regularly, if we're listening to the response, we're expecting the nose we get from the world, then we can get the sense of, 'Yeah, I'm honoring what's important to me. I'm honoring the world's response and I'm moving forward towards what I want.'"
 
 **Insight:** Asking for what you want is an act of personal integrity that allows you to honor your desires while learning from the world's response.
 
@@ -1099,8 +1047,6 @@
 
 ---
 
-> "This summit is for senior product leaders, and typically someone’s title will be: Product Lead or Growth Lead, Principal PM, Group PM, Director of Product or Director of Growth, Head of Product or Head of Growth, VP of Product or VP of Growth, Chief Product Officer. If you’re just starting your career in product or growth, the content won’t be as relevant for you."
-
 **Insight:** High-level professional development events are most effective when they maintain a strict seniority threshold to ensure peer-level relevance and tactical depth.
 
 **Tactical advice:**
@@ -1111,8 +1057,6 @@
 *Source: [Announcing the Lenny & Friends Summit 🙌](https://www.lennysnewsletter.com/p/announcing-the-lenny--friends-summit)*
 
 ---
-
-> "It’s targeted at new PMs (<2 years of experience), and will run 11/29-12/17. The course is part-time (evenings PST), and fits into a busy PM schedule. This is the course I wish I had when I was starting out."
 
 **Insight:** Mastering PM fundamentals requires a structured approach to core competencies like strategic thinking, communication, and prioritization within the first two years of the role.
 
@@ -1151,8 +1095,6 @@
 
 ---
 
-> "For most software product managers, we’re talking about web APIs. This is the front door to your server that allows other applications to access data or trigger events."
-
 **Insight:** Understanding common API patterns like REST allows product managers to interpret technical documentation and independently verify how data moves between systems.
 
 **Tactical advice:**
@@ -1177,8 +1119,6 @@
 
 ---
 
-> "There’s so much content flying at us these days, it’s hard to separate the “this sounds so smart!” from the “this is genuinely correct, helpful, and timeless.” The essays below are ones I find myself quoting from, sharing with people, and coming back to most often, even though most are decades old."
-
 **Insight:** High-quality professional development comes from prioritizing timeless principles and immediate news over ephemeral trends and recent noise.
 
 **Tactical advice:**
@@ -1189,8 +1129,6 @@
 *Source: [Essential reading for product builders—part 1](https://www.lennysnewsletter.com/p/essential-reading-for-product-builders-part-1)*
 
 ---
-
-> "To continue building an essential reading library for product leaders, I’ve picked 10 more timeless reads that you probably haven’t read but should. The pieces below cover a wide spectrum of advice around growth, leadership, communication, entrepreneurship, and more."
 
 **Insight:** Curation of high-signal, timeless content is a powerful antidote to low-quality information overload for product leaders.
 
@@ -1294,8 +1232,6 @@
 
 ---
 
-> "Whenever you see the headline of an article or scientific paper that says “ChatGPT can’t do x,” it’s usually because they didn’t use the latest model and didn’t make use of prompt engineering."
-
 **Insight:** Most perceived professional limitations of AI are actually failures of basic prompting or the use of outdated models rather than inherent flaws in the technology.
 
 **Tactical advice:**
@@ -1333,8 +1269,6 @@
 
 ---
 
-> "A strategy, paired with a clear vision, is essentially your route from problem to solution."
-
 **Insight:** A successful product strategy serves as a credible and coherent map that guides a team from a complex problem to a tangible solution.
 
 **Tactical advice:**
@@ -1359,8 +1293,6 @@
 
 ---
 
-> "The job of a product manager is to marshal the resources of their team to drive business value."
-
 **Insight:** Product leadership is the art of marshaling team resources and guiding individuals toward business value through influence rather than formal authority.
 
 **Tactical advice:**
@@ -1371,8 +1303,6 @@
 *Source: [How to get into product management](https://www.lennysnewsletter.com/p/how-to-get-into-product-management)*
 
 ---
-
-> "Nonetheless, as someone who was conditioned to always aim for the top, like many high achievers in the world of tech, I was having a hard time reconciling the limitations of my health with my professional ambitions."
 
 **Insight:** High achievers must reconcile their professional ambitions with their biological limitations to avoid pushing themselves to a permanent breaking point.
 
@@ -1450,8 +1380,6 @@
 
 ---
 
-> "As a result, your role is now all about leverage. It’s now about helping your teams more effectively marshals their resources to ship product and deliver business impact."
-
 **Insight:** The core of the PM manager role is maximizing team leverage by unblocking obstacles and upholding high quality standards across the organization.
 
 **Tactical advice:**
@@ -1462,8 +1390,6 @@
 *Source: [Moving from IC product manager to manager of product managers](https://www.lennysnewsletter.com/p/moving-from-ic-product-manager-to-manager-of-product-managers)*
 
 ---
-
-> "A great course can change your life (I know many people who’ve had transformational experiences), and a bad course can be a huge time and money suck. So you need to choose wisely."
 
 **Insight:** Investing in professional education can be career-transforming, but it requires careful selection to avoid wasting resources on low-quality content.
 
@@ -1476,8 +1402,6 @@
 
 ---
 
-> "When you’re in your 20s, you can’t just sit around, follow your passions and hope good things happen. Because they often won’t. You need to plan ahead and be smart about your choices."
-
 **Insight:** Early career success requires a proactive balance of following personal interests and making strategic, value-driven decisions rather than relying on passion alone.
 
 **Tactical advice:**
@@ -1489,8 +1413,6 @@
 
 ---
 
-> "The PM role isn’t going through the hypergrowth it saw earlier this decade, but it’s also not shrinking. This seems like a good thing all around."
-
 **Insight:** Understanding whether your difficulty finding a job is due to market-wide trends or role-specific shifts requires analyzing real-time data on hiring-to-firing ratios across the product ecosystem.
 
 **Tactical advice:**
@@ -1501,8 +1423,6 @@
 *Source: [New data on the product job market](https://www.lennysnewsletter.com/p/new-data-on-the-product-job-market)*
 
 ---
-
-> "I’ll use this post as a living document of the best product development templates."
 
 **Insight:** Building a centralized, living library of product management templates creates a consistent operating standard and speeds up the kickoff for new initiatives.
 
@@ -1554,8 +1474,6 @@
 
 ---
 
-> "After analyzing these documents, it’s become clear to me that (1) the PM role varies significantly across company, but (2) there are a set of ten core PM skills that will serve you well no matter where you work."
-
 **Insight:** While product management roles vary by organization, ten core competencies—led by leadership, execution, and strategy—form a universal foundation for PM success.
 
 **Tactical advice:**
@@ -1593,8 +1511,6 @@
 
 ---
 
-> "Each week I tackle reader questions about building product, driving growth, and accelerating your career."
-
 **Insight:** Mastering product management requires a structured approach to core pillars like communication, influence, and a goal-setting hierarchy.
 
 **Tactical advice:**
@@ -1605,8 +1521,6 @@
 *Source: [The Best of Lenny’s Newsletter 2023](https://www.lennysnewsletter.com/p/the-best-of-lennys-newsletter-2023)*
 
 ---
-
-> "Each week I tackle reader questions about building product, driving growth, and accelerating your career."
 
 **Insight:** Accelerating your product career requires mastering organizational influence and proactively adapting to technological shifts like AI.
 
@@ -1631,8 +1545,6 @@
 *Source: [The most common pitfalls of new product managers](https://www.lennysnewsletter.com/p/the-most-common-pitfalls-of-new-product-managers)*
 
 ---
-
-> "The Magic Loop is a process through which any employee may systematically grow at a company. It is reliable in its results, with a simple core of five basic steps."
 
 **Insight:** Systematic career growth is achieved by mastering your current role, proactively solving your manager's problems, and then leveraging that trust to secure projects that develop your target skills.
 
@@ -1671,8 +1583,6 @@
 
 ---
 
-> "I’ll start by describing the product/experience and why it matters."
-
 **Insight:** Articulating a product's purpose and mission early ensures your subsequent design choices are grounded in a strategic 'why' rather than just 'what.'
 
 **Tactical advice:**
@@ -1683,8 +1593,6 @@
 *Source: [The definitive guide to mastering product sense interviews](https://www.lennysnewsletter.com/p/the-definitive-guide-to-mastering-product-sense-interviews)*
 
 ---
-
-> "Segmentation: Defining the audience and prioritizing a target segment."
 
 **Insight:** Effective segmentation requires breaking down the broad ecosystem into mutually exclusive groups and choosing one target to focus on for deeper problem-solving.
 
@@ -1697,8 +1605,6 @@
 
 ---
 
-> "Problem identification: Listing and prioritizing key pain points faced by the chosen segment."
-
 **Insight:** Successful problem identification involves mapping the user journey to find severe, frequent pain points that warrant a new solution.
 
 **Tactical advice:**
@@ -1709,8 +1615,6 @@
 *Source: [The definitive guide to mastering product sense interviews](https://www.lennysnewsletter.com/p/the-definitive-guide-to-mastering-product-sense-interviews)*
 
 ---
-
-> "Solution development: Brainstorming and prioritizing a solution for the problem, including a v1."
 
 **Insight:** A strong solution phase pairs creative brainstorming with a pragmatic prioritization framework and a clear path to execution.
 
@@ -1931,8 +1835,6 @@
 
 ---
 
-> "Many students from the first cohort credit the course with helping them get a promotion, land a better gig, or simply become more confident in themselves."
-
 **Insight:** Building confidence in a new PM role is a byproduct of gaining high-quality context and engaging with a supportive peer community.
 
 **Tactical advice:**
@@ -1943,8 +1845,6 @@
 *Source: [🚨 Applications now open for my live course—Product Management Fundamentals](https://www.lennysnewsletter.com/p/applications-now-open-for-my-live-course-product-management-fundamentals)*
 
 ---
-
-> "Git is a version-control system that tracks changes as they are made to code. Products like GitHub allow engineers to move those changes from their local machine to online storage, where others can view and edit as well."
 
 **Insight:** Using version control tools firsthand helps non-engineers understand the collaborative 'Google Docs' style logic of code development and review.
 
@@ -1995,8 +1895,6 @@
 *Source: [Essential reading for product builders—part 1](https://www.lennysnewsletter.com/p/essential-reading-for-product-builders-part-1)*
 
 ---
-
-> "Learning to cook at the Cordon Bleu meant breaking down every dish into its smallest individual steps and doing each laborious and exhausting procedure by hand. [...] Most important, she could understand for the first time the principles governing how and why a recipe worked as it did."
 
 **Insight:** Mastering a complex process requires deconstructing it into its smallest components to understand the underlying principles of why it works.
 
@@ -2074,8 +1972,6 @@
 
 ---
 
-> "We ran this as a blind test because that’s the only fair way to evaluate performance. Think of it like the Coke vs. Pepsi challenge: when Pepsi is in unmarked containers, people prefer the taste, but when people see the Coca-Cola brand on the can, they prefer that instead."
-
 **Insight:** Blind evaluations are essential to eliminate brand bias and objectively assess if AI work quality meets professional human standards.
 
 **Tactical advice:**
@@ -2152,8 +2048,6 @@
 
 ---
 
-> "In our data, the correlation between total compensation package (salary, equity, and bonus) and satisfaction is 0.31, indicating a moderate positive relationship. This suggests that as compensation increases, satisfaction with total compensation also tends to increase, but the relationship is not overly strong, as you might expect."
-
 **Insight:** While pay increases generally boost satisfaction, the relationship is only moderate, meaning total compensation is rarely the sole driver of job fulfillment.
 
 **Tactical advice:**
@@ -2164,8 +2058,6 @@
 *Source: [How much do U.S. product managers really make?](https://www.lennysnewsletter.com/p/how-much-do-us-product-managers-really-make)*
 
 ---
-
-> "The mid-career slump: Mid-career workers are struggling the most with burnout, lower job enjoyment, and the most pessimism about the future."
 
 **Insight:** Mid-career professionals face a unique 'U-shaped' sentiment trough where burnout peaks and future optimism hits its lowest point.
 
@@ -2178,8 +2070,6 @@
 
 ---
 
-> "A widespread gap in career clarity: Many tech workers don’t know what they should be doing to continue developing in their careers."
-
 **Insight:** The lack of clear professional development paths is a primary source of anxiety and declining optimism for modern tech workers.
 
 **Tactical advice:**
@@ -2190,8 +2080,6 @@
 *Source: [How tech workers really feel about work right now](https://www.lennysnewsletter.com/p/how-tech-workers-really-feel-about-work-right-now)*
 
 ---
-
-> "Instead of all that information overloading my own brain and pulling my attention in a hundred different directions, I could finally focus on the product work I love and need to get right to be successful: understanding the problem, shaping the vision, and building something meaningful."
 
 **Insight:** Externalizing product context into an AI system prevents cognitive overload and frees up mental bandwidth for synthesis and decision-making.
 
@@ -2243,8 +2131,6 @@
 
 ---
 
-> "I look for people being brutally honest about how bad it was and why it failed. The rest of the interview, they’re trying to tell you all the wonderful things they did and all the accomplishments they had. And so I think the rawer the answer in terms of how bad it was and why, the better."
-
 **Insight:** Candidates succeed when they prioritize raw honesty about their failures over polished accounts of their achievements, demonstrating growth and deep self-reflection.
 
 **Tactical advice:**
@@ -2295,8 +2181,6 @@
 
 ---
 
-> "Sourced from hundreds of product managers who filled out our survey and hopped on calls, I put together a comprehensive collection of ways PMs are using Perplexity to do their work, including: ... 4. Learning best practices"
-
 **Insight:** AI acts as a real-time mentor that can surface new brainstorming techniques and analyze how industry leaders applied product frameworks.
 
 **Tactical advice:**
@@ -2307,8 +2191,6 @@
 *Source: [How to use Perplexity in your PM work](https://www.lennysnewsletter.com/p/how-to-use-perplexity-in-your-pm-work)*
 
 ---
-
-> "Sourced from hundreds of product managers who filled out our survey and hopped on calls, I put together a comprehensive collection of ways PMs are using Perplexity to do their work, including: ... 6. Understanding technical jargon"
 
 **Insight:** AI tools serve as an effective translation layer for product managers to quickly grasp complex engineering concepts and improve technical communication.
 
@@ -2321,8 +2203,6 @@
 
 ---
 
-> "Come up with critical questions your audience may ask: Identify gaps and hidden assumptions in your thinking: Highlight edge cases and counterarguments:"
-
 **Insight:** Use AI as a 'red team' to stress-test your product proposals and identify logical vulnerabilities before presenting to stakeholders.
 
 **Tactical advice:**
@@ -2333,8 +2213,6 @@
 *Source: [How to use ChatGPT in your PM work](https://www.lennysnewsletter.com/p/how-to-use-chatgpt-in-your-pm-work)*
 
 ---
-
-> "SQL queries: Programming specifics: Explain a broad concept: Write the code for you:"
 
 **Insight:** Product managers can bridge technical gaps by using AI to write data queries and explain complex engineering concepts.
 
@@ -2412,8 +2290,6 @@
 
 ---
 
-> "Many readers expense this subscription out of their workplace’s learning and development budget."
-
 **Insight:** Position professional subscriptions as a high-ROI investment for the company by highlighting the inclusion of multiple expensive software tools.
 
 **Tactical advice:**
@@ -2423,8 +2299,6 @@
 *Source: [Lenny's Product Pass: 20+ free premium products, available exclusively for paid annual subscribers](https://www.lennysnewsletter.com/p/lennys-product-pass-20-free-premium-products-available-exclusively-for-paid-annu)*
 
 ---
-
-> "Managing your PM career in 2023 & beyond by Shreyas Doshi—just launched and is already beloved by one and all"
 
 **Insight:** Strategic career management involves learning how to position yourself and navigate advancement complexities beyond day-to-day execution.
 
@@ -2450,8 +2324,6 @@
 
 ---
 
-> "This experience taught me that good things happen when you follow your interests and learn for learning’s sake. The job ended up being super lame, but it was an important stepping stone towards my next job – building websites for a small web agency."
-
 **Insight:** Investing in continuous, self-directed learning creates essential building blocks that enable unexpected career advancements.
 
 **Tactical advice:**
@@ -2463,8 +2335,6 @@
 
 ---
 
-> "If you’re looking for a PM role, here are the top companies hiring PMs over the past few months: Amazon, Microsoft, Capital One, Google, Meta, ServiceNow, Salesforce, JPMorgan Chase & Co., Adobe, TikTok, Wells Fargo, Masterclass, Solventum, Visa, IBM, American Express, Oracle, Nvidia, AWS, Disney, Walmart, Apple, Medline Industries, GE Vernova, and Intuit."
-
 **Insight:** Focusing your job search on companies with proven, high-volume hiring momentum across multiple product roles increases your chances of finding an active opening.
 
 **Tactical advice:**
@@ -2475,8 +2345,6 @@
 *Source: [New data on the product job market](https://www.lennysnewsletter.com/p/new-data-on-the-product-job-market)*
 
 ---
-
-> "Numbers-wise, there are about 450,000 active PMs in the U.S. right now, and 2,500 to 4,500 are being hired each month."
 
 **Insight:** Calibrate your career expectations by comparing the absolute size of a role's workforce against its monthly hiring velocity to understand the true level of competition.
 
@@ -2541,8 +2409,6 @@
 
 ---
 
-> "Finally, while you’re practicing, study up on frameworks, best practices, and core PM skills."
-
 **Insight:** Successful interviewing requires reinforcing the foundational PM skills—like strategy, prioritization, and product sense—that the questions are designed to test.
 
 **Tactical advice:**
@@ -2553,8 +2419,6 @@
 *Source: [Preparing for a PM interview](https://www.lennysnewsletter.com/p/preparing-for-a-pm-interview)*
 
 ---
-
-> "Twitter, books, blogs, and newsletters are invaluable, but they won’t provide the immediate step-function change in your career that a live cohort-based course can. And there is no better ongoing program for accelerating your product, growth, engineering, or marketing career than Reforge."
 
 **Insight:** Cohort-based learning provides a level of career acceleration and structural growth that passive information consumption cannot achieve.
 
@@ -2593,8 +2457,6 @@
 
 ---
 
-> "“AI is enhancing us, not stealing from us.” She thinks there is more to AI than just ChatGPT."
-
 **Insight:** Keeping up with AI requires a habit of following curated expert sources and established tech publications, as most tech reporting is becoming AI-centric by default.
 
 **Tactical advice:**
@@ -2619,8 +2481,6 @@
 
 ---
 
-> "How the best companies operate: Linear, Perplexity, Stripe, Figma, Ramp, Shopify, Notion, Wiz, Duolingo, Coda, Deel, Palantir, Gong, Meta"
-
 **Insight:** Examining the internal processes of top-tier companies provides a library of diverse and successful product-building playbooks.
 
 **Tactical advice:**
@@ -2630,8 +2490,6 @@
 *Source: [The Best of Lenny’s Newsletter—2024 Edition](https://www.lennysnewsletter.com/p/the-best-of-lennys-newsletter-2024-edition)*
 
 ---
-
-> "The Magic Loop: A framework for rapid career growth"
 
 **Insight:** Career advancement for product managers is accelerated by mastering influence, communication, and managing up rather than just technical execution.
 
@@ -2838,8 +2696,6 @@
 
 ---
 
-> "In a different research project, I surveyed about 1,000 PMs across hundreds of companies and asked them what skills matter most when hiring PMs. The results provide insight into not only what PMs need to demonstrate when they do the job (i.e. the list above) but also what skills companies look for when hiring."
-
 **Insight:** PM hiring processes focus on a core set of competencies that include communication, strategic thinking, execution, and product sense.
 
 **Tactical advice:**
@@ -2865,8 +2721,6 @@
 *Source: [When to hire your first product manager](https://www.lennysnewsletter.com/p/when-to-hire-your-first-product-manager)*
 
 ---
-
-> "Generally, the sequence is: a founder takes on the PM duties, they then divide up the duties among the early engineers and designers, and then eventually they bring on a full-time product manager."
 
 **Insight:** Before hiring a dedicated PM, founders should distribute product responsibilities among product-minded designers and engineers to maintain momentum.
 
@@ -3342,8 +3196,6 @@
 
 ## Mihika Kapoor
 
-> "In order to ensure that moments that are not discouraging, but rather, learning opportunities for your team team, it's so important to be anchored on that singular vision because then any step along the way feels like forward progress."
-
 **Insight:** Navigating ambiguity requires framing every setback or pivot as a necessary learning step toward the ultimate vision.
 
 **Tactical advice:**
@@ -3508,8 +3360,6 @@
 
 ## Sachin Monga
 
-> "I remember at Facebook, we would change our team structure what felt like every three months or six months and just have a reorg every once in a while. Part of why I think it's remained pretty consistent is exactly what you mentioned, which is the teams aren't oriented around product surfaces."
-
 **Insight:** Startups can avoid the frequent reorgs of big companies by focusing on timeless customer missions rather than shifting product surfaces.
 
 **Tactical advice:**
@@ -3536,8 +3386,6 @@
 
 ---
 
-> "Don't order the most expensive thing on the menu."
-
 **Insight:** Business dining etiquette requires demonstrating situational awareness by avoiding choices that impose excessive costs on your host.
 
 **Tactical advice:**
@@ -3548,8 +3396,6 @@
 *Source: [How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook | Sam Lessin](https://www.youtube.com/watch?v=KtKJ3A6DWTs) @ 00:33:49*
 
 ---
-
-> "So you need humor is a great way to cut through it, but humor just for the sake of being funny is not that useful. There has to be a deeper truth to it."
 
 **Insight:** Humor is a powerful tool for building trust and cutting through social noise, provided it is grounded in useful information or a deeper truth.
 
@@ -3605,8 +3451,6 @@
 
 ## Sanchan Saxena
 
-> "And then the context was there was this ambitious founder, Brian, who will never take no for an answer."
-
 **Insight:** Working with visionary founders teaches the value of extreme persistence and the importance of starting with an unconstrained vision.
 
 **Tactical advice:**
@@ -3619,8 +3463,6 @@
 ---
 
 ## Scott Wu
-
-> "And so in that lens, I really think that programming is only going to become more and more important as AI gets more powerful."
 
 **Insight:** Programming remains a critical skill because it teaches the fundamental ability to give precise, structured instructions to computers, which is even more valuable as AI capabilities grow.
 
@@ -3672,8 +3514,6 @@
 ---
 
 ## Shreyas Doshi
-
-> "I was given this role of managing the vendor relationship and I have no idea. I'm in my early 20s, I have no idea how to manage vendor relationships, but I ended up doing that."
 
 **Insight:** High agency is the ability to take on critical, unfamiliar challenges and find creative ways to succeed despite a lack of formal experience.
 
@@ -3771,8 +3611,6 @@
 
 ---
 
-> "But what I've seen is when a company isn't well run like IT isn't working, marketing is broken, there are not enough people in HR, there's a lot of turnover. All of these things I've seen that they're not correlated to the company being successful."
-
 **Insight:** Internal operational chaos is common in hyper-growth startups and often has little correlation with overall business success if product-market fit is strong.
 
 **Tactical advice:**
@@ -3809,8 +3647,6 @@
 ---
 
 ## Tom Conrad
-
-> "Probably the biggest lesson, it's not really about the specifics of the business. The biggest lesson really is these things make you better. In some instances, actually, I think in both instances they became dominoes that opened doors for me in my own ambition and my own professional life that maybe just wouldn't have opened at all if I hadn't gone to those companies and learned those things and had those experiences."
 
 **Insight:** High-profile product failures can accelerate a career by providing unique learning opportunities and visibility that more moderate successes cannot offer.
 
@@ -3871,8 +3707,6 @@
 *Source: [A framework for PM skill development | Vikrama Dhiman (Gojek)](https://www.youtube.com/watch?v=ImSvm11GR0Y) @ 00:04:48*
 
 ---
-
-> "Focus on outputs at the start of your careers and don't forget outputs even when you grow in your career."
 
 **Insight:** Early-career success is defined by flawless execution and being useful through tangible artifacts rather than driving high-level strategy.
 
@@ -3968,8 +3802,6 @@
 ---
 
 ## Zevi Arnovitz
-
-> "I was talking to GPT and this wasn't within my co-founder CTO project and I asked it if it's similar to a different framework... GPT goes, 'Oh yeah, it's exactly the same.' ... Creating the project allowed me to mitigate that."
 
 **Insight:** Use specialized AI 'projects' to compartmentalize context and prevent the AI from becoming a sycophantic 'people pleaser' during your preparation.
 

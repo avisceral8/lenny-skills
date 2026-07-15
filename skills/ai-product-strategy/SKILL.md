@@ -28,11 +28,6 @@ Asha Sharma: "Because these models are so effective at this point, you want to s
 
 Measure success by the team's metabolism in ingesting data and improving learning loops rather than static feature releases.
 
-### Prioritize safety and alignment early
-Benjamin Mann: "We felt like safety wasn't the top priority there. The case for safety has gotten a lot more concrete, so superintelligence is a lot about how do we keep God in a box and not let the God out?"
-
-Integrate safety as a core organizational priority from the start to prevent critical failures as the system gains more capability.
-
 ### Find defensibility in verticalization
 Logan Kilpatrick: "We're not going to launch some of these varied verticalized products. We're not going to launch an AI sales agent. That's just not what we're building towards. And companies who are and have some domain specific knowledge and they're really excited about that problem space, they can go into that and leverage our models and end up continuing to be on the cutting edge without having to do all that R&D effort themselves."
 
@@ -42,11 +37,6 @@ Avoid competing with foundational models by targeting specific industry niches w
 Noah Weiss: "I think in the AI space, we're trying to hear from customers, what do you wish Slack could do if it had these new superpowers? Let's incubate a couple teams or prototype, give them space to run and pilot and then get something to launch that's amazing. Blows people away. That's the formula that we've seen."
 
 Avoid generic AI features by identifying specific customer needs and giving dedicated teams space to prototype them independently.
-
-### View AI as cognitive energy
-Sam Schillace: "What if this is really the second Industrial Revolution where, in the first one, we had a surplus of physical energy beyond just our bodies and things like water reels, and now we have a surplus of cognitive energy beyond just our brains, right?"
-
-Leverage AI as a core reasoning engine that enables complex new paradigms of software rather than just using it as a content generator.
 
 ### Build for the model's future
 Sherwin Wu V2: "The field and the models themselves are just changing so, so quickly. They tend to disrupt themselves. The models will eat your scaffolding for breakfast."

@@ -53,8 +53,6 @@
 
 ## Gia Laudi
 
-> "Identifying more resonant positioning and messaging that speaks to that context that I was talking about before, before people discover that you even exist, have that moment where they're like, 'Oh my god, this has to change. This sucks,' ties that in, ties in what they care about and what is valuable about your product and then also that desired outcome."
-
 **Insight:** High-impact growth comes from identifying the specific 'struggling moment' that triggers a customer to seek a solution and aligning your messaging with that context.
 
 **Tactical advice:**
@@ -161,8 +159,6 @@
 
 ---
 
-> "Coming at this question from first principles, what does it tell you when someone stops using your product? Well, it means that they no longer find enough value in your product. Your task is to change that."
-
 **Insight:** If product improvements don't fix retention, the issue may be acquiring the wrong type of user rather than the product itself.
 
 **Tactical advice:**
@@ -226,8 +222,6 @@
 
 ---
 
-> "Filtering through the leads spurred me into putting a much tighter definition around qualification for deals."
-
 **Insight:** High interest from the public launch requires strict filtering and qualification to keep the sales team focused only on the highest-potential ICP matches.
 
 **Tactical advice:**
@@ -238,8 +232,6 @@
 *Source: [How to identify your ideal customer profile (ICP)](https://www.lennysnewsletter.com/p/how-to-identify-your-ideal-customer-profile-icp)*
 
 ---
-
-> "We did not think about ICP. I wish we did earlier on. It’s one of my biggest mistakes."
 
 **Insight:** Failing to define a narrow ICP early on often leads to wasted development time and a significantly delayed path to product-market fit.
 
@@ -428,8 +420,6 @@
 ---
 
 ## Oji Udezue
-
-> "And there's a lot of benefit really hones in on the fact that if you're going to help me work less, make about the same amount of money, then for me to notice you, you have to accelerate me by three times for me to care."
 
 **Insight:** The ideal customer profile consists of users for whom your product provides a 3x improvement over their current status quo.
 

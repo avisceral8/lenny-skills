@@ -23,40 +23,10 @@ Gergely: "In the first about nine months of the newsletter, it got to 50,000 sub
 
 Use a high-quality free version of your content as a massive top-of-funnel engine for audience discovery. This creates a step-function growth pattern by leveraging platform recommendations and lower barriers to entry.
 
-### Skills-First Visibility
-Hari Srinivasan: "If there's anything with knowledge or advice, I think that's what a lot of people are looking for. Every time we run these surveys, every time we talk to people on what they want, those are the things that really when you connect opportunity that people seek after in our system."
-
-Sharing professional knowledge and advice is the most effective way to attract job opportunities. Align your public profile with a skills-first hiring model by highlighting specific, transferable expertise.
-
-### Active Implementation
-Jeffrey Pfeffer: "So we give them a bunch of assignments throughout the class, which are self-reflective assignments, but their big thing for the class is they have to do power. They have to do something during the quarter to take the principles of the class, and what they're learning, and put them into practice."
-
-Building a powerful brand requires transitioning from passive learning to active, public-facing implementation. Initiate projects like a podcast or public initiative to make your expertise visible.
-
-### Strategic Path Mapping
-Jeffrey Pfeffer: "So therefore, you should suspend judgment in the sense that if somebody is on your critical path, the only judgment you should make is they're on my critical path."
-
-Focus on cultivating strategic relationships with individuals who control the critical paths to your objectives. Map out these key players and suspend personal judgment to build effective working relationships.
-
-### Identity-Driven Sharing
-Lulu Cheng Meservey: "And so what doesn't make them want to say it is doing a favor for a corporation. What does make them want to say it is they want to bring joy to somebody else, they want to make somebody laugh, they want to appear interesting, or they want to project some part of their identity."
-
-People share content to enhance their own identity or social standing. Provide your audience with content that makes them look interesting or well-informed rather than asking for favors.
-
-### Abundance Mindset
-Sam Lessin: "Etiquette is a skill for how to show up in a room with a low heart rate."
-
-Approach professional events with a mindset of abundance rather than scarcity. This reduces performance anxiety and prevents you from appearing transactional or desperate.
-
 ### Mind-Follower Loyalty
 Julian Shapiro: "When people follow you for your mind, when they're mind followers, not labor followers, higher affinity means more loyalty, means they pay closer attention to what you're saying. And if you actually try to get them to do something with you, you have an event offline, there's something you're selling, there's a cause you care about, they're way more likely to indulge."
 
 Building an audience around your unique thinking creates significantly more loyalty than acting as a content curator. Sharing original insights attracts high-affinity followers who value your perspective.
-
-### Forcing Function of Writing
-Ian McAllister: "And I think business writing, I spent a lot of that time doing that at Amazon, is so valuable because you've got to be a clear thinker to be a clear communicator. And so there's two tests in writing well or communicating well. It's both those things. So I found it's pretty valuable in kind of sharpening your ax."
-
-Writing for an external audience serves as a forcing function to crystallize your thoughts. Select questions in the zone between trivial and overly complex to build your network through shared clarity.
 
 ### Grassroots Vulnerability
 Janna Bastow: "Honestly, it wasn't so much that we set out to build a community, it was that we got together with some product people with the idea that we didn't know what we were doing. And so we figured if we got together with some other product people and started chatting it through, we'd all learn together."

@@ -28,11 +28,6 @@ Anuj Rathi: "So there's very interesting insight that I heard from Scott Belsky 
 
 Assume users have limited attention and want immediate personal benefit; the product must deliver a wow moment quickly to overcome entrenched habits.
 
-### Focus on customer milestones over business metrics
-Gia Laudi: "It puts businesses, or they, I should say, puts businesses at the center of the business versus putting customers at the center. It's about the values of the business, not the value to the customer that's being measured. Also, it just kind of feels gross for people, this idea of pushing people through a funnel."
-
-Success should be measured by the user reaching an emotional or value-based milestone rather than arbitrary internal buckets like marketing qualified leads.
-
 ### Drive toward a single high-value action
 Kristen Berman: "We worked with one medical on how to increase setting doctor's appointments right away during the onboarding, and that worked and drove it up by 20%."
 

@@ -28,20 +28,10 @@ Ebi Atawodi: "So four things. So it has to be lofty, it has to be realistic, it 
 
 Ensure the vision is rooted in a clear and significant user problem that the team feels personally motivated to solve.
 
-### Adopt Column B Thinking
-Melanie Perkins: "So I guess the column B thinking is thinking about what is that magical wonderful future that you then want to invest years and decades of your life actually building? And so that's column A and column B in a nutshell."
-
-Avoid incrementalism by imagining the improbable and magical future you want to see in ten years and then working backward.
-
 ### Synthesize Across Functions
 Mihika Kapoor: "You want to always ensure that there are research insights that help you feel what a user is feeling. You want to ensure that there are beautiful designs and prototypes that help communicate what this future world looks like, and you also want to root it in engineering and feasibility. And you want to be constantly, even in the vision phase, assuring that what you're marching after is something that is achievable and something that you can work towards."
 
 A compelling vision must be a cross-functional blend of deep user empathy, technical feasibility, and visual storytelling.
-
-### Prioritize Narrative Over Data
-Petra Wille: "Getting promoted is way harder if you're not good in telling stories and rallying the team behind the shared goal and all these kind of things, and you usually achieve this through good storytelling techniques."
-
-Master storytelling to build consensus because people are naturally wired to remember and pass on narrative arcs more than metrics.
 
 ### Balance Art with Science
 Sanchan Saxena: "If you become too scientific, you miss out on opportunities because you can't see those opportunities using the scientific method of discovery, because they're too tiny or they're so farfetched that people cannot even understand them."

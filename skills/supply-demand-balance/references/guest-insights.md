@@ -133,8 +133,6 @@
 
 ---
 
-> "If you’re a marketplace or platform (e.g. DoorDash, Cameo, Substack): 1. Reach out to targeted strangers (e.g. DM celebs, email owners)"
-
 **Insight:** Marketplaces often require manual, direct outreach to specific high-value supply-side users to kickstart the ecosystem.
 
 **Tactical advice:**
@@ -211,8 +209,6 @@
 
 ---
 
-> "In the early days, we were obsessed with ensuring that every customer who came to the platform had a delightful experience. If that meant we had to drop everything we were doing and run a task, we did. It was a great way to ensure quality in the early days."
-
 **Insight:** Having employees act as the initial supply ensures perfect early customer experiences and gives the team deep empathy for the problems suppliers face.
 
 **Tactical advice:**
@@ -236,8 +232,6 @@
 *Source: [How to kickstart and scale a marketplace business](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace-business)*
 
 ---
-
-> "How many ways do you find out about most new products? Either you see an advertisement (i.e. paid growth), you find it while searching online (i.e. SEO), someone reaches out and pitches you on it (i.e. sales), or a friend tells you about it and/or you see it shared on social media (i.e. virality)."
 
 **Insight:** Direct sales is a rare but viable primary engine for consumer businesses when used to solve the 'cold start' problem by recruiting essential supply side partners.
 
@@ -315,8 +309,6 @@
 ---
 
 ## Tim Holley
-
-> "What we do every day at Etsy is we help our sellers make sales, and that's really meaningful for the vast majority of them. It's reaching an audience that they wouldn't be able to reach."
 
 **Insight:** Prioritize driving sales as the primary value proposition for sellers, which naturally aligns the product team toward improving the buyer's experience.
 

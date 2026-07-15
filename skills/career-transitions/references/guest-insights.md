@@ -95,8 +95,6 @@
 
 ## Chip Conley
 
-> "If you think about the caterpillar to butterfly journey, midlife is the chrysalis. Midlife is not crisis."
-
 **Insight:** Midlife career transitions should be reframed as a transformative 'chrysalis' stage for growth and reinvention rather than a period of crisis.
 
 **Tactical advice:**
@@ -115,8 +113,6 @@
 ---
 
 ## Christine Itwaru
-
-> "Product operations for a VP or a head of product or a product manager is the creation of some system that allows you to thrive or allows your team to thrive in product management. The second is what we've seen more of over the last couple years, and it's the more common definition. The emergence of the role itself is why it's so common."
 
 **Insight:** Transitioning into product ops requires shifting your mindset from building customer features to building the internal systems that empower a product organization to scale.
 
@@ -143,8 +139,6 @@
 ---
 
 ## Dr. Fei Fei Li
-
-> "No matter which part of the AI development or AI deployment or AI application you are participating in, and most likely many of us, especially as technologists, we're in multiple points. We should act like responsible individuals and care about this."
 
 **Insight:** High-impact career choices in AI should be guided by a sense of personal responsibility and a deep commitment to the technology's societal outcome.
 
@@ -216,8 +210,6 @@
 
 ## Gina Gotthilf
 
-> "Because I think that most of us have a lot of B-moments every day, every week, every month and every period of our lives. And it's easy to think that things aren't just not going to work out for us because we're in one of those B-moments, if we don't recognize them as moments."
-
 **Insight:** Career success is rarely linear, and setbacks like layoffs or aimlessness should be viewed as temporary 'B-side' moments rather than permanent failures.
 
 **Tactical advice:**
@@ -245,8 +237,6 @@
 ---
 
 ## Graham Weaver
-
-> "I can tell that their heart and their soul and their energy is really for B. That's really what they want, but they're talking themselves out of B, and they're going to talk themselves into A. So what I try to do is, A, first, I try to let them realize that their real energy is for B, just let them feel that and understand that."
 
 **Insight:** Career satisfaction is found by choosing the path that generates internal energy rather than the one that looks best on a logical "pros and cons" matrix.
 
@@ -286,8 +276,6 @@
 ---
 
 ## Inbal S
-
-> "I joined GitHub as a CPO basically a year ago. Two days ago, I celebrated my first year. And for me, the initial approach is let's look at the platform, let's look at the software development lifecycle, and draw some conviction."
 
 **Insight:** A successful transition to CPO involves auditing the existing product lifecycle to establish strong convictions about the environment and tools your team needs.
 
@@ -336,8 +324,6 @@
 
 ## Jason Shah
 
-> "So, my career has all been about solving important problems in a unique way. I think the latter part is the youngest child in me who has to be special and do things different than other people, and the former is about making sure that my time is spent well since we're all limited there."
-
 **Insight:** When navigating a career, prioritize roles that allow you to solve significant problems using your unique strengths and personal perspective.
 
 **Tactical advice:**
@@ -350,8 +336,6 @@
 ---
 
 ## Jeffrey Pfeffer
-
-> "I think it makes people uncomfortable because the realities of what it takes to get power bear almost no resemblance to what you're taught in Sunday school or the mosque or wherever, how your parents raised you. They bear almost no resemblance to how we think the world ought to be."
 
 **Insight:** Evaluating career growth requires accepting that the path to influence involves trade-offs that may clash with idealistic personal values or upbringing.
 
@@ -421,8 +405,6 @@
 
 ## Lenny Rachitsky
 
-> "What skills do companies look for in a PM? What do PMs need to get right to get promoted? How much influence do PMs have at different companies? There’s surprisingly little information out there about the differences in the PM role across the industry."
-
 **Insight:** PM culture is not monolithic; it is defined by a specific combination of valued skills, promotion criteria, and the level of influence granted relative to other functions.
 
 **Tactical advice:**
@@ -433,8 +415,6 @@
 *Source: [A comprehensive survey of Product Management](https://www.lennysnewsletter.com/p/a-comprehensive-survey-of-product-management)*
 
 ---
-
-> "There are countless opportunities to make a big impact and grow your career by transitioning into web3. But it can be an opaque process and a risky decision. So let’s prepare you for web3."
 
 **Insight:** Moving into web3 requires a shift from the structured, specialized roles of traditional tech toward a versatile, high-execution model focused on community success.
 
@@ -460,8 +440,6 @@
 
 ---
 
-> "Hybrid workers are the happiest, but remote workers are surprisingly happy as well. These findings challenge the standard narrative that in-office work inherently creates stronger engagement, belonging, or job enjoyment."
-
 **Insight:** While hybrid work provides the highest immediate job satisfaction, in-office work is often viewed as a better hedge for long-term career progression and security.
 
 **Tactical advice:**
@@ -472,8 +450,6 @@
 *Source: [How tech workers really feel about work right now](https://www.lennysnewsletter.com/p/how-tech-workers-really-feel-about-work-right-now)*
 
 ---
-
-> "My goal in sharing this Minimum Viable Interview Prep (MVIP) process is to arm you with the employer and interviewer perspective so that you can build confidence in your job search. I’m passionate about helping people with job searching because I know how much the right role can set you up for success in your career and financial life."
 
 **Insight:** First-round interviews are high-stakes filters that require a strategic, employer-focused preparation system rather than exhaustive memorization.
 
@@ -486,8 +462,6 @@
 
 ---
 
-> "Most first-round interviews stick to behavioral questions, i.e. questions that ask you about your own experiences, like “Tell me about a time when you had a conflict with a colleague.”"
-
 **Insight:** Mastering behavioral interviews requires shifting from memorizing individual answers to deeply understanding the details of a few high-impact projects.
 
 **Tactical advice:**
@@ -498,8 +472,6 @@
 *Source: [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview-even-in-a-terrible-talent-market)*
 
 ---
-
-> "If everyone says, ‘Yes, that’s clearly a great idea, and you have direct competitors on day one, you are definitely late to the game. However, if someone has sailed across the sea of exploration, waded through the bog of research, and is still going on about an idea, there’s a small chance that they are ahead of the rest of us and see something I’ve yet to see."
 
 **Insight:** The most successful startups often begin with ideas that seem ludicrous or insane to the general public but represent a unique, ambitious vision of the future.
 
@@ -538,8 +510,6 @@
 
 ---
 
-> "The short answer is: Two to three months minimum, six-ish months ideally, and up to twelve is great."
-
 **Insight:** True recovery and identity disentanglement require a significant duration, typically starting at two to three months.
 
 **Tactical advice:**
@@ -563,8 +533,6 @@
 *Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
 
 ---
-
-> "Life during those two periods was very different, and it’s even more different if you go from being the only PM at a small company to being one of a thousand PMs at a large company."
 
 **Insight:** Transitioning from a startup to a large company requires a shift from solo execution to mastering communication, organizational influence, and data-driven decision-making.
 
@@ -681,8 +649,6 @@
 
 ---
 
-> "Instead, they want to see that you are really strong at the foundational tools and that you can apply them to solve a variety of growth problems. A simple version of these foundational tools is the ability to use data analysis (qual and quant) along with user psychology within an experiment-driven methodology."
-
 **Insight:** Growth hiring managers value a demonstrated ability to apply foundational tools like data analysis and user psychology over static credentials or surface-level tactical ideas.
 
 **Tactical advice:**
@@ -746,8 +712,6 @@
 
 ---
 
-> "PMs have had 20 years to demonstrate value and carve out a role in Big Tech, becoming the leaders of a company’s vision or a feature’s execution. Not here."
-
 **Insight:** Evaluating a web3 career move requires accepting a role where PM value is not yet universally understood and influence is earned through execution rather than title.
 
 **Tactical advice:**
@@ -785,8 +749,6 @@
 
 ---
 
-> "Resumes still matter, and going through the exercise will help you with these other items. Update your LinkedIn profile while you’re at it."
-
 **Insight:** Keeping your resume and LinkedIn profile current ensures you are ready to move quickly if your employment situation changes unexpectedly.
 
 **Tactical advice:**
@@ -797,8 +759,6 @@
 *Source: [How to be prepared for layoffs](https://www.lennysnewsletter.com/p/how-to-be-prepared-for-layoffs)*
 
 ---
-
-> "That being said, I 1,000% encourage you to explore this path if you have an idea you’re excited about. Just don’t go into it thinking it’ll lead to a huge income stream."
 
 **Insight:** Developing a side project can provide a psychological and financial safety net, even if it doesn't immediately replace your primary income.
 
@@ -824,8 +784,6 @@
 
 ---
 
-> "The first month in my new role at monday.com, I was tasked with building our first AI agent. The goal was to create an AI co-pilot, something users could turn to for insights, explanations, or building complex workflows they wouldn’t know how to create on their own. To build that, I needed a ton of context—all the internal knowledge, decisions, assumptions, and scattered inputs that shape any product direction."
-
 **Insight:** New PMs can accelerate their onboarding by using AI to ingest and synthesize the high volume of scattered documentation and history found in a new organization.
 
 **Tactical advice:**
@@ -850,8 +808,6 @@
 
 ---
 
-> "It was clear that I had had enough. So I stepped down and left the company to focus on my well-being."
-
 **Insight:** Stepping away from a toxic or overwhelming environment is often a necessary health intervention when you have pushed past your zone of tolerance.
 
 **Tactical advice:**
@@ -862,8 +818,6 @@
 *Source: [How to know when to stop](https://www.lennysnewsletter.com/p/how-to-know-when-to-stop)*
 
 ---
-
-> "Founders who truly love to learn and look at company-building as a learning experience are quite predictive of whether founders will build durable, special companies."
 
 **Insight:** A founder's 'clock speed' and ability to rapidly iterate through unworkable strategies are more predictive of success than their initial business plan.
 
@@ -876,8 +830,6 @@
 
 ---
 
-> "In both cases, special companies have a crisp articulation of how future systems should look and how they break the mold of today’s user expectations. Their products, especially at the earliest stages, lag far behind their ambitions."
-
 **Insight:** Don't judge an early-stage company by its current unpolished product; instead, evaluate the trajectory of the mission and the intensity of customer pull.
 
 **Tactical advice:**
@@ -889,8 +841,6 @@
 
 ---
 
-> "The general consensus is that empowered teams offer more strategic and meaningful work, making them preferable for PMs. Yet despite empowered teams being dramatically more popular environments for PMs (stated preference), the majority of PMs still seem to be operating in feature teams (revealed behavior)."
-
 **Insight:** Choosing to stay on a feature team is often a pragmatic career choice driven by factors like compensation, visa sponsorship, or the need to build a stable resume.
 
 **Tactical advice:**
@@ -901,8 +851,6 @@
 *Source: [In defense of feature team product managers](https://www.lennysnewsletter.com/p/in-defense-of-feature-team-product-managers)*
 
 ---
-
-> "It’s akin to the difference between being an employee vs. being a founder of a company; or being employed by a media company vs. being a solo creator. It’s a completely different level of autonomy, freedom, and ownership."
 
 **Insight:** Success in the passion economy requires shifting from a traditional employee mindset to one of personal entrepreneurship where digital platforms enable direct monetization of unique skills.
 
@@ -980,8 +928,6 @@
 
 ---
 
-> "Opportunities will be there when you return and you’ll have a better story to tell if you give yourself time to do it right!"
-
 **Insight:** A well-executed sabbatical builds the confidence to pursue unconventional career paths and provides a compelling narrative for future employers.
 
 **Tactical advice:**
@@ -992,8 +938,6 @@
 *Source: [On taking time off](https://www.lennysnewsletter.com/p/on-taking-time-off)*
 
 ---
-
-> "And if you’re pining for more, don’t forget that as a paid subscriber you have access to a thriving Slack community of thousands of PMs, founders, growth leaders, and all manner of product builders. It’s a very special place, and a great way to get answers to your burning questions."
 
 **Insight:** Accessing a curated community of industry practitioners is a high-leverage way to find job opportunities and get specific career advice.
 
@@ -1019,8 +963,6 @@
 
 ---
 
-> "Finally, if you’re looking for a PM gig and having a hard time, keep going. The roles are out there. Here’s a list of the top 20 companies that have the most open roles."
-
 **Insight:** Success in a recovering market requires targeting the specific top-tier tech companies and startups that are leading the volume of hiring.
 
 **Tactical advice:**
@@ -1031,8 +973,6 @@
 *Source: [State of the product job market in 2025](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025)*
 
 ---
-
-> "The left side of the chart includes the top five places people come from, meaning that many companies hire from business schools, but for Amazon, it’s their number one source of new hires."
 
 **Insight:** Top tech companies often have distinct hiring pipelines, such as Amazon's heavy reliance on business school graduates for product roles.
 
@@ -1071,8 +1011,6 @@
 
 ---
 
-> "POs are indeed growing quickly at non-tech companies (e.g. banks, telecoms)"
-
 **Insight:** The Product Owner role is expanding primarily in traditional industries like banking and telecommunications rather than in the core tech sector.
 
 **Tactical advice:**
@@ -1096,8 +1034,6 @@
 *Source: [This Week #10: Keeping designers and engineers excited about metrics + Transitioning from DS to PM 🕺](https://www.lennysnewsletter.com/p/this-week-10-keeping-designers-and-engineers-excited-about-metrics--transitionin)*
 
 ---
-
-> "Finally, when looking at the PM role, it’s important to differentiate between a startup and a big-company PM. The difference is even more significant than the two spectrums we looked at above. Every single part of the job is different."
 
 **Insight:** Product management roles are not interchangeable; the day-to-day responsibilities and expectations change completely depending on the size and stage of the company.
 
@@ -1200,8 +1136,6 @@
 *Source: [Which companies produce the best product managers](https://www.lennysnewsletter.com/p/which-companies-produce-the-best-product-managers)*
 
 ---
-
-> "For better or worse, the PM job is an amalgamation of soft skills—communication, collaboration, coordination, influence, taste, vision, etc. People stuff! Glue stuff. Skills that AI will have the toughest time replacing."
 
 **Insight:** Roles characterized by soft skills and human coordination are significantly less vulnerable to AI replacement than those focused on technical execution.
 
@@ -1353,8 +1287,6 @@
 
 ## Noam Lovinsky
 
-> "What I often coach people is, do what you like. You're generally going to be a lot better at the things that really fill you up that really get you excited."
-
 **Insight:** Career success is driven more by authenticity and personal energy than by following industry trends or investing in non-authentic personal branding.
 
 **Tactical advice:**
@@ -1367,8 +1299,6 @@
 ---
 
 ## Paul Millerd
-
-> "Are you conscious about what you're actually doing? What are the costs of your game? What are the trade-offs? What are the implicit contracts are you creating with yourself?"
 
 **Insight:** True career satisfaction comes from consciously choosing your path and acknowledging the trade-offs, rather than simply following a societal script.
 
@@ -1522,8 +1452,6 @@
 ---
 
 ## Ray Cao
-
-> "I think at the TikTok, I think besides the technology part, we do have a very keen, I would say, appetite to really understand what the markets really want and also how can we really service our clients in a better way and the clients here is not necessarily only for advertisers including our user and also creator altogether."
 
 **Insight:** Transitioning from a legacy tech company to a high-growth startup requires a mindset shift from technology-led innovation to customer-centric experimentation.
 
@@ -1797,8 +1725,6 @@
 *Source: Yuhki Yamashata @ 00:05:22*
 
 ---
-
-> "Well, I decided it's not for everyone, but I think that it's, first of all, a really great empathy building exercise of understanding that point of view, and also pushing yourself to push on the product from a different angle."
 
 **Insight:** Temporarily switching to a design role allows PMs to build deep functional empathy and learn to advocate for an ideal vision without the immediate weight of feasibility constraints.
 

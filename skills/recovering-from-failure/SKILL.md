@@ -43,11 +43,6 @@ Scott Belsky: "I basically say, 'How much conviction do you have in the solution
 
 The decision to persevere depends on whether your belief in the problem and solution has grown or diminished after facing real world challenges.
 
-### Refocus on singular purpose
-Tomer Cohen: "To really set the new purpose for it, which was this is not a springboard for other products. This is not a traffic jumpstart, it's not an upsell feed. It's really about people that matter, talking about things that I care about professionally."
-
-To turn around an underperforming product, strip away secondary business objectives and refocus on one high value user purpose.
-
 ### Evaluate the four key levers
 Todd Jackson: "You've got the persona, the problem, the promise, and the product. Lattice kept the first one but changed the others. Vanta changed all four."
 

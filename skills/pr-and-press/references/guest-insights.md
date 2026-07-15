@@ -19,8 +19,6 @@
 
 ## Camille Ricketts
 
-> "The other thing that Elon I think is very talented at or definitely at the time really made an impression on me was painting an emotional picture of the vision that he was really going after and being able to convey the emotional quality of the mission to the people he talked to. So definitely at the time about the electric vehicle revolution and then space travel, I think he just knew how to make people feel about it that really enlisted a lot of hearts and minds and that is something that I've taken with me for sure."
-
 **Insight:** Great PR is built on the ability to paint an emotional vision of the mission that enlists the hearts and minds of journalists and the public.
 
 **Tactical advice:**
@@ -98,8 +96,6 @@
 *Source: [The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)](https://www.youtube.com/watch?v=jW9GzaaRPxk) @ 00:57:27*
 
 ---
-
-> "I mean, we scope out projects that are just for funding announcements, we've never had to not finish that project or we've never... I wouldn't do that if it wasn't possible, so I think there's a couple of reasons that it sometimes doesn't work out."
 
 **Insight:** Hiring PR help for specific, well-defined milestones like funding can be more efficient and predictable than long-term, generalized retainers.
 
@@ -242,8 +238,6 @@
 
 ---
 
-> "Getting press is rarely the way to get started"
-
 **Insight:** Press coverage is often a low-impact strategy for securing the first ten B2B customers compared to direct outreach and network leveraging.
 
 **Tactical advice:**
@@ -267,8 +261,6 @@
 *Source: [Kickstarting supply in a labor marketplace](https://www.lennysnewsletter.com/p/kickstarting-supply-in-a-labor-marketplace)*
 
 ---
-
-> "Much of what outsiders call virality is really a function of what one might call ‘dark broadcasters’—people or companies distributing information to many viewers at once, but whose influence isn’t always visible to people outside of the network."
 
 **Insight:** PR and influencer marketing should be viewed as 'broadcast diffusion' tools that reach thousands or millions at once, providing the fuel for what looks like viral growth.
 
@@ -305,8 +297,6 @@
 
 ## Lulu Cheng Meservey
 
-> "And so I always encourage people to try to make mistakes of commission rather than omission. Because if you make a mistake of commission you can observe it, you can learn from it. You know right away that it's happened. You can move really quickly and adapt and become better."
-
 **Insight:** Startups should prioritize taking active risks over passive inaction because visible mistakes provide the data necessary for rapid improvement.
 
 **Tactical advice:**
@@ -338,8 +328,6 @@
 ---
 
 ## Matt Mullenweg
-
-> "A lie gets around the world seven times before the truth has time to get out of bed."
 
 **Insight:** In a PR crisis, rapid and direct communication is essential because false narratives and misinformation spread significantly faster than factual corrections.
 

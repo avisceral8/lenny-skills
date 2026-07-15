@@ -6,8 +6,6 @@
 
 ## Alexander Embiricos
 
-> "One of the most mind-blowing examples of acceleration, the Sora Android app, like a fully new app, we built it in 18 days and then 10 days later, so 28 days total, we went to the public."
-
 **Insight:** AI coding agents can compress development timelines for new applications from months to weeks by handling core engineering tasks autonomously.
 
 **Tactical advice:**
@@ -33,8 +31,6 @@
 ---
 
 ## Amjad Masad
-
-> "We have operations people, sales ops, HR ops. We have lawyers using Replit, and so it is democratizing the act of software engineering."
 
 **Insight:** Software creation is being democratized to the point that operations and legal teams can build their own custom business logic without waiting for engineering resources.
 
@@ -77,8 +73,6 @@
 
 ---
 
-> "If you work in AI, you just really have to understand the model to some degree to do good work. So, I took a little detour to do that, and then I came back and just started prototyping what eventually became Claude Code."
-
 **Insight:** Gaining a deep understanding of the underlying model architecture and training process is essential for building effective high-level AI tools.
 
 **Tactical advice:**
@@ -91,8 +85,6 @@
 ---
 
 ## Dan Shipper
-
-> "No one is manually coding anymore. Organizations like ours, people who are playing at the edge, we're doing things that, in three years, everybody else is going to be doing."
 
 **Insight:** Software development is shifting from manual coding to managing an arsenal of AI agents that build products based on high-level requirements.
 
@@ -243,8 +235,6 @@
 
 ---
 
-> "Style unbundling involves breaking down the key elements of a particular expert’s style or skill set into discrete components. Instead of simply asking the AI to imitate someone, you prompt it to analyze and list the specific characteristics that make up that person’s unique approach. Then you can use those characteristics to prompt the AI to create new content."
-
 **Insight:** Structuring AI interactions as multi-step workflows—first analyzing requirements and then executing—provides significantly more control over complex outputs.
 
 **Tactical advice:**
@@ -333,8 +323,6 @@
 ---
 
 ## Michael Truell
-
-> "By not understanding the details under the hood right now, you then very quickly get to a place where you're kind of limited at a certain point, where you create something that's big enough that you can't change."
 
 **Insight:** Effective adoption of AI coding tools requires engineers to maintain a deep understanding of the generated code to prevent the system from becoming an unmanageable black box.
 

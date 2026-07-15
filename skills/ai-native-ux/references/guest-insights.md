@@ -51,8 +51,6 @@
 
 ## Asha Sharma
 
-> "I 100% believe that's where the world is going, and then my experience should look and feel different than yours. That's been I've been in personalization, but now you can do it on the fly in the future. So I think that'll be a pretty fun world."
-
 **Insight:** AI enables a shift from static interface design to dynamic, code-native experiences that adapt in real-time to specific user contexts.
 
 **Tactical advice:**
@@ -66,8 +64,6 @@
 
 ## Boris Cherny
 
-> "The model is improving so quickly, we felt that there wasn't really another form factor that could keep up with it. And, honestly, this was just me struggling with, 'What should we build?'"
-
 **Insight:** Choosing a flexible, low-overhead interface like a terminal allows product development to keep pace with rapidly evolving underlying AI models.
 
 **Tactical advice:**
@@ -80,8 +76,6 @@
 ---
 
 ## Dr. Fei Fei Li
-
-> "So much of our intelligence is built upon visual, perceptual, spatial understanding, not just language per se. I think they're complementary."
 
 **Insight:** Generating realistic 3D worlds requires moving beyond language-only models to incorporate visual, perceptual, and spatial understanding.
 
@@ -179,8 +173,6 @@
 ---
 
 ## Robby Stein
-
-> "It creates an end-to-end frontier search experience on state-of-the-art models to really truly let you ask anything of Google search. You can go back and forth, you can have a conversation and it taps into and is specially designed for search."
 
 **Insight:** Natural AI interfaces leverage state-of-the-art models to turn complex search tasks into simple, interactive conversations.
 

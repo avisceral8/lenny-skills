@@ -23,16 +23,6 @@ Alex Komoroske: "And I take a lot of notes. And people, I tell people when I'm i
 
 Dedicating deliberate time to synthesize raw notes transforms fleeting observations into durable strategic insights. This practice prevents the loss of valuable context and builds a library of institutional knowledge.
 
-### Automated Knowledge Work
-Andrew Wilkinson: "It's like having the world's most reliable employee who costs $200 a month and works 24/7. So many knowledge work jobs are going to change massively. I think the fundamental question is, do all jobs just become a single prompt?"
-
-Treat AI as a digital employee that can automate repetitive tasks through simple prompts. Shifting the burden of administrative work to AI agents frees up mental energy for creative and strategic thinking.
-
-### Flexible Professional Identity
-Bret Taylor: "I think to really build something of significance, I think to be a great founder, you really need to be able to not have such a ossified view of your identity that you can't transform into what the company needs you to be at that point."
-
-Long-term success requires the willingness to prioritize whatever task the company needs most, even if it falls outside your core role. Ask every morning what the single most impactful thing you can do for the organization is today.
-
 ### Action-Based Boundaries
 Dr. Becky Kennedy: "Boundaries are what you tell someone else you will do, and it requires the other person to do nothing. Making a request, that's not a boundary."
 

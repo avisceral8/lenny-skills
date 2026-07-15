@@ -14,8 +14,6 @@
 
 ## Anneka Gupta
 
-> "Now I think the way to use that effectively as a head of product is to recognize that they have that power to figure out how to use that power to get the things done that you know are best for the company. So, I always think about I have all the people around me. Whether they're people on my team, my peers, or my CEO, these are different resources I have to go get a initiative done or get work done in the company."
-
 **Insight:** Effectively working with a founder means viewing their unique influence as a strategic lever to drive necessary company-wide changes.
 
 **Tactical advice:**
@@ -29,8 +27,6 @@
 
 ## Boz
 
-> "It wasn't like, 'Hey, I'm struggling with this one tricky problem. Who should I talk to?' It's like, nobody. You should talk to yourself and figure this out."
-
 **Insight:** Professional environments provide leaders and experts specifically to prevent the inefficiency of isolated struggle that characterizes early startups.
 
 **Tactical advice:**
@@ -43,8 +39,6 @@
 ---
 
 ## Chip Conley
-
-> "I think the key for me to work in that environment and make it work was to not pretend to know things I didn't know, it was to have a sense of humor and humility in how I operated, and it was to show respect and hope that I got it in return."
 
 **Insight:** Effectively managing up to a high-intensity founder requires balancing your own experience with a humble willingness to learn their unique culture and language.
 
@@ -88,8 +82,6 @@
 
 ## Hilary Gridley
 
-> "People think that the game is all about influencing the CEO, influencing the people around them. You come up thinking like you're the protagonist. But in the story of work, you are probably not the protagonist. You're not special."
-
 **Insight:** Accepting that you are not the protagonist in the organization's story makes it easier to execute mandated directions with less personal friction and ego.
 
 **Tactical advice:**
@@ -117,8 +109,6 @@
 ---
 
 ## Jag Duggal
-
-> "As a company, this extends beyond product, we are addicted to our NPS score. And we reach for world beating net promoter scores as a company, and product vertical by product vertical as well."
 
 **Insight:** Guard against premature scaling by requiring every individual product vertical to meet world-class satisfaction metrics before broader release.
 
@@ -148,8 +138,6 @@
 
 ## Jiaona Zhang
 
-> "I think it's really important for every company to be dreaming big. If you don't have a big vision, it's really hard for you to innovate, but you got to couple that really big vision with thoughtfulness around your execution."
-
 **Insight:** To pivot leadership away from an unviable solution, refocus the conversation on the core strategic strengths of the company and the root user problem.
 
 **Tactical advice:**
@@ -178,8 +166,6 @@
 
 ## Lenny Rachitsky
 
-> "Managing up is one of the most essential skills at every level. Even as a CEO. It enables you to be less stressed, do your best work, and get the recognition that you deserve."
-
 **Insight:** Effective managing up is built on a foundation of over-communication, proactive problem-solving, and alignment on expectations.
 
 **Tactical advice:**
@@ -204,8 +190,6 @@
 
 ---
 
-> "The 'magic' in this loop relies on simple human nature. We have a natural sense of fair play and partnership, and we want to invest in people we view as having our best interests at heart. The magic in the loop is building a collaborative, mutually beneficial relationship."
-
 **Insight:** Transforming a boss-employee dynamic into a partnership requires demonstrating that you have your manager's best interests at heart through consistent, proactive support.
 
 **Tactical advice:**
@@ -216,8 +200,6 @@
 *Source: [The Magic Loop](https://www.lennysnewsletter.com/p/the-magic-loop)*
 
 ---
-
-> "Managing up, a.k.a managing your manager, is an essential skill at every level (even CEO). It enables you do your best work, while getting the recognition you deserve."
 
 **Insight:** Effective upward management relies on proactive communication and expectation setting to build the trust and autonomy needed for high performance.
 
@@ -415,8 +397,6 @@
 
 ## Noah Weiss
 
-> "The first is, I think as much as possible, I think maybe we'll talk about this a little bit later as well, is getting to the point where you have alignment on the principles for what it means to build a great product of that company. Not just about if the intuition and tasting gut, but how do you distill that to principles that become the language of the company so that everybody else can start thinking through a similar frame or similar lens when you're designing a product."
-
 **Insight:** Establishing shared product principles transforms subjective founder intuition into a common language that empowers teams to make aligned decisions autonomously.
 
 **Tactical advice:**
@@ -429,8 +409,6 @@
 ---
 
 ## Noam Lovinsky
-
-> "I think I should actually report to Hunter. I think this would work better if we kind of combined the organizations this way and then we divided and conquered this way."
 
 **Insight:** Requesting to be 'layered' under a more appropriate manager can resolve performance struggles and provide the specific support needed for your current career stage.
 
@@ -461,8 +439,6 @@
 
 ## Sachin Monga
 
-> "I think the first thing was really treating my role in the beginning more as a facilitator than a decision maker when it comes to product. I think the team was also small enough that everyone in theory could have a good sense of what everyone else was up to."
-
 **Insight:** To work effectively with a product-minded founder, prioritize your role as a facilitator who bridges the gap between the founder's vision and the team's execution.
 
 **Tactical advice:**
@@ -488,8 +464,6 @@
 ---
 
 ## Wes Kao
-
-> "And you can continue to think that way and your career might be fine, but if you embrace that if you manage your boss, they're going to appreciate you much more, you're going to get more opportunities, you're going to have more trust with them, there's all these great things that happen when you decide to manage up."
 
 **Insight:** Managing up is a proactive career strategy that transforms your relationship with your manager and unlocks new professional opportunities.
 

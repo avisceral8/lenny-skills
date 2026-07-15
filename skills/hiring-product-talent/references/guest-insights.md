@@ -63,8 +63,6 @@
 
 ## David Singleton
 
-> "Our managers spend a lot of time identifying exactly what they need for the various roles that we have and then getting to know the potential candidates, the people out there in the world that could do these jobs actually really go quite deep with them on why it might make sense for them to feel like number one, they can feel very personally fulfilled against that mission here."
-
 **Insight:** Top talent is best recruited through a deeply personal, manager-led process that prioritizes long-term relationship building over automated recruiting cycles.
 
 **Tactical advice:**
@@ -127,8 +125,6 @@
 
 ## Garrett Lord
 
-> "This is just enabling human beings to be even more productive. You used to put a Google Search on a skill on your resume because you grew up with Google. Being AI native, young people are at a huge advantage."
-
 **Insight:** AI acts as a productivity multiplier for the workforce, rewarding those who are 'AI native' and can integrate these tools into their professional workflows from the start.
 
 **Tactical advice:**
@@ -164,8 +160,6 @@
 ---
 
 ## Jason Shah
-
-> "So, basically, I'm specifically noticing a lot of teams hiring product leaders, more product managers. Those product managers are actually now working kind of increasingly in sort of more traditional product management fashion, in addition to some of the differences that we discussed in the post around the community management and role in marketing and things like this, but specifically, Uniswap just made a big hire out of Meta."
 
 **Insight:** As a new industry matures, successful recruiting shifts toward finding leaders who can apply traditional product discipline to specialized domains.
 
@@ -205,8 +199,6 @@
 
 ## Josh Miller
 
-> "If you have a team that has heartfelt intensity and is there for a purpose and something to prove, you get it. You give them a very exciting, ambitious product and get out of their way and they will do remarkable work."
-
 **Insight:** Hire people with "heartfelt intensity" and a personal mission, then provide an autonomous environment where they can execute on ambitious projects.
 
 **Tactical advice:**
@@ -235,8 +227,6 @@
 ---
 
 ## Laura Modi
-
-> "I think it maybe just starts internally where you have to be able to create a culture first, to all understand that. Because otherwise you're going to be in a position where you're focused on optimizing the technology, efficiency, growth, looking at tools for tools' sake versus tools for users' sake."
 
 **Insight:** Recruit talent that prioritizes the user experience over technical optimization to ensure the company builds for people rather than for technology's sake.
 
@@ -284,8 +274,6 @@
 ---
 
 ## Lenny Rachitsky
-
-> "Most frequently valued: Communication, execution, product sense"
 
 **Insight:** While specialized skills vary by company, the industry consistently prioritizes communication, execution, and product sense as the most essential traits for product managers.
 
@@ -349,8 +337,6 @@
 *Source: [How to ship like a startup](https://www.lennysnewsletter.com/p/how-to-ship-like-a-startup)*
 
 ---
-
-> "We aren’t talking about “the top 1%.” We are talking about the literal one best person for the job who exists on Planet Earth. I cannot stress this difference enough."
 
 **Insight:** Recruiting the absolute best person on the planet for a critical role provides exponential leverage because they attract other top-tier talent and open doors that remain closed to the 'merely' excellent.
 
@@ -428,8 +414,6 @@
 
 ---
 
-> "As an early employee, I was able to build relationships with the people that would go on to lead all sides of Airbnb. This had long term implications for the culture of data at Airbnb. It fostered trust in data as a strategic asset, shaped the way I thought about how data could be used to support all sides of the organization, and how the data science team would need to be built as a result."
-
 **Insight:** Hiring a data scientist within the first ten employees allows for the development of deep relationships that establish data as a core strategic asset rather than a back-office function.
 
 **Tactical advice:**
@@ -454,8 +438,6 @@
 
 ---
 
-> "Salary transparency is an increasingly important topic in tech, as professionals are keen to maximize their compensation, and companies are looking to hire and retain top talent."
-
 **Insight:** To attract and retain top talent in a flattening market, companies must design salary bands that reward high-impact ICs as much as people managers.
 
 **Tactical advice:**
@@ -467,8 +449,6 @@
 
 ---
 
-> "Focus on efficiency—they had fewer than five PMs and 50 engineers when they hit $100 million in ARR."
-
 **Insight:** Keep product management headcount deliberately lean to maximize leverage and prevent the coordination drag typical of large PM organizations.
 
 **Tactical advice:**
@@ -479,8 +459,6 @@
 *Source: [How Ramp builds product](https://www.lennysnewsletter.com/p/how-ramp-builds-product)*
 
 ---
-
-> "6. Make an offer: Put together a compelling offer, share it with them,and try like hell to get them to accept."
 
 **Insight:** To close top-tier PMs, hiring managers must put as much effort into the offer and acceptance phase as they did in the evaluation phase.
 
@@ -518,8 +496,6 @@
 *Source: [Joining as the first product manager](https://www.lennysnewsletter.com/p/joining-as-the-first-product-manager)*
 
 ---
-
-> "How to learn the most about a candidate from a single interview question"
 
 **Insight:** High-quality hiring for product roles is often driven by asking targeted, high-leverage questions that reveal a candidate's underlying problem-solving abilities.
 

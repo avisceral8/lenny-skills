@@ -127,8 +127,6 @@
 
 ---
 
-> "What a disservice to not help people understand that anger is a distancing emotion and there are other emotions that are connecting."
-
 **Insight:** Damaged relationships are repaired by moving past distancing emotions like anger to share the more vulnerable, connecting emotions like hurt or fear that lie beneath.
 
 **Tactical advice:**
@@ -281,8 +279,6 @@
 
 ---
 
-> "I can tell when you do that thing with your hand, then I'm going to have to be a lot more direct with you. When you say um every third word, it makes you sound stupid."
-
 **Insight:** You must pay attention to how your feedback is being received and be willing to increase your directness if the recipient is dismissing the message.
 
 **Tactical advice:**
@@ -335,8 +331,6 @@
 
 ---
 
-> "For more, Jack teaches a highly rated course, ManagerGPT: The AI Tools and Human Systems to Scale Yourself and Your Team Fast, focused on helping high-growth leaders build their individual operating systems and interpersonal skills to stop fighting fires (or each other) and start creating what matters most: great products and great teams."
-
 **Insight:** AI tools can serve as a coaching partner to help translate raw, emotional reactions into structured frameworks that increase feedback receptivity.
 
 **Tactical advice:**
@@ -347,8 +341,6 @@
 *Source: [Introducing the GAIN framework for feedback: an evidence-based approach to giving feedback that people love, appreciate, and act on](https://www.lennysnewsletter.com/p/introducing-the-gain-framework-for-feedback-an-evidence-based-approach-to-giving)*
 
 ---
-
-> "What these folks miss is their own power to catalyze change by shifting the framing and approach of the feedback they give."
 
 **Insight:** Effective upward feedback requires shifting the conversation from personal complaints to a shared focus on business results and team productivity.
 
@@ -387,8 +379,6 @@
 
 ---
 
-> "Especially with complex or sensitive topics, including each of these GAIN elements in the conversation—often, but not always, in order—leads to greater receptivity and, consequently, more behavior change and more satisfying results."
-
 **Insight:** For feedback to be effective, it must conclude with concrete commitments regarding who will take specific actions by a certain time.
 
 **Tactical advice:**
@@ -400,8 +390,6 @@
 
 ---
 
-> "Collect input from everyone that brings this up, particularly the people pushing for this change. Put together your own POV on what’s not working, and what should happen. Talk to your manager and get their perspective and support."
-
 **Insight:** Handling personnel changes requires a systematic approach of gathering evidence and aligning with leadership before taking action.
 
 **Tactical advice:**
@@ -412,8 +400,6 @@
 *Source: [Turning around an underperforming team - Issue 17](https://www.lennysnewsletter.com/p/turning-around-an-underperforming-team---issue-17)*
 
 ---
-
-> "Feeling angry wasn’t the issue. It was my response to the anger itself that had consequences. I had unconsciously gone into an aggressive reactivity—exploding and sending others on the defense."
 
 **Insight:** Productive workplace conflict requires moving past reactive defenses to clearly articulate your underlying needs for respect, fairness, or security.
 

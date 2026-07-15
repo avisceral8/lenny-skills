@@ -33,35 +33,15 @@ Ethan Evans 2.0: "So in the newsletter we did together, I wrote about how over t
 
 Advancement requires moving from a reactive executor who asks for assignments to a leader who independently identifies organizational gaps and suggests initiatives.
 
-### Master Interpersonal Competence
-Carole Robin: "It turns out that the skills you need to move along that continuum actually take you from contact and no connection and dysfunction to at least functional and robust. And then once you've acquired those skills, then you can decide whether or not you want to take a few of those relationships a lot farther, take them all the way to exceptional, but at least you've gained what you need to know in order to get to functional and robust."
-
-Relationships are a learned skill set. You must proactively move team interactions from mere contact to functional, robust, and exceptional collaboration.
-
 ### Write Your Career Spec
 Deb Liu: "Some of the best PMs I have ever worked with are terrible PMs for their career. They just drift from job to job. 'Hey, should I take this role or this role? How do I think about this?' But if I said you had to write a spec for your career, what does success look like?"
 
 Avoid aimless drifting by applying PM disciplines to your own career. Write a formal spec with success metrics and a roadmap for your professional development.
 
-### Focus on Internal Transformation
-Ken Norton: "I think my clients are also very introspective and surrounded by great mentors and advisors and have all sorts of people in their life who can help them, but are realizing that a lot of the work is going to be internal work that's going to get them to the next level. And so, this transformation is going to be just as much what I need to do as who I am."
-
-Reaching senior leadership levels requires a shift from external skill acquisition to deep introspection and personal transformation as a leader.
-
 ### Control the Customer Truth
 Laura Schaffer: "And so that means that your superpower is in really pulling those insights in and bringing them to life, staying close to the customer. There's not a single leader or executive that isn't going to be stoked to hear about valuable customer insights that highlight problems they might not be seeing."
 
 Gain outsized organizational influence by becoming the primary source of customer reality, aligning those insights with the company North Star metrics.
-
-### Build a Personal User Manual
-Claire Hughes Johnson: "And Elad actually helped me to realize, look, examples and details and frameworks, my working with Claire document is in there, is like... He said it's catnip. And I think that is also what inspired Patrick to push me to do basically a longer version of that chapter that I did with Elad."
-
-Accelerate trust and clarity with your team by documenting your personal operating principles, core values, and work preferences in a public guide.
-
-### Master the Foundations First
-Ian McAllister: "Probably communicate, prioritize, and execute. I think those are just the core building blocks. Other ones will be more important as you grow and become more senior, but those ones, no matter where you are in your product career I think are super important."
-
-Early career success is built on the mastery of the trifecta: clear communication, ruthless prioritization, and reliable execution.
 
 ## Questions to Help Users
 

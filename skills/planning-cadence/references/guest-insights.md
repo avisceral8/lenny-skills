@@ -37,8 +37,6 @@
 
 ## David Singleton
 
-> "What are they getting out of the products as they are today and what are the problems adjacent to the ones that we're already solving that they have to put a lot of their own energy into but really feel like they shouldn't and they'd like us to help. And when we find that confluence of kind of need and then adjacency to what we're already doing, that's usually our invitation to go and build the next layer of our economic infrastructure."
-
 **Insight:** Roadmaps should prioritize 'adjacent' problems where users are currently wasting manual energy despite already using your core products.
 
 **Tactical advice:**
@@ -142,8 +140,6 @@
 
 ---
 
-> "While the balance between planning and execution has evolved over Ramp’s growth, we’re still very much in execution mode even today."
-
 **Insight:** Adapt your planning horizons from two-week sprints to quarterly roadmaps as the organization scales, but remain ready to discard plans the moment they become obsolete.
 
 **Tactical advice:**
@@ -168,8 +164,6 @@
 
 ---
 
-> "Agile is a collection of tools in your toolbox, not a single hammer. Pick and choose the pieces you need to maximize the likelihood of success for your org, product, and team."
-
 **Insight:** Agile frameworks should be treated as a flexible toolkit rather than a rigid prescription, allowing teams to adapt their delivery cadence to their specific scale and product needs.
 
 **Tactical advice:**
@@ -181,8 +175,6 @@
 
 ---
 
-> "You can’t expect the organization to “just know” how to pull together a quarterly plan. Working without an agreed-upon framework can often be a recipe for disaster."
-
 **Insight:** A successful planning process requires a structured framework that transitions the organization from exploring multiple possible futures to committing to a single, concrete course of action.
 
 **Tactical advice:**
@@ -193,8 +185,6 @@
 *Source: [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://www.lennysnewsletter.com/p/the-secret-to-a-great-planning-process---lessons-from-airbnb-and-eventbrite)*
 
 ---
-
-> "Best practices from smart people are great and all, but remember—not everything you read about will work within your specific business, market and team. You may be too early-stage for a highly opinionated way of building."
 
 **Insight:** Frameworks are tools to be adapted to your specific business context, not dogmatic rules to be forced upon an unwilling team.
 

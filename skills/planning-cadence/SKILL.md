@@ -48,20 +48,10 @@ From "How Notion builds product": "All that said, we roughly plan for each half,
 
 Detail specific projects for the immediate quarter while keeping the following quarter as high-level bullet points to allow for flexibility.
 
-### Scale-Dependent Horizons
-From "How Ramp builds product": "While the balance between planning and execution has evolved over Ramp’s growth, we’re still very much in execution mode even today."
-
-Adapt planning horizons from two-week sprints to quarterly roadmaps as the organization scales, but remain ready to discard plans when necessary.
-
 ### Big Boulder Alignment
 From "How Snowflake builds product": "We spend a good bit of time on planning, and planning frequently, with both quarterly and annual planning cycles. I sometimes joke that if it’s been more than six weeks without some planning exercise, my email must not be working."
 
 Establish a small set of high-level company priorities that all individual team plans must map back to for organization-wide alignment.
-
-### Frameworks as Toolkits
-From "Five habits of highly annoying product managers": "Best practices from smart people are great and all, but remember—not everything you read about will work within your specific business, market and team. You may be too early-stage for a highly opinionated way of building."
-
-Treat frameworks as tools to be adapted to your specific business context rather than dogmatic rules to be forced upon teams.
 
 ## Templates & Frameworks
 

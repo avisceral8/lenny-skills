@@ -48,16 +48,6 @@ Ramesh Johari: "Many of the changes that are most consequential create winners a
 
 Acknowledge that every change involves trade-offs and monitor for effects where improving one side of the market might inadvertently hurt the other.
 
-### Align around sales metrics
-Tim Holley: "What we do every day at Etsy is we help our sellers make sales, and that's really meaningful for the vast majority of them. It's reaching an audience that they wouldn't be able to reach."
-
-Adopt Gross Merchandise Sales (GMS) as a primary metric to ensure the product team is focused on value that satisfies both buyers and sellers.
-
-### Recruit high-value anchors manually
-From "How to kickstart and scale a consumer business—Step 4: Find your early adopters by doing things that don’t scale": "If you’re a marketplace or platform (e.g. DoorDash, Cameo, Substack): 1. Reach out to targeted strangers (e.g. DM celebs, email owners)"
-
-Use direct outreach and DMs to secure essential individuals or business owners who provide the high-quality supply needed to attract initial demand.
-
 ## Templates & Frameworks
 
 - **Supply-First vs. Demand-First Decision Framework** (How to Kickstart and Scale a Marketplace Business – Part 2: Cracking the Chicken-and-Egg Problem 🐣 - Supply vs. Demand) - A decision framework for marketplace founders to determine whether to focus early resources on supply or demand, based on analysis of 17 successful marketplaces

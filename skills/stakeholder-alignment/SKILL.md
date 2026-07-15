@@ -43,20 +43,10 @@ Naomi Gleit: "Of course, I'm sure there's hundreds of docs associated with the p
 
 Eliminate conflicting information by creating one central document that serves as the definitive source of truth for the project. This prevents stakeholders from working off different interpretations of the same goal.
 
-### Lead with Data Authority
-Paige Costello: "The thing I would say is bring the insight. Know thy customer. Know thy market. Know thy competitors. Know thy numbers. Know thy product."
-
-Young or new leaders can overcome skepticism by becoming the definitive expert on customer data and market numbers. Mastering these fundamental details establishes professional authority in the room.
-
 ### The PM-Engineering Triad
 Tamar Yehoshua: "And then I think what's really important is that you're aligned. You understand your roles and responsibilities and where you're going to divide and conquer and where you're going to be aligned. You don't want any of this ... Like people in the organization, they ask mom, they asked dad and they got different opinions and playing one against the other."
 
 Success depends on establishing a high-trust, aligned partnership with engineering to ensure ideas are feasible and to prevent confusion. Meet frequently and value your partners input to ensure a unified leadership front.
-
-### Map Incentives and Fears
-From "A PM’s guide to influence": "As a product manager, or basically any leader, your ability to influence others can move your career forward or keep you stuck. And even though it’s such a critical skill for PMs, there isn’t much practical advice on how to develop it."
-
-Systematic influence requires identifying the values, incentives, and fears of each key stakeholder. Reframe your proposals to address what is already top-of-mind for your audience to reduce friction.
 
 ## Templates & Frameworks
 

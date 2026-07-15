@@ -33,25 +33,10 @@ From "Marketplace city expansion strategy": "Expand into a second market as soon
 
 Only expand once your first market demonstrates a self sustaining flywheel where supply stays without manual hand holding. Moving too early can break the operational stability of the core business.
 
-### Embrace the Figure It Out Mentality
-Gina Gotthilf: "And then they ended up asking me to come on full-time, do that across the world. In Japan, China, Korea, Turkey, Spain, France, et cetera. And then to own growth, which ended up meaning communications, social media, government partnerships, anything to grow."
-
-Scaling globally requires owning diverse growth levers from communications to government partnerships. Teams must be willing to navigate ambiguity and scale through sheer momentum.
-
-### Reject Lower Standards
-Manik Gupta: "When I started working on it, I think for me, my belief was, again going back to the tech optimism aspect, is why can't we in India have the same quality maps like we have in the United States? Why not? Why shouldn't we do it? Why are users here not getting the same benefit and same productivity gain, if you will, and less stress in their daily commute and things like that?"
-
-Do not assume international markets require lower product quality or utility. Leverage technology to provide massive productivity gains and aim for parity between global regions.
-
 ### Standardize the Activation Process
 From "Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business": "For many years a big lever for us was expanding geographically. As we got better at selecting and launching new markets, each new market would reach critical growth milestones faster and faster."
 
 Expansion becomes a powerful growth engine when the process for selecting and activating markets is a repeatable playbook. Monitor organic signals to decide where to flip the switch next.
-
-### Automate Safety and Moderation
-From "The inside story of Facebook Marketplace": "A small bug in the fraud queues resulted in a massive flood of violating items. We were able to get it cleaned up quickly by reinstating the rules, but it was an inauspicious start, to say the least."
-
-International scaling introduces unique fraud patterns and policy risks. Establish automated moderation systems and safety rules before providing broad public access to a new market.
 
 ### Validate Automation with Data
 From "Top 5 most interesting things about Booking.com's early growth strategy – Issue 46": "The localization for our ad copy was done by Google translate, even when we got really big. A lot of team members were upset with our ad copy sometimes, so we asked them to give us better copy, which we A/B tested, and the Google translated copy often won. We would keep what worked regardless of what would be better according to local speakers."

@@ -44,8 +44,6 @@
 
 ## Jeffrey Pfeffer
 
-> "And as I have taught senior executives over the years, it is absolutely clear to me that one of the skills that they have mastered is they have a skill that you cannot tell what they think of you."
-
 **Insight:** Commanding a room involves mastering the art of professional acting to maintain a powerful presence regardless of your internal emotions.
 
 **Tactical advice:**
@@ -220,8 +218,6 @@
 ---
 
 ## Nancy Duarte
-
-> "We take their brand guidelines and really push it into the spoken word medium where when they stand up on a stage, it's cinematic. The visuals can become an experience in itself."
 
 **Insight:** High-stakes presentation design requires transforming static brand standards into a cinematic experience that enhances the spoken word rather than just transcribing it.
 

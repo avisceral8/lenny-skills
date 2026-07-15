@@ -48,11 +48,6 @@ Ivan Zhao: "If you use Notion, Notion are more understood as the productivity su
 
 Position highly flexible or horizontal software within well-understood categories to make it accessible to less-technical audiences.
 
-### Emotional Resonance and Craft
-Josh Miller: "By all means, numbers are a fantastic way to be honest with yourself about whether or not you are achieving what you aim to do. But at the moment of creation, at the stage as product people, wondering what should we do, and why, and how? We think it's much more important for us to think about the human, the person at the other end, and how we really want to make them feel."
-
-In commodity markets, use high-quality design craft and emotional connection to stand out when feature parity is the baseline.
-
 ### Aspirational Transformations
 From "Essential reading for product builders—part 2": "Being successful at selling horseback riding means they grow the market for their product while giving the perfect context for talking about their saddles. It lets them position themselves as the leader and affords them different kinds of marketing and promotion opportunities. It lets them think big and potentially be big."
 

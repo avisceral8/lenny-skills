@@ -42,8 +42,6 @@
 
 ## Austin Hay
 
-> "I like to think about marketing technology more as one piece is people and process and the other is the system and the platform. And that probably sounds pretty familiar to what a lot of product people think about their world as, and that's how I define MarTech. And I think really the way to think about marketing technology is it's a product manager whose specific role and focus is the system or the third party or first party platform."
-
 **Insight:** The ideal MarTech hire is essentially a specialized Product Manager who can architect technical platforms while managing the cross-functional processes between marketing and engineering.
 
 **Tactical advice:**
@@ -97,8 +95,6 @@
 *Source: [Sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)](https://www.youtube.com/watch?v=3UyitfSbY6c) @ 00:06:11*
 
 ---
-
-> "They're all in kind of a state of perpetual dissatisfaction, but in a positive way. One of the things, by the way, I like about the current crop of CEOs, they don't really take stock of what they've done and feel it, they're always a little bit dissatisfied with where they are, and very focused on the end state."
 
 **Insight:** A founder's ability to scale is often driven by a state of 'constructive dissatisfaction' and a relentless focus on the future over past accomplishments.
 
@@ -157,8 +153,6 @@
 
 ## Farhan Thawar
 
-> "Why don't you look at the API Docs and build something, build a Shopify app, build an admin extension, build something on top of Shopify. Even if you don't get a job at Shopify, which is maybe your goal, you've learned something, you've built something, you have things in your GitHub repo now and you can show people."
-
 **Insight:** Practical, project-based evaluation provides a much clearer signal of a candidate's competence and drive than traditional resume screening.
 
 **Tactical advice:**
@@ -194,8 +188,6 @@
 ---
 
 ## Interview Q Compilation
-
-> "Interestingly, all of a sudden the sharp product managers, engineers, basically every role, they very quickly find what are the one or two Eigenquestions on this topic. There's no right answer, but I'll tell you one of my favorite ones, because the product manager said, 'Okay, if I had to ask two questions, the two questions I would ask, one, is it safe enough for humans or not?'"
 
 **Insight:** Presenting a low-stakes hypothetical scenario helps reveal a candidate's natural ability to identify and prioritize the most important variables in a complex problem.
 
@@ -296,8 +288,6 @@
 
 ## Jessica Livingston
 
-> "And it was very administrative, and I would observe. Paul, Robert and Trevor, my co-founders would be asking them all sorts of questions about their product and their technology and blah, blah, blah, blah, blah. I would occasionally ask questions, but I'd usually remain pretty silent. And so I don't think people even really noticed me."
-
 **Insight:** Effective interview panels benefit from a designated observer who focuses exclusively on interpersonal dynamics while others handle technical deep dives.
 
 **Tactical advice:**
@@ -318,8 +308,6 @@
 ---
 
 ## Karri Saarinen
-
-> "On the hiring front, we always look for people that care about it. As a business, why we really care about it is that we see that cooperation only happens if people use the product and our product, which is supposed to help the cooperation, coordination."
 
 **Insight:** Ensuring every hire—especially engineers—values product craft is essential for maintaining high quality without heavy management.
 
@@ -459,8 +447,6 @@
 
 ---
 
-> "These are not just great questions—they are exceptionally good at pulling out the essential insights about the candidate in the least amount of time. Below, I’ll share my 25 favorite high-signal-to-noise interview questions, including what to look for in a great answer, grouped by theme."
-
 **Insight:** Structuring interview questions around thematic areas like resilience and first-principles thinking allows you to extract deep insights in a short 45-minute window.
 
 **Tactical advice:**
@@ -471,8 +457,6 @@
 *Source: [How to learn the most about a candidate from a single interview question](https://www.lennysnewsletter.com/p/how-to-learn-the-most-about-a-candidate-from-a-single-interview-question)*
 
 ---
-
-> "Building on last month’s post where I dissected the ten jobs of a product manager—based on reviewing 20+ PM career ladders at some of today’s biggest tech companies—in this post I’m going to share my favorite interview questions for PMs, one question per PM “job”. You don’t need to cover all ten questions in one session (i.e. you can split them across interviewers), and you may need to screen for fewer (or more!) areas based on the expectations of PMs at your company."
 
 **Insight:** To effectively interview for the broad role of product management, use targeted questions mapped to the specific core responsibilities expected at your company.
 
@@ -510,8 +494,6 @@
 *Source: [Adding a work trial to your interview process](https://www.lennysnewsletter.com/p/adding-a-work-trial-to-your-interview-process)*
 
 ---
-
-> "It’s challenging to assess in interviews if someone is truly a builder, has good taste and judgment, can take initiative, and approaches problems productively."
 
 **Insight:** Evaluation during a work trial should focus on qualities like initiative and taste that are nearly impossible to gauge through conversation alone.
 
@@ -576,8 +558,6 @@
 
 ---
 
-> "The strongest and most valuable candidates are people who are good at self-reflection and can approach problems differently. They break norms, they challenge assumptions, and they think from first principles. These questions can help you find lateral and “out-of-the-box” thinkers."
-
 **Insight:** High-signal candidates differentiate themselves through introspection and the ability to question conventional wisdom rather than simply reciting rehearsed interview answers.
 
 **Tactical advice:**
@@ -627,8 +607,6 @@
 *Source: [Meet your Lenny’s Newsletter Fellows ✨](https://www.lennysnewsletter.com/p/meet-your-lennys-newsletter-fellows)*
 
 ---
-
-> "In addition to ten PM-specific questions, I’ve also included my favorite generalist interview questions, no matter the function. I always try to find time to ask at least a couple of these questions."
 
 **Insight:** Using a set of universal, non-functional interview questions helps assess character, self-awareness, and cultural fit across any role or seniority level.
 
@@ -731,8 +709,6 @@
 
 ## Melissa Perri
 
-> "What I found was that there was a really big misconception about what those people should be doing compared to what they teach in agile and Scrum versus what we all consider great product management."
-
 **Insight:** Professional certifications often emphasize the mechanics of agile ceremonies over the core product management competencies required to build successful products.
 
 **Tactical advice:**
@@ -781,8 +757,6 @@
 ---
 
 ## Nabeel S. Qureshi
-
-> "And so, I think to be drawn to that, you had to look at the other options and say, "Well, this is fine, but what am I really doing in life?" Whereas you had this other place that was like, "Hey, come solve the hardest, messiest problems in the world with us." And I think just at that time, that really drew some really good people."
 
 **Insight:** To attract candidates with exceptional drive, companies should project a polarizing mission that repels casual applicants while resonating deeply with those seeking high-stakes, meaningful work.
 

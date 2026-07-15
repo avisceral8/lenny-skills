@@ -92,8 +92,6 @@
 
 ---
 
-> "I love being at the center of the action, talking to customers, thinking about the bigger picture, rallying the team, and working with tons of different types of people."
-
 **Insight:** A PM's daily workload is fundamentally divided into three core pillars: shaping the product vision, driving the shipping process, and synchronizing cross-functional stakeholders.
 
 **Tactical advice:**
@@ -117,8 +115,6 @@
 *Source: [The definitive guide to mastering analytical thinking interviews](https://www.lennysnewsletter.com/p/the-definitive-guide-to-mastering-analytical-thinking-interviews)*
 
 ---
-
-> "Product Management Foundations by Reforge—probably the best course out there for new PMs"
 
 **Insight:** Successfully breaking into product management requires building a strong foundational knowledge of the role's core principles and mechanics.
 

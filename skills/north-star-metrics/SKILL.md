@@ -23,16 +23,6 @@ Bill Carr: "When you're measuring things, you're trying to understand what actio
 
 Avoid managing compound metrics like revenue directly. Instead, deconstruct high-level goals into specific, controllable inputs that teams can influence on a daily basis.
 
-### Start with user-centric goals
-Itamar Gilad: "So that sent us, kind of me and my team into researching these users into establishing a goal that was much more user-centric and then thinking of other ideas. And then we started testing them much more rigorously and basically we started testing on our own inboxes and then we recruited other dog footers, other Googlers to test the same inbox, then we put it outside for external testers."
-
-Define the specific user problem you are solving before setting technical or business targets to ensure metrics track actual value delivery.
-
-### Balance growth with sentiment
-Jeff Weinstein: "Well, what was the value that we're trying to produce for the customer and can we measure it from their perspective? And okay, how do you know you have product market fit? Charts that showcase things are going up into the right on one hand and then tweets on the other."
-
-Success should be measured by combining quantitative growth data with qualitative market sentiment to ensure the product is delivering real value.
-
 ### Optimize for leading indicators
 Jess Lachs: "Retention is a terrible thing to goal on. It's almost impossible to drive in a meaningful way in a short term. Ultimately, you want to find a short-term metric you can measure that drives a long-term output."
 
@@ -47,16 +37,6 @@ Set high-standard quality metrics as top-line goals to protect the end-user expe
 Sarah Tavel: "What you realize when you look at social products is that they're almost is this action which I call the core action of that product that forms the foundation of the product. When a user completes this action, it's clear that they both understand the utility of the product, they understand what that product is all about, and it's an action that, if they perform the action, they're very likely to come back."
 
 The most effective metrics track the completion of a fundamental core action that proves a user understands the product's underlying utility.
-
-### Align metrics with strategy
-From "Choosing Your North Star Metric": "Your North Star Metric is your strategy, and your strategy is your North Star Metric."
-
-Ensure your primary success metric is directly linked to your core business strategy to drive meaningful and sustainable growth.
-
-### Encode strategy into the metric
-From "Choosing Your North Star Metric": "Your North Star Metric is your strategy, and your strategy is your North Star Metric."
-
-Your North Star should act as a quantifiable representation of your strategic priorities, simplifying communication across the entire organization.
 
 ## Templates & Frameworks
 

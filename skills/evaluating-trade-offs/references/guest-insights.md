@@ -33,8 +33,6 @@
 
 ## Christopher Miller
 
-> "I think if you're doing growth, right, if you're doing product-led growth the right way, then you're trying to balance the science and sort of taking a somewhat hygienic approach to validating assumptions and hypotheses with being really ambitious and really pushing for the things that are going to have massive impact for your customers at the end of the day."
-
 **Insight:** Successful growth leaders combine rigorous scientific testing with an uncompromising focus on creating massive, long-term customer value.
 
 **Tactical advice:**
@@ -55,8 +53,6 @@
 ---
 
 ## Ivan Zhao
-
-> "Too much of yourself. Then there's no users. Then you're just doing our project. And too much for business, you're building a commodity."
 
 **Insight:** Success requires finding the equilibrium between building for your personal taste and building for the pragmatic needs of the market.
 
@@ -84,8 +80,6 @@
 
 ---
 
-> "We get through life by reasoning by analogy, which essentially means copying what other people do with slight variations. And you have to do that. Otherwise, mentally, you wouldn’t be able to get through the day. But when you want to do something new, you have to apply the first-principles approach."
-
 **Insight:** While reasoning by analogy is efficient for daily life, creating something truly original requires the high-effort path of first-principles thinking.
 
 **Tactical advice:**
@@ -96,8 +90,6 @@
 *Source: [First-principles thinking](https://www.lennysnewsletter.com/p/first-principles-thinking)*
 
 ---
-
-> "Steelmanning is a technique used in debate where you present the strongest possible version of your opponent’s argument before countering it. It makes you much more persuasive, and minimizes the chance that you get surprised by new information with the executive team."
 
 **Insight:** Presenting the strongest version of a stakeholder's request demonstrates expertise and ensures you haven't missed a critical business opportunity.
 
@@ -196,8 +188,6 @@
 
 ## Noam Lovinsky
 
-> "I don't think we should be putting 50 engineers on this project. Looking at the rest of the roadmap and the rest of the priorities, excuse me, I think this team would likely be better served elsewhere."
-
 **Insight:** Prioritizing the company's broader roadmap over your own project's survival builds significant leadership credibility and trust within an organization.
 
 **Tactical advice:**
@@ -223,8 +213,6 @@
 ---
 
 ## Ronny Kohavi
-
-> "And it's amazing how many times I've seen people come up with new designs or a radical new idea. And they believe in it, and that's okay. I'm just cautioning them all the time to say, 'If you go for something big, try it out, but be ready to fail 80% of the time.'"
 
 **Insight:** Radical redesigns are statistically more likely to fail than incremental iterations, making it safer to decompose big ideas into smaller, testable increments.
 
@@ -285,8 +273,6 @@
 ---
 
 ## Varun Mohan
-
-> "The engineers are now able to produce more technology. The ROI of building technology has actually gone up. This actually means you hire more."
 
 **Insight:** The dramatically increased ROI of engineering due to AI tools makes building custom internal solutions more economically viable than buying off-the-shelf SaaS.
 

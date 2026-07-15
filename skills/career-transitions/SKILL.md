@@ -33,11 +33,6 @@ Molly Graham: "I only like doing jobs that I'm highly unqualified for. I like be
 
 The fastest growth occurs when you choose roles that exceed your current capabilities and make you feel slightly scared or unqualified.
 
-### Choose heat over logic
-Graham Weaver: "I can tell that their heart and their soul and their energy is really for B. That's really what they want, but they're talking themselves out of B, and they're going to talk themselves into A. So what I try to do is, A, first, I try to let them realize that their real energy is for B, just let them feel that and understand that."
-
-Follow the path that generates internal energy rather than the one that simply looks best on a logical pros and cons matrix.
-
 ### Value category leaders over high titles
 Gokul Rajaram: "Ultimately you don't realize this, but the value of working at a leader in any space, the quality of talent you work with, the brand, the network effect, so many things accrue to you. I would much rather be the number two or number three person. If you think of it that way, and the leader in a space, than the top person."
 

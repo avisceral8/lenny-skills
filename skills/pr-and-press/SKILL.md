@@ -43,25 +43,10 @@ Jason Feifer: "Finding the writers and editors who you're actually going to reac
 
 High-quality PR requires identifying specific individuals whose beats align with your unique story angle. Tailor every outreach to match their previous work and avoid mass pitching.
 
-### Respond rapidly to crisis
-Matt Mullenweg: "A lie gets around the world seven times before the truth has time to get out of bed."
-
-When facing a crisis, communicate rapidly and directly to counter misinformation. False narratives spread faster than factual corrections if you do not address them head-on.
-
-### Balance emotion and data
-Camille Ricketts: "The other thing that Elon I think is very talented at or definitely at the time really made an impression on me was painting an emotional picture of the vision that he was really going after and being able to convey the emotional quality of the mission to the people he talked to. So definitely at the time about the electric vehicle revolution and then space travel, I think he just knew how to make people feel about it that really enlisted a lot of hearts and minds and that is something that I've taken with me for sure."
-
-Great PR combines an emotional vision of your mission with a deep mastery of the supporting data points. This approach helps enlist the hearts and minds of both journalists and the public.
-
 ### Use B2B press for validation
 Emilie Gerber: "So I think, yeah, that's the value from the B2B perspective and it's not necessarily going to directly drive signups, but when that AE is sending their sales emails and they can link to a story, I think that really helps. Also, candidates too, when you're reaching... If it's a recruiter reaching out on LinkedIn and they only have 100 characters to make their pitch, linking to that story can be really powerful."
 
 For B2B startups, the most important outcome of press is the third-party validation it provides. Use coverage to build credibility with buyers, candidates, and sponsors during the sales process.
-
-### Favor active risk over inaction
-Lulu Cheng Meservey: "And so I always encourage people to try to make mistakes of commission rather than omission. Because if you make a mistake of commission you can observe it, you can learn from it. You know right away that it's happened. You can move really quickly and adapt and become better."
-
-Startups must prioritize taking active risks in their communication because visible mistakes allow for faster improvement. Avoiding action can lead to losing by default to the status quo.
 
 ## Templates & Frameworks
 

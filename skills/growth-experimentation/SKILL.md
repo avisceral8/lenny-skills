@@ -18,20 +18,10 @@ Help the user with growth experimentation velocity using insights from 10 guests
 
 ## Core Principles
 
-### Scale insights as blueprints
-Albert Cheng: "You have to take that insight, share it broadly across the company. Now, adjacent product managers like the PM working on puzzles can now think about, 'Okay, how do I audit these cold patterns in my product and think about making them more positive?'"
-
-Treat every winning experiment as a documented pattern that other teams must audit and adapt to their specific product areas.
-
 ### Search for signs of life
 Timothy Davis: "You can always do a very, very small test. You can just put a little money into a platform, see if there's a sign of life. If there is, then you can pull back and say, 'Okay, we have signs of life. Now let's build a campaign around that.'"
 
 Validate new channels or ideas using low-budget tests and narrow match thresholds before committing significant resources.
-
-### Model impact to prioritize loops
-From "Demand driving supply: The little-understood growth loop behind a surprising number of iconic billion-dollar companies": "After I joined as Eventbrite’s first head of growth, our initial growth team chose to prioritize this as our top area for experimentation. Given our existing attendee-to-creator conversion, we hypothesized that we could materially increase this rate of conversion, and our modeling showed that doing so could provide a material lift to our organic growth."
-
-Use data modeling to estimate how specific conversion lifts will drive overall organic growth rather than relying on intuition.
 
 ### Embrace the counterfactual
 From "How today’s top consumer brands measure marketing’s impact": "Testing/conversion lift studies (CLS): regularly run by marketers to validate what performance would look like if you switched a channel off, or scaled spend up or down."
@@ -47,11 +37,6 @@ Focus on high experiment velocity because early small wins multiply over time in
 Jackson Shuttleworth: "We've actually set up really good infrastructure for copy testing. We used to say continue, our standard CTA is continue, and we changed that to commit to my goal, and it was a massive win."
 
 Shift from generic microcopy to intentional language that reinforces the user's specific goals and psychological state.
-
-### Build practical credibility
-From "Breaking into growth": "As someone smart said, “Do the job you want.” Demonstrate to yourself, and others, that you can do this work and be successful."
-
-Use standardized templates to document hypotheses and results to build internal credibility and personal growth expertise.
 
 ### Lower friction with scrappy tools
 From "Fostering a culture of experimentation": "When systems are still in flux, you don't want to overinvest in tooling that will become outdated immediately when your data schema gets updated or some other piece of infrastructure changes. However, it is essential to have a way to rapidly iterate, and that means quick access to experiment results data. So if you need to in the early days, build something simple and scrappy at first, and over time evolve it to support the team's needs."

@@ -6,8 +6,6 @@
 
 ## Alex Komoroske
 
-> "So much of the way that we tackle problems and build products is this builder mindset. It's like I have a plan. I then manipulate things to match my plan and make it happen. And this is a way you can create tons of value."
-
 **Insight:** Product roadmaps should shift from rigid plans limited by manual effort toward curating and directing organic growth patterns.
 
 **Tactical advice:**
@@ -20,8 +18,6 @@
 ---
 
 ## Andy Raskin
-
-> "The one thing I say is it's this one story that the CEO uses to drive success in marketing, sales, but also product. That it becomes like a north star, strategic north star for product roadmap, for fundraising, for recruiting, really everything."
 
 **Insight:** Using a strategic narrative as a filter allows product teams to prioritize feature requests based on whether they support the company's broader movement.
 
@@ -82,8 +78,6 @@
 
 ## Chandra Janakiraman
 
-> "It sits between the two and it forces choice to deploy scarce resources to generate maximum impact."
-
 **Insight:** Effective prioritization is fundamentally an exercise in forcing hard choices to concentrate limited resources on the few areas most likely to achieve market resonance.
 
 **Tactical advice:**
@@ -128,8 +122,6 @@
 
 ## Eric Simons
 
-> "I think that's the hard thing about being an entrepreneur. There are periods of time where you have to make judgment calls that are not going to be the consensus view. You got to have confidence in your convictions on how to best play the hand."
-
 **Insight:** Product roadmaps should be driven by deep technical convictions and non-consensus judgment calls rather than just reacting to popular opinion.
 
 **Tactical advice:**
@@ -142,8 +134,6 @@
 ---
 
 ## Gaurav Misra
-
-> "It's not going to be a game changer in terms of winning against your competition. So we have a second roadmap which we think of as a secret roadmap."
 
 **Insight:** Sustainable differentiation comes from prioritizing a 'secret roadmap' of novel innovations rather than solely reacting to common user requests that competitors are also seeing.
 
@@ -170,8 +160,6 @@
 ---
 
 ## Gibson Biddle
-
-> "Well, let's A/B test and see what we really learn. So, the AB test was called the Perfect New Release Test. Imagine we're at about a million customers circa 2005. 10,000 peeps are in a test cell."
 
 **Insight:** Use rigorous A/B testing to determine if the features customers request qualitatively actually drive long-term behavioral changes like retention.
 
@@ -273,8 +261,6 @@
 
 ## Lenny Rachitsky
 
-> "The guide below contains everything you need to run a reliable prioritization process. It’s based on a distillation of techniques from the authors’ combined 35-plus years of experience driving growth at Dropbox, Facebook, Airtable, Opendoor, and MasterClass that, in our experience, doubled our impact rate."
-
 **Insight:** By implementing a multi-stage prioritization process that moves from quick T-shirt sizing to detailed investigation, teams can double their business impact without increasing development speed.
 
 **Tactical advice:**
@@ -364,8 +350,6 @@
 
 ---
 
-> "I’ve tried a lot of different tools over the years, and I always find myself always coming back to Google Sheets 🤷‍♂️"
-
 **Insight:** A simple spreadsheet remains one of the most effective and flexible tools for creating and communicating a product roadmap.
 
 **Tactical advice:**
@@ -389,8 +373,6 @@
 *Source: [Where Great Product Roadmap Ideas Come From](https://www.lennysnewsletter.com/p/where-great-product-roadmap-ideas-come-from)*
 
 ---
-
-> "Based on some research and conversations with colleagues, I’ve come up with a handy checklist to help decide when it’s time to sunset a feature. If the product or feature checks three of these five boxes, it’s probably time to shut it down:"
 
 **Insight:** Evaluate underperforming features against objective usage, cost, and strategic alignment metrics to prevent wasting resources on low-impact maintenance.
 
@@ -468,8 +450,6 @@
 
 ---
 
-> "Once we have Tobi’s themes, one level lower within each top-level team (e.g. Core), we think about the ways we could measure our impact against those themes."
-
 **Insight:** Effective leadership provides broad strategic boundaries through 'themes' while empowering individual teams to define their own specific objectives and metrics.
 
 **Tactical advice:**
@@ -506,8 +486,6 @@
 *Source: [How to get your marketing team to drive more impact](https://www.lennysnewsletter.com/p/how-to-get-your-marketing-team-to-drive-more-impact)*
 
 ---
-
-> "Assist with roadmap ideation: Develop frameworks: Propose strategy:"
 
 **Insight:** AI can facilitate the strategic planning process by suggesting themes, strategic directions, and prioritization frameworks.
 
@@ -572,8 +550,6 @@
 
 ---
 
-> "The impact you’re prioritizing against is based on how much you expect the project will impact your goals. That’s basically your plan as a product team, from the 10,000-foot mission to the day-to-day work of your team."
-
 **Insight:** Effective roadmapping uses defined goals as a filter to prioritize initiatives based on their expected return on investment.
 
 **Tactical advice:**
@@ -624,8 +600,6 @@
 
 ---
 
-> "Throughout this process, it’s essential that you get your team’s input before finalizing anything. You most likely missed something along the way, and your team won’t feel bought-in if they don’t have a chance to share their perspective."
-
 **Insight:** Soliciting team feedback on a draft roadmap prevents critical oversights and builds the psychological buy-in necessary for successful execution.
 
 **Tactical advice:**
@@ -636,8 +610,6 @@
 *Source: [Prioritizing](https://www.lennysnewsletter.com/p/prioritizing)*
 
 ---
-
-> "Take your best-informed guess! Every decision is somewhere along this spectrum: Gut <———> Complete data. Knowing this, use all the data at your disposal (quant and qual), plus your team’s experience, to guesstimate."
 
 **Insight:** Effective prioritization relies on informed guesstimates that balance available quantitative data with qualitative team experience.
 
@@ -688,8 +660,6 @@
 *Source: [Skills PMs need to build](https://www.lennysnewsletter.com/p/skills-pms-need-to-build)*
 
 ---
-
-> "Use these benchmarks as a guide to prioritize between retention vs. acquisition, and don’t miss this post on ways to increase your retention. But just know, startups rarely increase retention significantly."
 
 **Insight:** Benchmarking your churn helps determine if your product is healthy enough to support aggressive acquisition or if you must prioritize fixing retention to avoid a leaking bucket.
 
@@ -822,8 +792,6 @@
 
 ## Logan Kilpatrick
 
-> "I think 2024 is the year of multimodal AI, but it's also the year that people really push the boundaries of some of these new UX paradigms around AI."
-
 **Insight:** Roadmaps should prioritize multimodal capabilities and novel interface designs to stay ahead of the rapidly maturing AI landscape.
 
 **Tactical advice:**
@@ -864,8 +832,6 @@
 
 ## Nan Yu
 
-> "The stuff that we absolutely have to say no to is the exact kind of thing that leads to this bloatedness that makes ICs hate their lives."
-
 **Insight:** Preventing feature bloat requires ruthlessly prioritizing the workflows of individual contributors over the reporting needs of middle management.
 
 **Tactical advice:**
@@ -890,8 +856,6 @@
 
 ## Nilan Peiris
 
-> "But if you move the NPS from 30% to 50%, you increase the viral coefficient of your customer base. So every customer that goes through tells X many more. When you model this through, the ROI on NPS increases is absolutely huge."
-
 **Insight:** Prioritizing improvements to user satisfaction (NPS) can provide a higher return on investment than simple conversion rate optimization by increasing the product's viral coefficient.
 
 **Tactical advice:**
@@ -904,8 +868,6 @@
 ---
 
 ## Noah Weiss
-
-> "We have this mental metaphor that we talk a lot about, getting to the next hill. The actual wording is "Take bigger boulder bets." I think teams can often get lost crawling up that hill, not realizing that there's a huge, incredibly beautiful range behind it where we've over time freighted new teams from scratch that incubated in a new area before the areas mature."
 
 **Insight:** Balance incremental roadmap progress with product delight by intentionally creating separate teams to incubate high-risk, high-reward 'boulder bets.'
 
@@ -934,8 +896,6 @@
 ---
 
 ## Paul Adams
-
-> "I'm a big believer in big bets, high risk, high reward. I don't get as excited about incremental things. No, I haven't said that. There's of course a place for that too, especially as companies get bigger."
 
 **Insight:** Prioritize high-risk, high-reward 'big bets' while acknowledging the necessary role of incremental improvements as an organization scales.
 
@@ -1053,8 +1013,6 @@
 
 ## Tomer Cohen
 
-> "I start backwards. It's like what is the potential here? If you start from the premise that LinkedIn ultimately is a platform for economic opportunity that sits on top of a very strong social graph. Almost every aspect of economic transaction is possible."
-
 **Insight:** High-impact product bets are found by looking at the theoretical maximum potential of a platform's assets rather than current performance data.
 
 **Tactical advice:**
@@ -1068,8 +1026,6 @@
 
 ## Upasna Gautam
 
-> "I think that quick decision-making in those times is super-important, because you have to be able to assess the situation as it stands. And so I think mindfulness is so important too in practices like this, because being able to objectively see the scenario for what it is, make a quick decision and move on to the next phase is something we have to analyze every single day."
-
 **Insight:** Effective prioritization in high-pressure environments depends on objectively assessing the current reality and having the mental flexibility to pivot as soon as a situation changes.
 
 **Tactical advice:**
@@ -1082,8 +1038,6 @@
 ---
 
 ## Varun Mohan
-
-> "If you're trying to do another thing that you think is big and you're focused on something that you don't believe is valuable, you're guaranteed going to fail at the thing you think is going to be big. So that's a very obvious thing there."
 
 **Insight:** Extreme focus is the only way a startup can succeed; dedicating any resources to low-conviction projects guarantees the failure of your high-conviction bet.
 

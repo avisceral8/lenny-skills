@@ -36,8 +36,6 @@
 
 ## Amjad Masad
 
-> "The way we built it is it's a multiplayer system. So Replit has real time, what we call multiplier coding, and we reused the multiplayer system to build the agent. So the agent in the code is structured as another user of the platform. So basically, we're both coding together."
-
 **Insight:** A shared, multiplayer coding environment allows product managers and designers to move past static mockups and collaborate directly on functional code with AI and engineers.
 
 **Tactical advice:**
@@ -100,8 +98,6 @@
 
 ## Bob Baxley
 
-> "Design is trying to imagine the future you want to live in and then take the steps to make it real. Saying a company is design-led does not mean it's designer-led. I've never seen somebody graft it on after the fact. It's there at the beginning in the root DNA or doesn't exist."
-
 **Insight:** Design should be framed as a strategic organizational capability for visualizing and building a specific future, rather than just a department that creates visual assets.
 
 **Tactical advice:**
@@ -156,8 +152,6 @@
 
 ## Chandra Janakiraman
 
-> "The reason I think this process works is there is a ton of alignment built in. It goes back to human psychology of just something that comes from you, feels a lot more familiar and easy to accept."
-
 **Insight:** Securing buy-in is a psychological process where stakeholders are more likely to support a strategy they helped co-create rather than one handed down as a mandate.
 
 **Tactical advice:**
@@ -199,8 +193,6 @@
 
 ## David Placek
 
-> "And part of our job here is to help people to give the confidence that going bolder, and bigger, and being uncomfortable. I use the expression, 'There is no power in comfort, not in the marketplace.'"
-
 **Insight:** To gain buy-in for bold ideas, pivot the evaluation criteria from internal preferences to how the concept serves the customer and the marketplace.
 
 **Tactical advice:**
@@ -226,8 +218,6 @@
 *Source: [A child psychologist’s guide to working with difficult adults | Dr. Becky Kennedy](https://www.youtube.com/watch?v=Auxs8ZsHRI4) @ 00:11:19*
 
 ---
-
-> "All humans need the same things, whether we're one or five or 45 or 85, we tend to need the same things. When the needs are not being met, we all tend to express ourselves in kind of ineffective, less than ideal ways."
 
 **Insight:** Difficult behavior in the workplace is typically an ineffective expression of an underlying unmet need.
 
@@ -313,8 +303,6 @@
 
 ## Gaurav Misra
 
-> "As long as we're shipping one a week, we get a ton of volume of features and products and directions we're releasing, cut a lot of that. What remains expand from there. So it works really well, and it keeps people focused."
-
 **Insight:** A high-frequency shipping cadence naturally aligns an organization by focusing energy on concrete output rather than abstract planning or alignment meetings.
 
 **Tactical advice:**
@@ -380,8 +368,6 @@
 
 ## Jeff Weinstein
 
-> "We had to step back and say, 'Well, what is the world going to look like in 10 years? What was going to need to be true and how can we start to go there now?' Which meant going a lot slower, building internal platforms, sending people around the world to start to build these payment methods, uproot their lives, pay for their apartments, get them on airplanes, start using these payment methods actually in the world."
-
 **Insight:** Launching major initiatives in large companies often requires slowing down to build the foundational platforms needed for nonlinear growth.
 
 **Tactical advice:**
@@ -421,8 +407,6 @@
 
 ## Keith Coleman & Jay Baxter
 
-> "Initially, some people inside the company were suggesting like, 'Hey, why don't you have journalists or some select group be the first participants?' But very specifically we were like, 'No. We're trying to move away from the idea of curated editorial decisions being made around this. This is supposed to be open to everyone.'"
-
 **Insight:** To maintain a product's integrity, you must resist internal pressure to adopt traditional, 'safer' methods that compromise your core vision.
 
 **Tactical advice:**
@@ -447,8 +431,6 @@
 ---
 
 ## Ken Norton
-
-> "I mean when I came up with that, I think it was really to be a metaphor around being a servant leader, bringing whatever needs to be done, filling the white space, filling the gaps, whatever needed to happen."
 
 **Insight:** True leadership in product management is defined by the ability to influence without authority by proactively filling the gaps and 'white space' within a team.
 
@@ -483,8 +465,6 @@
 *Source: [A Three-Step Framework For Solving Problems 👌](https://www.lennysnewsletter.com/p/a-three-step-framework-for-solving-problems)*
 
 ---
-
-> "As a product manager, or basically any leader, your ability to influence others can move your career forward or keep you stuck. And even though it’s such a critical skill for PMs, there isn’t much practical advice on how to develop it."
 
 **Insight:** Mastering a systematic approach to influence is the central skill that differentiates high-performing product leaders and accelerates their career trajectory.
 
@@ -522,8 +502,6 @@
 *Source: [Getting buy-in](https://www.lennysnewsletter.com/p/getting-buy-in)*
 
 ---
-
-> "leading by authority alone isn’t ever a great idea, and the best product leaders are incredibly good at the art of influence. Just look at any effective leader within your organization—they are almost certainly the best at getting done what they want done."
 
 **Insight:** True product leadership is defined by the ability to get things done through the art of influence rather than relying on formal authority.
 
@@ -679,8 +657,6 @@
 
 ---
 
-> "Web3 PMs are responsible for the success of communities rather than increasing acquisition, engagement, or revenue."
-
 **Insight:** Managing web3 products requires navigating decentralized governance where the community acts as the primary stakeholder for every roadmap decision.
 
 **Tactical advice:**
@@ -730,8 +706,6 @@
 *Source: [Five habits of highly annoying product managers](https://www.lennysnewsletter.com/p/five-habits-of-highly-annoying-product-managers)*
 
 ---
-
-> "You need to understand the differences between the two funnels because eventually you’ll need to build data infrastructure, design org charts, and create workflows to enable the measurement and coordination of both funnels."
 
 **Insight:** Successful PLG adoption requires structural alignment and cultural buy-in across the organization to manage the transition from sales-led to product-led motions.
 
@@ -783,8 +757,6 @@
 
 ---
 
-> "Whatever it is you’re creating—whether it be PRDs, overview docs, or strategy decks—once finished, you can take those, put them in a doc, download them, and feed them back into your second brain. Each new thread you open will be up to date with you on your work."
-
 **Insight:** An AI second brain acts as a translation layer, repurposing core project context into various specialized formats for different stakeholders.
 
 **Tactical advice:**
@@ -795,8 +767,6 @@
 *Source: [How to build your PM second brain with ChatGPT](https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt)*
 
 ---
-
-> "I stole these ideas and built a 'startup-ified' pitch structure I could use to map positioning to a sales pitch. The new pitch dramatically improved revenue (and, ironically, led to us being acquired by IBM)."
 
 **Insight:** A standardized pitch structure ensures that high-level product positioning survives the transition from the marketing team to the sales team.
 
@@ -913,8 +883,6 @@
 
 ---
 
-> "And, maybe most importantly, help you say no:"
-
 **Insight:** Leverage AI to find the right balance of empathy and firmness when declining stakeholder requests.
 
 **Tactical advice:**
@@ -1030,8 +998,6 @@
 
 ---
 
-> "Rather than focusing on day-to-day execution, it requires a large number of people to think about a variety of possible futures, align on one single future, and then plot a concrete course to get there."
-
 **Insight:** Effective alignment is achieved through a four-step iterative process that moves from high-level leadership context to team-level proposals and back to a single integrated strategy.
 
 **Tactical advice:**
@@ -1042,8 +1008,6 @@
 *Source: [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://www.lennysnewsletter.com/p/the-secret-to-a-great-planning-process---lessons-from-airbnb-and-eventbrite)*
 
 ---
-
-> "If you are able to, my frank advice is to find another place to work. Ideally a product-led company. Being a PM, you’ll have the best time and learn the most at a product-led org."
 
 **Insight:** Changing your environment is often more effective than attempting to overhaul a company culture that views product as a second-class citizen or a project management function.
 
@@ -1229,8 +1193,6 @@
 
 ## Nancy Duarte
 
-> "The ability to just have that contrast as a framework in your brain during a meeting, on a phone call, any moment of influence, like literally it works. It works in any format."
-
 **Insight:** Storytelling frameworks like narrative contrast are universal tools of influence that should be applied to everyday conversations and informal meetings, not just big stages.
 
 **Tactical advice:**
@@ -1284,8 +1246,6 @@
 
 ## Paige Costello
 
-> "The thing I would say is bring the insight. Know thy customer. Know thy market. Know thy competitors. Know thy numbers. Know thy product."
-
 **Insight:** Young leaders can overcome skepticism and earn the trust of more experienced stakeholders by becoming the definitive experts on customer data, market dynamics, and product metrics.
 
 **Tactical advice:**
@@ -1311,8 +1271,6 @@
 ---
 
 ## Richard Rumelt
-
-> "Well, that's the word priority, it means the first. It doesn't mean the grab back everything that you can think of that might matter. It means what's first."
 
 **Insight:** Organizational strategy often fails because leaders choose a 'laundry list' of goals to avoid the political friction of picking what truly comes first.
 
@@ -1393,8 +1351,6 @@
 
 ---
 
-> "I needed the rest of the company to go away so we could get the autonomy to test the things that we needed, but it's not going to scale. That is not going to respect all design guidelines."
-
 **Insight:** Strategically bending or breaking established company processes is necessary for early validation, provided you maintain trust with leadership.
 
 **Tactical advice:**
@@ -1407,8 +1363,6 @@
 ---
 
 ## Tomer Cohen
-
-> "I might be wrong but not confused. It's rooted in clarity and principles that ultimately lead to leadership. Unless they basically all pull through in the same direction, there is no chance they'll be able to be successful."
 
 **Insight:** Leadership requires eliminating organizational hedging by prioritizing collective clarity and direction over individual correctness.
 

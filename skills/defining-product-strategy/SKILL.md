@@ -18,11 +18,6 @@ Help the user with defining product strategy using insights from 27 guests and p
 
 ## Core Principles
 
-### Institutionalize through documentation
-Alex Komoroske: "If the same idea worked for 10 different people and now in the future there's probably 10 other people that need to hear it, and now I'll write that document in 30 minutes and now I have it as a memorialized thing that other people can read on their own time without having to involve me."
-
-Scale alignment by memorializing effective verbal explanations and strategic framings into living documents that the entire organization can access.
-
 ### Distill to a simple 'why'
 Anneka Gupta: "When people say, 'I want someone that's strategic,' what they're really saying is, 'I want someone that can come up with and articulate a compelling and simple why behind the decisions and the direction of the company and product.' So that's number one. And the second piece is, 'I want someone that's going to champion and be a change agent to do things that may be hard but actually best for the long-term interest of the product or company, even though those things are not going to be easy to execute on.'"
 
@@ -33,25 +28,10 @@ Annie Pearl: "Strategy is really just an integrated set of choices that outline 
 
 Avoid lists of goals by defining exactly where the company will compete and the specific mechanisms it will use to win in that marketplace.
 
-### Treat strategy as a procedural capability
-Chandra Janakiraman: "We use a five-stage process to get there and it takes about eight to 12 weeks. The reason I think this process works is there is a ton of alignment built in. It goes back to human psychology of just something that comes from you, feels a lot more familiar and easy to accept."
-
-Strategy is not a sudden gift of insight but a process requiring dedicated time, usually 8 to 12 weeks, to build meaningful alignment and deep preparation.
-
 ### Challenge conventional wisdom
 Dharmesh Shah: "Some of the best startup advice I've heard is startups should focus on one thing and be really, really exceptionally world-class at that one thing. And one of our early zigs is we are going to do exactly the opposite of that."
 
 Significant success often comes from making high-conviction bets that intentionally diverge from standard industry advice regarding product scope.
-
-### Anchor in high-fidelity visualization
-Geoff Charles: "We also use designs as a way to motivate teams. So we spend a lot of time with designers crafting out what the future of this thing could look like and that's also extremely motivating."
-
-Strategic alignment is most effective when the future product is visualized through detailed prototypes rather than remaining as abstract goals on a slide.
-
-### The DHM model of value
-Gibson Biddle: "And this is the problem of doing things that are easy to copy. So in the long term, if you can delight customers and create hard to copy advantage, things are just a lot better."
-
-A robust strategy must simultaneously solve for three things: customer delight, hard-to-copy competitive advantages, and business profit margins.
 
 ### Prioritize clarity over perfection
 Jag Duggal: "We may not be right, but at least we are clear. Even if your strategy isn't right, you have a very clear idea of what was supposed to be happening."

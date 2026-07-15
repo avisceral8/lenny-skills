@@ -34,8 +34,6 @@
 
 ## Bret Taylor
 
-> "You have to sell investors on wanting to invest in your company. You have to sell candidates on wanting to work at your company. You have to sell customers to want to use the product that your customer produces."
-
 **Insight:** A successful go-to-market strategy requires a founder to be a multi-stakeholder salesperson who can adapt their motion to the distinct motivations of investors, employees, and customers.
 
 **Tactical advice:**
@@ -56,8 +54,6 @@
 ---
 
 ## Christopher Miller
-
-> "We really had an aggressive mentality, an aggressive approach, and what that looked like was at the time, a very small percentage of, I think HubSpot's subscription revenue would be described as self-service, so we approached the team who owned it and we were like, 'Are you all working on this?' They were like, 'Nah, we're working on a bunch of other stuff.' We were like, 'Can we take this?' They were like, 'Sure, if you want it.'"
 
 **Insight:** Shifting toward a product-led model requires an aggressive ownership mentality that proactively identifies and scales neglected self-service opportunities.
 
@@ -329,8 +325,6 @@
 ---
 
 ## Rahul Vohra
-
-> "Early last year we launched what we call Superhuman 2.0. The basic idea is, we saw almost every single other app of note become collaborative by default, Figma, Notion, Loom. These are all multiplayer or collaborative by default."
 
 **Insight:** To move into the enterprise market, a product must transition from a single-player tool to a collaborative platform that serves team-wide interactions.
 

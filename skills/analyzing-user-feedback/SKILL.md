@@ -18,11 +18,6 @@ Help the user with analyzing user feedback using insights from 19 guests and pos
 
 ## Core Principles
 
-### Relentless Curiosity
-David Singleton: "Jeff dug into the details, the team dug into the details and we're just like kept asking, does it have to be this way? Does it have to be this way? And eventually we work with the IRS to make it possible for us to issue those numbers much, much more quickly, like instantly as you sign up."
-
-Question every step of a painful process and ask if it truly has to be this way to find meaningful friction reduction.
-
 ### Experiential Empathy
 Jeff Weinstein: "We show up four to eight people total pretend to be some company with some outcome problem. Rule one is you do not work at Stripe and rule two is we're not here to solve any problems. This is just about practicing empathy for the customer."
 
@@ -37,16 +32,6 @@ Require every employee to perform the core service of the business to build auth
 Maya Prohovnik: "If they talk to users all the time, they see the data, but all of them, once they finally start doing their podcast, they're like, I get it. Something clicked and now I feel like I really understand what they need. And I guess building tools for creators is similar to building a B2B product where you really have to understand business, it's their livelihood."
 
 Directly immerse team members in the product to transform abstract data into a deep understanding of complex user workflows.
-
-### Collaborative Partnership Framework
-From "What 5 years at Reddit taught us about building for a highly opinionated user base": "We both spent more than five years at Reddit, and through blood, sweat, and tears, we developed a framework that helped turn a sometimes combative relationship with users into a strong, productive partnership most of the time."
-
-Transition from combative interactions with opinionated communities to a partnership by using a formal feedback framework.
-
-### Trust as Measurable Currency
-From "What 5 years at Reddit taught us about building for a highly opinionated user base": "Your Trust Vault can be filled and it can be depleted. At Reddit we had multiple Trust Vaults: a company-level Trust Vault as well as Trust Vaults for individual teams or product managers."
-
-View user trust as a quantifiable metric that fluctuates based on decisions and dictates the timing of controversial launches.
 
 ### Statistical Representation Filtering
 From "What 5 years at Reddit taught us about building for a highly opinionated user base": "Just because someone is loud doesn’t mean you should act on their complaints. You need to get good at identifying whom you should pay attention to. That starts with examining who is being loud."

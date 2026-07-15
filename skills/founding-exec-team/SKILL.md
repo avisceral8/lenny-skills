@@ -28,20 +28,10 @@ From "This Week #8: Splitting equity with late-joining co-founders, favorite roa
 
 Distribute equity for late-joining co-founders based on their projected long-term contribution to the company rather than just their start date.
 
-### Complementary weakness hiring
-Andrew Wilkinson: "I think they really need to lean into what I call lazy leadership, which is how do I get away from the things I hate as quickly as humanly possible? How do I be Teflon for tasks?"
-
-Adopt a mindset of delegating tasks that you find miserable to new leaders whose natural strengths and interests align with those specific responsibilities.
-
 ### Total organizational influence
 Ben Horowitz: "Look, you're a really good director of engineering because you do a great job at managing the team, get the products out, all that. But you're not really a CTO because to be a CTO, you have to be effective with other parts of the organization. You can't just be effective only with engineering."
 
 Measure an executive's success by their ability to collaborate effectively across the entire company rather than just managing their own functional silo.
-
-### Prioritize company health over comfort
-Ben Horowitz: "You can kind of quickly calculate all the bad stuff that's going to happen if you do it. But if you don't do it, that's probably going to be much worse and that's why you have to run towards the pain in darkness."
-
-Run toward the fear of difficult conversations by replacing leaders who were successful in early stages but cannot scale to meet the needs of the growing organization.
 
 ### Multi-founder preference
 From "Pulling back the curtain on the magic of Y Combinator": "Solo founders are at a disadvantage. Although solo founders are encouraged, the data does show a steep decline in the number of them accepted to YC."

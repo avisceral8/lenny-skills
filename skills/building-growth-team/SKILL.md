@@ -28,11 +28,6 @@ Elena Verna 3.0: "In order to get the growth going in the company, a founder and
 
 Founders must personally drive the initial growth phase to establish product-market fit. Delegation to a dedicated team should only occur once you reach significant revenue and high user volume.
 
-### Evaluate Self-Serve Expertise
-Hila Qu: "In those cases I think it's super helpful to maybe either find someone who have done this as an advisor or hire someone like you need to have that expertise or through advisor to support your PLG motion."
-
-Recognize that designing self-serve user journeys is a distinct skill set from traditional product management. Assess whether your internal team has the specific expertise to manage high-volume, low-touch flows.
-
 ### Leverage Specialized Advisors
 Luc Levesque: "We talk about the 10X engineer and we don't really talk about the 10X growth advisor or 10X growth person, but the same dynamic applies. You could argue it applies even more because the right growth advisor can have literally company changing impact."
 

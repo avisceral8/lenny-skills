@@ -28,11 +28,6 @@ From "A PM’s guide to influence": "It’s often more effective to speak their 
 
 Overcome skepticism by recasting your proposal to prioritize the leader's specific philosophy. Pivot the framing from internal team metrics to the stakeholder's primary business values.
 
-### Prioritize transparency in failure
-From "Communicating bad news - Issue 26": "The trick to sharing bad news effectively is to imagine being on the other side of the table."
-
-Maintain confidence during setbacks by providing immediate transparency. Put yourself in leadership's position to identify the exact information they need to make rapid decisions.
-
 ### Control the bad news narrative
 From "Communicating bad news - Issue 26": "The trick to sharing bad news effectively is to imagine being on the other side of the table. What would you want to know if you were in charge? If you’re like most people, you’d want to know everything, as soon as possible, plus exactly how to best move forward. So start there."
 
@@ -42,11 +37,6 @@ Ensure stakeholders hear bad news directly from you first. Proactively provide c
 From "How to communicate tradeoffs so leaders will listen": "While presenting the pros and cons between two priorities, I’d somehow always end up committing to doing *both*, and in less time than I had planned. As you’d expect, this usually went … badly. I’d burn myself out or, worse, burn out my team."
 
 Force prioritization by framing choices in terms of company goals rather than team capacity. Present clear rankings of what falls above and below the line to make the cost of projects visible.
-
-### Override bias with user evidence
-Dylan Field: "One good example of me changing my mind is that you all have Pages in Figma, you're welcome. But I think I have deep skepticism of Pages still. I'm not sure they're... If you could freeze time and I could just go in with my team, work on Figma for a very long time, I'm not sure we'd come to the same implementation of Pages that we are at today."
-
-Persuade executives to adopt features they personally dislike by demonstrating they are fundamental user requirements. Use overwhelming evidence of demand to move past subjective design concerns.
 
 ### Take radical ownership of reception
 From "Essential reading for product builders—part 2": "But make no mistake, when this happens, it is your fault. You have to sit down and ask questions from a place of humility to hear what they took away from what you said. Take full responsibility for any discrepancy from what you intended and make corrections with your entire audience."

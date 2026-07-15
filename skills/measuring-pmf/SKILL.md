@@ -33,11 +33,6 @@ Rahul Vohra: "You have to deliberately not act on the feedback of many of your e
 
 Ignore feedback from most users to focus exclusively on the segment that would be very disappointed without your product. Double down on what that specific cohort loves.
 
-### Recapture Fit Regularly
-Elena Verna 4.0: "And the beautiful thing here is that what you can do changes every month to three months. So, you constantly need to come back and you need to see what has changed."
-
-In rapidly evolving industries like AI, product-market fit is not a one-time achievement. Re-evaluate your market position every 90 days to account for shifts in technology and value stages.
-
 ### Prioritize Retention Above All
 From "How to kickstart and scale a consumer business—Step 5: RETAIN: Iterate until enough people stick around": "Do whatever is required to get to product-market fit. Including changing out people, rewriting your product, moving into a different market, telling customers no when you don’t want to, telling customers yes when you don’t want to, raising that fourth round of highly dilutive venture capital—whatever is required."
 
@@ -57,11 +52,6 @@ Assume previous product-market fit is lost when entering a significantly changed
 Todd Jackson: "We've published dozens of articles on the First Round Review, and we have found a very consistent set of patterns, demand satisfaction, and efficiency. But the interesting thing is that you don't go for all three of them from the very beginning."
 
 Finding fit is a sequential journey that starts with demand, moves to satisfaction, and finally focuses on efficiency. Do not try to optimize for efficiency until you have proven satisfaction.
-
-### Optimize for Punchline Fit
-Aparna Chennapragada: "Open mics are the real live experiments. You put something out there, you get very clear micro feedback from users, and then you get tough feedback sometimes. And I think as product builders, that's actually one of the great skills to have, which is you sometimes launch stuff that have a fantastic vision, but the first version is not quite there."
-
-For early products, prioritize the moment the core value proposition clicks for the user. Seek out tough feedback and micro-signals of resonance over macro metrics.
 
 ## Templates & Frameworks
 

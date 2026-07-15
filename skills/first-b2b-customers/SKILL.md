@@ -23,25 +23,10 @@ Ben Williams: "They started with a really narrow, early focus. It was a single p
 
 Achieve early traction by solving a single problem for a narrow persona before expanding to the wider market.
 
-### Co-creation with key partners
-Karri Saarinen: "I think the next stage is we look for a customer that could be interested in this feature or we just ask people to opt in to some better program. In those stages, the experience can be a little janky or it's not that polished, but we're okay with it because we are saying, 'It's not finished. We just want to get your feedback early so we can make it better.' Once we get to the full general release, then we pay more attention to the actual polish or the craft."
-
-Develop features alongside a few high-growth customers to ensure your product is validated by real-world needs before a general release.
-
 ### Founder-led sales mastery
 Sri Batchu: "My view is you start off with founder-led sales, the early team needs to know how to actually sell. Then you hire your first couple of salespeople, then you start some very low cost targeted marketing efforts. So whether it's content, community, small scale events, and then PR, after all of that is when you start paid and brand effort and then SEO probably start around the same time that you start paid marketing efforts. The reason for the progression the way I've described it is the channels get more expensive as you go farther along and they get more effective as you understand more about your customers."
 
 Master the sales process manually as a founder to build deep customer knowledge before attempting to scale or hire a sales team.
-
-### Deep satisfaction over scale
-Todd Jackson: "The majority of startups do not get past, what we call, level one product-market fit or level two product-market fit. They get stuck at one of those first couple levels."
-
-Prioritize achieving extreme satisfaction for a small cohort of users, even if the delivery requires manual work and unscalable effort.
-
-### Trust as a sacred obligation
-From "A guide for finding product-market fit in B2B": "But at the end of the day, Dylan was thinking about it in terms of trust. He was like, ‘Look, I convinced this guy to use our product. They’re actually trying to use it for work, and if we fuck it up for them, I don’t want that on my conscience. I want to do whatever I can to make sure that we’re holding up our end of the bargain. Because they believed in me.’"
-
-Treat the trust of your first alpha customers as sacred by establishing internal red alerts for any issues and obsessing over their success at all costs.
 
 ### The Network Advantage
 From "How today's fastest growing B2B businesses found their first ten customers": "In practice, it’s even easier — almost every B2B business BOTH hits up their personal network AND heads to the places their potential customers were spending time. The question isn’t which of these two routes to pursue, but instead how far your own network will take you before you move on."

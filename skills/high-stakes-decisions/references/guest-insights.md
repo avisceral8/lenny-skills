@@ -6,8 +6,6 @@
 
 ## Ada Chen Rekhi
 
-> "I wanted to design it in a way where if you're a busy founder, you're a busy product person, which is the list that I chose for this curiosity loop, you would be able to sit down on your couch at the end of the night, read this interesting email and tap out a quick reply and give me that answer. Because the risk that you're running is either you're getting poor answers or you're getting a really low response rate because you've given them way too much cognitive load in terms of answering it."
-
 **Insight:** To receive actionable, contextual advice, structure your requests to minimize the responder's cognitive burden while providing specific options for them to evaluate.
 
 **Tactical advice:**
@@ -20,8 +18,6 @@
 ---
 
 ## Alex Hardimen
-
-> "It does take a certain amount of just grit and resilience, and the ability to really focus on the most important problems in a given moment. Also, the ability to let other things slide when you have to."
 
 **Insight:** Wartime product leadership requires the discipline to deprioritize standard roadmaps to focus exclusively on solving immediate, high-stakes crises.
 
@@ -95,8 +91,6 @@
 ---
 
 ## Asha Sharma
-
-> "I feel like you have to actually build for the slope instead of the snapshot of where you are."
 
 **Insight:** Strategic planning in AI requires building for the trajectory of technological change rather than optimizing for the current state of tools.
 
@@ -208,8 +202,6 @@
 
 ## John Cutler
 
-> "The first thing is introspection. What do you believe in, really? What do you believe in, and what do the people around you believe in, and how can you be a coherent leader?"
-
 **Insight:** High-quality product and leadership decisions must be rooted in a leader's authentic beliefs and the existing cultural context of the team to ensure long-term coherence.
 
 **Tactical advice:**
@@ -317,8 +309,6 @@
 *Source: [Leading your company through a pandemic - Issue 20](https://www.lennysnewsletter.com/p/leading-your-company-through-a-pandemic---issue-20)*
 
 ---
-
-> "For all the immediate pain, I suspect many tech companies will come out of this stronger. Legacy competitors that rely on channels like brick and mortar or outside sales or even harder hit."
 
 **Insight:** The long-term recovery of a company depends on assessing how rapidly consumer behavior is shifting and identifying where the crisis has permanently weakened legacy competitors.
 

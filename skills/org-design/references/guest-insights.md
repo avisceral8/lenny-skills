@@ -34,8 +34,6 @@
 
 ## Alexander Embiricos
 
-> "It's much more important for us to be very humble and learn a lot more empirically and just try things quickly. And the org is set up in that way to be incredibly bottoms up."
-
 **Insight:** In highly ambiguous, fast-moving environments, organizations should replace rigid strategic roadmaps with a 'bottoms-up' culture that prioritizes rapid, empirical experimentation.
 
 **Tactical advice:**
@@ -56,8 +54,6 @@
 ---
 
 ## Benjamin Mann
-
-> "I think progress has actually been accelerating where if you look at the cadence of model releases, it used to be once a year and now with the improvements in our post-training techniques, we're seeing releases every month or three months, and so I would say progress is actually accelerating in many ways, but there's this weird time compression effect."
 
 **Insight:** Successful AI R&D organizations must structure themselves to support rapid iteration cycles, moving from yearly breakthroughs to monthly refinements.
 
@@ -134,8 +130,6 @@
 
 ## Chip Conley
 
-> "When you have older brains connecting the dots, younger team members being really fast and focused, it's brilliant, and people won't notice your wrinkles as much as they'll notice your energy."
-
 **Insight:** High-performing teams leverage the pattern recognition and dot-connecting abilities of experienced leaders alongside the speed and focus of younger talent.
 
 **Tactical advice:**
@@ -162,8 +156,6 @@
 
 ---
 
-> "I personally believe there's this natural evolution that happens at any mature function when it starts to grow in an industry and across an organization. So, think about marketing or sales. This just started to happen with product managers."
-
 **Insight:** Mature product organizations should include specialized operational roles—similar to sales or marketing ops—to support organizational scaling and performance.
 
 **Tactical advice:**
@@ -176,8 +168,6 @@
 ---
 
 ## Claire Hughes Johnson
-
-> "It is worse to have nothing because it starts to feel very unfair in the environment, especially if you have to start to change up compensation and reward or reward systems, right? So I realized, oh my gosh, we're going to have to put this in place."
 
 **Insight:** Implementing career ladders and leveling systems early prevents the cultural friction and perceived unfairness that arises when a growing team lacks clear expectations for pay and impact.
 
@@ -299,8 +289,6 @@
 
 ## Farhan Thawar
 
-> "There is something around trying dumb things and saying dumb things. Half the time, by the way, when I say something dumb, people go, "I had the same question." They just were scared to say it."
-
 **Insight:** Leaders can scale management effectiveness by modeling vulnerability and prioritizing genuine comprehension over the appearance of expertise.
 
 **Tactical advice:**
@@ -313,8 +301,6 @@
 ---
 
 ## Gaurav Misra
-
-> "Our engineering goal is every engineer should ship a marketable product every week."
 
 **Insight:** Empowering engineers to own the entire marketable outcome of a feature reduces handoff friction and significantly increases execution speed.
 
@@ -410,8 +396,6 @@
 
 ---
 
-> "He talks about endings, neutral zone, and new beginning. Ending: you're going through a change, your team is changing. Neutral zone: the period of kind of liminality where you're like, 'Gosh, I don't know how this is going to go.' You're not quite comfortable."
-
 **Insight:** Successfully managing strategic shifts requires guiding people through the psychological stages of transition—ending, neutral, and beginning—while anchoring them to a clear future purpose.
 
 **Tactical advice:**
@@ -449,8 +433,6 @@
 ---
 
 ## Jackson Shuttleworth
-
-> "We think about growth just as much as bringing new users onto the platform is not losing them. If you're just bringing people onto the platform, then they churn, that's not going to be sustainable. And so, as much as we can do to keep our users coming back and actually retaining as users, it's going to give us a much easier base to continue growing DAUs off of."
 
 **Insight:** Organizing teams around retention ensures that growth efforts focus on building a sustainable foundation rather than simply filling a leaky funnel with new acquisitions.
 
@@ -542,8 +524,6 @@
 
 ## Keith Coleman & Jay Baxter
 
-> "If I were to start a company in that company, it would be even leaner than I would've made it before. I've been amazed with just how much the team is able to accomplish with a small group and I think because of a small group-"
-
 **Insight:** Small, autonomous teams can achieve significantly higher impact and speed by stripping away corporate bureaucracy and focusing on core product principles.
 
 **Tactical advice:**
@@ -555,8 +535,6 @@
 ---
 
 ## Lenny Rachitsky
-
-> "While there is no perfect organizational design, the optimal organizational structure involves carefully weighing the pros and cons that align with the company’s current lifecycle, values, and offerings."
 
 **Insight:** Selecting the right organizational model requires balancing specific tradeoffs between business speed and product cohesion against the company's current stage and values.
 
@@ -673,8 +651,6 @@
 
 ---
 
-> "Once we align on our product vision and the top two or three goals we have as a company, we empower the folks closest to the problem to develop their own product roadmaps. Then we co-develop the top-level product strategy."
-
 **Insight:** Organize teams around autonomous pods that own specific business outcomes, ensuring strategy is driven bottom-up by the people closest to the customer.
 
 **Tactical advice:**
@@ -712,8 +688,6 @@
 
 ---
 
-> "Career ladders (a.k.a. leveling frameworks, career tracks, competencies, etc.) have long been secretive and mysterious. I’m not totally sure why. I don’t see how sharing these publicly gives anyone a competitive advantage, and every new company ends up scratching their heads and coming up with something new."
-
 **Insight:** Establishing a clear PM career ladder reduces ambiguity in a role that is often inconsistently defined and evaluated across the industry.
 
 **Tactical advice:**
@@ -737,8 +711,6 @@
 *Source: [This Week #13: Balancing outcome-thinking with design and technical requirements ⚖️](https://www.lennysnewsletter.com/p/this-week-13-balancing-outcome-thinking-with-design-and-technical-requirements)*
 
 ---
-
-> "As you move up the ranks of leadership at a product org, you quickly learn the most important product to get right is how you organize your people. How you structure your org can be a force multiplier or a hindrance to achieving your mission."
 
 **Insight:** Organizational design is a product in itself that must be optimized to provide teams with maximum autonomy and mission alignment.
 
@@ -764,8 +736,6 @@
 
 ---
 
-> "Initially the main benefit was more diligent support on execution and not letting small (but important) things fall through the cracks. Better weekly rhythm for the team, better triaging of all incoming issues, identifying harder product decisions quickly."
-
 **Insight:** The first PM hire should primarily provide execution leverage and operational order, allowing founders to focus on high-level strategy and vision.
 
 **Tactical advice:**
@@ -776,8 +746,6 @@
 *Source: [When they hired their first PM](https://www.lennysnewsletter.com/p/when-they-hired-their-first-pm)*
 
 ---
-
-> "Your ecosystem is an accelerant for a lean team, like bringing on a contracted team of expert marketers. Working with partners, customers, and communities may not be as turnkey as paid search, for instance, but with the right workflows (and a boost from AI), the ROI can be extremely high."
 
 **Insight:** Treat your ecosystem as a primary growth engine and an extension of your GTM team to achieve high leverage with a lean internal staff.
 
@@ -959,8 +927,6 @@
 
 ---
 
-> "Include the directly responsible individual, aka the DRI (hint: if you’re the DRI, you should be the one writing the GACCS), and also who needs to review or contribute to the work. This makes it easy to remember who needs to be involved at each step of the way and also lets people know who isn’t involved."
-
 **Insight:** Establishing a granular ownership list ensures that everyone in the company knows who is responsible for specific tasks and feedback.
 
 **Tactical advice:**
@@ -998,8 +964,6 @@
 
 ---
 
-> "On the supply side, we looked at ratings, reviews, and customer service contacts. If you got poor-enough reviews or too many complaints, we had someone talk to you and potentially remove you. This was done qualitatively by the CX team."
-
 **Insight:** Customer service teams should act as the qualitative arbiters of marketplace quality, with the power to remove bad actors.
 
 **Tactical advice:**
@@ -1010,8 +974,6 @@
 *Source: [Maintaining Quality 🏅 Phase 2 of Kickstarting and Scaling a Marketplace Business](https://www.lennysnewsletter.com/p/maintaining-quality--phase-2-of-kickstarting-and-scaling-a-marketplace-business)*
 
 ---
-
-> "Eventually the city launch function was centralized into an expansion team based in SF that would launch each city, hire local Area Managers and then move on to the next launch."
 
 **Insight:** Expansion teams should evolve from founder-led manual efforts into specialized launch units that establish the initial supply and hire local management before transitioning to the next city.
 
@@ -1125,8 +1087,6 @@
 ---
 
 ## Marc Andreessen
-
-> "The most leading edge founders are thinking of, can you have entire companies where the founder does everything?"
 
 **Insight:** AI allows for the creation of founder-only companies where technology replaces the traditional need for a large headcount to handle specialized operations.
 
@@ -1323,8 +1283,6 @@
 
 ## Tim Holley
 
-> "Ultimately, we are quite a small team. There's just over 2,000 people in the business, and if you then scale back to engineering and product, we're not big. And so we have to be really diligent about how we're investing our time and our resources in order to be successful."
-
 **Insight:** An effective product organization relies on cross-functional alignment (the 'five-legged stool') and lean teams that are highly diligent about resource allocation.
 
 **Tactical advice:**
@@ -1369,8 +1327,6 @@
 ---
 
 ## Varun Parmar
-
-> "I'll talk a little bit around how we are structured in the product organization so that it's a cross-functional perspective we bring to everything that we're doing because we believe the best work happens when we bring different diverse perspectives to the problem and then co-create the outcome that the customer is looking for."
 
 **Insight:** Break down silos by structuring the product organization around cross-functional co-creation and diverse perspectives.
 

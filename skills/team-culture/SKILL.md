@@ -23,11 +23,6 @@ Alisa Cohn: "They're trying now to be the leader who everyone loves, but what re
 
 High-performing leaders must prioritize organizational results and performance standards over the desire to be liked by every individual. Avoiding difficult feedback to preserve popularity ultimately jeopardizes the long-term survival of the company.
 
-### Trust Through Intentional Disclosure
-Carole Robin: "One of the ways we build relationships is through disclosure, through allowing ourselves to become more known."
-
-Vulnerability is a primary mechanism for building trust within a team. Moving beyond surface-level interactions by sharing personal disclosures allows team members to truly know and follow their leader.
-
 ### Radical Business Transparency
 Daniel Lereya: "We really have an approach of very radical transparency about everything. Before we went public, we actually shared every bit of information with our employees. Instead of demoralizing people, I think that this is something that gives them a sense of deep partnership."
 
@@ -37,11 +32,6 @@ Sharing core business financials and strategy creates a sense of deep partnershi
 Jag Duggal: "When there are hard decisions to be made, we bias in favor of the customer. The customer's love, will they want to tell their friends, and neighbors, and family about it? And so I think that's the heart of it."
 
 High-growth cultures are fueled by a commitment to customer delight that outweighs short-term operational compromises. Leaders should bias decision-making in favor of the user emotional experience over local convenience.
-
-### Empowerment Over Coordination
-Marty Cagan: "I really do believe at this point in time that feature teams and real product teams should not use the same string product manager. The job is so radically different, that it's misleading to call them both product manager."
-
-A healthy culture distinguishes itself by focusing teams on solving problems rather than just shipping features. Success should be measured by business outcomes rather than the volume of code or projects delivered.
 
 ### Low-Stakes Psychological Safety
 Megan Cook: "So we divided the team into these smaller groups for peer feedback groups and the idea is that they meet every two weeks or so, somebody brings something that's in a pretty rough draft that they want to get reviewed and then everyone's expected to give feedback. And because we've got people in there who are different leadership levels, it's a really good opportunity to model the kind of feedback that's helpful and the culture there is one of everyone lifting that person up to make their work stronger."

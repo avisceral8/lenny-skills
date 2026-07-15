@@ -18,11 +18,6 @@ Help the user with written communication for leaders using insights from 12 gues
 
 ## Core Principles
 
-### Prioritize Novelty
-Julian Shapiro: "Someone like Paul Graham, the founder of Y Combinator, is doing original takes. He's not trying to write threads for the sake of gaining followers. He's trying to write interesting novel ideas. When he does that, he strengthens the affinity that his followers have for him and his mind, because like, 'Wow! That was an original interesting take.'"
-
-Focus on injecting original and non-obvious ideas into your writing to capture reader attention and build long term affinity.
-
 ### Write for Personal Mastery
 Julian Shapiro: "They're forcing functions for me to hold myself accountable and to be thorough when learning something for my own benefit. That's all they are. Basically if I want to go learn growth or writing well or some other topic, I will go ahead and do a ton of research, read everything I can get my hands on, do a ton of experimentation to try to build a set of novel insights that you couldn't find from other people's research hopefully, and then the next stage is try to make it as concise and actionable as possible so that I can reference it for my own selfish benefit."
 
@@ -37,16 +32,6 @@ Effective writing is a primary tool for maintaining clarity and alignment across
 From "The Minto Pyramid Principle and the SCR Framework": "If you simplify this further, there are three parts to every narrative: Situation, Complication, Resolution. 1. Situation: What is the state of affairs today. Facts, data, and unambiguous background. 2. Complication: What has changed that requires action. What is the problem? 3. Resolution: What we need to do to resolve this complication."
 
 Structure business communications around a Situation, Complication, and Resolution to provide necessary context before proposing solutions.
-
-### Drain the Creativity Faucet
-Julian Shapiro: "Why do good ideas arrive after the bad ideas are empty? It's because when you've gone through a bunch of bad ideas, your brain, your mind starts reflexively identifying what elements are causing the badness. Then it becomes way better at avoiding those bad elements and you become way better at pattern matching the novel ideas with way greater intuition."
-
-Acknowledge that your best ideas often only emerge after you have systematically expressed and exhausted your more obvious thoughts.
-
-### Plan Before Prompting
-Zevi Arnovitz: "Planning is really important when you're implementing something technical and let's say you're implementing payments or something that's going to be a change to your database. If the coding agent is just like, 'All right, I got it.' And just starts writing code, this always results in terrible things, some really gnarly bugs that I had."
-
-Prevent low quality AI output by enforcing a strict planning phase and providing deep context on your style and goals.
 
 ### Establish Shared Situations
 From "Essential reading for product builders—part 2": "The best executive communication starts with the state of affairs. It’s fact-based, unambiguous. It’s totally not controversial. No matter what side of an issue or a hard choice you’re on, you should be able to read the situation and go, ‘That pretty much sums it up.’"

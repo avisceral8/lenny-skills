@@ -18,11 +18,6 @@ Help the user with high stakes decision making using insights from 30 guests and
 
 ## Core Principles
 
-### Minimize Cognitive Burden
-Ada Chen Rekhi: "I wanted to design it in a way where if you're a busy founder, you're a busy product person, which is the list that I chose for this curiosity loop, you would be able to sit down on your couch at the end of the night, read this interesting email and tap out a quick reply and give me that answer. Because the risk that you're running is either you're getting poor answers or you're getting a really low response rate because you've given them way too much cognitive load in terms of answering it."
-
-Structure requests for feedback as frictionless options to minimize the cognitive load on advisors and stakeholders.
-
 ### Identify Leading Indicators
 Annie Duke: "There is no such thing as a long feedback loop. And the way you choose to shorten the feedback loop is to say, what are the things that are correlated with the outcome that I eventually desire?"
 
@@ -47,11 +42,6 @@ True customer-centricity requires prioritizing fulfillment for existing users ov
 Matt Mochary: "It's not because I'm magician or a genius, it's because when someone's in fear, they're gripped. They can't see reality, their brain is making very exaggerated predictions. Whereas when someone is not in fear, and I'm not because it's not my situation, I am not gripped and therefore, my brain isn't making exaggerated predictions. And so, we make this bet once I win, then all of a sudden the CEO realizes, oh my God, there's something to this, fear gives bad advice."
 
 Use neutral third parties to identify when fear is causing you to make exaggerated negative predictions about a difficult choice.
-
-### Design for Era Swapping
-Asha Sharma: "I feel like you have to actually build for the slope instead of the snapshot of where you are."
-
-Build flexible architectures that allow for swapping core components as technological eras shift during the life of a roadmap.
 
 ### Maintain Forward Momentum
 Claire Hughes Johnson: "If you're not sure who the decision maker is, one, it's probably you. And I'd rather you act that way than not because you're going to like slow the whole company down. Follow a process and get it done, and don't forget to actually make a decision."

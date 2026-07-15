@@ -28,30 +28,10 @@ Bret Taylor: "First is, I think as you have these new technologies, rather than 
 
 In the age of AI, the best opportunities lie in delivering autonomous results rather than just building productivity tools that require manual effort.
 
-### Avoid deceptive tarpit ideas
-Dalton Caldwell: "Seems like an unsolved problem. You'll get all this positive feedback from the world and people have been starting that startup since the '90s."
-
-Be wary of ideas that have been attempted repeatedly since the 1990s and receive shallow positive feedback but consistently fail to scale.
-
-### Schedule focused ideation blocks
-Ethan Evans 2.0: "People think invention takes all this time, but you only need two hours once a month. The thing is, once you have one good idea, it often takes years to express that."
-
-Treat invention as a systematic discipline by dedicating recurring blocks of time, such as two hours a month, specifically for deep thinking and evaluation.
-
-### Demand a significant efficiency leap
-Kunal Shah: "And therefore when the delta is less than four, what you will discover is that it is reversible. You will not see people bragging about it and you have zero tolerance for it."
-
-A new product must provide at least a four-point delta in efficiency over existing habits to overcome customer acquisition costs and churn.
-
 ### Wait for external turning points
 Mike Maples Jr: "The three are inflections, insights and then the founder future fit. Business is never a fair fight. What inflections let the founder do is wage asymmetric warfare on the present."
 
 Successful breakthroughs depend on identifying specific shifts in technology or behavior that allow a founder to challenge the status quo.
-
-### Trust the math over execution
-Tom Conrad: "That would be so much better off finding a team that needs their skillset and working on a problem that has a mathematical formula that's going to win on any metric. Whatever metric you care about. You want the acclaim of your peers, you want financial reward, you want outside impact on culture, whatever the thing is that gets you out of bed every morning, you can achieve that in collaboration with others."
-
-The fundamental mathematical viability of a business model often dictates success more than the raw talent or effort of the execution team.
 
 ### Validate demand before writing code
 From "How to validate your B2B startup idea": "And then we got an email from an old Dropbox colleague who was like, ‘I hear you guys have become SOC 2 consultants. That’s super-weird. I thought you were going to do other things with your life. But also, can you come do this for my company?’ And that’s when it was like, no, but I’ll start writing code. That was the validation process for us."

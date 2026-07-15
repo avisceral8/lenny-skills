@@ -32,8 +32,6 @@
 
 ## Amjad Masad
 
-> "You can build MVPs. I think you can also start to get some initial users."
-
 **Insight:** AI agents enable non-technical builders to rapidly bridge the gap between a written concept and a functional, deployed software prototype.
 
 **Tactical advice:**
@@ -46,8 +44,6 @@
 ---
 
 ## Anton Osika
-
-> "Lovable is your personal AI software engineer. You describe an idea and then you get a fully working product. The reason is to enable those who have had such a hard time finding people who are good at creating software that's been their absolute bottleneck and let them take their ideas and their dreams into reality."
 
 **Insight:** AI-powered software engineers enable non-technical founders to bypass recruitment bottlenecks and transform abstract ideas into fully functional applications through natural language.
 
@@ -107,8 +103,6 @@
 
 ## Guillermo Rauch
 
-> "Imagine a designer that can ship a fully baked product, a product manager that can prototype and ship to production. We shouldn't put limits on ourselves and what we can build, and what we can ship, and what we can dream about making possible on these web surfaces."
-
 **Insight:** AI-powered prototyping tools allow product builders to bypass traditional engineering hurdles by turning natural language intent directly into functional web products.
 
 **Tactical advice:**
@@ -121,8 +115,6 @@
 ---
 
 ## Howie Liu
-
-> "To be continuously relevant and to refine product market fit in this era, I think you have to be of the details. There is no looking at it from 10,000 foot view and saying, 'Oh, we're just going to throw a bunch of people at this problem.' It's actually understanding what is the right product experience and the right business model that backs it up and the right ... everything else to support that engine to take advantage of the capabilities in our product domain."
 
 **Insight:** To remain relevant in the AI era, CEOs must pivot from high-level management back into the 'IC CEO' role, deeply engaging with technical details and UX choices.
 
@@ -268,8 +260,6 @@
 
 ---
 
-> "How do you successfully adopt these tools as a team, instead of a lot of individuals working in silos? These common questions are the reasons product, design, and engineering teams are struggling to figure out team workflows for AI tools."
-
 **Insight:** Successful team adoption of AI tools requires centralized assets and shared workflows rather than isolated individual efforts.
 
 **Tactical advice:**
@@ -346,8 +336,6 @@
 
 ---
 
-> "Imagine being able to turn Figma designs into a working app with a few clicks, or turn your PRD into a working prototype in minutes. This is all possible, and you’ll learn how."
-
 **Insight:** Product requirements documents can serve as the primary source of truth for AI tools to generate the underlying logic and interface of a functional prototype.
 
 **Tactical advice:**
@@ -384,8 +372,6 @@
 *Source: [A guide to AI prototyping for product managers](https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product-managers)*
 
 ---
-
-> "In this post, I’ll cover the basics of AI prototyping, show how to get good results out of the most popular tools, and walk through an end-to-end example of building a prototype in less than 10 minutes."
 
 **Insight:** AI prototyping significantly accelerates product discovery by allowing PMs to create and test high-fidelity interactive features before any production code is written.
 
@@ -476,8 +462,6 @@
 
 ---
 
-> "This approach requires the most effort but will provide you with prototypes that are indistinguishable from your real product. This option is most realistic in smaller companies or those with more technical designers and PMs."
-
 **Insight:** Prototype fidelity should be matched to the technical skill of the builder and the specific requirements of the audience, ranging from screenshot recreations to code-integrated mocks.
 
 **Tactical advice:**
@@ -488,8 +472,6 @@
 *Source: [How to get your entire team prototyping with AI](https://www.lennysnewsletter.com/p/how-to-get-your-entire-team-prototyping-with-ai)*
 
 ---
-
-> "AutoML is a tool offered by Google Cloud that allows for the training of custom machine learning models with minimal effort. A renewable-energy company was able to use AutoML to reduce their turbine maintenance procedure from three weeks to a few hours using AutoML."
 
 **Insight:** Non-technical PMs can deliver massive efficiency gains by using low-code tools like AutoML to automate manual, data-heavy diagnostic processes.
 
@@ -515,8 +497,6 @@
 
 ---
 
-> "You’re creating a lot of Chrome extensions. This makes sense—we spend most of our time in the browser."
-
 **Insight:** Browser extensions are a high-leverage entry point for AI coding because they live where most digital work and consumption occur.
 
 **Tactical advice:**
@@ -529,8 +509,6 @@
 ---
 
 ## Varun Mohan
-
-> "The best thing to do is just get your hands dirty with all of these products. You could be a force multiplier to your organization in ways in which they never even anticipated."
 
 **Insight:** Product builders can achieve outsized impact by directly mastering AI tools and using them to multiply their personal output and technical contribution.
 

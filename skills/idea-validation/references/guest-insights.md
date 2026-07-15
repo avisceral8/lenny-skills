@@ -21,8 +21,6 @@
 
 ## Bill Carr
 
-> "So therefore, when we're making a decision thinking about a problem, we're going to start with what's best for the customer and then come backward from there. That informs what's the work you have to do to then create this new solution for customers."
-
 **Insight:** Effective product development starts by defining the ideal customer solution first and then working backward to determine the technical work required.
 
 **Tactical advice:**
@@ -112,8 +110,6 @@
 
 ## Eric Ries
 
-> "We at IMVU, we shipped product 50 times a day on average at a time when people were lucky to be doing it monthly if they were really advanced. Remember, it wasn't that long ago that we put the year the product came out in the name of the product. That tells you what cycle times used to be. That was considered normal, and people were like, 'That's impossible. That could never work.'"
-
 **Insight:** Dramatically reducing cycle times through continuous deployment allows for rapid validation of ideas, turning what was once considered impossible into a standard for learning.
 
 **Tactical advice:**
@@ -197,8 +193,6 @@
 
 ## Itamar Gilad
 
-> "We come up with an idea, we believe in it, all the indications show it's good. Maybe the early tests show it's good, then we just go all in and we try to implement it and I made this very mistake many times as the product manager, I was the guy pushing for the ideas. So for me, this was kind of a turning point I felt we need to adopt a different system."
-
 **Insight:** Moving from opinion-based to evidence-guided development prevents the waste of massive resources on features that users don't actually need.
 
 **Tactical advice:**
@@ -225,8 +219,6 @@
 
 ## Jake Knapp + John Zeratsky
 
-> "So, we developed a design sprint at Google Ventures, which the Sprint book is about. And now, we run this venture fund of our own called Character. And we run these highly-structured sprints with companies. And when we're doing that, we get to control how everything happens."
-
 **Insight:** To achieve big goals quickly, you must create a highly-structured environment that temporarily suspends normal working defaults.
 
 **Tactical advice:**
@@ -239,8 +231,6 @@
 ---
 
 ## Jeff Weinstein
-
-> "That particular teacher employed another trick on us during that class, which was it took the tuition fee of our school and divided it by the number of hours and wrote the cost on a ticket and then handed us in the beginning of the year. Tickets for every single one of the classes and he would stand at the door and you would have to give him a ticket at the end of the class that he thought it was worth it."
 
 **Insight:** True validation occurs when a user must physically or psychologically part with something of value to confirm the solution's worth.
 
@@ -315,8 +305,6 @@
 
 ---
 
-> "Everybody knew that you cannot train deep networks. It cannot be done. Back propagation is too weak. [...] People were really focused on machine learning models, where they could prove that there was an algorithm which can perfectly train them, but whenever you put this condition on yourself, and you require to find a simple elegant mathematical proof, you really end up restricting the power of your model."
-
 **Insight:** Breakthrough opportunities often emerge when you ignore conventional constraints and experiment with ideas that others have dismissed as impossible.
 
 **Tactical advice:**
@@ -327,8 +315,6 @@
 *Source: [First-principles thinking](https://www.lennysnewsletter.com/p/first-principles-thinking)*
 
 ---
-
-> "We also tested a bigger swing to try to increase donations: trying to match donors with the recipient getting the funds. This is a pretty typical model in the nonprofit world, so we had high hopes."
 
 **Insight:** High-effort product bets that are standard in your industry, such as personalized matching, can fail to improve results and should be tested before full engineering adoption.
 
@@ -367,8 +353,6 @@
 
 ---
 
-> "There are four ways to validate your startup idea—and it’s fairly clear which path you should take depending on your product and your experience in the problem space."
-
 **Insight:** The most efficient validation strategy matches the founder's proximity to the problem and the complexity of the proposed solution.
 
 **Tactical advice:**
@@ -393,8 +377,6 @@
 
 ---
 
-> "After wasting two years chasing a vague idea, we hit warp speed with a single week focused on the basics. Realization struck me—bang—like a two-by-four between the eyes: Teams need a better way to start projects."
-
 **Insight:** Avoid years of wasted effort by narrowing your focus to a simple core hypothesis and validating it with a functional prototype immediately.
 
 **Tactical advice:**
@@ -405,8 +387,6 @@
 *Source: [Introducing the Foundation Sprint: From the creators of the Design Sprint](https://www.lennysnewsletter.com/p/introducing-the-foundation-sprint-from-the-creators-of-the-design-sprint)*
 
 ---
-
-> "Assumption Testing by Teresa Torres—will help you avoid wasting time on the wrong ideas"
 
 **Insight:** Systematically testing underlying assumptions before building helps prevent resource waste on product ideas that lack market fit.
 
@@ -432,8 +412,6 @@
 
 ---
 
-> "The key here is to form your own, independent point of view. Forget what others believe and what’s easy. Do you, as a leader within the company, believe this is a good idea?"
-
 **Insight:** Effective evaluation requires separating an idea's objective merit from the potential drama of implementation or team resistance.
 
 **Tactical advice:**
@@ -444,8 +422,6 @@
 *Source: [Saying no](https://www.lennysnewsletter.com/p/saying-no)*
 
 ---
-
-> "Many ideas will be interesting and worth exploring, but you have limited time to explore every interesting idea. Having said that, many ideas will be worth exploring. So go ahead and explore. Just make sure to communicate a clear next step, and a timeline for the exploration."
 
 **Insight:** Treat fragile new ideas as 'ugly babies' that require a time-boxed exploration phase to determine their eventual value.
 
@@ -494,8 +470,6 @@
 
 ## Marty Cagan
 
-> "That means we have to discover a solution that's valuable, usable, feasible, viable. Now while the engineers definitely own feasible, and the designer definitely owns usable, valuable and viable, which are two of the hardest things to do, that's the product manager, and those are pretty big shoes to fill."
-
 **Insight:** De-risking a product requires the product manager to take personal ownership of validating the solution's value and business viability before development begins.
 
 **Tactical advice:**
@@ -540,8 +514,6 @@
 ---
 
 ## Nicole Forsgren
-
-> "So it was like, how is or is the way that we develop and deliver software tied to outcomes at the individual level, right? Can I be more productive? Can I have better work-life balance? And the team level, is the team more productive? Is the team more efficient? And the organizational level, right."
 
 **Insight:** To validate business hypotheses, technical data must be explicitly linked to measurable outcomes at the individual, team, and organizational levels.
 
@@ -648,8 +620,6 @@
 ---
 
 ## Todd Jackson
-
-> "We get very specific about not just the normal way of doing customer conversations and customer discovery, but how do you find that a customer is willing to pay money for this thing and a lot of money?"
 
 **Insight:** Effective customer discovery must go beyond validating a problem to testing a customer's actual willingness to pay significant money for the solution.
 

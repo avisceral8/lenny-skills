@@ -48,11 +48,6 @@ From "The unconventional Palantir principles that catalyzed a generation of star
 
 Perform the customer's actual work alongside them to reveal the operational friction that interviews alone cannot uncover.
 
-### Hack prototypes to find latent use cases
-Boris Cherny: "I spent one month hacking, and built a bunch of weird prototypes. Most of them didn't ship, and weren't even close to shipping. It was just understanding the boundaries of what the model can do."
-
-Spend dedicated time building non-shipping prototypes to test the boundaries of technology and uncover how users might repurpose existing tools.
-
 ### Embed technical staff in customer workspaces
 Nabeel S. Qureshi: "There was a different type of engineer which you sent into the field. You would spend maybe Monday to Thursday and you would actually go into the building where the customer worked and you would work alongside them. You would literally get a desk there and so, that engineer became known as a forward deployed engineer."
 

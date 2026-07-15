@@ -28,20 +28,10 @@ Drew Houston: "Less than a year later, Google Photos launches. And not only does
 
 Treat major incumbent product launches as signals of market consolidation or shifts. Even if the immediate impact is low, these moves indicate where the market is heading and when a niche may become commoditized.
 
-### Distinguish growth hacks from business context
-Elena Verna 3.0: "In the age of social media everybody and anybody tries to share their tips and tricks. Oftentimes things that are completely out of context or they are very specific to one example and actually do not apply as a pattern."
-
-Avoid blindly copying competitor tactics because growth drivers are highly dependent on specific business contexts. Use competitor teardowns to generate hypotheses rather than as a manual for replication.
-
 ### Prioritize counter-positioning for startups
 Hamilton Helmer: "So in a book there's a thing called power progression, which says there are... It tells over the cycle of a business, there are times when certain types of power are available and the converse of that is times when they're not available."
 
 Startups should focus on moats that incumbents are unwilling to copy because doing so would damage their existing business model. Exclude branding and process power early on, as these are rarely available to new entrants.
-
-### Build defensibility through messy operations
-Kevin Aluwi: "I think it would've been easy for us to say like, "Hey, they're all contractors. They're third parties, let them kind of just sort it out." But instead, we actually hired private security. So we actually work with private security companies to help our drivers in those situations, to help kind of extract them out of these sticky situations."
-
-Solving high-friction, unglamorous operational problems creates a unique moat. Competitors with more funding often avoid these messy challenges, leaving a gap for those willing to do the hard work.
 
 ### Choose between cost leadership and differentiation
 Roger Martin: "You have to be either differentiated or low cost, there's no way to protect yourself if you're not one of those two."

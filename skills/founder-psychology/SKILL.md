@@ -28,11 +28,6 @@ Dalton Caldwell: "There has to be this irrational intention to keep going even w
 
 Success often requires a mindset of just don't die and an irrational commitment to keep going despite multiple near-death experiences.
 
-### Rigorous Self-Reflection
-Eoghan McCabe: "But when I interrogate myself, my soul and my mind, I don't think it is, when I interrogate my heart and my mind, I don't think it is."
-
-Engage in deep self-interrogation to ensure business decisions are based on genuine strategic conviction rather than post-rationalization.
-
 ### Radical Self-Inquiry
 Jerry Colonna: "And so, the equation is practical skills plus radical self-inquiry plus shared experiences, that is the process of actually talking about the craziness that goes on in your head equals greater leadership."
 

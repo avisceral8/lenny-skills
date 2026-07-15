@@ -6,8 +6,6 @@
 
 ## Boris Cherny
 
-> "For me, this was actually a pretty important product lesson. Right? This is, like, you want to under-resource things a little bit at the start."
-
 **Insight:** Intentionally under-resourcing projects in the early stages forces lean prototyping and faster iteration before scaling.
 
 **Tactical advice:**
@@ -54,8 +52,6 @@
 ---
 
 ## Daniel Lereya
-
-> "Basically, we defined what is it, and then create an infrastructure for all these shared things, making the work of adding a new column just thinking about the specific product that you want to provide with each one of these columns."
 
 **Insight:** To maintain speed during growth, you must build common infrastructure that automates shared capabilities, allowing teams to focus solely on unique product logic.
 
@@ -182,8 +178,6 @@
 
 ---
 
-> "The most common question I get is: how can we decide between DORA, SPACE, or DevEx, or use them in combination? My answer used to be “It depends.” Now I have a shorter answer: Core 4."
-
 **Insight:** While DORA, SPACE, and DevEx provide theoretical foundations, Core 4 offers a prescriptive, unified framework that is practical for immediate company-wide deployment.
 
 **Tactical advice:**
@@ -247,8 +241,6 @@
 
 ---
 
-> "After reflecting with the team 🧠, because we work in an agile way, we all decided that for every sprint ♺, we will be picking 1-2 UX Annoyances 😡 and adding them to the Backlog. This was a victory for the team! 🙌 Now we are not just looking at Painkillers (PM vs UX) but also Vitamins!"
-
 **Insight:** Systematically addressing minor 'UX annoyances' in every sprint prevents long-term UX debt and keeps the product feeling polished.
 
 **Tactical advice:**
@@ -272,8 +264,6 @@
 ---
 
 ## Logan Kilpatrick
-
-> "I feel just for myself, as somebody who's an engineer today, I use ChatGPT and I can ship things way faster than I would be able to."
 
 **Insight:** Integrating AI into core workflows provides an order-of-magnitude increase in shipping velocity for technical and business teams.
 

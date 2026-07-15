@@ -33,8 +33,6 @@
 
 ---
 
-> "The key thing for everybody to know is that as new distribution platforms emerge, they follow the same four-step cycle and it's a game that you're playing, that everybody's playing. Just like any game, you need to know the rules of the game. You need to know the steps of the game in order to have any sort of opportunity to win."
-
 **Insight:** Companies must recognize the predictable stages of a platform's lifecycle—from open growth to closed monetization—to time their distribution strategy effectively.
 
 **Tactical advice:**
@@ -214,8 +212,6 @@
 
 ## Jonathan Becker
 
-> "I would say that the answer to that question is different at different stages of a company's life cycle. Early stage, look at what the company is doing, look at your own company. Have you established product market fit?"
-
 **Insight:** Avoid using performance marketing as a substitute for product-market fit; ensure the core product works before attempting to scale with paid ads.
 
 **Tactical advice:**
@@ -298,8 +294,6 @@
 
 ## Lenny Rachitsky
 
-> "I’ve collected 60 examples of successful Turbo Boosts—one-off events that temporarily accelerate growth for companies large and small—to inspire you to come up with something special of your own."
-
 **Insight:** Growth 'Turbo Boosts' are non-recurring events that jumpstart product awareness and provide the initial momentum needed to transition toward sustainable growth engines.
 
 **Tactical advice:**
@@ -350,8 +344,6 @@
 
 ---
 
-> "My advice is to get your team together and go through this list with the mindset of “How might we…?”"
-
 **Insight:** Short-term growth often relies on high-impact, time-bound tactics like influencer mentions, PR stunts, or limited-time deals to create immediate momentum.
 
 **Tactical advice:**
@@ -362,8 +354,6 @@
 *Source: [Growth ideas](https://www.lennysnewsletter.com/p/growth-ideas)*
 
 ---
-
-> "Sometimes you just need ideas. I get that! Here are a bunch to get your juices flowing."
 
 **Insight:** Long-term growth is built on compounding channels like SEO, referral loops, and brand equity that deliver sustainable traffic over time.
 
@@ -427,8 +417,6 @@
 *Source: [How the biggest consumer apps got their first 1,000 users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got-their-first-1000-users)*
 
 ---
-
-> "After reviewing the early growth strategies of more than 100 consumer companies, it turns out that there are really only seven reliable ways to find your first 1,000 users:"
 
 **Insight:** Early startup growth typically relies on a narrow selection of seven proven strategies rather than a scattered approach.
 
@@ -519,8 +507,6 @@
 
 ---
 
-> "Ali Abouelatta, the author of the excellent First 1000 newsletter, who spends much of his time investigating how today’s largest companies acquired their first 1,000 users."
-
 **Insight:** Studying the non-scalable, creative acquisition tactics used by industry leaders during their 'cold start' phase provides a proven playbook for acquiring initial users.
 
 **Tactical advice:**
@@ -597,8 +583,6 @@
 
 ---
 
-> "Run a Facebook ad and an AdWords ad. Learn about CAC. Learn about the downsides of paid growth."
-
 **Insight:** Paid growth mastery requires a deep understanding of unit economics like CAC and a awareness of when performance marketing becomes a sustainable engine versus an addictive downside.
 
 **Tactical advice:**
@@ -635,8 +619,6 @@
 *Source: [Content-driven growth](https://www.lennysnewsletter.com/p/content-driven-growth)*
 
 ---
-
-> "Make sure there’s a clear path to this investment making a significant dent in your growth. Is the upside even worth it?"
 
 **Insight:** Content marketing is a long-term investment that requires modeling the potential 'upside' to ensure the total addressable search traffic can meaningfully impact company growth.
 
@@ -778,8 +760,6 @@
 *Source: [Finding your distribution advantage](https://www.lennysnewsletter.com/p/finding-your-distribution-advantage)*
 
 ---
-
-> "A final distribution advantage is simply making sh*t happen—no matter what. If you have none of the other distribution advantages, focus on this one."
 
 **Insight:** When traditional distribution channels aren't available, extraordinary personal hustle and manual user acquisition can bridge the gap.
 
@@ -1078,8 +1058,6 @@
 
 ---
 
-> "DTC businesses generally succeed through highly efficient acquisition costs, sustainable margins, and high AOV. I’d start by focusing on the following seven metrics:"
-
 **Insight:** Choose a growth efficiency metric, like payback period or ROAS, that aligns with your specific revenue model and margins.
 
 **Tactical advice:**
@@ -1103,8 +1081,6 @@
 *Source: [The most important consumer subscription metrics to track](https://www.lennysnewsletter.com/p/the-most-important-consumer-subscription-metrics-to-track)*
 
 ---
-
-> "Start building trust from the first moment a user visits your site. How might you leverage some of the ideas I referenced above to instill a strong sense of trust in your product immediately? How might you continue that message throughout the remaining experience?"
 
 **Insight:** Fintech landing pages must immediately establish trust by combining visual polish with clear value propositions and the proactive addressing of user anxieties.
 
@@ -1361,8 +1337,6 @@
 ---
 
 ## Ray Cao
-
-> "I think we did a lot of fine-tuning on our user product side to really think about content. So that's the number one thing going to be super different coming from each of the market and also from each of the culture."
 
 **Insight:** Creating successful content requires identifying and seeding the specific categories—such as food or technology—that are most resonant with a local culture's unique discovery habits.
 

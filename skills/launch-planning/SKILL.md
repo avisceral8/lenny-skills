@@ -18,26 +18,6 @@ Help the user with product launch planning using insights from 18 guests and pos
 
 ## Core Principles
 
-### Establish standard communication loops
-Christine Itwaru: "There was a lot of pain around internal alignment in general, transparency to stakeholders up across your revenue team members. Then for a lot of people during this time, growth was a massive propeller of the need for product ops."
-
-Create transparency between engineering and revenue teams early in the process. This ensures sales and support have full visibility into the roadmap before the public launch.
-
-### Run high-volume marketing experiments
-Marc Benioff: "I'm throwing everything against the wall. I'm looking at what's going to stick. I am looking to try to find the winning tactic and turn it into a winning strategy."
-
-Test a wide range of marketing tactics simultaneously during the planning phase. Identify the single most effective idea that resonates with the audience before scaling it.
-
-### Generate hype by showing visual proof
-Mihika Kapoor: "I've found that words will only get you so far. So, when I put together a vision with my team at Figma, it's all about not just your traditional, 'Okay, here are pain points. And then, here are solutions. And then, here is the timeline and costing.' But rather how can you bring all of those things together and how can a vision pitch effectively be pain point, solution, proof point, pain point solution proof point?"
-
-Structure internal pitches using a cycle of pain point, solution, and proof point. Use visual prototypes and user testimonials to make the product feel tangible and inevitable.
-
-### Prioritize speed for V1 feedback
-Ryan J. Salva: "And to get to an opportunity to work on so many V1 products, like that is creation itself, to be able to build an entirely new product, get it out to market, test it, iterate on it, and really feed on the energy that's coming back from the community."
-
-Get a version one to market as quickly as possible. Rapid development cycles allow you to iterate based on direct market feedback rather than internal assumptions.
-
 ### Optimize for remarkability
 From "Generating buzz": "Here’s the hard truth: No one cares about your new product. As Marc Andreessen said, “everyone’s time is already allocated.”"
 
@@ -52,11 +32,6 @@ Use structured GACCS briefs for any project longer than a tweet. Forcing alignme
 Claire Butler: "This was a forcing function for us to do our messaging and positioning. And I remember there was more than one day where we locked ourselves in a conference room and I made Dylan and show at the time have this positioning up on the big screen and made them agree on it word for word."
 
 Set hard launch dates to compel final decisions on brand and messaging. This forces stakeholders to resolve internal strategic debates and commit to a core direction.
-
-### Be transparent about radical risks
-Keith Coleman & Jay Baxter: "There was a question at the beginning, to the point Jay was making of like, 'Did anyone think this was going to work?' Obviously, it was a crazy idea. We didn't know if regular people were going to be able to do this task and certainly people had concerns about whether they would do it effectively."
-
-If a product is experimental or radical, acknowledge its inherent risks publicly. Focus external expectations on the unique mechanics that make the new solution possible.
 
 ## Templates & Frameworks
 

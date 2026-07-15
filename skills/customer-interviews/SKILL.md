@@ -28,11 +28,6 @@ Jag Duggal: "You make sure that you focus on customer discovery before you start
 
 Effective research goes beyond listening to explicit requests by observing users in their natural environment. This reveals friction points that users may not be able to describe.
 
-### Dig for emotional speed bumps
-Nan Yu: "My goal is to feel bad in the same way that customers feel bad."
-
-Successful discovery requires digging past feature requests to reach the root emotional frustration. Continue questioning until you can truly empathize with the specific pain point.
-
 ### Actively seek disproof
 Shaun Clowes: "Avoid availability or confirmation bias. Most of the time people go talk to the people they always talk to and they learn nothing particularly new. They don't synthesize the results that they got from that conversation. They don't seek out the counterfactual, they don't seek out the proof that they're wrong."
 
@@ -42,11 +37,6 @@ To avoid confirmation bias, you must intentionally seek out data points that dis
 From "How to develop product sense": "Don’t just read reports from researchers on your team; instead attend user research sessions to get firsthand exposure to user experiences and reactions. What’s important is to pay attention to micro details and ask yourself why people react to your product the way they do."
 
 Directly observing user behavior provides a firsthand understanding of emotional and functional needs. Research reports often overlook the nuance found in live reactions.
-
-### Integrate cross-functional teams
-Mihika Kapoor: "You cannot go into a vacuum and come out with a compelling vision that does not exist. You have to be fundamentally inseparable from your users, and also, fundamentally inseparable from your team. And so, I think that there is sort of this important cross-pollination of functions that is really important in crafting a compelling vision."
-
-Insights are most valid when engineering and design are inseparable from the user. Direct involvement allows the whole team to uncover generative nuances in workflows.
 
 ### Avoid the sales pitch
 From "Startup to exit: Lessons from a first-time founder": "However, we realized our first several “interviews” were actually sales pitches (e.g. “here’s this cool new thing, what do you think?”). Far too biased to get any real signal."

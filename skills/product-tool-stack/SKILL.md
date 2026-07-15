@@ -23,31 +23,6 @@ From "A year free of PostHog ($16,500 value): The all-in-one analytics, experime
 
 Moving toward all-in-one platforms reduces the technical and operational friction of managing multiple point solutions, enabling better integration between discovery and shipping.
 
-### Secure bundles to lower barriers
-From "Lenny's Product Pass: 20+ free premium products, available exclusively for paid annual subscribers": "Think of your Lenny’s Newsletter subscription as your product builder’s starter pack: all the advice, community, and tools you need to build and grow a world-class product (and career)."
-
-Utilize curated software bundles and subscription offers early on to access premium tools at a fraction of the cost before scaling.
-
-### Automate administrative overhead
-From "Part 2 of how to get the most out of your product pass—and welcome, Stripe Atlas, to the bundle!": "With this additional puzzle piece, more and more your newsletter subscription becomes your product builder’s starter pack: all the guidance, community, and products you need to build and grow a world-class product (and career)."
-
-Select specialized platforms to automate legal setup and incorporation so leaders can focus on high-level strategy and product building.
-
-### Prioritize foundational comms
-From "What's in your software stack — Product, Design, Analytics, DS, Research, and more": "Especially at a nascent startup, where you can’t afford to waste time (and money) on unnecessary products."
-
-Establish Slack and G-Suite in the first month to create an immediate operational backbone for communication and documentation.
-
-### Balance safe bets with trials
-From "What's in your software stack — Product, Design, Analytics, DS, Research, and more": "As you read through the results below, focus on two things: what’s today’s go-to product (i.e. the safe bet), and who are the up-and-comers that are worth checking out (i.e. the early-adopter bet)."
-
-Stick with industry standards like Google Analytics for mission-critical data while trialing high-leverage newcomers like Linear for daily workflows.
-
-### Choose speed and aesthetic design
-From "Announcing the greatest product bundle ever: Get a year free of Granola, Notion, Superhuman, Linear, and Perplexity with an annual subscription": "I specifically selected these tools because they were among the most beloved products in my recent “What’s in your stack” survey. They represent the height of what products can be—they’re beautiful and fast, and they make your life better."
-
-Prioritize tools that are community-validated and emphasize speed, as high-quality design significantly improves the daily efficiency of PMs and founders.
-
 ### Commit to engineering-backed data
 From "Five steps to starting your product-led growth motion, part 2": "Tools such as Amplitude and Mixpanel are commonly used here, but, as the saying goes, “garbage in, garbage out.” Companies need to dedicate engineering resources to instrument tracking properly. Many B2B companies are significantly lacking in product analytics—watching product usage closely is less important when you sell via human touch—but without a strong foundation of product analytics, PLG will never work."
 

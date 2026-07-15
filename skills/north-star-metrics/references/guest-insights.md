@@ -6,8 +6,6 @@
 
 ## Alex Hardimen
 
-> "When you're a product manager, you're involved again in driving specific metrics like engagement or subscribers, but you're also trying to help stories find their real audience in ways that trigger just this whole different side of mission and purpose driven impact."
-
 **Insight:** True product impact is achieved when standard business metrics like engagement and growth are treated as vehicles for a broader organizational mission.
 
 **Tactical advice:**
@@ -59,8 +57,6 @@
 
 ## Itamar Gilad
 
-> "So that sent us, kind of me and my team into researching these users into establishing a goal that was much more user-centric and then thinking of other ideas. And then we started testing them much more rigorously and basically we started testing on our own inboxes and then we recruited other dog footers, other Googlers to test the same inbox, then we put it outside for external testers."
-
 **Insight:** Successful product development begins by defining user-centric goals that address specific problems before committing to a technical solution.
 
 **Tactical advice:**
@@ -73,8 +69,6 @@
 ---
 
 ## Jeff Weinstein
-
-> "Well, what was the value that we're trying to produce for the customer and can we measure it from their perspective? And okay, how do you know you have product market fit? Charts that showcase things are going up into the right on one hand and then tweets on the other."
 
 **Insight:** Product success should be measured by both quantitative growth and qualitative market sentiment from the customer's perspective.
 
@@ -114,8 +108,6 @@
 ---
 
 ## Lenny Rachitsky
-
-> "Your North Star Metric is your strategy, and your strategy is your North Star Metric."
 
 **Insight:** Selecting the right North Star Metric requires aligning it directly with your core business strategy to ensure it drives meaningful growth.
 
@@ -179,8 +171,6 @@
 
 ---
 
-> "Below are the most important metrics ranked in priority order, divided into three buckets: pre-revenue, post-revenue, and additional metrics to track. You don’t need to track all of these immediately — pick a few to start with and add more over time."
-
 **Insight:** Focus on user retention and organic internal virality before worrying about revenue growth in the earliest stages of a bottom-up startup.
 
 **Tactical advice:**
@@ -191,8 +181,6 @@
 *Source: [The most important bottom-up SaaS metrics to track (and how to best visualize them)](https://www.lennysnewsletter.com/p/the-most-important-bottom-up-saas-metrics-to-track-and-how-to-best-visualize-the)*
 
 ---
-
-> "Below are the most important metrics ranked in priority order, divided into three buckets: pre-revenue, post-revenue, and additional metrics to track. You don’t need to track all of these immediately — pick a few to start with and add more over time."
 
 **Insight:** Prioritize user retention and virality at the pre-revenue stage to ensure product-market fit before scaling with revenue-focused metrics.
 
@@ -231,8 +219,6 @@
 
 ---
 
-> "Your North Star Metric is your strategy, and your strategy is your North Star Metric."
-
 **Insight:** A company’s North Star Metric should act as a clear, quantifiable representation of its strategic priorities to keep the entire organization aligned.
 
 **Tactical advice:**
@@ -255,8 +241,6 @@
 *Source: [Fostering a culture of experimentation](https://www.lennysnewsletter.com/p/fostering-a-culture-of-experimentation)*
 
 ---
-
-> "Obviously it’s harder to measure success with feature-based teams, but we’ve learned to work with that. We use a combination of qualitative and quantitative signals to see if we are tracking toward success, which looks different depending on the feature."
 
 **Insight:** For features with indirect or long-term impacts, success should be assessed through a weighted mix of internal usage, user sentiment research, and long-term holdout experiments.
 
@@ -282,8 +266,6 @@
 
 ---
 
-> "One unique element of Snowflake is that we have a data science organization embedded into our product organization, so every product area has a dedicated data scientist integrated with their team to help surface insights from the data—using Snowflake, of course!"
-
 **Insight:** Embedding data scientists directly into product teams ensures that every feature and strategy is backed by deep, real-time behavioral insights.
 
 **Tactical advice:**
@@ -307,8 +289,6 @@
 *Source: [How to accelerate growth by focusing on the features you already have](https://www.lennysnewsletter.com/p/how-to-accelerate-growth-by-focusing-on-the-features-you-already-have)*
 
 ---
-
-> "These digital analytics tools offer features that are similar to correlation and linear regression modeling. They use your historical data to help you locate signals, patterns, and connections by doing correlation analysis, and on top of that develop predictions of expected user behavior."
 
 **Insight:** Modern product analytics tools allow non-technical teams to perform complex data relationships checks that previously required specialized statistical software.
 
@@ -360,8 +340,6 @@
 
 ---
 
-> "Sourced from hundreds of product managers who filled out our survey and hopped on calls, I put together a comprehensive collection of ways PMs are using Perplexity to do their work, including: ... 2. Finding benchmarks"
-
 **Insight:** AI search provides immediate access to aggregated industry-standard data, enabling PMs to quickly set realistic goals and evaluate current performance.
 
 **Tactical advice:**
@@ -385,8 +363,6 @@
 *Source: [Lessons from going freemium: a decision that broke our business](https://www.lennysnewsletter.com/p/lessons-from-going-freemium-a-decision-that-broke-our-business)*
 
 ---
-
-> "Simulator for Learning Data-Driven Product Management by Sean Ellis and Oleg Ya on GoPractice—I wasn’t aware of this one until recently. It’s not live or cohort-based, but I’m including it anyway because so many people have recommended it."
 
 **Insight:** Simulation-based learning allows product managers to practice high-stakes, data-driven decision-making in a risk-free environment.
 
@@ -437,8 +413,6 @@
 *Source: [The most important bottom-up SaaS metrics to track (and how to best visualize them)](https://www.lennysnewsletter.com/p/the-most-important-bottom-up-saas-metrics-to-track-and-how-to-best-visualize-the)*
 
 ---
-
-> "Surprisingly (though not that surprisingly) Google Sheets was by far the most used tool, followed by Profitwell and Google Data Studio (sitting on top of Google Sheets)."
 
 **Insight:** The best dashboard tool for an early-stage startup is the one that offers the most flexibility and is easiest for the team to update, which is usually a spreadsheet.
 

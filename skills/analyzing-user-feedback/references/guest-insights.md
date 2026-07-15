@@ -6,8 +6,6 @@
 
 ## Boris Cherny
 
-> "Claude is starting to come up with ideas. It's looking for feedback, it's looking at bug reports, it's looking at telemetry for bug fixes, and things to ship. A little more like a coworker or something like that."
-
 **Insight:** AI agents can function as collaborative partners that synthesize user signals and technical data to propose and prioritize product improvements.
 
 **Tactical advice:**
@@ -21,8 +19,6 @@
 
 ## Brian Tolkin
 
-> "And so one solution to that problem, our solution at the time was to start up a new function called product operations who had accountability and reported into operations but physically sat with and operated much like a member of the product team to help solve that."
-
 **Insight:** A dedicated product operations function bridges the gap between centralized product development and distributed operational feedback.
 
 **Tactical advice:**
@@ -35,8 +31,6 @@
 ---
 
 ## Christine Itwaru
-
-> "So, quantitative analysis, qualitative, bringing all of these different inputs that would traditionally be handled by product manager through looking across the aisle at their PM or looking at different data sources to the surface when they're going through their product development lifecycle planning, and really figuring out too what that balance is."
 
 **Insight:** Centralizing customer feedback synthesis allows product teams to make evidence-based decisions without requiring individual PMs to manually aggregate disparate data sources.
 
@@ -63,8 +57,6 @@
 ---
 
 ## David Singleton
-
-> "Jeff dug into the details, the team dug into the details and we're just like kept asking, does it have to be this way? Does it have to be this way? And eventually we work with the IRS to make it possible for us to issue those numbers much, much more quickly, like instantly as you sign up."
 
 **Insight:** Meaningful friction reduction requires a relentless curiosity to question every step of a painful process until a better way is found.
 
@@ -165,8 +157,6 @@
 
 ## Lenny Rachitsky
 
-> "We both spent more than five years at Reddit, and through blood, sweat, and tears, we developed a framework that helped turn a sometimes combative relationship with users into a strong, productive partnership most of the time."
-
 **Insight:** Managing a highly opinionated community requires a formal framework to transition from combative interactions to a collaborative product partnership.
 
 **Tactical advice:**
@@ -177,8 +167,6 @@
 *Source: [What 5 years at Reddit taught us about building for a highly opinionated user base](https://www.lennysnewsletter.com/p/what-5-years-at-reddit-taught-us-about-building-for-a-highly-opinionated-user-ba)*
 
 ---
-
-> "Your Trust Vault can be filled and it can be depleted. At Reddit we had multiple Trust Vaults: a company-level Trust Vault as well as Trust Vaults for individual teams or product managers."
 
 **Insight:** User trust should be viewed as a measurable currency that fluctuates based on product decisions and can dictate the timing of controversial launches.
 
@@ -204,8 +192,6 @@
 
 ---
 
-> "I do the same with research data like transcripts, interviews, surveys, CSVs. Everything becomes fuel. Each file adds depth to the brain."
-
 **Insight:** Feeding raw research data into an AI second brain allows for the synthesis of complex patterns across disparate sources like Reddit threads, CSVs, and transcripts.
 
 **Tactical advice:**
@@ -216,8 +202,6 @@
 *Source: [How to build your PM second brain with ChatGPT](https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt)*
 
 ---
-
-> "Synthesize survey results: Find feature ideas and bugs from app store reviews: Extract insights from raw usage metrics: Do sensitivity analysis:"
 
 **Insight:** AI can process and synthesize massive volumes of qualitative and quantitative user data far faster than manual analysis.
 

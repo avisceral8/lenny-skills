@@ -6,8 +6,6 @@
 
 ## Aishwarya Naresh Reganti + Kiriti Badam
 
-> "You're probably looking at agent traces together and deciding how your product should behave. So it's a tighter form of collaboration."
-
 **Insight:** Effective AI performance evaluation moves beyond static metrics to a collaborative analysis of agent traces and real-world failure modes.
 
 **Tactical advice:**
@@ -33,8 +31,6 @@
 ---
 
 ## Boris Cherny
-
-> "And the thing that drew me to Anthropic was the mission. And it's all about safety. And when you talk to people at Anthropic, just, like, find someone in the hallway, if you ask them why they're here, the answer is always going to be, 'Safety.'"
 
 **Insight:** Embedding safety as a core organizational mission ensures it remains the primary filter for all product and model development decisions.
 
@@ -105,8 +101,6 @@
 
 ## Hamel Husain & Shreya Shankar
 
-> "So let's go through the very beginning stage, what we call error analysis, which is, let's look at the data of their application and first start with what's going wrong."
-
 **Insight:** The most effective way to start building AI evaluations is by manually reviewing application traces to identify specific real-world failure modes.
 
 **Tactical advice:**
@@ -156,8 +150,6 @@
 ---
 
 ## Howie Liu
-
-> "I mean, I'm extremely intentionally wasteful. Wasteful in the sense of I'll do something that costs maybe hundreds of dollars of actual inference costs. For instance, doing a lot of LLM calls against long transcripts of let's say, sales calls to extract different types of insights like here's the product apps, identify or here's summaries, et cetera."
 
 **Insight:** CEOs should personally drive high-volume, expensive AI experiments to stress-test the value and boundaries of new features.
 
@@ -356,8 +348,6 @@
 
 ---
 
-> "Just as you’d never let someone drive without passing their test, you shouldn’t let an AI product launch without passing thoughtful, intentional evals."
-
 **Insight:** Implementing evals is an essential safety check for AI products, akin to a driving test, that should never be skipped before launch.
 
 **Tactical advice:**
@@ -395,8 +385,6 @@
 
 ---
 
-> "You’ll learn how to leverage error analysis to understand where your AI product breaks, build robust evals you can trust, and create a continuous improvement flywheel that catches regressions before they ship."
-
 **Insight:** Continuous quality assurance for AI requires integrating robust, trusted evaluators into a CI/CD pipeline to catch regressions automatically.
 
 **Tactical advice:**
@@ -407,8 +395,6 @@
 *Source: [Building eval systems that improve your AI product](https://www.lennysnewsletter.com/p/building-eval-systems-that-improve-your-ai-product)*
 
 ---
-
-> "While off-the-shelf metrics like hallucination and toxicity are not worth paying attention to directly, they can be used in creative ways."
 
 **Insight:** Generic metrics are useless for dashboard reporting but highly effective as filters to help humans find interesting failure cases for review.
 
@@ -484,8 +470,6 @@
 
 ## Nick Turley
 
-> "I think the thing that's been really important to us for a long time is to build something that feels like it's helpful to you, but you're in the driver's seat, and that's even more important as the stuff becomes agentic, the feeling of being in control, and that can be small things."
-
 **Insight:** To maintain user trust as AI becomes more autonomous, product leaders must ensure the user always feels in control of the interaction.
 
 **Tactical advice:**
@@ -496,8 +480,6 @@
 *Source: [Inside ChatGPT: The fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI)](https://www.youtube.com/watch?v=ixY2PvQJ0To) @ 00:56:08*
 
 ---
-
-> "They don't look at the academic benchmarks. They don't look at evaluations. They try the model and see what it feels like. And just on that dimension alone, I'm so excited."
 
 **Insight:** The ultimate measure of an AI product's success is the user's subjective perception of its "vibe" and utility rather than its performance on academic benchmarks.
 

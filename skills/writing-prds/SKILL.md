@@ -23,11 +23,6 @@ Jenny Wen: "We used to go off and make this two-year, five-year, 10-year vision 
 
 Design should focus on short term functional prototyping rather than static long term planning to keep up with AI driven engineering speeds.
 
-### Maximize output through constraints
-Kevin Yien: "The purpose of product management, not the person, but the practice, is to convert that potential into as much realized value for someone as possible, right? Minimum loss. When you're just getting started with a new product, the people that should be doing that are the people who are building it."
-
-The product manager must define constraints and provide direction when a project space becomes too complex for the build team to navigate alone.
-
 ### Shape project boundaries early
 Ryan Singer: "What we need to do in a shaping session is we come out with some kind of diagram where engineers, product and design, they're saying, "We understand that." So the first thing is we are not going to start something unless we can see the end from the beginning."
 
@@ -42,11 +37,6 @@ A successful PRD starts with a clearly defined problem and specific success metr
 From "My favorite product management templates": "A reminder of how valuable it is to keep these to one page, at least to start"
 
 Limiting initial project documents to a single page forces the team to stay focused on core goals and helps prevent early complexity.
-
-### Leverage physical and goal proximity
-Katie Dill: "One of the things that I believe as a necessary part of building a high-functioning organization is that, one, building together is important. So having engineers, and product managers, and designers be together, have shared goals, and align on that and be able to just look over each other's shoulder and talk about things, is important. So sitting together is important."
-
-Co-locating teams and establishing shared goals across disciplines prevents silos and ensures design intent is maintained during execution.
 
 ### Document to move from chaos to clarity
 Melanie Perkins: "So we have this concept of chaos to clarity and every idea starts in the chaos side, and then you have to work all the way to the other side, which is clarity. And so chaos can be an idea, it can be a problem, it can be a philosophy or a belief."

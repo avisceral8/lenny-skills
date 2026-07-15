@@ -64,8 +64,6 @@
 
 ## Katie Dill
 
-> "One of the things that I believe as a necessary part of building a high-functioning organization is that, one, building together is important. So having engineers, and product managers, and designers be together, have shared goals, and align on that and be able to just look over each other's shoulder and talk about things, is important. So sitting together is important."
-
 **Insight:** Physical proximity and shared goals between disciplines prevent silos and ensure design intent is maintained during execution.
 
 **Tactical advice:**
@@ -79,8 +77,6 @@
 
 ## Kevin Yien
 
-> "The purpose of product management, not the person, but the practice, is to convert that potential into as much realized value for someone as possible, right? Minimum loss. When you're just getting started with a new product, the people that should be doing that are the people who are building it."
-
 **Insight:** The role of a product manager is to maximize the team's output by providing the necessary direction and decision-making that builders may not have the capacity to handle alone.
 
 **Tactical advice:**
@@ -93,8 +89,6 @@
 ---
 
 ## Lenny Rachitsky
-
-> "This criteria becomes incredibly important throughout the project because it helps you make decisions and prioritize. Does feature X increase the chances of achieving the goal you set? If not, cut it."
 
 **Insight:** Continuously returning to the defined problem and success metrics serves as a filter to reject features that don't directly serve the project's goal.
 
@@ -159,8 +153,6 @@
 
 ---
 
-> "This overlap between PMs and designers is a benefit—it means we all want the same thing. But, we often have very different approaches to achieving these goals, which can lead to friction in our collaboration. However, when we embrace our different methods and styles, great things happen!"
-
 **Insight:** High-performing PM and design partnerships rely on the PM acting as a facilitator who trusts design expertise and aligns the team through shared context rather than control.
 
 **Tactical advice:**
@@ -171,8 +163,6 @@
 *Source: [The PM 🤝 Design Partnership](https://www.lennysnewsletter.com/p/the-pm--design-partnership)*
 
 ---
-
-> "To level it up further, it could have crystallized the problem more clearly, outlined the details of the spec more concretely, and generally kept the document cleaner."
 
 **Insight:** To improve a product spec, audit it for clarity of the problem statement, concrete feature details, and overall readability.
 
@@ -237,8 +227,6 @@
 
 ---
 
-> "This is where we’ll need (and want) human input for a long while—if for nothing else than to keep the user experience simple, cohesive, and delightful. This is also where companies will have the most opportunity to compete, once everyone’s got AI tools at their disposal."
-
 **Insight:** Maintaining product simplicity and delight remains a uniquely human responsibility and a key competitive advantage in an AI-commoditized market.
 
 **Tactical advice:**
@@ -250,8 +238,6 @@
 
 ---
 
-> "Create a v1 PRD or Jira ticket: Identify drag metrics: Write user stories:"
-
 **Insight:** Use AI to overcome the 'blank page' problem by generating initial drafts of technical documentation and user requirements.
 
 **Tactical advice:**
@@ -262,8 +248,6 @@
 *Source: [How to use ChatGPT in your PM work](https://www.lennysnewsletter.com/p/how-to-use-chatgpt-in-your-pm-work)*
 
 ---
-
-> "It writes product specs, standardizes your documents across your team, and integrates with the best-in-class PM tools, including other product-pass products like Lovable, Bolt, Gamma, Magic Patterns, and Linear."
 
 **Insight:** AI platforms designed for product management can transform disorganized notes into standardized, professional documentation that integrates directly with development workflows.
 
@@ -379,8 +363,6 @@
 
 ## Nickey Skarstad
 
-> "And then we realized we actually tanked a couple of downstream metrics that we didn't really understand at first. And those metrics were basically getting sellers to a first sale. So we opened up a lot of shops, but they actually weren't successful when they were on the platform, and they weren't successful in a certain amount of time. So we did a lot of unpacking of what happened there, why did we do that, and actually does that matter? And the end answer was, yes, it matters greatly."
-
 **Insight:** Analyze the downstream effects of optimizing for immediate conversion to prevent creating a low-quality ecosystem that hurts user behavior in the long run.
 
 **Tactical advice:**
@@ -407,8 +389,6 @@
 
 ---
 
-> "There was always this sharpening to get to what is this thing really and when are we going to get to the end soon? There was just no tolerance for big things that got fuzzy and started to drag."
-
 **Insight:** Successful projects require aggressive sharpening of ideas into a specific, bounded concept to prevent waste and ensure the team reaches the finish line.
 
 **Tactical advice:**
@@ -432,8 +412,6 @@
 ---
 
 ## Scott Belsky
-
-> "I always have felt like a lot of products win not because of the technology but the user's experience of the technology. So if you have an aligned team that gets that and makes decisions accordingly, I think you can ship better experiences. So a lot of the work I had to do was breaking some of these boundaries down over the years."
 
 **Insight:** Superior products result from collapsing the artificial boundaries between functions so the entire team can focus on the user's perception of the technology.
 

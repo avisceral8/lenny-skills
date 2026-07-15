@@ -201,8 +201,6 @@
 
 ## Jeremy Henrickson
 
-> "The more you can bake into a clear platform, it reduces the decision-making complexity for everyone who's working on the domain part of the problem. And so a clear like a platform with a clear interface [inaudible 00:10:12] easy to use in all the ways that both engineers and product people want it to be easy to use, simplifies the space in which people have to think about these problems."
-
 **Insight:** A robust platform layer accelerates domain teams by abstracting technical complexity and narrowing the decision space for new features.
 
 **Tactical advice:**
@@ -215,8 +213,6 @@
 ---
 
 ## Jonathan Becker
-
-> "I tell him, I'm like, "Hey, I'm doing this. I'm adding zero value, but this is a loophole in your marketing system, and someone should close it." He essentially is like, "I need to report this to the board, but here's my card, write me what you're doing and we'll contact you.""
 
 **Insight:** To win enterprise clients, demonstrate authority by identifying critical system flaws and offering specialized solutions they haven't considered.
 
@@ -270,8 +266,6 @@
 
 ---
 
-> "In B2B software, it turns out buyers are more worried about messing up than they are about missing out. Let’s understand why, and what we can do about it to significantly improve your sales success."
-
 **Insight:** B2B buyers often default to 'no decision' because they fear the personal and professional consequences of making a bad choice more than the risk of staying with the status quo.
 
 **Tactical advice:**
@@ -308,8 +302,6 @@
 *Source: [How to build a killer sales pitch](https://www.lennysnewsletter.com/p/how-to-build-a-killer-sales-pitch)*
 
 ---
-
-> "We think what e-comm businesses really need is an easy-to-use tool that has advanced features so they never outgrow it, but was designed from the ground up to provide an amazing customer experience. Would you agree with that?"
 
 **Insight:** Proposing a specific vision of the ideal solution and asking for agreement allows you to immediately qualify prospects who share your worldview or disqualify those who don't.
 
@@ -358,8 +350,6 @@
 ---
 
 ## Marc Benioff
-
-> "I think he wants me to build an app store. At that moment, I went to the domain registry, and I bought appstore.com. Then, I started working on it at Salesforce so that we would have the ability with our platform to build apps, and then sell them, and that you could do all these things."
 
 **Insight:** Driving massive enterprise growth requires moving beyond a single product to create a platform ecosystem that supports an entire economy of third-party developers.
 
@@ -413,8 +403,6 @@
 
 ---
 
-> "The second thing is we've got to offer a recommendation. The third thing is we've got to get them to start trusting us and we call it limit the exploration, and the T is we've got to de-risk the deal."
-
 **Insight:** Help buyers overcome choice overload by narrowing their options and providing a specific, expert recommendation.
 
 **Tactical advice:**
@@ -426,8 +414,6 @@
 
 ---
 
-> "The third thing is we've got to get them to start trusting us and we call it limit the exploration, and the T is we've got to de-risk the deal. We've got to take some risk off the table."
-
 **Insight:** Build trust by positioning yourself as an authoritative guide who knows when to stop the information-gathering phase.
 
 **Tactical advice:**
@@ -438,8 +424,6 @@
 *Source: [The surprising truth about what closes deals: Insights from 2.5m sales conversations | Matt Dixon (author of The Challenger Sale and The JOLT Effect)](https://www.youtube.com/watch?v=cUzEgRetmC4) @ 38:45*
 
 ---
-
-> "The T is we've got to de-risk the deal. We've got to take some risk off the table."
 
 **Insight:** Bridge the gap between a buyer's intent to purchase and their final action by creating safety nets that mitigate the risk of error.
 
@@ -501,8 +485,6 @@
 
 ---
 
-> "So, A, that process is very important from a technology deployment standpoint and also, B, it's very measurable, especially in a modern environment with modern CRMs and also all the digital activity that we do, email, calendar, phone, Zoom, et cetera, all this information is now being recorded such that you can then measure, manage, and improve behavior."
-
 **Insight:** Modern sales relies on capturing and analyzing digital activity data to transform selling from an intuitive art into a measurable and manageable operational discipline.
 
 **Tactical advice:**
@@ -514,8 +496,6 @@
 
 ---
 
-> "They have supply in their back pocket and they run around trying to find people who ought to have the demand, maybe they have the demand right now, maybe they don't realize that they have the demand, and then they elucidate to them why they ought to have the demand."
-
 **Insight:** Effective discovery involves acting as a consultant who helps prospects recognize and understand the magnitude of problems they may not have yet prioritized.
 
 **Tactical advice:**
@@ -526,8 +506,6 @@
 *Source: [Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)](https://www.youtube.com/watch?v=cZd5234Eem0) @ 00:33:44*
 
 ---
-
-> "If you think about the stages that a product goes through, it's one, you've got to know what problem you're solving and validate that, and it's got to be real. It can't be like, "Oh, well, I thought I had this problem," it's got to be validated."
 
 **Insight:** B2B startup growth must progress sequentially from problem validation to product building and repeatable founder-led sales before scaling the organization.
 
@@ -552,8 +530,6 @@
 ---
 
 ## Sahil Mansuri
-
-> "The Seller Portfolio is a realtime tracker of how you and your sales team are performing relative to quota. You can kind of think of it like mint.com, but instead of being for personal finance, it's for sales. Based on that, we're able to get a realtime perspective on which companies in specific, and then overall which industries and in which sectors are at or above or below quota."
 
 **Insight:** Leverage aggregated market performance data to differentiate between internal sales execution failures and broader macroeconomic headwinds.
 

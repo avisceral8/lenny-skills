@@ -94,8 +94,6 @@
 
 ## EOY Review
 
-> "The insight is instrumenting properties into an event so that you can segment who is doing what behavior and make some hypotheses on that observation, test that hypothesis and then you get some causal representation of whether or not that hypothesis was right."
-
 **Insight:** Changing user behavior requires instrumenting events with detailed properties to move from high-level observations to causal hypotheses about what motivates specific user segments.
 
 **Tactical advice:**
@@ -108,8 +106,6 @@
 ---
 
 ## Gia Laudi
-
-> "It puts businesses, or they, I should say, puts businesses at the center of the business versus putting customers at the center. It's about the values of the business, not the value to the customer that's being measured. Also, it just kind of feels gross for people, this idea of pushing people through a funnel."
 
 **Insight:** Traditional funnels fail because they prioritize internal business metrics over the actual value and emotional milestones experienced by the customer.
 
@@ -136,8 +132,6 @@
 ---
 
 ## Grant Lee
-
-> "We are going to do everything we possibly can to make the first 30 seconds of the product feel magical. The moment you land into the product, it has to be great, and it has to be so great that someone that goes through that onboarding is going to tell all their friends."
 
 **Insight:** Focusing on a 'magical' first 30 seconds of onboarding is the most effective way to turn new users into an organic word-of-mouth engine.
 
@@ -208,8 +202,6 @@
 
 ## Laura Schaffer
 
-> "I'm not kidding, an improved conversion. There's no personalization, nothing past it, just the questions. An improved conversion by like 5%, just improved signups."
-
 **Insight:** Adding diagnostic friction during onboarding can actually improve conversion by making the product experience feel more tailored to the user's needs.
 
 **Tactical advice:**
@@ -277,8 +269,6 @@
 
 ---
 
-> "By designing solutions that align with our psychology, we can make it easier for people to do things they already want to do. To help you improve your own product, positively, I’m going to share four concrete examples of experiments that saw significant shifts in conversion rates when they used behavioral design to drive product design—and why they worked."
-
 **Insight:** Increasing conversion requires aligning product design with psychological triggers to reduce the gap between user intent and action.
 
 **Tactical advice:**
@@ -289,8 +279,6 @@
 *Source: [How behavioral science can boost your conversion rates](https://www.lennysnewsletter.com/p/how-behavioral-science-can-boost-your-conversion-rates)*
 
 ---
-
-> "More and more companies are using behavioral design to conduct user research, develop products, and design experiments that drive behavior change and growth. It’s an end-to-end lens on product development that helps teams think differently about their customer."
 
 **Insight:** Behavioral design serves as a comprehensive framework for product development that moves beyond rational models to address actual human behavior.
 
@@ -303,8 +291,6 @@
 
 ---
 
-> "After only one year of experimenting with this one critical flow, we’ve raised $3 million more in incremental donations per year—meaning that about 3,000 more families in extreme poverty receive a life-changing cash transfer every year going forward."
-
 **Insight:** Systematic A/B testing on core checkout flows can unlock massive revenue growth through iterative improvements to payment options, copy, and default settings.
 
 **Tactical advice:**
@@ -315,8 +301,6 @@
 *Source: [How GiveDirectly increased donations by over $3 million/year through experimentation](https://www.lennysnewsletter.com/p/how-givedirectly-increased-donations-by-over-3-millionyear-through-experimentati)*
 
 ---
-
-> "So rather than building new features, we focused on building ways to raise awareness and engagement with the searches we already had. We used several approaches (discussed in the sections below), which together nearly doubled the number of users who did these types of searches—and translated into millions of dollars of incremental ad revenue."
 
 **Insight:** Driving awareness of existing high-value features through contextual introductions can be more effective than building new ones.
 
@@ -524,8 +508,6 @@
 
 ---
 
-> "Set up analytics and track conversion within your funnels. Learn tactics to improve conversion. Learn the basics of funnel conversion optimization."
-
 **Insight:** Optimizing funnels is a cycle of implementing precise tracking to find friction points and applying targeted tactics to smooth the user journey.
 
 **Tactical advice:**
@@ -537,8 +519,6 @@
 
 ---
 
-> "People find this content through search, typically a blog post. Some of those people sign up to get a more comprehensive piece of content—e-book, template, course."
-
 **Insight:** High-quality video courses and templates serve as powerful middle-of-funnel assets that convert educational search traffic into activated leads.
 
 **Tactical advice:**
@@ -549,8 +529,6 @@
 *Source: [Content-driven growth](https://www.lennysnewsletter.com/p/content-driven-growth)*
 
 ---
-
-> "In some cases, the prospect customers like the product so much, and the price fits their budget, that they may even purchase via a self-service checkout flow without talking to sales at all."
 
 **Insight:** Providing a frictionless in-product purchasing path allows customers to convert at their own pace without the bottleneck of a sales consultation.
 
@@ -641,8 +619,6 @@
 
 ---
 
-> "Product teams have lots of frameworks leading up to launching new features, including identifying user needs, defining solutions, and prioritizing them on a roadmap. But what about a framework for increasing the adoption of features after they’ve launched?"
-
 **Insight:** Effective feature adoption requires a framework that continues long after the initial onboarding phase and targets the entire user lifecycle.
 
 **Tactical advice:**
@@ -653,8 +629,6 @@
 *Source: [How to accelerate growth by focusing on the features you already have](https://www.lennysnewsletter.com/p/how-to-accelerate-growth-by-focusing-on-the-features-you-already-have)*
 
 ---
-
-> "I needed to create a sign-up form for users to get early access to the agent we were building. This is a classic case of something that seems pretty easy at first but ends up making you bang your head against a wall. Your second brain can now swoop in to save the day as it holds all the context on your initiative."
 
 **Insight:** Leveraging deep AI context helps craft concise user-facing questions that effectively validate pain points while ensuring user and product alignment.
 
@@ -745,8 +719,6 @@
 
 ---
 
-> "The early growth team was fully resourced and autonomous: one PM, one eng, and one designer. We started experimenting with paid marketing (ads → funnel) and had full ownership of our tech stack. We didn’t have to bother anyone to get stuff done."
-
 **Insight:** Maximizing conversion rates requires a dedicated, cross-functional squad that has the technical autonomy to iterate on every step from the initial ad to the paywall.
 
 **Tactical advice:**
@@ -757,8 +729,6 @@
 *Source: [How to win in consumer subscription](https://www.lennysnewsletter.com/p/how-to-win-in-consumer-subscription)*
 
 ---
-
-> "Grammarly’s product strategy was to sit across all your apps and writing environments (i.e. mobile keyboard, browser extension), so that immediately informed our rapid funnel and creative experimentation."
 
 **Insight:** Activation and retention are maximized when the product's first experience is seamlessly integrated into the user's existing habits and environments.
 
@@ -810,8 +780,6 @@
 
 ---
 
-> "The checkout flow should be smooth and offer various payment options to accommodate customers from all regions. After mapping out these broad components, the team should then dive deeper to identify the specific details that need to be optimized or maximized in each step of the funnel."
-
 **Insight:** Self-service revenue relies on a checkout experience that is as frictionless as modern e-commerce sites, allowing users to buy without human intervention.
 
 **Tactical advice:**
@@ -848,8 +816,6 @@
 *Source: [The most important consumer subscription metrics to track](https://www.lennysnewsletter.com/p/the-most-important-consumer-subscription-metrics-to-track)*
 
 ---
-
-> "Cohort conversion from free to paid: The percentage of free users who convert from free/trial to paid X weeks after signing up, broken out by monthly and annual."
 
 **Insight:** To accurately gauge conversion health, you must track not just the rate, but also the velocity of conversion and the split between monthly and annual plans.
 

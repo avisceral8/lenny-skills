@@ -56,8 +56,6 @@
 
 ## Hila Qu
 
-> "In those cases I think it's super helpful to maybe either find someone who have done this as an advisor or hire someone like you need to have that expertise or through advisor to support your PLG motion."
-
 **Insight:** Transitioning to a product-led model often requires external expertise because the skill set for designing self-serve journeys is distinct from traditional sales-led operations.
 
 **Tactical advice:**
@@ -182,8 +180,6 @@
 *Source: [Six rules of hiring for growth](https://www.lennysnewsletter.com/p/six-rules-of-hiring-for-growth)*
 
 ---
-
-> "Early on, focus on the things that can give you 2x - 10x growth. Unless your product is designed to grow through viral loops, a % increase in conversion in the early days isn’t going to have the best ROI."
 
 **Insight:** A growth team should prioritize high-leverage top-of-funnel wins once retention is healthy, while ensuring growth remains a cross-functional responsibility.
 

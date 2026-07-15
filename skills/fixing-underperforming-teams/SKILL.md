@@ -18,21 +18,6 @@ Help the user with fixing underperforming teams using insights from 12 guests an
 
 ## Core Principles
 
-### Practice Radical Self-Inquiry
-Jerry Colonna: "So if you want to create a high-functioning team, do your work, and it starts with the person who has the most power."
-
-Acknowledge that team dysfunction often mirrors the leader's own unexamined patterns. Ask yourself how you are contributing to the very issues you dislike.
-
-### Reject Ruinous Empathy
-Kim Scott: "So we do remember to show that we care personally, but we're so worried about not hurting someone's feelings or not offending them, that we fail to tell them something they'd be better off knowing in the long run. And that is what I call ruinous empathy."
-
-Avoid withholding necessary criticism to protect feelings. Prioritizing short-term comfort over long-term growth prevents people from fixing career-ending mistakes.
-
-### Prioritize Humanity in Exits
-Matt Mochary: "The biggest marker that I've seen between a botched layoff and a successful layoff is at the moment someone hears that they no longer have a job, did they hear it from their manager in a one-on-one? If that's when they heard it, it'll be okay. But if they heard it in an email, in a group chat, in any kind of thing where they were sitting next to or they're hearing it along with other people, it wasn't personalized, it wasn't one-on-one, that is terrible. That's when people get really angry and that's when they start going on to Twitter and going to newspapers and et cetera, because it feels dehumanizing."
-
-Deliver termination news personally in a one-on-one setting. Using email or group notifications destroys trust and psychological safety for those who remain.
-
 ### Apply the Enthusiastic Rehire Test
 Uri Levine: "Every time that you hire someone new, mark your calendars for 30 days down the road and ask yourself one question, knowing what I know today, would I hire this person? If the answer is no, fire them immediately."
 

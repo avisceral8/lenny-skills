@@ -6,8 +6,6 @@
 
 ## Amjad Masad
 
-> "I often go with minimalist prompts. That's also how I code as well. I have a vague idea for what I want to build and iterate from there."
-
 **Insight:** Rapid UI iteration is most effective when using a series of small, conversational prompts rather than attempting to specify every detail in a single step.
 
 **Tactical advice:**
@@ -36,8 +34,6 @@
 
 ## Daniel Lereya
 
-> "If you set a different goal, 'I want to reduce it from four months to three months.' So many times, this translates in people's heads to, 'I want you to work harder. I want you to work longer hours.' And, this is not a message here. It's about working smarter."
-
 **Insight:** Benchmark against competitors to identify execution slowness and set aggressive, non-incremental goals that force structural improvements rather than just increased labor.
 
 **Tactical advice:**
@@ -50,8 +46,6 @@
 ---
 
 ## Farhan Thawar
-
-> "Everyone says, "Oh yeah, work hard and do more hours when you're young, whatever." I'm like, "What if you just did more per minute?""
 
 **Insight:** Organizational intensity is achieved by maximizing output within each minute of work rather than simply increasing total work hours.
 
@@ -137,8 +131,6 @@
 
 ---
 
-> "Regardless of whether you are pushing your own idea within a larger company, fleshing out a new product space, or expanding existing initiatives, these tips will accelerate you, your team, and your company."
-
 **Insight:** To maintain startup speed within a larger company, teams must replace rigid corporate status quo with rapid prototyping, internal hype, and a passionate opt-in culture.
 
 **Tactical advice:**
@@ -176,8 +168,6 @@
 
 ---
 
-> "Find out each person’s individual goals (e.g. they want to become a manager, they want to start a company, they want to be promoted), and help them see the connection between the work they are doing and achieving this goal. Make sure they see that."
-
 **Insight:** Engineering teams deliver faster when they see a direct link between their daily tasks and their long-term professional ambitions.
 
 **Tactical advice:**
@@ -188,8 +178,6 @@
 *Source: [This Week #4: Motivating engineers to hit deadlines, PM career ladders, and aligning with execs](https://www.lennysnewsletter.com/p/this-week-4-motivating-engineers-to-hit-deadlines-pm-career-ladders-and-aligning)*
 
 ---
-
-> "Building a team and a culture is the best part of building a company!"
 
 **Insight:** Small, intentional process changes in how a team shares information and interacts socially can lead to significant improvements in velocity and cross-functional collaboration.
 
@@ -280,8 +268,6 @@
 
 ---
 
-> "A bit more planning up-front can save you a lot of pain later."
-
 **Insight:** Proactive planning helps identify potential risks and edge cases that could cause major delays during the shipping phase.
 
 **Tactical advice:**
@@ -292,8 +278,6 @@
 *Source: [Increasing team velocity](https://www.lennysnewsletter.com/p/increasing-team-velocity)*
 
 ---
-
-> "Experimenting with new product development processes can often uncover better ways of working."
 
 **Insight:** Treating your development process as a product allows you to continuously iterate toward higher efficiency.
 
@@ -331,8 +315,6 @@
 *Source: [This Week #4: Motivating engineers to hit deadlines, PM career ladders, and aligning with execs](https://www.lennysnewsletter.com/p/this-week-4-motivating-engineers-to-hit-deadlines-pm-career-ladders-and-aligning)*
 
 ---
-
-> "Marketing, product, big customer wins. It should all be postmortemed to understand what went well and what didn’t. This way you are constantly assessing how things are going and are able to discuss how to improve them."
 
 **Insight:** Regular postmortems on all major initiatives help remote teams identify miscommunications and continuously iterate on their internal processes.
 
@@ -471,8 +453,6 @@
 
 ## Rahul Vohra
 
-> "Now, solution deepening means making your product better for its existing users, but not making it available to more users. Whereas market widening means making your product available to more users, but not making the product itself any better."
-
 **Insight:** Product velocity often slows down when resources shift from solution deepening to market widening, as expanding to new platforms and integrations increases complexity without improving the core experience.
 
 **Tactical advice:**
@@ -511,8 +491,6 @@
 *Source: [A better way to plan, build, and ship products | Ryan Singer (creator of “Shape Up,” early employee at 37signals)](https://www.youtube.com/watch?v=GF-yUANql0c) @ 00:05:14*
 
 ---
-
-> "I knew our inside story of we had some growing pains and we had to be able to formalize the way that we were working and shipping so that as we brought new people in that they could participate in that and we could stay fast."
 
 **Insight:** Scaling requires formalizing an organic shipping culture into a repeatable process that preserves startup speed and urgency.
 

@@ -21,8 +21,6 @@
 
 ## Claire Butler
 
-> "We had Coda. They were our first user, and they were based in Palo Alto. Dylan and I drove down and demoed the product to them, and they were the first ones. Their designer, Jeremy was like, 'Yes, we'll take this on full time.'"
-
 **Insight:** Drive bottom-up adoption by winning over individual champions with high-touch support and immediate resolution of collaboration barriers.
 
 **Tactical advice:**
@@ -191,8 +189,6 @@
 *Source: [Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)](https://www.lennysnewsletter.com/p/summary-the-ultimate-guide-to-adding-a-plg-motion--hila-qu-reforge-gitlab)*
 
 ---
-
-> "If I had to change something, I would have been less supportive of brand marketing initiatives. We eventually ran offline marketing and TV as performance marketing."
 
 **Insight:** Redirect resources from brand-heavy initiatives toward product-driven growth loops that generate measurable, scalable returns.
 

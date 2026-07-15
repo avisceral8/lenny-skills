@@ -23,11 +23,6 @@ Bill Carr: "Let's create teams that can stand alone, where there's a single lead
 
 Move away from shifting resources between tasks toward a program orientation where teams own a specific customer area indefinitely. This empowers single-threaded leaders to take full ownership of long-term outcomes.
 
-### Pair Experience with Speed
-Chip Conley: "When you have older brains connecting the dots, younger team members being really fast and focused, it's brilliant, and people won't notice your wrinkles as much as they'll notice your energy."
-
-Leverage the pattern recognition of seasoned leaders alongside the focus of younger talent. Ensure teams include experienced voices who can advocate for the user and connect dots across the organization.
-
 ### Unify Under a Single CPTO
 Claire Vo: "I'm using CPTO for short code of running product and engineering design functionally together. There should be no debates over what's best for product or what's best for engineering, what's best for design speed. What is best for the organization?"
 
@@ -42,11 +37,6 @@ Transitioning to a functional structure helps a company align on singular techni
 Heidi Helfand: "I really like it when there's transparency in reorgs. There's a story in my book from Christian Lima at Spotify about how they reorged a large infrastructure team. They visualized it on whiteboards and brought people over to the whiteboards to see the future team structure that the leaders wanted and they got input into the design."
 
 Maintain transparency during reorganizations by visualizing proposed structures on public whiteboards. Involving employees early helps identify structural errors and increases engagement with the new mission.
-
-### Maximize Impact with Tiny Teams
-Keith Coleman & Jay Baxter: "If I were to start a company in that company, it would be even leaner than I would've made it before. I've been amazed with just how much the team is able to accomplish with a small group and I think because of a small group-"
-
-Small, autonomous teams achieve higher speed by stripping away corporate bureaucracy. Keeping team sizes minimal maximizes individual ownership and allows groups to focus on core product principles.
 
 ### Distribute PM Responsibilities
 Karri Saarinen: "We actually don't have much PMs in the company. We only have one and we can talk about more about it. One of the things I think that happens is when you build a team and you start creating these very specific roles for everything I think that often the PM can be the ones figuring things out and making decisions and guiding the team, but they're not the ones building the feature."

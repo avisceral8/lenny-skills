@@ -53,11 +53,6 @@ Pete Kazanjy: "This is why Steve Blank always talks about startups can't get to 
 
 Lead the sales process personally for the first few dozen customers to ensure the loop between market feedback and product development remains unbroken.
 
-### Transform selling into a measurable operation
-Pete Kazanjy: "So, A, that process is very important from a technology deployment standpoint and also, B, it's very measurable, especially in a modern environment with modern CRMs and also all the digital activity that we do, email, calendar, phone, Zoom, et cetera, all this information is now being recorded such that you can then measure, manage, and improve behavior."
-
-Capture all digital interactions—email, calendar, and Zoom—within your CRM to build a database of behaviors that can be managed and scaled.
-
 ## Templates & Frameworks
 
 - **MEDDIC Sales Methodology** (SEO keywords, career ladders, backlog tools, copywriting, OnlyFans, AMA with Pete Kazanjy and much more) - A deal qualification framework for large enterprise sales with complex, multi-stakeholder deals.

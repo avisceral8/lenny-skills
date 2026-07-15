@@ -43,8 +43,6 @@
 
 ## Gina Gotthilf
 
-> "One of the things I've helped employ at Duolingo that I think is still there today, it's definitely not just me, it was an amazing team, is a unique voice. And what that means is not just another language learning app where we give you instructions and you follow directions."
-
 **Insight:** Building an organic user base requires a unique brand voice that moves beyond simple instructions to create a memorable emotional connection with the user.
 
 **Tactical advice:**
@@ -96,8 +94,6 @@
 *Source: [Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business](https://www.lennysnewsletter.com/p/accelerating-growth-at-scale--phase-2-of-kickstarting-and-scaling-a-marketplace)*
 
 ---
-
-> "Learn about viral loops. Learn about the types of virality. Learn about ways to increase virality."
 
 **Insight:** Virality is a deliberate product design choice that leverages specific loops to systematically lower the friction for users to bring in new users.
 
@@ -240,8 +236,6 @@
 
 ---
 
-> "People respond to incentives — what’s it in for them to spread the good word about your product?"
-
 **Insight:** Referral programs succeed when they leverage selfish rewards, altruistic benefits, or FOMO to motivate existing users to invite their network.
 
 **Tactical advice:**
@@ -265,8 +259,6 @@
 *Source: [How to increase virality](https://www.lennysnewsletter.com/p/how-to-increase-virality)*
 
 ---
-
-> "This form of virality comes from content generated through the product, which your users can’t help but share with their friends."
 
 **Insight:** Turning product-generated content into a viral asset requires making that content remarkable and ensuring it is clearly linked back to its source.
 
@@ -369,8 +361,6 @@
 *Source: [Product-led marketing](https://www.lennysnewsletter.com/p/product-led-marketing)*
 
 ---
-
-> "The nature of PLG products encourages organic growth and word of mouth, as people who find value in the free version are likely to share it with others, expanding its user base."
 
 **Insight:** Collaborative products leverage built-in viral loops where existing users naturally acquire new users through the course of using the product.
 
@@ -499,8 +489,6 @@
 ---
 
 ## Oji Udezue
-
-> "This is the bedrock of virality. Build a great product that solves a sharp problem."
 
 **Insight:** Organic virality is a byproduct of solving a 'sharp' problem so effectively that users naturally advocate for the product.
 

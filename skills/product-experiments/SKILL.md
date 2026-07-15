@@ -48,16 +48,6 @@ Ronny Kohavi: "We can talk later about Wyman's law, but that was the first react
 
 Treat any result that looks too good to be true with immediate skepticism. Conduct rigorous bug-hunting and replicate surprising results multiple times to ensure they are not technical flukes.
 
-### Integrate qualitative depth into quant data
-Tim Holley: "one of them is around digging deeper, and that really speaks to aiming to really understand the why behind a change, to really push on the insights that we're learning through qual or quant research, or other inputs that we might be looking at in order to make the best decision possible with the information we have at the time."
-
-Dig deeper into the underlying why of your data by combining quantitative cohort analysis with qualitative research. Ensure the team is trained to push past surface-level metrics.
-
-### Build theory-based predictive models
-From "How behavioral science can boost your conversion rates": "Behavioral science provides a lens to decision-making that is valuable at the early stages of ideation. With an up-front model of how and why someone will likely engage with your product, you’re less likely to need marginal improvements later."
-
-Define an up-front model of user engagement before launching tests. Theory-based experiments allow you to build a predictive model of behavior that reduces the need for constant marginal adjustments.
-
 ## Templates & Frameworks
 
 - **Three Reasons to Skip an Experiment** (When NOT to run an experiment – Issue 54) - A decision framework with three distinct scenarios where shipping without an experiment is the right call

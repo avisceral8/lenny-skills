@@ -18,11 +18,6 @@ Help the user with building a promotion case using insights from 6 guests and po
 
 ## Core Principles
 
-### Drive Business Impact First
-From "A comprehensive survey of Product Management": "Unlike the mini-CEO label PMs often get, in reality they must keep their external stakeholders onboard to be successful"
-
-Business impact is the primary engine of promotion: while alignment matters, you must demonstrate how your work directly moves the needle for the company.
-
 ### Perform the Role Before You Have It
 From "How to get promoted": "People don’t get promoted for doing their jobs really well. They get promoted by demonstrating their potential to do more. At many companies, you get promoted only after you’ve demonstrated you can handle the next level."
 
@@ -43,20 +38,10 @@ From "How to get promoted": "Explicitly or implicitly, every company prioritizes
 
 Analyze the skills and impact of colleagues who were recently promoted to understand the unwritten criteria that the company actually values.
 
-### Seek Scaling Environments
-Julie Zhuo: "The first is, well, I was lucky. I was in the right place at the right time. I was at a company that was scaling, and when you're at a company that grows, there's always a lot more opportunity to then be able to try something new, right, to raise your hand, to volunteer for things to be just thrown into because somebody has to do it because it's a growing company and a lot of other people."
-
-Leadership opportunities are created by organizational scale: volunteer for responsibilities outside your expertise in rapidly growing companies.
-
 ### Address Specific Behavioral Gaps
 From "How to get promoted": "No matter your role or level, there’s a skill or behavior that is keeping you from the next level. To get promoted, you’ll need to demonstrate that you’ve addressed that gap, in the eyes of both your manager and other influential leaders involved in the promotion process."
 
 Work with your manager to identify the exact 2 to 3 behaviors holding you back and create a measurable action plan to close them.
-
-### Raise Your Tactical Bar
-From "🚨 Applications now open for my live course—Product Management Fundamentals": "I wanted to reach out and let you know that I just got promoted from an APM to a PM! I have to credit your workshops for developing my skill set, pushing me to try new tactics, and raising the bar I set for myself."
-
-Advancing requires more than just doing more of the same: you must expand your toolkit with advanced frameworks to demonstrate a higher level of mastery.
 
 ## Templates & Frameworks
 

@@ -33,30 +33,15 @@ From "Product manager is an unfair role. So work unfairly.": "Instead of adding 
 
 Complete small tasks and alignment rituals during the meeting to prevent the accumulation of follow-up work and ensure immediate momentum.
 
-### Signal professionalism through preparation
-Sam Lessin: "Be early. Don't order the most expensive thing on the menu. For a video call, an appropriate background. Don't smell like shit."
-
-Demonstrate respect for the team's time by removing environmental distractions, arriving early, and ensuring your setup is professional.
-
 ### Validate before aligning
 From "A PM’s guide to influence": "People often won’t listen to you until they feel that you’ve fully heard them. When people don’t think you deeply understand their POV, they often become obsessed with repeating their points more forcefully instead of hearing yours."
 
 Use active listening and playback techniques to ensure stakeholders feel heard, which prevents defensive responses that block consensus.
 
-### Focus on high-nuance tasks
-From "How AI will impact product management": "Aligning opinionated stakeholders, unblocking blockers, pushing teams to work harder, creating amazing experiences, getting buy-in on big ideas, understanding and acting on nuance, etc. I’m not saying AI won’t be better than humans at this stuff one day... I’m saying that these soft skills are where AI won’t take over for a long while, and thus they are the skills you should be cultivating more than ever."
-
-Prioritize meetings for functions most resilient to automation, such as negotiating with opinionated stakeholders and marshaling resources.
-
 ### Audit for intentionality
 From "Leading a PM team meeting - Issue 19": "Don’t do this meeting just to do it. Make certain that adding (or continuing this meeting) is consistently worth everyone’s time. What problem are you trying to solve?"
 
 Only maintain recurring meetings that solve a specific problem that cannot be addressed more efficiently through other channels.
-
-### Equalize voices to remove groupthink
-From "My favorite decision-making frameworks": "It’s a simple yet impactful ritual for supercharging decisions by equalizing voices and removing groupthink in meetings."
-
-Use structured rituals like anonymous voting or simultaneous feedback to ensure every participant's opinion is captured before group discussion.
 
 ## Templates & Frameworks
 

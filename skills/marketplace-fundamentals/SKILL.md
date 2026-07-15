@@ -28,20 +28,10 @@ Ramesh Johari: "The moral is a marketplace business never starts as a marketplac
 
 Marketplaces struggle at low scale, so you must offer a high friction utility problem that provides value before critical mass is reached. This helps bootstrap the network by giving users a reason to join without existing liquidity.
 
-### Prioritize Market Momentum
-Sarah Tavel: "That's why we care less about market size because really, what you're looking for when you're looking at a market, are what are the dynamics of change, what's the current and momentum that's going to pull the company and make the job easier for the founders to actually build something that endures."
-
-Choose markets defined by a current of change rather than just static size. A market with forward momentum pulls the company along and makes success more likely than fighting against a static or declining industry.
-
 ### Empower Supply to Adapt
 Tim Holley: "Our sellers are incredibly astute business people. And if you had been making wedding dresses, and you know how to sew, and you've got material, and you've got a bit of time, making a mask is quite a simple task. And so we just saw this huge surge of demand, and then supply rising to meet it."
 
 Maximize growth by helping your existing supply base apply their skills to new and high demand trends. Use platform signals to show sellers where emerging demand is going so they can adjust their offerings.
-
-### Validate Supply-Side Benefits
-From "Evaluating a (marketplace) business idea": "Next, once you feel like this is a good business as a business, it’s time to shift your focus to thinking about the marketplace elements."
-
-Ensure that your marketplace provides a meaningful benefit to the supply side, such as significant income or access to high quality demand. Without a strong reason for the supply side to participate, the marketplace cannot scale.
 
 ### Connect Independent Parties
 Benjamin Lauzier: "And I think on paper what makes a marketplace is pretty straightforward, it's two or more sides that are distinct from one another, and they provide value to each other, and then you have an intermediary trying to facilitate that exchange of value in the middle."

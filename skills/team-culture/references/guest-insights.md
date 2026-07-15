@@ -53,8 +53,6 @@
 
 ## Ben Horowitz
 
-> "And the big thing for me that I felt was really true is it's one decision leads to another. And so if you can break psychologically, you can take the sunk cost, then that gets you out of a lot of bad paths. And then a little good decision may be difficult, but you have to believe it's going to lead to the next one."
-
 **Insight:** Culture is established and maintained through a sequence of small, high-integrity decisions that demonstrate trust and break negative cycles.
 
 **Tactical advice:**
@@ -101,8 +99,6 @@
 
 ## Carole Robin
 
-> "One of the ways we build relationships is through disclosure, through allowing ourselves to become more known."
-
 **Insight:** Vulnerability through intentional self-disclosure is a primary mechanism for building trust and allowing others to truly know and follow you as a leader.
 
 **Tactical advice:**
@@ -123,8 +119,6 @@
 ---
 
 ## Christine Itwaru
-
-> "Speaking as a former PM, I would not ever give up spending time with customers and watching their pain. That's how I fell in love with product was I saw my internal customer 12 years back now fighting with the keyboard, fighting with the mouse, and I was just like, "Oh, my gosh. What's this guy doing?""
 
 **Insight:** Observing direct customer struggle is the most effective way to build the empathy needed to drive high-performing product and engineering teams.
 
@@ -161,8 +155,6 @@
 ---
 
 ## David Singleton
-
-> "So we decided to co-create the product with them. So we had shared Slack channels, we'd actually show them product on a very regular basis, get their feedback on it. And only when that original kind of Alpha group was super, super happy with the product did we then think it might be ready to go to a broader audience."
 
 **Insight:** Engineers develop a product mindset by co-creating features directly with early users in a tight feedback loop.
 
@@ -235,8 +227,6 @@
 ---
 
 ## Geoff Charles
-
-> "And so that's where you really just start alignment is, what is the goal that you're going after? What is the hypothesis that you have to reach that goal?"
 
 **Insight:** Product teams gain autonomy when leadership prioritizes alignment on goals and hypotheses over the control of specific solutions.
 
@@ -555,8 +545,6 @@
 
 ---
 
-> "So you just have to keep pushing until you get to an answer. I don’t really know the right way to articulate this all the way, but basically, you can’t stop until you get to the end."
-
 **Insight:** Cultivating a beginner's mind requires the persistence to keep asking questions until you reach the fundamental root of an issue.
 
 **Tactical advice:**
@@ -581,8 +569,6 @@
 
 ---
 
-> "Next, the AMPED leaders come together to refine our priorities, discuss conflicts, and make tradeoff decisions. Typically, this group meets at an in-person offsite and dedicates four or five days to finalizing the product strategy."
-
 **Insight:** High-intensity, in-person rituals like planning offsites create deep cross-functional understanding and buy-in that is difficult to achieve asynchronously.
 
 **Tactical advice:**
@@ -593,8 +579,6 @@
 *Source: [How Miro builds product](https://www.lennysnewsletter.com/p/how-miro-builds-product)*
 
 ---
-
-> "Taking a moment at the beginning of the week to reflect on meta tasks brings clarity and prevents overly reactive or hectic decision-making. Over time, our ability to estimate size and prioritize based on return on investment has also improved."
 
 **Insight:** Ensure organizational alignment by setting top-down strategic objectives while empowering technical teams to drive the bottom-up execution and innovation details.
 
@@ -620,8 +604,6 @@
 
 ---
 
-> "Leadership impacts *virtually all worker sentiment dimension*s. For most sentiment metrics, there’s a massive gap between those who rated their managers as ineffective and those who rated them as extremely effective."
-
 **Insight:** Building a high-retention culture requires prioritizing management effectiveness and role autonomy over physical office amenities.
 
 **Tactical advice:**
@@ -632,8 +614,6 @@
 *Source: [How tech workers really feel about work right now](https://www.lennysnewsletter.com/p/how-tech-workers-really-feel-about-work-right-now)*
 
 ---
-
-> "Our analysis examines several dimensions of tech worker sentiment, including career outlook, role satisfaction, burnout, quitting intentions, career path clarity, leadership effectiveness, work setup preferences, and more."
 
 **Insight:** Effective sentiment analysis must go beyond general 'happiness' to correlate specific factors like management quality and work setup with retention and burnout.
 
@@ -658,8 +638,6 @@
 *Source: [Increasing team velocity](https://www.lennysnewsletter.com/p/increasing-team-velocity)*
 
 ---
-
-> "RICE isn’t gospel; double-check and adjust the suspicious scores until you feel comfortable. Next, loop in your team, who will appreciate a chance to weigh in and offer helpful adjustments."
 
 **Insight:** Moving from 'HiPPO' (highest-paid person's opinion) planning to an objective, rules-based framework fosters a culture where engineers feel empowered to challenge and improve project selection.
 
@@ -791,8 +769,6 @@
 ---
 
 ## Marty Cagan
-
-> "I really do believe at this point in time that feature teams and real product teams should not use the same string product manager. The job is so radically different, that it's misleading to call them both product manager."
 
 **Insight:** The fundamental difference between a feature factory and an empowered team lies in whether the product manager is focused on project coordination or solution discovery.
 
@@ -967,8 +943,6 @@
 
 ## Raaz Herzberg
 
-> "At some point, it was like, "Okay, I have to ask. What exactly are we," like, In the details, right? Not in describing a big problem, in a high level, big potential approach to solving it, but what exactly are we doing here? And I think that that ended up opening a really deep discussion."
-
 **Insight:** High-growth organizations rely on the courage of team members to voice confusion and challenge core assumptions regardless of seniority.
 
 **Tactical advice:**
@@ -1038,8 +1012,6 @@
 ---
 
 ## Varun Parmar
-
-> "I think just trying to double click and getting to the details in terms of what insight led them to recommend certain things or make a left turn or a right turn is where I think is the most powerful way to make sure that those things are informed through practicing empathy internally and externally."
 
 **Insight:** Build internal empathy across distributed hubs by investigating the specific customer insights and market context that drive team decisions.
 

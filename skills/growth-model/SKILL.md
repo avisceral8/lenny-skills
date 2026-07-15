@@ -28,11 +28,6 @@ Dan Hockenmaier: "And that's how I think about a growth model, so the analytical
 
 Building your model in a spreadsheet forces you to reconcile conceptual theories with mathematical reality, ensuring all variables are linked.
 
-### Leverage divergent behavior
-Albert Cheng: "What he observes is that 80% of people that review their games actually do so after a win. And that's really counterintuitive to when we initially built the feature."
-
-High impact opportunities are often found where actual user behavior differs from your original design intent; analyze these patterns for new levers.
-
 ### Prioritize volume via low barriers
 Archie Abrams: "In a given cohort of merchants, a lot of people will start. Some of those people on their first attempt that's entrepreneurship might not succeed, but the folks who do go on to be successful will make that entire cohort of merchants who started something that makes Shopify as a business extremely successful. And that's why we lower the barriers to get started and help folks grow, and those winners make the whole thing work."
 
@@ -52,11 +47,6 @@ Viral growth is exponentially easier in demographics with high daily physical pr
 Elena Verna 3.0: "Wait for growth until you are ready to overlay product-led growth on top of your sales motion. ... honestly, the longer you wait, the better it is because that way your entire company will be trained to be responsible for growth."
 
 Avoid siloing growth; instead, layer different motions like product-led growth only after your primary sales or marketing motion is stable.
-
-### Sequential diagnostics
-Jason Cohen: "There's a series of questions that I asked to diagnose why is growth slowing in this order, because it's one of these things where the first one that's a problem, if you don't fix that, it doesn't matter if you fix one of the ones below."
-
-When growth stalls, systematically diagnose issues starting with the biggest points of failure, specifically checking if users are leaving before fixing acquisition.
 
 ## Templates & Frameworks
 

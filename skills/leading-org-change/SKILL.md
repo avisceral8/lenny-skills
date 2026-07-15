@@ -23,25 +23,10 @@ Alex Komoroske: "What I look for instead are things that can be gardened, things
 
 Nurture emergent, self-sustaining ideas rather than forcing rigid structures. Identify low-risk projects that can grow independently with minimal intervention.
 
-### Ground scale in manual experience
-Brian Tolkin: "Starting on the operations side gave a really deep understanding of how the business actually works. It's a pretty good foundation for them going on to say, okay, what do we actually want to build in a more scalable technology way."
-
-Deeply understand the business by operating manually before transitioning to scalable technology. This ensures you know exactly which inputs drive success.
-
 ### Prioritize internal alignment over external research
 Chris Hutchins: "But you think that customer research is all you need to build a product at a company, but figuring out how to create excitement internally and get buy-in from other teams because they're the ones that are going to build it. They're the ones that are going to help market. It's all a team effort."
 
 Innovation within large orgs requires a shift in focus toward intensive internal alignment. State your vision at every opportunity to keep the team inspired.
-
-### Centralize during turnarounds
-Eoghan McCabe: "The way that greatness is created is that you find a CEO who's willing to make brave hard decisions and own the results."
-
-Successful transformations often require centralized leadership willing to make unpopular decisions and cut through the paralysis of bloated organizations.
-
-### Translate principles into local language
-John Cutler: "They were starting to get more and more customers who were not traditional startups or kind of growth stage startups showing up, and they needed to figure out how to convey expertise and convey things to the broader product public in a way that would land with those companies, right?"
-
-Transforming legacy cultures requires tailoring your expertise to land with companies operating outside the standard growth-stage startup playbook.
 
 ### Target sacred cows
 Kayvon Beykpour: "The sacred cows are like their own roadmap. What are all the things that you think we're not allowed to change? Let's start there."

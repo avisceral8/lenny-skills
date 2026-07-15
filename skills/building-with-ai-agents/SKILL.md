@@ -18,20 +18,10 @@ Help the user with building with ai agents using insights from 15 guests and pos
 
 ## Core Principles
 
-### Compress Timelines via Autonomy
-Alexander Embiricos: "One of the most mind-blowing examples of acceleration, the Sora Android app, like a fully new app, we built it in 18 days and then 10 days later, so 28 days total, we went to the public."
-
-Use coding agents to handle core engineering tasks autonomously to shrink development cycles from months to weeks.
-
 ### The Directorial Shift
 Boris Cherny: "100% of my code is written by Claude Code. I have not edited a single line by hand since November. Every day, I ship 10, 20, 30 pull requests. So, at the moment I have, like, five agents running."
 
 Stop manual code editing and transition to directing multiple AI agents simultaneously across different pull requests to maximize productivity.
-
-### Manage by High-Level Requirements
-Dan Shipper: "No one is manually coding anymore. Organizations like ours, people who are playing at the edge, we're doing things that, in three years, everybody else is going to be doing."
-
-Shift from handwriting code to crafting English language instructions that define what the product should do, leaving the implementation to agents.
 
 ### Absolute Specificity
 Lazar Jovanovic: "AI just don't understand what do you mean when you say, 'You know what I mean?' So you need to be specific. I'm optimizing 100% of my time today on good judgment, clarity, quality, taste."

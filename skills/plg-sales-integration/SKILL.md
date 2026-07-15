@@ -18,11 +18,6 @@ Help the user with plg sales integration using insights from 13 guests and posts
 
 ## Core Principles
 
-### Aggressive Ownership of Self-Service
-Christopher Miller: "We really had an aggressive mentality, an aggressive approach, and what that looked like was at the time, a very small percentage of, I think HubSpot's subscription revenue would be described as self-service, so we approached the team who owned it and we were like, 'Are you all working on this?' They were like, 'Nah, we're working on a bunch of other stuff.' We were like, 'Can we take this?' They were like, 'Sure, if you want it.'"
-
-Shifting to a PLG model requires a mindset that proactively identifies and scales neglected self-service opportunities. Leaders should audit existing revenue streams to find under-optimized areas where low-touch motions can thrive.
-
 ### Sales as a Complementary Funnel
 From "Summary: The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)": "The question is not either or but both and a matter of sequencing. PLG is perfect for lowering the barrier for more people to try the product and broaden the reach."
 
@@ -33,20 +28,10 @@ From "The Transition: Layering sales onto a bottom-up self-serve product": "The 
 
 Delaying the addition of sales to a self-serve product risks losing high-value segments to competitors. Use human intervention to smooth over edge cases and communicate complex value propositions during onboarding.
 
-### Multi-Stakeholder Adaptation
-Bret Taylor: "You have to sell investors on wanting to invest in your company. You have to sell candidates on wanting to work at your company. You have to sell customers to want to use the product that your customer produces."
-
-A successful go-to-market strategy requires adapting the sales narrative to different stakeholders. Tailor the conversation to meet the distinct motivations of candidates, investors, and various buyer personas.
-
 ### Monitor for Enterprise Triggers
 Melissa Tan: "A trend I've seen is starting product-led first and the signal is that is a good motion for you is if the product is really intuitive to onboard onto. There's a low learning curve so you don't need a human to onboard the user. Also, if there's a viral component to it, that is really what can take."
 
 Layer sales onto a PLG foundation when self-serve users start requesting enterprise features like SSO or security reviews. Ensure the product remains intuitive while maturing to meet these institutional demands.
-
-### Transition to Collaborative Platforms
-Rahul Vohra: "Early last year we launched what we call Superhuman 2.0. The basic idea is, we saw almost every single other app of note become collaborative by default, Figma, Notion, Loom. These are all multiplayer or collaborative by default."
-
-Moving into the enterprise market requires evolving from a single-player tool to a collaborative platform. Product features should be benchmarked against multiplayer standards set by apps like Figma and Notion.
 
 ### Automated Lead Prioritization
 Sri Batchu: "And the reason for that is because we actually have a growth engineering team that's dedicated to supporting that efficiency but including adjusting third party data and using AI to automate much of their workflow, et cetera. And we've been doing this well before AI has become the buzzword for a lot of folks, but this is something we've had this team for almost two years now that that's been working on sales automation and data to just make our sales teams more efficient."

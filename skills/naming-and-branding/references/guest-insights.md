@@ -100,8 +100,6 @@
 
 ---
 
-> "My first round is figuring out what that scope is, how experimental, how broad are we going to go for that first round, because then everything else cascades from there. If we go really broad for the first round, then we're in this process of narrowing down the scope as we go down. Whereas if we go really close in for the first round, we're already just talking about really technical stuff."
-
 **Insight:** Structure design phases to move from conceptual breadth to technical specificity to ensure the final output aligns with both business vision and functional requirements.
 
 **Tactical advice:**
@@ -156,8 +154,6 @@
 
 ---
 
-> "The difference between a good-enough name and the right name is the difference between solid performance and breakthrough success. The right name is a competitive advantage that no one can take away from you."
-
 **Insight:** A distinctive name acts as a permanent competitive weapon that signals innovation and separates your product from a sea of lookalike competitors.
 
 **Tactical advice:**
@@ -207,8 +203,6 @@
 *Source: [How to find the perfect name](https://www.lennysnewsletter.com/p/how-to-find-the-perfect-name)*
 
 ---
-
-> "the best way to prepare for this fast-approaching future is to dive in and get your hands dirty."
 
 **Insight:** AI serves as a low-friction brainstorming partner that can generate a high volume of creative naming options instantly.
 
@@ -261,8 +255,6 @@
 ---
 
 ## Tim Holley
-
-> "Don't get me wrong, I think Etsy is a unique marketplace. Our sellers are independent sellers. They sell unique items. The reality though is that our buyers are shopping all over the internet."
 
 **Insight:** A marketplace brand is protected by clear curation policies that differentiate its inventory from commodity platforms while remaining competitive on buyer experience.
 

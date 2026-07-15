@@ -6,8 +6,6 @@
 
 ## Alex Komoroske
 
-> "If the same idea worked for 10 different people and now in the future there's probably 10 other people that need to hear it, and now I'll write that document in 30 minutes and now I have it as a memorialized thing that other people can read on their own time without having to involve me."
-
 **Insight:** Institutionalizing successful strategic framings into documentation scales alignment asynchronously across the entire organization.
 
 **Tactical advice:**
@@ -88,8 +86,6 @@
 
 ## Chandra Janakiraman
 
-> "We use a five-stage process to get there and it takes about eight to 12 weeks. The reason I think this process works is there is a ton of alignment built in. It goes back to human psychology of just something that comes from you, feels a lot more familiar and easy to accept."
-
 **Insight:** Product strategy is not an innate gift but a procedural capability that requires an 8-to-12-week commitment to build meaningful team alignment.
 
 **Tactical advice:**
@@ -147,8 +143,6 @@
 
 ## Fareed Mosavat
 
-> "I think if I connect the dots backwards to the Steve Jobsism is the beginning of how I got interested in solving high-level strategic problems across a bunch of different people doing different kinds of work and maybe how I got relatively good at it."
-
 **Insight:** Leading teams across diverse product challenges requires focusing on high-level strategic problem-solving that bridges different functional disciplines like creative, technical, and storytelling.
 
 **Tactical advice:**
@@ -161,8 +155,6 @@
 ---
 
 ## Geoff Charles
-
-> "We also use designs as a way to motivate teams. So we spend a lot of time with designers crafting out what the future of this thing could look like and that's also extremely motivating."
 
 **Insight:** Strategic alignment is best achieved through high-fidelity design visualization and clear market comparables rather than abstract goals.
 
@@ -177,8 +169,6 @@
 
 ## Gibson Biddle
 
-> "And this is the problem of doing things that are easy to copy. So in the long term, if you can delight customers and create hard to copy advantage, things are just a lot better."
-
 **Insight:** A successful product strategy must simultaneously solve for customer delight, defensible competitive advantages, and business profitability.
 
 **Tactical advice:**
@@ -191,8 +181,6 @@
 ---
 
 ## Hamilton Helmer
-
-> "The difference there is time constant, tactical short, strategy long. And so if you focus on value that narrows what you think about and allows you to get rather concise and offer up advice to founders about what they need to pay attention to."
 
 **Insight:** Product managers can improve their strategic impact by narrowing their focus to the long-term determinants of business value and durable cash flow rather than short-term tactical wins.
 
@@ -258,8 +246,6 @@
 ---
 
 ## Jason Shah
-
-> "And so, the two things that I've seen be most successful would be, I think number one is actually understanding what a goal is or what somebody's kind of issue is with something, and then actually aligning those things in some way."
 
 **Insight:** Defining the core problem requires stripping away negative biases to deeply understand the underlying goal of the stakeholder.
 
@@ -366,8 +352,6 @@
 
 ---
 
-> "LLMs are trained on all the text available on the internet (and beyond), so the default answer you get is going to be approximately the average of the internet. But with better prompting, you can do much better than average, by steering it toward less obvious answers."
-
 **Insight:** AI can produce credible product strategies that rival human output if steered away from 'average' responses via expert prompting and creative steering.
 
 **Tactical advice:**
@@ -378,8 +362,6 @@
 *Source: [How close is AI to replacing product managers?](https://www.lennysnewsletter.com/p/how-close-is-ai-to-replacing-product-managers)*
 
 ---
-
-> "The process of OKRs to me feels forced—you know what you want to do, and you have to reverse engineer an objective and a metric to fit into this framework. You sweat the wording and the specific metric."
 
 **Insight:** Prioritize a bottom-up product strategy over the administrative overhead of OKRs to ensure teams are focused on customer value rather than reverse-engineering metrics.
 
@@ -431,8 +413,6 @@
 
 ---
 
-> "That’s basically your plan as a product team, from the 10,000-foot mission to the day-to-day work of your team."
-
 **Insight:** Effective product planning requires a logical hierarchy where every daily task is directly connected to a high-level purpose.
 
 **Tactical advice:**
@@ -469,8 +449,6 @@
 *Source: [Strategy Blocks: An operator’s guide to product strategy](https://www.lennysnewsletter.com/p/strategy-blocks-an-operators-guide-to-product-strategy)*
 
 ---
-
-> "When I saw your question, I went looking for a quick answer. I was sure there would be a bunch of blog posts or HBR articles that succinctly summarize all of the ways you can make money as a business. I was wrong. There was nothing out there. So I’ve gone ahead and taken a shot at coming up with an answer."
 
 **Insight:** There are eight fundamental business models for generating revenue, and selecting the right one depends on your product's category and how frequently customers use it.
 
@@ -548,8 +526,6 @@
 
 ---
 
-> "This is where AI will eventually be strongest—taking a ton of data and developing a super-intelligent plan. The PM’s role here will shift to becoming very good at knowing what data to feed it and asking the right questions."
-
 **Insight:** Strategic planning will shift from manual data analysis to curating the right data inputs and refining AI-generated strategic insights.
 
 **Tactical advice:**
@@ -560,8 +536,6 @@
 *Source: [How AI will impact product management](https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management)*
 
 ---
-
-> "We want to avoid being “an inch deep and a mile wide,” as Frank loves to caution. Instead, we really home in on customer value, and prioritize putting our customers’ needs first to determine what products and features are most important."
 
 **Insight:** Focus on depth and customer value to avoid spreading resources too thin across too many features.
 
@@ -586,8 +560,6 @@
 *Source: [How to kickstart and scale a consumer business—Step 3: Craft your pitch](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-consumer-business-step-3-craft-your-pitch)*
 
 ---
-
-> "Starting today and for the next five weeks, I’m going to share a six-part playbook that I’ve been developing that guides you through the six fundamental steps of kickstarting and scaling your consumer business."
 
 **Insight:** Scaling a consumer business requires a sequential approach that moves from core insight and audience identification to manual reach and, eventually, a scalable growth engine.
 
@@ -651,8 +623,6 @@
 *Source: [Mission → Vision → Strategy → Goals → Roadmap → Task](https://www.lennysnewsletter.com/p/mission--vision--strategy--goals--roadmap--task)*
 
 ---
-
-> "Product Strategy by Reforge—a foundational Reforge course, created by the greats Casey Winters and Fareed Mosavat."
 
 **Insight:** Learning product strategy through structured frameworks from industry experts is essential for advancing to senior-level product roles.
 
@@ -755,8 +725,6 @@
 *Source: [Strategy Blocks: An operator’s guide to product strategy](https://www.lennysnewsletter.com/p/strategy-blocks-an-operators-guide-to-product-strategy)*
 
 ---
-
-> "How to get better at product strategy (also check out this, this, and this podcast episodes)"
 
 **Insight:** Developing a strong product strategy requires a structured approach that bridges the gap between high-level mission and daily tasks.
 
@@ -956,8 +924,6 @@
 
 ## Mike Krieger
 
-> "And Opus 4, I was working on some strategy for our second half of the year was the first one. It was like Opus 4 combined with our advanced research. But it really went out for a while and it came back and I was like, you really looked at it in a new way. And so that's a thing that I've maybe I didn't feel like it would never be able to do that, but I wasn't sure how soon it'd be able to come up with something where I look at it, I'm like, yep, that is a new angle that I hadn't been looking at before and I'm going to incorporate that immediately into how I think about it."
-
 **Insight:** Advanced AI can act as a critical thought partner by uncovering novel angles and challenging a leader's strategic assumptions.
 
 **Tactical advice:**
@@ -1052,8 +1018,6 @@
 
 ---
 
-> "Well, you're diagnosing the situation. You're trying to figure out what's going on here. What's the nature of reality that you're dealing with?"
-
 **Insight:** A rich diagnosis is the most important and most frequently skipped step of strategy, as it defines which part of reality you will focus on.
 
 **Tactical advice:**
@@ -1078,8 +1042,6 @@
 
 ---
 
-> "The work comes from Strategos, which is Greek. The Greeks elected 10 Strategoi to serve as strategic leaders at Athens. And they were elected and they dealt with issues of the day, the Persians are invading, there's a plague in town, we need money for a new temple."
-
 **Insight:** Strategic thinking is best developed by studying how leaders solved the concrete 'issues of the day' throughout history rather than by learning abstract matrices.
 
 **Tactical advice:**
@@ -1103,8 +1065,6 @@
 *Source: [Good Strategy, Bad Strategy | Richard Rumelt](https://www.youtube.com/watch?v=4uWKEG0s9Kc) @ 01:44:51*
 
 ---
-
-> "I was educated as an electrical engineer and my early years were spent designing spacecraft for NASA. And when I got into looking at business and business strategy stuff, I was always amazed at how unintellectual it was, that I was struggling to master Z-transforms and multiple, and yet these people are looking at 2x2s and little diagrams [inaudible 00:10:19], oh, that's what the company's about."
 
 **Insight:** Applying the intellectual rigor of engineering to business strategy allows you to see complex problems as systems to be designed rather than simple targets to be hit.
 
@@ -1242,8 +1202,6 @@
 
 ## Sachin Monga
 
-> "We're really evolving in a lot of ways from a tool into a network. We're in the thick of seeing this vision through in a lot of ways Chris has had in his mind for five years."
-
 **Insight:** Transitioning from a tool to a network involves moving past basic utility to activate built-in network effects that help users grow through one another.
 
 **Tactical advice:**
@@ -1264,8 +1222,6 @@
 ---
 
 ## Seth Godin
-
-> "Tension is at the heart of every art form and every innovation. What we do when we launch a new product, we say, we have this thing that can do X, and now the person is imagining what their life might be like if that were true. If they fall in love with that possibility, now there's tension."
 
 **Insight:** Great products create productive tension by inviting users to imagine a better version of their lives that is only possible through the product's promise.
 

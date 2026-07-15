@@ -18,11 +18,6 @@ Help the user with coaching and talent development using insights from 18 guests
 
 ## Core Principles
 
-### Act as a Thought Partner
-Carole Robin: "The whole course is about having interactions and then having the guidance and the space and the time and the focus to unpack what just happened."
-
-Provide the structured space and time for team members to reflect on and unpack their own behavioral choices rather than dictating solutions.
-
 ### Reframe Underperformance as Skill Deficits
 Dr. Becky Kennedy: "When you look at bad behavior, the actual problem is someone doesn't have the skill they need to manage something happening internally."
 
@@ -52,11 +47,6 @@ Use hands-on guidance as a temporary tactical intervention to course-correct a t
 From "How tech workers really feel about work right now": "People with great managers also feel 63% (!) more belonging, 31% less burnout, and 62% (!!!) more job enjoyment compared to those with ineffective managers. Leadership quality may be the single most important lever for retention."
 
 Prioritize your own leadership training because manager quality is the primary driver of team well-being, belonging, and talent retention.
-
-### Agile Deep-Dives
-Dmitry Zlokazov: "So it's not only going deep, but also being flexible and doing this switch between zooming in very deep and then raising on the level of helicopter view and then understanding, okay, so this seems very, very complex in details, but then when you zoom out, how can we simplify it and build a robust process around it, which is scalable?"
-
-Effective leadership requires the ability to dive into granular technical details to find root causes and then zoom out to institutionalize those learnings.
 
 ## Questions to Help Users
 

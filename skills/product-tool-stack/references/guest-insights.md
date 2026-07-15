@@ -32,8 +32,6 @@
 
 ---
 
-> "Think of your Lenny’s Newsletter subscription as your product builder’s starter pack: all the advice, community, and tools you need to build and grow a world-class product (and career)."
-
 **Insight:** Accessing a curated bundle of premium software through a single subscription can significantly lower the barrier to entry for high-end product development tools.
 
 **Tactical advice:**
@@ -43,8 +41,6 @@
 *Source: [Lenny's Product Pass: 20+ free premium products, available exclusively for paid annual subscribers](https://www.lennysnewsletter.com/p/lennys-product-pass-20-free-premium-products-available-exclusively-for-paid-annu)*
 
 ---
-
-> "With this additional puzzle piece, more and more your newsletter subscription becomes your product builder’s starter pack: all the guidance, community, and products you need to build and grow a world-class product (and career)."
 
 **Insight:** A comprehensive product toolkit should combine high-level strategic guidance and community support with specific AI tools that handle the mechanical aspects of building.
 
@@ -57,8 +53,6 @@
 
 ---
 
-> "Companies that want to do PLG but lack usage data are setting themselves up for failure. When offering a free product, the two returns you want are broader reach and user data. Without that you're basically giving away your product for nothing."
-
 **Insight:** A solid data foundation is the backbone of PLG, as it provides the behavioral signals necessary to drive automation, experimentation, and sales handoffs.
 
 **Tactical advice:**
@@ -70,8 +64,6 @@
 
 ---
 
-> "Especially at a nascent startup, where you can’t afford to waste time (and money) on unnecessary products."
-
 **Insight:** Early-stage startups should prioritize foundational communication and documentation tools to establish operational efficiency immediately.
 
 **Tactical advice:**
@@ -82,8 +74,6 @@
 *Source: [What's in your software stack — Product, Design, Analytics, DS, Research, and more](https://www.lennysnewsletter.com/p/whats-in-your-software-stack---product-design-analytics-ds-research-and-more)*
 
 ---
-
-> "As you read through the results below, focus on two things: what’s today’s go-to product (i.e. the safe bet), and who are the up-and-comers that are worth checking out (i.e. the early-adopter bet)."
 
 **Insight:** Strategic stack selection involves balancing proven industry standards for stability with emerging tools for potential productivity gains.
 
@@ -109,8 +99,6 @@
 
 ---
 
-> "Increasingly, your Lenny’s Newsletter subscription is becoming your product builder’s starter pack: all the tools, guidance, and community you need to build, launch, and grow a world-class product (and career)."
-
 **Insight:** Early-stage companies can significantly reduce overhead and complexity by utilizing curated toolkits and bundled deals for their core product infrastructure.
 
 **Tactical advice:**
@@ -121,8 +109,6 @@
 *Source: [A year free of PostHog ($16,500 value): The all-in-one analytics, experimentation, feature flag, surveys, session replay, error tracking, data warehouse, LLM analytics platform](https://www.lennysnewsletter.com/p/a-year-free-of-posthog-16500-value-the-all-in-one-analytics-experimentation-feat)*
 
 ---
-
-> "I specifically selected these tools because they were among the most beloved products in my recent “What’s in your stack” survey. They represent the height of what products can be—they’re beautiful and fast, and they make your life better."
 
 **Insight:** Adopting high-quality, community-vetted productivity tools can significantly enhance a founder's or PM's efficiency and daily work experience.
 
@@ -174,8 +160,6 @@
 
 ---
 
-> "“Goalie” is a weekly rotation where an engineer helps the support team with issues, fixes bugs, and triages incoming requests."
-
 **Insight:** A rotating 'goalie' system ensures bugs and requests are handled promptly without disrupting dedicated project work.
 
 **Tactical advice:**
@@ -186,8 +170,6 @@
 *Source: [How Linear builds product](https://www.lennysnewsletter.com/p/how-linear-builds-product)*
 
 ---
-
-> "We had early access to GPT-3, and as we were figuring out how to build the company, we’d start everything by asking AI, “What is X?” and then “How do we do X properly?” For example, we asked questions like “How do you launch a product? What should be the steps in the launch process?”"
 
 **Insight:** Prioritize AI-native tools and processes that allow for rapid information retrieval and automated template generation to minimize time spent on administrative setup.
 
@@ -212,8 +194,6 @@
 *Source: [How Shopify builds product](https://www.lennysnewsletter.com/p/how-shopify-builds-product)*
 
 ---
-
-> "The “backlog” didn’t exist. It was all about, what are we doing today? This week? We weren’t planning beyond that."
 
 **Insight:** Maximize team autonomy and velocity by eliminating heavy process tools like long-term backlogs and story points in favor of immediate action.
 
@@ -264,8 +244,6 @@
 *Source: [How to get the most out of your product pass, part 1](https://www.lennysnewsletter.com/p/how-to-get-the-most-out-of-your-product-pass-part-1)*
 
 ---
-
-> "Sourced from hundreds of product managers who filled out our survey and hopped on calls, I put together a comprehensive collection of ways PMs are using Perplexity to do their work, including: ... 5. Evaluating popular tools"
 
 **Insight:** PMs can significantly reduce vendor evaluation time by using AI to generate comprehensive comparisons of features, reviews, and differentiation.
 

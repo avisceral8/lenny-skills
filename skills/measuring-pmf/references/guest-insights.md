@@ -21,8 +21,6 @@
 
 ## Aparna Chennapragada
 
-> "Open mics are the real live experiments. You put something out there, you get very clear micro feedback from users, and then you get tough feedback sometimes. And I think as product builders, that's actually one of the great skills to have, which is you sometimes launch stuff that have a fantastic vision, but the first version is not quite there."
-
 **Insight:** For early-stage products, prioritize immediate, qualitative micro-feedback from live usage over macro metrics to find core resonance.
 
 **Tactical advice:**
@@ -35,8 +33,6 @@
 ---
 
 ## Brendan Foody
-
-> "The market is bound by the amount of things where humans can do something that models can't. The lab's primary bottleneck to improve models is how they can effectively have some way of measuring what success looks like for the model."
 
 **Insight:** The most lucrative market opportunities arise from identifying the primary technical bottleneck of the industry's most capital-rich companies.
 
@@ -64,8 +60,6 @@
 
 ## Elena Verna 4.0
 
-> "And the beautiful thing here is that what you can do changes every month to three months. So, you constantly need to come back and you need to see what has changed."
-
 **Insight:** Product-market fit is not a one-time achievement in AI; companies must re-evaluate and recapture it every few months as technology evolves.
 
 **Tactical advice:**
@@ -78,8 +72,6 @@
 ---
 
 ## Eric Simons
-
-> "Most importantly, it's been the people. It's rare to find startups where you have the core group of five, six, seven people that have been there for five years plus."
 
 **Insight:** Maintaining a lean, high-context core team is the most effective way to survive extended periods of searching for product-market fit.
 
@@ -139,8 +131,6 @@
 
 ## Lenny Rachitsky
 
-> "Though there’s no formula for finding PMF, you can significantly increase your odds, and save yourself a lot of time and heartache, by studying the lessons of those who’ve made it."
-
 **Insight:** Finding product-market fit is a multi-stage progression that starts with making a single customer successful and scales through consistent, organic growth.
 
 **Tactical advice:**
@@ -177,8 +167,6 @@
 *Source: [How long it takes to find Product-Market Fit](https://www.lennysnewsletter.com/p/how-long-it-takes-to-find-product-market-fit)*
 
 ---
-
-> "The more signs of PMF you see, and the more intense each sign, the more confidence you should have that you’ve found, and still have, product-market fit."
 
 **Insight:** Product-market fit is better understood as a spectrum of increasing confidence defined by signals like high retention and exponential organic growth.
 
@@ -255,8 +243,6 @@
 *Source: [Summary: Lessons from working with 600+ YC startups | Gustaf Alströmer (Y Combinator, Airbnb)](https://www.lennysnewsletter.com/p/summary-lessons-from-working-with-600-yc-startups--gustaf-alströmer-y-combinator)*
 
 ---
-
-> "Each week I tackle reader questions about building product, driving growth, and accelerating your career."
 
 **Insight:** Scaling a startup requires following specialized playbooks for your business model and improving team velocity through structured planning and discovery.
 
@@ -347,8 +333,6 @@
 
 ---
 
-> "“The only thing that matters is getting to product-market fit.”"
-
 **Insight:** Product-market fit is characterized by high cohort retention, rapid growth, and a solution that is significantly better than existing alternatives.
 
 **Tactical advice:**
@@ -411,8 +395,6 @@
 *Source: [How to kickstart and scale a consumer business—Step 5: RETAIN: Iterate until enough people stick around](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-consumer-business-step-5-retain-iterate-until-enoug)*
 
 ---
-
-> "Around this time, you will also begin to find that your early tactics and assumptions become increasingly less effective. Is your marketplace still supply-constrained — maybe it’s demand constrained now? Should you keep building out a sales force, or focus on productizing everything?"
 
 **Insight:** Transitioning to scaling mode requires recognizing when early manual growth tactics lose effectiveness and shift toward productization and repeatable expansion playbooks.
 
@@ -477,8 +459,6 @@
 
 ---
 
-> "I’ve noticed that most people (including myself) have only a vague grasp on what product-market fit actually is. And even fewer people are going after it in a systematic way."
-
 **Insight:** Achieving product-market fit requires moving beyond vague definitions to a systematic pursuit using specific pre-product and post-product frameworks.
 
 **Tactical advice:**
@@ -489,8 +469,6 @@
 *Source: [How to know if you've got product-market fit](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-product-market-fit)*
 
 ---
-
-> "Efficiency, and the discipline to keep our team and footprint small, has allowed us to do something that I think category-creating consumer businesses have to be able to do, which is to be misunderstood for a number of years."
 
 **Insight:** Maintaining a lean footprint provides the necessary time and autonomy to develop category-defining products without the pressure to scale before the market fully understands the value proposition.
 
@@ -555,8 +533,6 @@
 
 ---
 
-> "What is a good activation rate (and how to determine your activation metric)"
-
 **Insight:** Establishing clear benchmarks for metrics like retention and activation allows product teams to objectively measure their success against the broader market.
 
 **Tactical advice:**
@@ -566,8 +542,6 @@
 *Source: [The Best of Lenny’s Newsletter—2024 Edition](https://www.lennysnewsletter.com/p/the-best-of-lennys-newsletter-2024-edition)*
 
 ---
-
-> "A framework for finding product-market fit"
 
 **Insight:** Scaling a company requires a model-specific approach that tailors growth tactics to the specific needs of B2B, consumer, or marketplace businesses.
 
@@ -643,8 +617,6 @@
 *Source: [What to ask your users about Product-Market Fit](https://www.lennysnewsletter.com/p/what-to-ask-your-users-about-product-market-fit)*
 
 ---
-
-> "This is why you'll rarely hear user researchers wasting energy debating the tired old tropes about how Henry Ford or Steve Jobs would never listen to research: it's just blatantly, obviously true that people sometimes don't know what they want until they see it. Asking people what they want isn't research."
 
 **Insight:** Effective PMF research focuses on observing current behaviors and motivations rather than relying on flawed metrics like NPS or asking users to design future features.
 
@@ -820,8 +792,6 @@
 
 ## Sam Schillace
 
-> "With something like G Docs, we got this thing with G Docs that was really confusing in the early days to me, where there was a small group of people that really liked it. Some of them liked it more than we liked it. Nate Torkington over at Writely was this super huge early booster for it. And I did not understand what he saw in it at first."
-
 **Insight:** Product-market fit often manifests through early 'boosters' who recognize and advocate for the product's value more strongly than the creators themselves.
 
 **Tactical advice:**
@@ -871,8 +841,6 @@
 
 ---
 
-> "Roughly, 60% are never going to get past L2."
-
 **Insight:** Level two product-market fit marks the critical transition from founder-led 'grinding' to discovering a repeatable, scalable demand channel.
 
 **Tactical advice:**
@@ -896,8 +864,6 @@
 *Source: [A framework for finding product-market fit | Todd Jackson (First Round Capital)](https://www.youtube.com/watch?v=yc1Uwhfxacs) @ 01:02:26*
 
 ---
-
-> "PMF benchmarking data that you had, I think it was how long it took to get to a product and a customer and to product-market fit, that was super well-read."
 
 **Insight:** Objective benchmarking of quantitative metrics like ARR and retention is essential to accurately measure progress through the four levels of fit.
 
@@ -935,8 +901,6 @@
 ---
 
 ## Yuriy Timen
-
-> "I'm not a liberty to speak to those, but we're talking in the hundreds of dollars. Most consumer subscription companies that are $5 to $7 a month. Their LTVs typically cap out at 50 to 60 bucks."
 
 **Insight:** A successful prosumer SaaS funnel requires high top-of-funnel efficiency, typically targeting a 20%+ visit-to-signup rate and a 5%+ free-to-paid rate.
 

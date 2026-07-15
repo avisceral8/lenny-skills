@@ -14,8 +14,6 @@
 
 ## Julian Shapiro
 
-> "Someone like Paul Graham, the founder of Y Combinator, is doing original takes. He's not trying to write threads for the sake of gaining followers. He's trying to write interesting novel ideas. When he does that, he strengthens the affinity that his followers have for him and his mind, because like, 'Wow! That was an original interesting take.'"
-
 **Insight:** Injecting original and non-obvious ideas into your writing strengthens the reader's affinity for your mind and encourages them to follow you for your unique perspective.
 
 **Tactical advice:**
@@ -39,8 +37,6 @@
 *Source: [Growth tactics, retention strategies, and becoming a better writer | Julian Shapiro (Demand Curve, Hyper, Webflow, TechCrunch)](https://www.youtube.com/watch?v=9cNRDWEXnrQ) @ 46:22*
 
 ---
-
-> "Why do good ideas arrive after the bad ideas are empty? It's because when you've gone through a bunch of bad ideas, your brain, your mind starts reflexively identifying what elements are causing the badness. Then it becomes way better at avoiding those bad elements and you become way better at pattern matching the novel ideas with way greater intuition."
 
 **Insight:** The most original ideas often emerge only after you have systematically expressed and exhausted your more obvious, lower-quality thoughts.
 
@@ -103,8 +99,6 @@
 
 ## Lenny Rachitsky
 
-> "I’ll help you navigate the fears associated with asking and give you a toolkit for making your asks more effective, including template scripts you can start using today, based on the ones I created for myself and my clients."
-
 **Insight:** A structured approach using specific scripts and templates can bypass the paralysis of fear and make a help request significantly more effective.
 
 **Tactical advice:**
@@ -155,8 +149,6 @@
 
 ---
 
-> "learning to work alongside AI will quickly become table stakes. Just like Grammarly became for writing, Copilot for engineers, and Firefly, Runway, Midjourney, and others are becoming for designers."
-
 **Insight:** AI tools act as a sophisticated editor to help PMs communicate more clearly and professionally across various documents.
 
 **Tactical advice:**
@@ -180,8 +172,6 @@
 *Source: [Increasing team velocity](https://www.lennysnewsletter.com/p/increasing-team-velocity)*
 
 ---
-
-> "On Writing Well: The Classic Guide to Writing Nonfiction by William Zinsser: The book that taught me the most about writing well."
 
 **Insight:** To improve your professional writing, combine the study of classic nonfiction principles with modern digital tools that offer real-time feedback.
 
@@ -301,8 +291,6 @@
 ---
 
 ## Zevi Arnovitz
-
-> "Planning is really important when you're implementing something technical and let's say you're implementing payments or something that's going to be a change to your database. If the coding agent is just like, 'All right, I got it.' And just starts writing code, this always results in terrible things, some really gnarly bugs that I had."
 
 **Insight:** Prevent low-quality 'AI slop' by enforcing a strict planning phase and giving the AI deep context on your style and goals.
 

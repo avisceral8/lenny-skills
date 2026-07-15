@@ -23,11 +23,6 @@ Dharmesh Shah: "I have custom software that I've written that will say, 'Okay, h
 
 Master public speaking by breaking it down into measurable sub-skills like slide design and humor. Use objective data, such as laughs per minute, to optimize your performance based on audience engagement.
 
-### Master professional acting
-Jeffrey Pfeffer: "And as I have taught senior executives over the years, it is absolutely clear to me that one of the skills that they have mastered is they have a skill that you cannot tell what they think of you."
-
-Commanding a room requires the art of professional acting to maintain a powerful presence. Practice emotional discipline to project authority regardless of your internal state or personal biases.
-
 ### Visualize the entire sequence
 Matt Abrahams: "Visualization is a really useful technique and you see yourself not just in the moment of speaking, but getting up to the stage, seeing it being well received, thinking about how you step off the stage. We see athletes do this kind of thing all the time, and there's good research to say that this desensitizes people."
 
@@ -42,11 +37,6 @@ Every compelling story centers on a singular moment of internal transformation o
 Matthew Dicks: "Because to be a storyteller means you have to separate yourself from the herd, and in their mind, that risks them getting picked off, right? Getting picked off by some predator. But the alternative is you're in the herd, which means you're forgettable."
 
 To stand out, move away from forgettable corporate standards like dry pie charts. Embrace vulnerability and use vivid imagery to create a more memorable connection with the audience.
-
-### Shift to cinematic visuals
-Nancy Duarte: "We take their brand guidelines and really push it into the spoken word medium where when they stand up on a stage, it's cinematic. The visuals can become an experience in itself."
-
-Transform static brand standards into a cinematic experience. Use visuals that create an environmental mood for the audience rather than just repeating your spoken words.
 
 ### Debug existing mental software
 Tristan de Montebello: "The day I understood that speaking was a subconscious flow-oriented process and not a conscious process, completely changed the way I approached it. So instead of thinking tactics and frameworks and adding more to the outside of the things I need to think about, when I realized when I speak best, I'm actually not thinking about speaking."

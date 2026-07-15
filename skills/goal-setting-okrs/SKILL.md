@@ -53,16 +53,6 @@ Luc Levesque: "I don't care how hard you've worked. I don't care what you're wor
 
 Reward measurable outcomes and mission-driven impact rather than effort or activity. High-growth organizations distinguish themselves by what they achieve, not how hard they work.
 
-### Magic Moment Metrics
-Nickey Skarstad: "And so we actually put more friction in the onboarding flow to help to start to solve for that. So we actually slowed you down. We made you be more thoughtful about what you were listing. And by doing that, we actually helped you get to a first sale faster. And so that was another good example of a quality metric that we used, which was, I think it was first sale in seven days."
-
-Derive goals from identifying behavioral magic moments that predict long-term user success. Use high-quality predictors like a seller's first sale as primary success metrics.
-
-### Success Definition Clarity
-From "Setting goals - Issue 23": "I want to highlight one of the biggest traps I see leaders fall into: assuming that everyone on their team is aligned on what success looks like. The metaphor I like to use for this (inspired by a former colleague) is a silver burrito."
-
-Explicitly communicate the definition of success to prevent team members from projecting their own conflicting priorities. Use the unwrap the burrito method to align the vision.
-
 ## Templates & Frameworks
 
 - **Mission → Vision → Strategy → Goals → Roadmap Hierarchy** (Setting goals) - A hierarchical framework showing how goals fit into the bigger picture of company direction, from abstract purpose down to concrete execution plans

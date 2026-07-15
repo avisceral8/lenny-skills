@@ -14,8 +14,6 @@
 
 ## Christine Itwaru
 
-> "There was a lot of pain around internal alignment in general, transparency to stakeholders up across your revenue team members. Then for a lot of people during this time, growth was a massive propeller of the need for product ops."
-
 **Insight:** Product operations acts as a critical bridge between development and revenue teams, ensuring transparency and alignment during periods of rapid growth.
 
 **Tactical advice:**
@@ -89,8 +87,6 @@
 
 ## Keith Coleman & Jay Baxter
 
-> "There was a question at the beginning, to the point Jay was making of like, 'Did anyone think this was going to work?' Obviously, it was a crazy idea. We didn't know if regular people were going to be able to do this task and certainly people had concerns about whether they would do it effectively."
-
 **Insight:** Launching a radical product requires acknowledging its inherent risks while doubling down on the unique mechanics that make the solution possible.
 
 **Tactical advice:**
@@ -142,8 +138,6 @@
 
 ---
 
-> "We expanded once we had a playbook to make a market successful, and the resources weren’t fully absorbed in executing the market expansion playbook in our first city."
-
 **Insight:** A repeatable city launch playbook ensures expansion success by standardizing supply acquisition, localized demand generation, and the transition to local ownership.
 
 **Tactical advice:**
@@ -154,8 +148,6 @@
 *Source: [Marketplace city expansion strategy](https://www.lennysnewsletter.com/p/marketplace-city-expansion-strategy)*
 
 ---
-
-> "A video that tells your story, demos your product, or delights people so much that they can’t help but share it with their friends."
 
 **Insight:** Successful viral videos leverage mission-driven storytelling or impressive product utility to encourage widespread social sharing.
 
@@ -181,8 +173,6 @@
 
 ---
 
-> "Release a remarkable video"
-
 **Insight:** Viral launch videos use humor, entertainment, and high-quality production to turn a product announcement into a shareable event.
 
 **Tactical advice:**
@@ -193,8 +183,6 @@
 *Source: [Generating buzz](https://www.lennysnewsletter.com/p/generating-buzz-2)*
 
 ---
-
-> "Create a remarkable product demo"
 
 **Insight:** A great product demo generates pre-launch demand by visually demonstrating the 'magic' of the user experience.
 
@@ -207,8 +195,6 @@
 
 ---
 
-> "Execute a remarkable offline stunt"
-
 **Insight:** Creative real-world stunts generate press and social media buzz by creating physical spectacles that are impossible to ignore.
 
 **Tactical advice:**
@@ -219,8 +205,6 @@
 *Source: [Generating buzz](https://www.lennysnewsletter.com/p/generating-buzz-2)*
 
 ---
-
-> "Start a remarkable controversy"
 
 **Insight:** Provoking public debate or challenging an industry giant can gain attention far faster than traditional marketing.
 
@@ -233,8 +217,6 @@
 
 ---
 
-> "Below, you’ll find the ten most common strategies for launching *something worth remarking about* (including 49 real-life examples)."
-
 **Insight:** Choosing the right launch strategy involves selecting a 'remarkable' category that aligns with your product’s core value and available resources.
 
 **Tactical advice:**
@@ -246,8 +228,6 @@
 
 ---
 
-> "Used by an increasing number of tech influencers (which you can see in email signatures), while being invite-only [*Led to 275k people waitlist*]"
-
 **Insight:** Combining influencer seeding with strictly controlled, invite-only access builds a sense of mystery and exclusivity that drives massive demand.
 
 **Tactical advice:**
@@ -258,8 +238,6 @@
 *Source: [Generating buzz](https://www.lennysnewsletter.com/p/generating-buzz)*
 
 ---
-
-> "This will get easier with some AI assistance, but will likely still require humans talking with other humans to make sure everyone has what they need to make the launch a success."
 
 **Insight:** AI creates high-quality GTM assets quickly, but the successful execution of a launch depends on human coordination and stakeholder readiness.
 
@@ -285,8 +263,6 @@
 
 ---
 
-> "None of these seven strategies scale. That’s why they work. In B2B, it always starts with hand-to-hand combat."
-
 **Insight:** A successful B2B launch is the culmination of a prioritized sequence that begins with manual outreach and moves toward public platforms only after validating momentum.
 
 **Tactical advice:**
@@ -297,8 +273,6 @@
 *Source: [How to find and win your first 10 B2B customers](https://www.lennysnewsletter.com/p/how-to-find-and-win-your-first-10-b2b-customers)*
 
 ---
-
-> "the best way to prepare for this fast-approaching future is to dive in and get your hands dirty."
 
 **Insight:** Speed up feature validation by using AI to draft copy and structural outlines for test landing pages.
 
@@ -402,8 +376,6 @@
 
 ---
 
-> "When you’re just starting out, focus your energy on Kickstarts, and maybe a few Turbo boosts, until your Growth engine begins to drive the majority of your growth. [Here’s a template](https://docs.google.com/document/d/19k7oXAYb9qkra6FTUMPljW75YZfUfWEr0eTITZvDe6s/edit?mode=html) to help you plan your GTM."
-
 **Insight:** A successful go-to-market plan prioritizes high-touch, unscalable user acquisition before pivoting to a scalable long-term growth engine.
 
 **Tactical advice:**
@@ -440,8 +412,6 @@
 *Source: [What working at Figma taught me about customer obsession](https://www.lennysnewsletter.com/p/what-working-at-figma-taught-me-about-customer-obsession)*
 
 ---
-
-> "Start with simple decisions that are easy to verify and easy for humans to override. Then, as you progress through the CC/CD loop, gradually layer in more autonomy with each version."
 
 **Insight:** Safe AI deployment is not a single event but a gradual transition where agency is granted in increments to protect user trust.
 
@@ -534,8 +504,6 @@
 
 ## Marc Benioff
 
-> "I'm throwing everything against the wall. I'm looking at what's going to stick. I am looking to try to find the winning tactic and turn it into a winning strategy."
-
 **Insight:** Successful product launches require a high-volume experimentation phase to identify which specific marketing tactics will actually cut through market noise.
 
 **Tactical advice:**
@@ -548,8 +516,6 @@
 ---
 
 ## Mihika Kapoor
-
-> "I've found that words will only get you so far. So, when I put together a vision with my team at Figma, it's all about not just your traditional, 'Okay, here are pain points. And then, here are solutions. And then, here is the timeline and costing.' But rather how can you bring all of those things together and how can a vision pitch effectively be pain point, solution, proof point, pain point solution proof point?"
 
 **Insight:** Internal hype is generated by showing rather than telling, using visual proof points to make a product idea feel tangible and inevitable.
 
@@ -597,8 +563,6 @@
 ---
 
 ## Ryan J. Salva
-
-> "And to get to an opportunity to work on so many V1 products, like that is creation itself, to be able to build an entirely new product, get it out to market, test it, iterate on it, and really feed on the energy that's coming back from the community."
 
 **Insight:** Incubating a new product within a large company is most effective when you prioritize getting a V1 to market quickly to iterate based on the direct feedback and energy of the user community.
 

@@ -18,16 +18,6 @@ Help the user with evaluating trade-offs using insights from 14 guests and posts
 
 ## Core Principles
 
-### Avoid the trap of small wins
-Christopher Miller: "I think if you're doing growth, right, if you're doing product-led growth the right way, then you're trying to balance the science and sort of taking a somewhat hygienic approach to validating assumptions and hypotheses with being really ambitious and really pushing for the things that are going to have massive impact for your customers at the end of the day."
-
-Guard against chasing minor optimizations that do not fundamentally change the user experience or create massive long-term value.
-
-### Decompose radical redesigns
-Ronny Kohavi: "And it's amazing how many times I've seen people come up with new designs or a radical new idea. And they believe in it, and that's okay. I'm just cautioning them all the time to say, 'If you go for something big, try it out, but be ready to fail 80% of the time.'"
-
-Break down massive changes into small, testable increments because radical redesigns have an 80 percent failure rate compared to incremental iterations.
-
 ### Surface rabbit holes during shaping
 Ryan Singer: "I often use this analogy of if you're doing a home renovation, you can have the most beautiful rendering of the new bedroom and we're going to have these lamps on the side of the bed that are coming out from the wall. But if you haven't checked if there's electricity in that wall there or not, it's going to drastically change the cost and the time and everything."
 
@@ -42,26 +32,6 @@ Evaluate major technical or design investments by comparing the impact of doing 
 Austin Hay: "That's how you actually have a lot of velocity is thinking about not just build versus buy. It's build and buy now. So, you buy the tool to get 90% of the way there and then you build the cool thing on top with the other 10%. And so that architecting decision usually falls on this person."
 
 Avoid reinventing the wheel by buying third-party solutions for core functionality and focusing internal engineering on proprietary layers.
-
-### Balance taste with pragmatism
-Ivan Zhao: "Too much of yourself. Then there's no users. Then you're just doing our project. And too much for business, you're building a commodity."
-
-Find the equilibrium between building for your personal artistic standards and addressing the objective requirements of users and revenue.
-
-### Prioritize the company roadmap over team projects
-Noam Lovinsky: "I don't think we should be putting 50 engineers on this project. Looking at the rest of the roadmap and the rest of the priorities, excuse me, I think this team would likely be better served elsewhere."
-
-Build leadership trust by being honest when your own project should be deprioritized in favor of more impactful company-wide initiatives.
-
-### Re-evaluate build costs in the age of AI
-Varun Mohan: "The engineers are now able to produce more technology. The ROI of building technology has actually gone up. This actually means you hire more."
-
-Account for the increased ROI of engineering when using AI tools, which can make building custom internal solutions more viable than buying off-the-shelf software.
-
-### Reserve first-principles for innovation
-From "First-principles thinking": "We get through life by reasoning by analogy, which essentially means copying what other people do with slight variations. And you have to do that. Otherwise, mentally, you wouldn’t be able to get through the day. But when you want to do something new, you have to apply the first-principles approach."
-
-Use efficient reasoning by analogy for standard tasks and save high-effort first-principles thinking for situations where you need to create something truly original.
 
 ## Templates & Frameworks
 

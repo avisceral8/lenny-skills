@@ -6,8 +6,6 @@
 
 ## Albert Cheng
 
-> "You have to take that insight, share it broadly across the company. Now, adjacent product managers like the PM working on puzzles can now think about, 'Okay, how do I audit these cold patterns in my product and think about making them more positive?'"
-
 **Insight:** To scale the impact of experimentation, treat every individual win as a blueprint that adjacent teams must audit and apply to their own product areas.
 
 **Tactical advice:**
@@ -91,8 +89,6 @@
 
 ## Lenny Rachitsky
 
-> "After I joined as Eventbrite’s first head of growth, our initial growth team chose to prioritize this as our top area for experimentation. Given our existing attendee-to-creator conversion, we hypothesized that we could materially increase this rate of conversion, and our modeling showed that doing so could provide a material lift to our organic growth."
-
 **Insight:** Modeling the potential impact of an optimized conversion rate helps justify prioritizing specific growth loops over other acquisition channels.
 
 **Tactical advice:**
@@ -130,8 +126,6 @@
 
 ---
 
-> "As someone smart said, “Do the job you want.” Demonstrate to yourself, and others, that you can do this work and be successful."
-
 **Insight:** Executing real-world growth experiments builds the practical skills and internal credibility needed to transition into a formal growth role.
 
 **Tactical advice:**
@@ -155,8 +149,6 @@
 *Source: [Fostering a culture of experimentation](https://www.lennysnewsletter.com/p/fostering-a-culture-of-experimentation)*
 
 ---
-
-> "My advice is to get your team together and go through this list with the mindset of “How might we…?”"
 
 **Insight:** Effective brainstorming sessions leverage structured prompts and categorized lists to shift the team's perspective toward actionable, specific solutions.
 
@@ -207,8 +199,6 @@
 *Source: [Introducing DRICE: a modern prioritization framework](https://www.lennysnewsletter.com/p/introducing-drice-a-modern-prioritization-framework)*
 
 ---
-
-> "For the first three months, almost nothing. And then a trickle of traffic. At six months, there still wasn’t much traffic, but there was at least enough to start analyzing. At 18 months, it became a meaningful share of consumer traffic to the site. At 36 months, it was the primary form of customer acquisition."
 
 **Insight:** Before pivoting your entire company toward a single growth engine, you must validate that the channel shows early data signals of efficacy.
 

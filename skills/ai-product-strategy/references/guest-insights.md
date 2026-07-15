@@ -21,8 +21,6 @@
 
 ## Alex Hardimen
 
-> "What we really tried to do very quickly was try to unpack the categories of public content to say that there actually is something that is factually accurate information, and that requires a certain craft from the journalistic trade."
-
 **Insight:** Scaling high-quality content curation requires codifying human domain expertise into algorithmic classification and ranking systems.
 
 **Tactical advice:**
@@ -66,8 +64,6 @@
 
 ## Benjamin Mann
 
-> "We felt like safety wasn't the top priority there. The case for safety has gotten a lot more concrete, so superintelligence is a lot about how do we keep God in a box and not let the God out?"
-
 **Insight:** Safety and alignment must be prioritized early in the development cycle because once AI reaches superintelligence, it becomes too late to implement effective guardrails.
 
 **Tactical advice:**
@@ -88,8 +84,6 @@
 ---
 
 ## Chip Huyen
-
-> "The pre-tuning is basically encoding statistical informations of language to have you predict what is most likely. I think that most likely is the most simple way of doing it because it's more building a distribution of, okay, so the next token could be more 90% of the the time it could be a color, 10% of the time could be something else."
 
 **Insight:** Pre-training builds a broad statistical understanding of language, while post-training or fine-tuning refines that model by adjusting weights to fit specific, expert-provided datasets.
 
@@ -114,8 +108,6 @@
 *Source: [Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)](https://www.youtube.com/watch?v=qbvY0dQgSJ4) @ 00:04:40*
 
 ---
-
-> "We are in an ideal crisis. Now, we have all this really cool tools to do everything from scratch and have new design. It can have you write code. You can have new website. So in theory, we should see a lot more, but at the same time, people are somehow stuck. They don't know what to build."
 
 **Insight:** The abundance of AI tools has created an 'ideal crisis' where the primary challenge is identifying meaningful use cases rather than technical feasibility.
 
@@ -149,8 +141,6 @@
 
 ## Dr. Fei Fei Li
 
-> "If you want to lift a teapot, you don't say, 'Okay, the teapot is made of a hundred pieces of porcelain and let me work on this a hundred pieces.' You look at this as one object and interact with it. So object is really important."
-
 **Insight:** Robotic systems succeed when they can perceive and interact with the world as discrete objects rather than as a collection of disjointed data points.
 
 **Tactical advice:**
@@ -161,8 +151,6 @@
 *Source: [The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=Ctjiatnd6Xk) @ 00:41:17*
 
 ---
-
-> "In order to train computers with tens and thousands of object concepts, you really need to show it millions of examples."
 
 **Insight:** Effective AI training relies on the quality and scale of labeled data rather than just the sophistication of the mathematical models.
 
@@ -279,8 +267,6 @@
 ---
 
 ## Lenny Rachitsky
-
-> "Below is an “explain it to me like I’m 5” definition of the 20+ most common AI terms, drawn from my own understanding, a bunch of research, and feedback from my most AI-pilled friends."
 
 **Insight:** Building a foundational AI vocabulary is essential for product leaders to maintain clarity and credibility during technical development cycles.
 
@@ -436,8 +422,6 @@
 
 ---
 
-> "Why PMs are best positioned to thrive in an AI world"
-
 **Insight:** Product managers are uniquely positioned to lead in the AI era by integrating large language models into their research and product development workflows.
 
 **Tactical advice:**
@@ -542,8 +526,6 @@
 
 ## Paul Adams
 
-> "And then, for some of it'll be replacement, AI would replace, it'll just do it. And, in other places, it'll be augmentation. It'll augment. It'll help people."
-
 **Insight:** Determine whether AI should replace or augment core workflows by evaluating your product's fundamental problem-solving premise.
 
 **Tactical advice:**
@@ -614,8 +596,6 @@
 
 ## Sam Schillace
 
-> "What if this is really the second Industrial Revolution where, in the first one, we had a surplus of physical energy beyond just our bodies and things like water reels, and now we have a surplus of cognitive energy beyond just our brains, right?"
-
 **Insight:** View AI not as an add-on feature but as a fundamental 'cognitive energy' surplus that enables entirely new paradigms of complex software.
 
 **Tactical advice:**
@@ -642,8 +622,6 @@
 
 ---
 
-> "It is not a solvable problem. That's one of the things that makes it so different from classical security. If we can't even trust chatbots to be secure, how can we trust agents to go and manage our finances?"
-
 **Insight:** Prompt injection is fundamentally different from classical security because it cannot be fully solved, making any AI-powered system vulnerable to creative adversarial manipulation.
 
 **Tactical advice:**
@@ -654,8 +632,6 @@
 *Source: [AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt)](https://www.youtube.com/watch?v=eKuFqQKYRrA) @ 00:51:55*
 
 ---
-
-> "If we can't even trust chatbots to be secure, how can we trust agents to go and manage our finances? If somebody goes up to a humanoid robot and gives it the middle finger, how can we be certain it's not going to punch that person in the face?"
 
 **Insight:** Agentic AI introduces a significantly higher tier of security risk than chatbots because autonomous tool-use can translate digital prompt errors into physical or financial harm.
 
@@ -680,8 +656,6 @@
 *Source: [AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt)](https://www.youtube.com/watch?v=eKuFqQKYRrA) @ 00:05:06*
 
 ---
-
-> "Notably, that is not where the classical concept of prompt engineering came from. It actually came a bit earlier from a more, I guess, AI engineer perspective where you're like, 'I have this product I'm building. I have this one prompt or a couple different prompts that are super critical to this product.'"
 
 **Insight:** Product-focused prompt engineering requires a rigorous, non-conversational approach where a single prompt is optimized to handle millions of varied user inputs reliably.
 

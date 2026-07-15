@@ -33,11 +33,6 @@ Lulu Cheng Meservey: "There's going to be people who are just not your natural a
 
 Focus limited resources on audiences that already have pre-existing interests aligned with your mission. Dedicate time to understanding their specific passion points and ignore misaligned groups.
 
-### Seek the 3x improvement threshold
-Oji Udezue: "And there's a lot of benefit really hones in on the fact that if you're going to help me work less, make about the same amount of money, then for me to notice you, you have to accelerate me by three times for me to care."
-
-Target users for whom your product provides a massive improvement over the status quo. These customers are less price-sensitive because the value proposition is fundamentally obvious to them.
-
 ### Avoid the bad audience trap
 From "How to identify your ideal customer profile (ICP)": "If you’ve got a killer idea but you’re talking to the wrong people, you’ll come away thinking your idea stinks, and give up. But the same idea pitched to different people can change everything."
 
@@ -47,11 +42,6 @@ Targeting the wrong audience can lead you to abandon great ideas prematurely. Se
 From "Lessons learned from a startup that didn’t make it": "Simply put, an ICP must be a single market segment: a group of people for whom the value of solving a problem is roughly the same, and who can be reached in roughly the same way. “People who use Excel” is not a market segment, because it says nothing about either the value of their problem or how to reach them."
 
 A specific and actionable ICP must define a single market segment where both the solution's value and the method of reaching the customer are uniform. If you cannot reach them consistently, it is not a valid segment.
-
-### Identify the struggling moment
-Gia Laudi: "Identifying more resonant positioning and messaging that speaks to that context that I was talking about before, before people discover that you even exist, have that moment where they're like, 'Oh my god, this has to change. This sucks,' ties that in, ties in what they care about and what is valuable about your product and then also that desired outcome."
-
-High-impact growth comes from identifying the specific catalyst that makes a customer realize their current situation sucks. Align your messaging with this trigger to capture high-intent users.
 
 ### Prioritize cold outbound signals
 From "How to identify your ideal customer profile (ICP)": "Data from outbound sales is the best signal for what’s working, versus leads from investors and friends."

@@ -18,11 +18,6 @@ Help the user with hiring world-class product talent using insights from 21 gues
 
 ## Core Principles
 
-### Relationship-Led Recruitment
-David Singleton: "Our managers spend a lot of time identifying exactly what they need for the various roles that we have and then getting to know the potential candidates, the people out there in the world that could do these jobs actually really go quite deep with them on why it might make sense for them to feel like number one, they can feel very personally fulfilled against that mission here."
-
-Top talent is best recruited through a deeply personal, manager-led process that prioritizes multi-year relationship building over automated recruiting.
-
 ### Generalist Versatility
 Anton Osika: "Being a generalist, I think much more important than it used to be. If I'm putting together a product team today, I would really obsess about getting as many skill sets as possible for each person I hire."
 
@@ -32,16 +27,6 @@ In the AI era, individuals who can span multiple disciplines effectively provide
 Dmitry Zlokazov: "Everyone is striving for talented, skillful, smart people. Revolut values way more raw intellect and this unquenched hunger to build things rather than experience."
 
 Prioritize high cognitive ability and a relentless drive to build over traditional industry experience or specific years of PM history.
-
-### Heartfelt Intensity
-Josh Miller: "If you have a team that has heartfelt intensity and is there for a purpose and something to prove, you get it. You give them a very exciting, ambitious product and get out of their way and they will do remarkable work."
-
-Screen for candidates with a 'fire in their belly' and a personal mission that aligns with the company's goals to ensure high autonomy and execution.
-
-### User-Centric Mindset
-Laura Modi: "I think it maybe just starts internally where you have to be able to create a culture first, to all understand that. Because otherwise you're going to be in a position where you're focused on optimizing the technology, efficiency, growth, looking at tools for tools' sake versus tools for users' sake."
-
-Hire individuals who prioritize the user experience over technical optimization to ensure the product remains human-centered.
 
 ### Outcome-Based Mandates
 Lauren Ipsen: "I think it’s trying to work a little bit backwards and think about, what is the actual outcome that we are trying to solve for with this hire? Or are we just hiring a head of product because we feel like we need to hire a head of product? That’s so often what I see is the board’s telling me we need to hire a head of product and I don’t necessarily think that we do, or I’m not exactly sure what we need in this role."

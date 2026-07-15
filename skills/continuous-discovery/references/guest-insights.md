@@ -14,8 +14,6 @@
 
 ## Boris Cherny
 
-> "I spent one month hacking, and built a bunch of weird prototypes. Most of them didn't ship, and weren't even close to shipping. It was just understanding the boundaries of what the model can do."
-
 **Insight:** Deep experimentation and building non-shipping prototypes are necessary to uncover the latent capabilities and unexpected use cases of new technologies.
 
 **Tactical advice:**
@@ -58,8 +56,6 @@
 ---
 
 ## Jason Droege
-
-> "it was just this very cold splash of water about how the real world really works, because the MBAA and the RAA were the ones who sued us... if these guys don't have a playbook to follow, they just make up numbers, then wow, how should we navigate the rest of our lives?"
 
 **Insight:** To understand true needs and motivations, you must look past stated positions and playbooks to analyze the actual incentives driving a person's behavior.
 
@@ -144,8 +140,6 @@
 ---
 
 ## Kristen Berman
-
-> "The thinking here is if you map out every single step that it takes to do this behavior, and the behavior would be reducing your spend, it's pretty clear that budgeting just isn't going to pull the weight. And this is what we call a behavioral diagnosis, where you map out every single step."
 
 **Insight:** A behavioral diagnosis systematically identifies the gap between user intent and actual action by mapping every micro-step and hurdle in the journey.
 
@@ -233,8 +227,6 @@
 
 ---
 
-> "These examples highlight the power our environment has on driving our decisions. The truth is, people want to manage their diabetes. They want to track their variable income. There’s no lack of intent—there’s lack of action."
-
 **Insight:** Mapping the decision environment reveals the barriers that prevent users from acting on their existing intentions.
 
 **Tactical advice:**
@@ -245,8 +237,6 @@
 *Source: [How behavioral science can boost your conversion rates](https://www.lennysnewsletter.com/p/how-behavioral-science-can-boost-your-conversion-rates)*
 
 ---
-
-> "The field of behavioral science studies these behaviors. It sits at the crossroads of psychology and economics, looking at the effects of cognitive, emotional, and social factors on decisions and, ultimately, actions."
 
 **Insight:** Applying established behavioral science research to your product category helps predict user reactions before you even begin testing.
 
@@ -259,8 +249,6 @@
 
 ---
 
-> "Aside from this, what I think is unique about our product team is our proximity to customers. We spend a lot of time with them, and crucially, we do our best to maintain a close relationship with the community."
-
 **Insight:** Direct, informal proximity to your community—such as texting customers for feedback—is a competitive advantage that builds deep intuition for what users truly value.
 
 **Tactical advice:**
@@ -271,8 +259,6 @@
 *Source: [How Figma builds product](https://www.lennysnewsletter.com/p/how-figma-builds-product)*
 
 ---
-
-> "Continuous Interviewing by Teresa Torres—will change the way you build product."
 
 **Insight:** Adopting a regular cadence of customer interviewing transforms product development from guesswork into evidence-based decision-making.
 
@@ -331,8 +317,6 @@
 ---
 
 ## Marty Cagan
-
-> "People don't buy the problem, they buy your solution. Obviously they don't buy it if it's not solving something they care about, but there are many products that are solving what they care about. The real question is, do you solve it better than everybody else so that they buy you?"
 
 **Insight:** Success in discovery depends on transitioning quickly from problem identification to iterating on a solution that significantly outperforms the competition.
 

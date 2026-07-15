@@ -191,8 +191,6 @@
 
 ---
 
-> "Pricing improvements are often the fastest path to new revenue, and there’s rarely a dedicated owner. Try some of these low-hanging fruit ideas."
-
 **Insight:** Pricing and packaging optimization is a high-leverage opportunity for rapid revenue growth because it often lacks a dedicated owner in startups.
 
 **Tactical advice:**
@@ -269,8 +267,6 @@
 
 ---
 
-> "This article will decode the four most commonly used quantitative WTP methods and provide a template of questions you can use. Quant is very important, but it can be even more powerful paired with qualitative work."
-
 **Insight:** A comprehensive pricing study should combine structured quantitative methods with qualitative research to uncover both the optimal price point and the customer's underlying value perception.
 
 **Tactical advice:**
@@ -308,8 +304,6 @@
 
 ---
 
-> "This newsletter was always meant to be a little side-project while I looked for a “real job”, but after so much positive feedback, and continued prodding from readers and friends, I’ve decided to double-down and turn this into a real thing."
-
 **Insight:** Transitioning a side project to a paid business should be driven by external validation and audience demand rather than a rigid initial plan.
 
 **Tactical advice:**
@@ -320,8 +314,6 @@
 *Source: [This newsletter is growing up 🌱](https://www.lennysnewsletter.com/p/this-newsletter-is-growing-up)*
 
 ---
-
-> "Starting in two weeks, only paid subscribers will get this newsletter weekly. In addition, paid subscriber questions will be prioritized, plus they’ll get a few other goodies (see below). Free subscribers will now receive this newsletter only about once a month."
 
 **Insight:** A successful paywall announcement clearly differentiates the tiers while maintaining a bridge for free users to stay connected.
 
@@ -347,8 +339,6 @@
 
 ---
 
-> "Get one company to pay (a meaningful amount of money) for your product"
-
 **Insight:** Securing a meaningful payment from an early customer is a vital signal that your product solves a problem significant enough to command a budget.
 
 **Tactical advice:**
@@ -359,8 +349,6 @@
 *Source: [A guide for finding product-market fit in B2B](https://www.lennysnewsletter.com/p/a-guide-for-finding-product-market-fit-in-b2b)*
 
 ---
-
-> "Since he was intensely user-driven, I framed the entire proposal around the benefits it would have for users (the CEO’s POV) rather than emphasizing the revenue impact of the project (our team’s goal). Once we framed the issue with this user-centric lens, the CEO was more open to our proposal and let us try a couple of experiments in this new direction."
 
 **Insight:** To overcome resistance to monetization changes, align the strategy with the organization's core mission or user-centric values rather than just financial targets.
 
@@ -594,8 +582,6 @@
 
 ---
 
-> "My pitch to you (or your manager) is that if this newsletter can help you make one better decision each year, it’ll pay for itself. And if it doesn’t, you can cancel anytime."
-
 **Insight:** Price your product based on the ROI of a single successful outcome it enables rather than the cost of production.
 
 **Tactical advice:**
@@ -606,8 +592,6 @@
 *Source: [This newsletter is growing up 🌱](https://www.lennysnewsletter.com/p/this-newsletter-is-growing-up)*
 
 ---
-
-> "The list above describes the eight ways for businesses to make money, but just for fun, below are the eight most common ways creators (ake solo entrepreneurs) can make money:"
 
 **Insight:** Solo creators have a unique set of monetization options that leverage personal brand and direct community engagement, ranging from tips and subscriptions to selling VIP access.
 

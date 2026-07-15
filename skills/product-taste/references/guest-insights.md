@@ -73,8 +73,6 @@
 
 ## Elena Verna 4.0
 
-> "The only way to create a word of mouth loop is just to blow their socks off."
-
 **Insight:** Organic word-of-mouth growth requires exceeding user expectations to the point of emotional delight.
 
 **Tactical advice:**
@@ -133,8 +131,6 @@
 
 ## Jason Fried
 
-> "We just want to make more money than we spend, have good healthy margins which allow us to experiment, and play, and not be afraid to do things that may not work, and just enjoy ourselves."
-
 **Insight:** Financial independence provides the creative freedom to experiment and make choices based on business intuition rather than complex industry metrics.
 
 **Tactical advice:**
@@ -162,8 +158,6 @@
 ---
 
 ## Jiaona Zhang
-
-> "You should articulate what success looks like and the milestones you want to hit in the small intervals that I talked about. So you don't get into this world where you're like, "Hey, I've gone for two years investing in this thing. Now we got to cut it.""
 
 **Insight:** Set clear "go/no-go" milestones to ensure quality and viability are assessed incrementally rather than at the end of a long development cycle.
 
@@ -221,8 +215,6 @@
 
 ## Julie Zhuo
 
-> "I've seen the power firsthand from working at Facebook of what data can do to help us make better products, especially for people at scale, to help us reduce the bias in our intuitions, and how we think about what is the way that we should prioritize, and I'm really passionate about the idea of making that such that every single company, every single business in the world can properly use data, know how to interpret it correctly, know how to use it to influence roadmap strategy and prioritization decisions, and make better decisions as a result."
-
 **Insight:** Data should be used as a tool to counteract personal bias and refine product prioritization.
 
 **Tactical advice:**
@@ -253,8 +245,6 @@
 *Source: [Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)](https://www.youtube.com/watch?v=4muxFVZ4XfM) @ 00:07:11*
 
 ---
-
-> "What we saw often is that the tools available for managing software projects weren't really cutting it. I think a lot of them felt very clunky or complex or just like they had this legacy way of thinking about software development. We just felt like we should do something about it. With Linear, we set out to build this most frictionless and streamlined system for modern software development."
 
 **Insight:** Users prefer tools that provide a streamlined, opinionated workflow over clunky legacy systems that require endless configuration.
 
@@ -294,8 +284,6 @@
 ---
 
 ## Kayvon Beykpour
-
-> "We wanted to change the lack of ambition, the lack of creativity, the lack of customers feeling that the product had changed at all."
 
 **Insight:** Restoring a brand's reputation for innovation requires prioritizing visible product changes that users can physically experience over backend metric optimization.
 
@@ -372,8 +360,6 @@
 
 ---
 
-> "We started by white-labeling an app for the students at Connecticut’s Weston High School. We spent a month working with our student ambassador there to deeply understand the complexities of her schedule and the challenges it resulted in for her and her friends. Then we built iWeston to perfectly support their calendar."
-
 **Insight:** Starting with a hyper-personalized, community-specific experience creates deep product-market fit and intense user loyalty that generalized platforms cannot easily match.
 
 **Tactical advice:**
@@ -449,8 +435,6 @@
 *Source: [How Duolingo reignited user growth](https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth)*
 
 ---
-
-> "You weren’t hired to just coordinate other people’s work. You were hired to bring your own point of view. To help shape the product. To deliver optimal business impact."
 
 **Insight:** The role of a product manager is to lead the team in the right direction through a strong perspective, not just to facilitate administrative tasks.
 
@@ -536,8 +520,6 @@
 
 ## Mihika Kapoor
 
-> "It is really important to create a vision that you believe in, that your team believes in and that your company believes in. Because the reality of the product development cycle is that it's so messy, it's so chaotic. You're going to have extreme highs and extreme lows. You're going to march in a certain direction only to hear from your users that it might just be the wrong direction, and totally pivot."
-
 **Insight:** Conviction is built by anchoring the team to a singular vision that serves as a constant progress marker, even when specific tactics must pivot.
 
 **Tactical advice:**
@@ -550,8 +532,6 @@
 ---
 
 ## Noah Weiss
-
-> "You actually have a feedback loop where you get a lot of negative signal about like, 'Okay. That didn't work. That didn't work. What can I actually learn, take away from that?'"
 
 **Insight:** Treating failed product launches and negative user signals as high-value feedback loops is the most effective way to identify hidden friction points.
 
@@ -593,8 +573,6 @@
 ---
 
 ## Robby Stein
-
-> "I find a lot of this is actually this compounding effect when you think about just every month ruthlessly improving the product or the models and just every day getting better, and then it just hits this tipping point where people just like it, they use it more, they enjoy it. And that's more of the feeling that I've had is just we've had, I think the right investment and focus and then it just hit a moment where people are seeing the effects of that now."
 
 **Insight:** Product success often stems from a compounding effect of consistent, ruthless improvements that eventually reach a critical tipping point of user value.
 

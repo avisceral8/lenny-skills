@@ -61,8 +61,6 @@
 
 ---
 
-> "And I pivoted my thinking and I've worked with many companies around how they should think about SEO and what SEO traffic should mean, but others have not because those tactics did work. And LLMs and AI in general is forcing people to think again, how should SEO work? How should I be driving business from the search channel?"
-
 **Insight:** The shift toward AI-integrated search requires moving beyond vanity traffic metrics to measure how the search channel effectively drives business outcomes.
 
 **Tactical advice:**
@@ -123,8 +121,6 @@
 *Source: [The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)](https://www.youtube.com/watch?v=iT7kq-R3Gjc) @ 00:34:03*
 
 ---
-
-> "Anything can be optimized, but if you're spamming it, they'll see that. And they'll have a whole team looking at that and then they'll change your algorithm to prevent you from doing that."
 
 **Insight:** While AI engines can be optimized, high-quality, authentic content is the only robust long-term strategy to avoid being flagged as spam by LLM providers.
 
@@ -308,8 +304,6 @@
 
 ---
 
-> "Analyze your company’s SEO health. Learn how to run SEO experiments. Learn about content-driven growth and winning at SEO."
-
 **Insight:** SEO is a critical organic pillar that requires balancing technical site health with content-driven strategies validated through constant experimentation.
 
 **Tactical advice:**
@@ -347,8 +341,6 @@
 
 ---
 
-> "And because GPT-3 works by crawling very large data sets and generating sentences similar to those it finds, the sentences it produces may or may not be accurate."
-
 **Insight:** AI tools are effective for automating content research and structure but require human intervention to ensure the factual accuracy necessary for search engine rankings.
 
 **Tactical advice:**
@@ -359,8 +351,6 @@
 *Source: [Ethan Smith: The power of internal linking for SEO](https://www.lennysnewsletter.com/p/ethan-smith-the-power-of-internal-linking-for-seo)*
 
 ---
-
-> "The way that you grow is with programmatic and with editorial SEO."
 
 **Insight:** Effective SEO growth requires integrating programmatic automation for scale with high-quality editorial content for depth and authority.
 

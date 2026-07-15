@@ -23,20 +23,10 @@ Howie Liu: "I think to really understand the solution space of what's possible, 
 
 True intuition is built by playing directly with the underlying technology and APIs rather than observing demos. Understanding the raw boundaries of your ingredients allows you to imagine new possibilities.
 
-### Prioritize Business Sustainability
-Jason Fried: "We just want to make more money than we spend, have good healthy margins which allow us to experiment, and play, and not be afraid to do things that may not work, and just enjoy ourselves."
-
-Use personal conviction and the desire to build a lasting business as a guide. Ignore standard growth metrics that do not correlate to profitability or your own desire to use the product.
-
 ### Articulate Emotional Responses
 Jessica Hische: "Most people are better at understanding the feelings and sensations that typography and logos give us than they give themselves credit for, because what we are as people are endless absorbers of patterns, and information, and all this kind of stuff as we move throughout the world. We don't take time to sit and digest it, but it's still coming in and getting logged, and so even as a non-designer, I think you can look at examples of logos where something's not quite right and be like, 'Something's not right here, I just don't know how to name it.'"
 
 Develop a professional eye by explicitly naming the feelings triggered by specific design elements. Practice identifying broken patterns to understand what makes a visual work.
-
-### Incremental Quality Assessment
-Jiaona Zhang: "You should articulate what success looks like and the milestones you want to hit in the small intervals that I talked about. So you don't get into this world where you're like, "Hey, I've gone for two years investing in this thing. Now we got to cut it.""
-
-Assess product viability and quality at every milestone rather than waiting for the end of a cycle. Set clear go/no-go markers based on whether the product path remains worth pursuing.
 
 ### Design for Human Emotion
 Josh Miller: "What we do at The Browser Company is we talk about optimizing feelings. How do we want to make someone feel on the other end of our software? Do we want to make them feel joy? Do we want to make them feel fast?"
@@ -52,11 +42,6 @@ Use research to stress-test your internal beliefs and look for ways you might be
 Katie Dill: "I know there's this saying of it's growth versus quality, but quality is growth. And if you think about how you can make your product easier to use and more understandable, that will of course drive people to use it, and use more of it, and have a better experience with it that they'll want to talk about with others."
 
 Superior aesthetics and usability are not just for show; they drive user activation and word-of-mouth. High-quality details make a product feel more approachable and trustworthy.
-
-### Signal Innovation Through Visibility
-Kayvon Beykpour: "We wanted to change the lack of ambition, the lack of creativity, the lack of customers feeling that the product had changed at all."
-
-Prioritize high-visibility product changes that users can physically experience to restore a brand's reputation for innovation. Visible progress often matters more to users than backend optimizations.
 
 ### Iterate via Internal Usage
 Karri Saarinen: "We actually believe that when you start building the thing you actually start realizing more how it should work and how it should be better. A lot of times with the teams we tell them, "Just put it there in, I don't know, the first week almost. After you have some designs in place or some design ideas, just put it into the app and ship it to production." It's only visible to us so we internally can test it out."

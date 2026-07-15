@@ -128,8 +128,6 @@
 
 ---
 
-> "If you boil it down, to build a successful business, you need to solve a big enough problem for a big enough group of people to make a profit. Everything in this post is a way to help you find a bigger problem or a bigger group of people."
-
 **Insight:** Turning around a struggling product requires systematically evaluating if you are solving a significant enough problem for a specific enough audience.
 
 **Tactical advice:**
@@ -421,8 +419,6 @@
 ---
 
 ## Tomer Cohen
-
-> "To really set the new purpose for it, which was this is not a springboard for other products. This is not a traffic jumpstart, it's not an upsell feed. It's really about people that matter, talking about things that I care about professionally."
 
 **Insight:** To turn around an underperforming product, you must strip away secondary business objectives and refocus on a singular, high-value user purpose.
 

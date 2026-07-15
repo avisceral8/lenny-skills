@@ -6,8 +6,6 @@
 
 ## Albert Cheng
 
-> "What he observes is that 80% of people that review their games actually do so after a win. And that's really counterintuitive to when we initially built the feature."
-
 **Insight:** High-impact growth opportunities are frequently found by identifying where actual user behavior diverges from the product's original design intent.
 
 **Tactical advice:**
@@ -123,8 +121,6 @@
 
 ## Elena Verna 3.0
 
-> "It's not somebody that with a shiny resume can come over and all of a sudden wave a magic wand and all of a sudden you have viral campaigns and a bunch of signups coming through and everybody's paying and everybody's retaining. That just doesn't happen."
-
 **Insight:** There are no shortcuts or 'magic wands' in growth; success requires internal discovery of product-market fit rather than outsourcing it to a high-profile hire.
 
 **Tactical advice:**
@@ -201,8 +197,6 @@
 ---
 
 ## Jason Cohen
-
-> "There's a series of questions that I asked to diagnose why is growth slowing in this order, because it's one of these things where the first one that's a problem, if you don't fix that, it doesn't matter if you fix one of the ones below."
 
 **Insight:** To effectively fix stalled growth, you must systematically diagnose issues in a specific sequence, starting with the most critical points of failure before moving to optimizations.
 
@@ -290,8 +284,6 @@
 
 ---
 
-> "When you do see this growth loop happening and you want to see if you can increase the rate of conversion, **it’s imperative to figure out why, and also why not**. Why aren’t *more* users converting?"
-
 **Insight:** Qualitative research is necessary to identify the knowledge gaps and friction points that prevent demand-side users from recognizing the platform's supply-side utility.
 
 **Tactical advice:**
@@ -328,8 +320,6 @@
 *Source: [GTM motions of 30 B2B SaaS companies](https://www.lennysnewsletter.com/p/gtm-motions-of-30-b2b-saas-companies)*
 
 ---
-
-> "By mid-2018, daily active users (DAU) were growing at a single-digit rate year-over-year, which was troubling, given the explosive growth the company had seen in the past. This was a problem for a startup with investors anxious to see fast monetization growth."
 
 **Insight:** Reaccelerating growth for a mature product requires shifting from intuition-based feature development to a systematic, data-driven approach that prioritizes retention over new acquisition.
 
@@ -380,8 +370,6 @@
 *Source: [How to make an impact in your first 90 days](https://www.lennysnewsletter.com/p/how-to-make-an-impact-in-your-first-90-days)*
 
 ---
-
-> "The most common thread across every company was an obsession with efficiency—staying small, keeping costs down, and getting profitable. They all stayed lean until they found strong product-market fit and, in many cases, far beyond that."
 
 **Insight:** Durable B2C subscription businesses are built on a foundation of operational efficiency, tight alignment between product and acquisition, and a relentless focus on creating sticky habits.
 
@@ -498,8 +486,6 @@
 
 ---
 
-> "We chose to scale this personalized product approach, instead of changing the product to make it less personal. This now results in bespoke support for our nearly 20,000 schools."
-
 **Insight:** Rather than diluting the product to reach more people, scale by building the internal infrastructure and specialized teams required to maintain high personalization at a massive scale.
 
 **Tactical advice:**
@@ -537,8 +523,6 @@
 
 ---
 
-> "Specific growth tactics: Conversion, Retention, Virality (also, it’s a myth), SEO 1, 2, and 3, sales 1, 2, 3, 4, paid growth, and launching on Product Hunt"
-
 **Insight:** Effective growth is a multifaceted effort involving various channels and metrics, from conversion and retention to specific acquisition tactics like SEO and sales.
 
 **Tactical advice:**
@@ -548,8 +532,6 @@
 *Source: [The Best of Lenny’s Newsletter—2024 Edition](https://www.lennysnewsletter.com/p/the-best-of-lennys-newsletter-2024-edition)*
 
 ---
-
-> "Each week I tackle reader questions about building product, driving growth, and accelerating your career."
 
 **Insight:** Effective product growth is driven by combining high-level frameworks with specific optimizations for retention, conversion, and diverse growth loops.
 
@@ -561,8 +543,6 @@
 *Source: [The Best of Lenny’s Newsletter 2023](https://www.lennysnewsletter.com/p/the-best-of-lennys-newsletter-2023)*
 
 ---
-
-> "This image includes not just the components of how your startup grows, but also the most popular tactics within each component. I encourage you to use this as a source of inspiration for your growth ideation. When you’re developing a new growth strategy, or struggling to come up with tactical ideas, start here."
 
 **Insight:** A comprehensive growth strategy requires a sequenced approach that moves from unscalable kickstarts to self-sustaining engines, optimized by lubricants and accelerants.
 
@@ -653,8 +633,6 @@
 
 ---
 
-> "In The Racecar Growth Framework, Dan Hockenmaier and I wrote about how it’s helpful to think about your business like a high-performance race car—the same four components that help a car drive faster also help your business grow:"
-
 **Insight:** Categorizing growth efforts into engines, boosts, lubricants, and fuel allows teams to balance short-term acceleration with long-term sustainability.
 
 **Tactical advice:**
@@ -692,8 +670,6 @@
 
 ---
 
-> "Launching a startup is not unlike getting a huge truck to move. Throw it into high gear from a standing start, and you’re going to end up with a smoking engine and a burned-out transmission. The only way to take the resources you have and get something moving is to slowly move through the gears."
-
 **Insight:** Startups should scale by sequentially moving through growth 'gears,' starting with manual traction tactics before expanding into new markets and scalable loops.
 
 **Tactical advice:**
@@ -705,8 +681,6 @@
 
 ---
 
-> "Identify your company’s primary growth engine. Identify your company’s primary growth engine."
-
 **Insight:** A robust growth strategy is built on identifying the core engines—funnels and compounding loops—that drive scalable user acquisition for your specific product.
 
 **Tactical advice:**
@@ -717,8 +691,6 @@
 *Source: [Breaking into growth](https://www.lennysnewsletter.com/p/breaking-into-growth)*
 
 ---
-
-> "The ‘go-to’ answer for almost every question in startups is ‘build a great product’ or you need ‘product market fit.’ Every time I hear that answer, it feels completely [unsatisfying]. Building a great product is a piece of the puzzle, but it’s far from the full picture."
 
 **Insight:** Building a great product is only one component of a larger growth framework that must also include channel, model, and market alignment.
 
@@ -887,8 +859,6 @@
 
 ---
 
-> "Like with a menu, your job is to peruse this list, pick two or three items that seem appetizing, and try them. If something works, chow down. If not, try something else."
-
 **Insight:** Growth efficiency comes from matching acquisition tactics to your specific startup archetype rather than trying every possible method.
 
 **Tactical advice:**
@@ -912,8 +882,6 @@
 *Source: [How to Kickstart and Scale a Marketplace Business – Part 3: Cracking the Chicken-and-Egg Problem 🐣 - Growing Initial Supply](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace-business---part-3-cracking-the-chicken)*
 
 ---
-
-> "Sourced from hundreds of product managers who filled out our survey and hopped on calls, I put together a comprehensive collection of ways PMs are using Perplexity to do their work, including: 1. Understanding and crafting growth strategy"
 
 **Insight:** AI search tools can distill complex growth histories and mechanics into actionable insights for developing your own product strategy.
 
@@ -965,8 +933,6 @@
 
 ---
 
-> "The Growth Series by Reforge—never too early to start learning about growth"
-
 **Insight:** Mastering growth requires understanding the mechanics of loops, retention, and engagement rather than just top-of-funnel acquisition.
 
 **Tactical advice:**
@@ -990,8 +956,6 @@
 *Source: [Prioritizing conversion opportunities](https://www.lennysnewsletter.com/p/prioritizing-conversion-opportunities)*
 
 ---
-
-> "Your CAC needs to stay below $1 per unique visitor so you can cover these costs and facilitate efficient ongoing growth."
 
 **Insight:** The sustainability of a PLG model depends on keeping acquisition costs extremely low to account for churn and operational expenses.
 
@@ -1186,8 +1150,6 @@
 
 ---
 
-> "“Use these benchmarks as a guide to prioritize between retention versus acquisition, and read Casey’s post for three ways to approach increasing retention. But just know, startups rarely increase retention significantly.”"
-
 **Insight:** Industry benchmarks provide the necessary context to determine whether a startup should focus on fixing a leaky bucket or scaling its acquisition efforts.
 
 **Tactical advice:**
@@ -1198,8 +1160,6 @@
 *Source: [What is good retention?](https://www.lennysnewsletter.com/p/what-is-good-retention)*
 
 ---
-
-> "I would have taken advantage of some of the channels even earlier (like SEO and email). I would also have spent more time learning from top crowdsourced, unique content, moderation sites."
 
 **Insight:** Delaying the adoption of scalable growth channels like SEO allows competitors to capture the market and outrank your platform.
 

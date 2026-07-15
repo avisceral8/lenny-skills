@@ -23,16 +23,6 @@ Bangaly Kaba: "Someone says, 'Hey, you know what? This would be great to build.'
 
 True de-risking starts with understanding the core problem from first principles before looking for data to justify a specific solution.
 
-### Working Backwards
-Bill Carr: "So therefore, when we're making a decision thinking about a problem, we're going to start with what's best for the customer and then come backward from there. That informs what's the work you have to do to then create this new solution for customers."
-
-Start by defining the ideal customer solution first and then work backward to determine the technical requirements and constraints.
-
-### Shrinking Cycle Times
-Eric Ries: "We at IMVU, we shipped product 50 times a day on average at a time when people were lucky to be doing it monthly if they were really advanced. Remember, it wasn't that long ago that we put the year the product came out in the name of the product. That tells you what cycle times used to be. That was considered normal, and people were like, 'That's impossible. That could never work.'"
-
-Dramatically reducing deployment and feedback loops allows for rapid validation of ideas and turns impossible guesses into testable facts.
-
 ### Maintaining Prototype Momentum
 Grant Lee: "We would have an idea in the morning, come up with some sort of functional prototype, recruit a bunch of people that are legitimately good prospective users, but have zero skin in the game, ship fast so people can start playing with it. In the afternoon, we're already running pretty full scale experiment."
 
@@ -43,20 +33,10 @@ Gustaf Alstromer: "If I drill down what makes companies fail, it's quite simple.
 
 Achieve product-market fit by talking to customers directly and immediately to learn if you are building something people actually want.
 
-### Evidence-Guided Development
-Itamar Gilad: "We come up with an idea, we believe in it, all the indications show it's good. Maybe the early tests show it's good, then we just go all in and we try to implement it and I made this very mistake many times as the product manager, I was the guy pushing for the ideas. So for me, this was kind of a turning point I felt we need to adopt a different system."
-
-Move from opinion-based to evidence-guided development to prevent wasting resources on features that users do not actually need.
-
 ### Workflow Compression
 Oji Udezue: "So the zone of benefit works as a framework because people will not pay for things that don't either really shrink the workflow that they're doing or doesn't give them superpower. So the same amount of time, but twice as much output. But the most important thing is that it has to be noticeable."
 
 A problem is only worth building for if your solution offers a visible and massive compression of the existing customer workflow.
-
-### Dollar-Driven Discovery
-Todd Jackson: "We get very specific about not just the normal way of doing customer conversations and customer discovery, but how do you find that a customer is willing to pay money for this thing and a lot of money?"
-
-Go beyond validating a problem by testing a customer's actual willingness to pay significant money for the proposed solution.
 
 ## Templates & Frameworks
 

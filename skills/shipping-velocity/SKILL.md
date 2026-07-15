@@ -18,16 +18,6 @@ Help the user with shipping velocity using insights from 19 guests and posts acr
 
 ## Core Principles
 
-### Set aggressive non-incremental goals
-Daniel Lereya: "If you set a different goal, 'I want to reduce it from four months to three months.' So many times, this translates in people's heads to, 'I want you to work harder. I want you to work longer hours.' And, this is not a message here. It's about working smarter."
-
-Benchmark your speed against top competitors and set seemingly impossible targets to force structural improvements rather than minor tweaks.
-
-### Maximize output density
-Farhan Thawar: "Everyone says, "Oh yeah, work hard and do more hours when you're young, whatever." I'm like, "What if you just did more per minute?""
-
-Focus on increasing the value produced within every minute of work rather than simply increasing the total number of hours worked.
-
 ### Ruthlessly cut feature scope
 Gaurav Misra: "We take the design and we cut, cut, cut until we can really say that it's going to be useless if we cut anymore. We get that out and people come in."
 

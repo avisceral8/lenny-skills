@@ -51,8 +51,6 @@
 
 ## Jerry Colonna
 
-> "So if you want to create a high-functioning team, do your work, and it starts with the person who has the most power."
-
 **Insight:** Team dysfunction is typically a reflection of the leader’s own unexamined internal patterns, making the leader's self-work the necessary first step for systemic change.
 
 **Tactical advice:**
@@ -65,8 +63,6 @@
 ---
 
 ## Kim Scott
-
-> "So we do remember to show that we care personally, but we're so worried about not hurting someone's feelings or not offending them, that we fail to tell them something they'd be better off knowing in the long run. And that is what I call ruinous empathy."
 
 **Insight:** Withholding necessary criticism to protect an employee's feelings is ultimately more harmful than being direct, as it prevents them from fixing career-limiting mistakes.
 
@@ -120,8 +116,6 @@
 
 ---
 
-> "Sometimes the hardest thing is the right thing."
-
 **Insight:** Removing underperformers is a necessary, albeit difficult, step in maintaining high team velocity and morale.
 
 **Tactical advice:**
@@ -155,8 +149,6 @@
 ---
 
 ## Matt Mochary
-
-> "The biggest marker that I've seen between a botched layoff and a successful layoff is at the moment someone hears that they no longer have a job, did they hear it from their manager in a one-on-one? If that's when they heard it, it'll be okay. But if they heard it in an email, in a group chat, in any kind of thing where they were sitting next to or they're hearing it along with other people, it wasn't personalized, it wasn't one-on-one, that is terrible. That's when people get really angry and that's when they start going on to Twitter and going to newspapers and et cetera, because it feels dehumanizing."
 
 **Insight:** To maintain a sense of humanity and trust, termination news should be delivered personally by a direct manager in a one-on-one setting.
 

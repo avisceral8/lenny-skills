@@ -78,8 +78,6 @@
 
 ---
 
-> "Learn about p-values, power, and significance. Learn about fostering a culture of experimentation. Learn about the benefits and pitfalls of building with data."
-
 **Insight:** Effective experimentation requires both a technical understanding of statistics and a commitment to fostering a team culture that prioritizes learning over simply shipping features.
 
 **Tactical advice:**
@@ -90,8 +88,6 @@
 *Source: [Breaking into growth](https://www.lennysnewsletter.com/p/breaking-into-growth)*
 
 ---
-
-> "Behavioral science provides a lens to decision-making that is valuable at the early stages of ideation. With an up-front model of how and why someone will likely engage with your product, you’re less likely to need marginal improvements later."
 
 **Insight:** Theory-based experiments allow teams to build a predictive model of user behavior that reduces the need for constant marginal adjustments.
 
@@ -156,8 +152,6 @@
 *Source: [The ultimate guide to A/B testing | Ronny Kohavi (Airbnb, Microsoft, Amazon)](https://www.youtube.com/watch?v=hEzpiDuYFoE) @ 00:28:00*
 
 ---
-
-> "You have to allocate sometimes to these high risk, high reward ideas. We're going to try something that's most likely to fail. But if it does win, it's going to be a home run."
 
 **Insight:** A successful experimentation roadmap balances low-effort incremental wins with high-variance bets that have a high probability of failure but massive potential upside.
 
@@ -275,8 +269,6 @@
 ---
 
 ## Tim Holley
-
-> "one of them is around digging deeper, and that really speaks to aiming to really understand the why behind a change, to really push on the insights that we're learning through qual or quant research, or other inputs that we might be looking at in order to make the best decision possible with the information we have at the time."
 
 **Insight:** A strong experimentation culture is built on the discipline of 'digging deeper' into the underlying 'why' of qualitative and quantitative data.
 

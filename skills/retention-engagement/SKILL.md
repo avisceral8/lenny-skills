@@ -33,11 +33,6 @@ Dan Hockenmaier: "Second would be retention. So at what rate are these customers
 
 Effective retention management requires tracking the long term survival curve of user cohorts rather than just high level active user counts.
 
-### Workflow integration
-Hila Qu: "Think about Zoom how me or you, maybe everyday users, how we get to know Zoom is not necessary through a sales team call me code or email me code and introducing me this, showing a demo of Zoom, and I get to know Zoom, right? It's because maybe Lenny, you hosted a webinar I joined and I get to just use this software already without even knowing it's Zoom."
-
-Aim to embed the product so deeply into existing daily habits that users interact with it before they even consciously realize they are doing so.
-
 ### Strategic loss aversion
 Jackson Shuttleworth: "Streaks is the most impactful feature. We have, right now, over 9 million users with a year plus streak. If you look at the numbers, I think it's been our biggest growth lever. What Duolingo really focuses on is, how do we help users build habits around language learning?"
 
@@ -47,16 +42,6 @@ Use mechanics like streaks to create a sense of progress that users want to prot
 Jason Cohen: "There's a maximum ceiling of how big you could ever be thanks to cancellations. And when you know what that number is, it's much more real and visceral and scary."
 
 Acknowledge that high churn creates a mathematical limit on business size that no amount of acquisition can solve.
-
-### Environmental redesign
-Kristen Berman: "Sometimes, we think behavior change is driven by our attitudes, our preferences like, 'I really want to be a runner' or 'I really like this thing.' But in reality, our behavior is driven by what we do. So, in order to change behavior, you have to do something different."
-
-Focus on changing the user's environment and concrete actions within the product rather than trying to shift their long term attitudes.
-
-### Intentional friction
-Kristen Berman: "And then recently, we've done work with TikTok where we've tried to... It actually accomplished decreasing misinformation share by 24%."
-
-Introduce deliberate hurdles for high emotion or impulsive actions to force users into a more thoughtful and less regrettable state.
 
 ### Mounting loss
 Sarah Tavel: "The test for me, of whether you're building a product that has the ingredients to create a retentive product on a micro level, just at the user level, is that the product should get better the more you use it, and you'll have more to lose by leaving it."

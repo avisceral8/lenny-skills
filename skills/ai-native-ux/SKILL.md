@@ -33,11 +33,6 @@ Aparna Chennapragada: "Natural language interface. NLX is the new UX. Often I he
 
 Natural language experiences shouldn't be left entirely to the model. Designers must define the invisible UI constructs and grammars inherent in specific contexts like meetings or podcasts.
 
-### Prioritize flexible form factors
-Boris Cherny: "The model is improving so quickly, we felt that there wasn't really another form factor that could keep up with it. And, honestly, this was just me struggling with, 'What should we build?'"
-
-Use low-overhead interfaces like terminals or canvases that give the model maximum freedom to act. Avoid rigid UI structures that may become obsolete as the underlying model capabilities evolve.
-
 ### Implement effortless correction
 Gustav Söderström: "And the AI DJ is you press a button, a digitized person, there's a real person named X, digitized X. So he's now an AI, comes on and talks to you about music that you like and suggests music, and you can listen to it. And if you don't like it, you can just call him back and he says, 'Okay, now, let's listen to something maybe from a few summers ago,' or 'Here's some new stuff that were trending yesterday in The Last of Us episode or something like that.'"
 

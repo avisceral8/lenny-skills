@@ -6,8 +6,6 @@
 
 ## Lenny Rachitsky
 
-> "With comp on everyone’s minds, we want to help U.S. product managers at all levels understand current salary trends and provide useful benchmarks to guide discussions and career planning."
-
 **Insight:** Accurate benchmarking requires comparing your base salary to specific percentiles within your functional level rather than just looking at the broad average.
 
 **Tactical advice:**

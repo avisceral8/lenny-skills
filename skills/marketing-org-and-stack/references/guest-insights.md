@@ -215,8 +215,6 @@
 
 ---
 
-> "Start small: Start scrappy and play around with platform, topic, and style until you find something that works."
-
 **Insight:** Operational success in content growth comes from creating a repeatable system for topic discovery and platform-specific experimentation.
 
 **Tactical advice:**
@@ -229,8 +227,6 @@
 ---
 
 ## Timothy Davis
-
-> "Instead of thinking about being on top of the page, and that's like ego marketing, I want to be number one. I want to be there all the time. It's about showing to the right person as often as possible."
 
 **Insight:** Agencies often underperform because they prioritize top-of-page rankings and ego marketing over targeted audience optimization.
 

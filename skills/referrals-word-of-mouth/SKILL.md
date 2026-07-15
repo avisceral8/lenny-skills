@@ -33,16 +33,6 @@ From "Building a referrals program": "The added incentive that a referral progra
 
 A referral program acts as an accelerator for existing interest. It should only be built once you verify that a majority of growth is already organic.
 
-### Solve Sharp Problems
-Oji Udezue: "This is the bedrock of virality. Build a great product that solves a sharp problem."
-
-Virality is a byproduct of solving a meaningful and painful problem so effectively that users feel a natural urge to advocate for the solution.
-
-### Emotional Brand Connection
-Gina Gotthilf: "One of the things I've helped employ at Duolingo that I think is still there today, it's definitely not just me, it was an amazing team, is a unique voice. And what that means is not just another language learning app where we give you instructions and you follow directions."
-
-Using a unique and memorable brand voice creates an emotional bond that moves users beyond utilitarian usage toward organic advocacy.
-
 ### High-Value Milestone Incentives
 From "Kickstarting supply in a labor marketplace": "Later, we had a two-sided referral program where if supply referred new supply, we would pay them $50 for each activated pro (after completing their first gig). If they referred a restaurant we would give them something like $300."
 

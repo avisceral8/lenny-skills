@@ -18,11 +18,6 @@ Help the user with negotiating tech compensation using insights from 1 guests an
 
 ## Core Principles
 
-### Use Percentile Benchmarking
-From "How much do U.S. product managers really make?": "With comp on everyone’s minds, we want to help U.S. product managers at all levels understand current salary trends and provide useful benchmarks to guide discussions and career planning."
-
-Compare your base salary against the 25th, 50th, and 75th percentiles for your specific functional level rather than broad industry averages.
-
 ### Gather Intelligence Early
 From "The 10 commandments of salary negotiation": "Every recruiter worth their salt will ask about your salary expectations when you first start interviewing. Do not — I repeat, do not — give them a number. What to do instead: Ask for the range they’re budgeted for the role."
 

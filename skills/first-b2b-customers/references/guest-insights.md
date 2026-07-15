@@ -43,8 +43,6 @@
 
 ## Karri Saarinen
 
-> "I think the next stage is we look for a customer that could be interested in this feature or we just ask people to opt in to some better program. In those stages, the experience can be a little janky or it's not that polished, but we're okay with it because we are saying, 'It's not finished. We just want to get your feedback early so we can make it better.' Once we get to the full general release, then we pay more attention to the actual polish or the craft."
-
 **Insight:** Developing features alongside a few key customers allows for real-world validation and iteration before a general release.
 
 **Tactical advice:**
@@ -57,8 +55,6 @@
 ---
 
 ## Lenny Rachitsky
-
-> "But at the end of the day, Dylan was thinking about it in terms of trust. He was like, ‘Look, I convinced this guy to use our product. They’re actually trying to use it for work, and if we fuck it up for them, I don’t want that on my conscience. I want to do whatever I can to make sure that we’re holding up our end of the bargain. Because they believed in me.’"
 
 **Insight:** Achieving early PMF depends on viewing initial customers' trust as a sacred obligation and providing extreme, high-touch support to ensure their success.
 
@@ -83,8 +79,6 @@
 *Source: [How to find and win your first 10 B2B customers](https://www.lennysnewsletter.com/p/how-to-find-and-win-your-first-10-b2b-customers)*
 
 ---
-
-> "Only three sourcing strategies account for every B2B company’s very early growth (unlike the seven strategies for consumer apps). Thus, your choices are easy, yet limited."
 
 **Insight:** Finding the first ten B2B customers relies on just three specific levers: personal networks, finding customers where they congregate, and press.
 
@@ -135,8 +129,6 @@
 *Source: [How today's fastest-growing B2B startups turned their early users into paying customers](https://www.lennysnewsletter.com/p/how-todays-fastest-growing-b2b-startups-turned-their-early-users-into-paying-cus)*
 
 ---
-
-> "I remember with the first 100 or so customers, every customer kind of felt like the last customer we would get, to be honest. We were like, I can’t believe DoorDash is using this product. That’s incredible! We were so proud."
 
 **Insight:** Winning the first cohort of customers is a manual, uphill battle that requires intense celebration of individual wins and a high-effort 'push' strategy.
 
@@ -314,8 +306,6 @@
 ---
 
 ## Todd Jackson
-
-> "The majority of startups do not get past, what we call, level one product-market fit or level two product-market fit. They get stuck at one of those first couple levels."
 
 **Insight:** The earliest stage of product-market fit requires securing deep customer satisfaction from a small cohort even if the delivery is entirely manual.
 

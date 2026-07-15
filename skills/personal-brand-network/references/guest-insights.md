@@ -22,8 +22,6 @@
 
 ## Christopher Miller
 
-> "And we ran into the COO at the time and out of the blue I think he had asked us what we thought about pricing and packaging and it was sort of one of those funny you should ask moments. And so, we ended up kind of pitching in the midst of pints being sort of handed every which way you could turn this vision for a completely different way we might approach pricing and packaging, and he was pretty intrigued and he said, 'Why don't you come to the next executive meeting and pitch us on it?'"
-
 **Insight:** Being prepared to pitch a bold, well-reasoned vision during unplanned executive encounters can open doors to high-level strategic roles and career sponsorship.
 
 **Tactical advice:**
@@ -73,8 +71,6 @@
 
 ## Hari Srinivasan
 
-> "If there's anything with knowledge or advice, I think that's what a lot of people are looking for. Every time we run these surveys, every time we talk to people on what they want, those are the things that really when you connect opportunity that people seek after in our system."
-
 **Insight:** Sharing professional knowledge and advice is the most effective way to increase your visibility and attract job opportunities from recruiters outside your immediate network.
 
 **Tactical advice:**
@@ -87,8 +83,6 @@
 ---
 
 ## Ian McAllister
-
-> "And I think business writing, I spent a lot of that time doing that at Amazon, is so valuable because you've got to be a clear thinker to be a clear communicator. And so there's two tests in writing well or communicating well. It's both those things. So I found it's pretty valuable in kind of sharpening your ax."
 
 **Insight:** Writing for an external audience serves as a forcing function to crystallize your thoughts, which naturally builds a professional network and high-leverage career opportunities.
 
@@ -118,8 +112,6 @@
 
 ## Jeffrey Pfeffer
 
-> "So we give them a bunch of assignments throughout the class, which are self-reflective assignments, but their big thing for the class is they have to do power. They have to do something during the quarter to take the principles of the class, and what they're learning, and put them into practice."
-
 **Insight:** Building a powerful brand requires transitioning from passive learning to active, public-facing implementation of leadership principles.
 
 **Tactical advice:**
@@ -130,8 +122,6 @@
 *Source: [The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (author of 7 Rules of Power, professor at Stanford GSB)](https://www.youtube.com/watch?v=etVCBDRXUH8) @ 00:15:58*
 
 ---
-
-> "So therefore, you should suspend judgment in the sense that if somebody is on your critical path, the only judgment you should make is they're on my critical path."
 
 **Insight:** To successfully build a professional network, you must focus on cultivating strategic relationships with individuals who control the critical paths to your goals.
 
@@ -161,8 +151,6 @@
 
 ## Lenny Rachitsky
 
-> "You’ve heard this a million times, but it’s still true: it’s not what you know, it’s who you know. Networking sucks, but it sucks more when you don’t have a job."
-
 **Insight:** Networking is most effective when done casually and consistently before an urgent job search begins.
 
 **Tactical advice:**
@@ -174,8 +162,6 @@
 
 ---
 
-> "Over time, the lineup will be a mixture of people you already know and love along with people who are under-the-radar but amazing."
-
 **Insight:** Transitioning an audience to a new medium requires a commitment to tactical depth and a guest strategy that blends established authority with niche expertise.
 
 **Tactical advice:**
@@ -186,8 +172,6 @@
 *Source: [I’ve launched a podcast!](https://www.lennysnewsletter.com/p/ive-launched-a-podcast)*
 
 ---
-
-> "That tells me that despite the proliferation of new funds, there’s an opportunity to build a firm that rises to the top of founders’ minds when they think of starting a company in a particular category, and that has a clear mission and worldview."
 
 **Insight:** A strong personal brand is built by creating a mutually reinforcing ecosystem of content and projects that clarify your unique perspective within a specific market.
 
@@ -236,8 +220,6 @@
 
 ## Lulu Cheng Meservey
 
-> "And so what doesn't make them want to say it is doing a favor for a corporation. What does make them want to say it is they want to bring joy to somebody else, they want to make somebody laugh, they want to appear interesting, or they want to project some part of their identity."
-
 **Insight:** People share content to enhance their own identity or social standing, not to perform a favor for a faceless brand.
 
 **Tactical advice:**
@@ -274,8 +256,6 @@
 
 ## Paul Millerd
 
-> "The big aha for me was, 'Oh, you can design around liking work.' The hidden assumption I had around work for the first 32, 33 years of my life was work sucks. You have to figure out how to tolerate it."
-
 **Insight:** Successful creative projects should be built on the foundational belief that work can be inherently enjoyable rather than a trade-off for survival.
 
 **Tactical advice:**
@@ -288,8 +268,6 @@
 ---
 
 ## Ravi Mehta
-
-> "A lot of people that are at larger companies, they like the benefits that come with that. They like the types of problems that they're working on, yet there's a whole other community of people who love to work earlier stage. It could be founders. It's also freelancers who like to help to build startups."
 
 **Insight:** Professional networks at large companies are often composed of specialists whose career preferences don't align with the generalist needs and lifestyle of an early-stage startup.
 
@@ -319,8 +297,6 @@
 
 ## Sam Lessin
 
-> "Etiquette is a skill for how to show up in a room with a low heart rate."
-
 **Insight:** Approaching professional events with a mindset of abundance rather than scarcity reduces performance anxiety and prevents you from appearing transactional.
 
 **Tactical advice:**
@@ -344,8 +320,6 @@
 *Source: [How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook | Sam Lessin](https://www.youtube.com/watch?v=KtKJ3A6DWTs) @ 00:16:25*
 
 ---
-
-> "If you show up like a little energizer bunny, you're going to scare one off. You're going to project totally the wrong vibe. This isn't your one shot. You'll have other opportunities."
 
 **Insight:** Maintaining a calm and composed demeanor when meeting powerful people is essential to avoid scaring them off with desperate or transactional energy.
 

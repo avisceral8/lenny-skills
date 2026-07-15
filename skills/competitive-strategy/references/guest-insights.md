@@ -51,8 +51,6 @@
 
 ## Elena Verna 3.0
 
-> "In the age of social media everybody and anybody tries to share their tips and tricks. Oftentimes things that are completely out of context or they are very specific to one example and actually do not apply as a pattern."
-
 **Insight:** Blindly copying competitor tactics often fails because growth strategies are highly dependent on specific business contexts and user behaviors.
 
 **Tactical advice:**
@@ -92,8 +90,6 @@
 
 ---
 
-> "Power requires a benefit and a barrier, so he's taking care of the benefit part by saying a castle, you have to have a pretty good understanding of why it's a castle and not a shack."
-
 **Insight:** A durable moat must pass the dual test of providing a material financial benefit (like cost or price advantage) and a structural barrier that prevents competitors from stealing that benefit.
 
 **Tactical advice:**
@@ -130,8 +126,6 @@
 
 ## Kevin Aluwi
 
-> "I think it would've been easy for us to say like, "Hey, they're all contractors. They're third parties, let them kind of just sort it out." But instead, we actually hired private security. So we actually work with private security companies to help our drivers in those situations, to help kind of extract them out of these sticky situations."
-
 **Insight:** Taking ownership of messy, high-friction operational challenges creates a unique competitive moat that more cautious or better-funded competitors are often unwilling to replicate.
 
 **Tactical advice:**
@@ -144,8 +138,6 @@
 ---
 
 ## Lenny Rachitsky
-
-> "If you’re having a hard time getting attention for your product, especially in a crowded market, consider picking one of these differentiators and going all-in."
 
 **Insight:** Sustainable success in a saturated market requires choosing a specific dimension—such as quality, convenience, or safety—to perform activities differently than rivals rather than just better.
 
@@ -223,8 +215,6 @@
 
 ---
 
-> "“Don’t be the best. Be the only.”"
-
 **Insight:** A true moat is built through structural advantages like network effects, high switching costs, or proprietary technology that make it difficult for competitors to displace you.
 
 **Tactical advice:**
@@ -262,8 +252,6 @@
 
 ---
 
-> "Sourced from hundreds of product managers who filled out our survey and hopped on calls, I put together a comprehensive collection of ways PMs are using Perplexity to do their work, including: ... 3. Doing market research"
-
 **Insight:** AI chatbots allow product managers to synthesize competitor go-to-market strategies and user usage patterns without extensive manual data gathering.
 
 **Tactical advice:**
@@ -274,8 +262,6 @@
 *Source: [How to use Perplexity in your PM work](https://www.lennysnewsletter.com/p/how-to-use-perplexity-in-your-pm-work)*
 
 ---
-
-> "the best way to prepare for this fast-approaching future is to dive in and get your hands dirty."
 
 **Insight:** AI dramatically shortens the discovery phase by aggregating competitive intelligence and industry analysis in seconds.
 
@@ -315,8 +301,6 @@
 ---
 
 ## Marc Andreessen
-
-> "I think we all assume that AI now is going to get really good at reasoning in any domain in which there are verifiable answers. And so that's going to include many very important domains."
 
 **Insight:** Future AI moats will be built in specialized reasoning within verifiable domains like medicine, law, and science, rather than just creative generation.
 
@@ -463,8 +447,6 @@
 
 ## Scott Wu
 
-> "One of the things which is already I'd say different in AI, is just how explosive the technology can be. There's no weight on hardware distribution. It means that the space is just growing so exponentially."
-
 **Insight:** The AI landscape moves faster than previous tech shifts because it lacks hardware distribution constraints, leading to rapid convergence and explosive growth.
 
 **Tactical advice:**
@@ -474,8 +456,6 @@
 *Source: [How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)](https://www.youtube.com/watch?v=7m_xKFqSxTo) @ 00:52:58*
 
 ---
-
-> "And then it's also kind of multiplying your team and multiplying your team's knowledge base because Devin really accumulates a lot of the knowledge from working with every member of your team and is able to bring that into each new session."
 
 **Insight:** In AI products, defensibility comes from accumulating institutional knowledge and integrating into multiplayer workflows where value compounds over time.
 

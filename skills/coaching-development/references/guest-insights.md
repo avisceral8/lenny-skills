@@ -49,8 +49,6 @@
 
 ## Carole Robin
 
-> "The whole course is about having interactions and then having the guidance and the space and the time and the focus to unpack what just happened."
-
 **Insight:** Effective coaching involves acting as a thought partner who provides the structured space for others to reflect on and unpack their own behavioral choices.
 
 **Tactical advice:**
@@ -99,8 +97,6 @@
 ---
 
 ## Dmitry Zlokazov
-
-> "So it's not only going deep, but also being flexible and doing this switch between zooming in very deep and then raising on the level of helicopter view and then understanding, okay, so this seems very, very complex in details, but then when you zoom out, how can we simplify it and build a robust process around it, which is scalable?"
 
 **Insight:** Effective product leadership requires the agility to dive into granular technical details and then zoom out to institutionalize those learnings into scalable frameworks.
 
@@ -192,8 +188,6 @@
 
 ## Howie Liu
 
-> "There's a strong advantage to any of those three roles who can kind of cross over into the other two. As a PM, you need to start looking more like a hybrid PM prototyper, who has some good design sensibilities?"
-
 **Insight:** The AI era requires product professionals to develop multi-disciplinary skills, effectively merging the roles of PM, designer, and prototyper.
 
 **Tactical advice:**
@@ -232,8 +226,6 @@
 ---
 
 ## Kim Scott
-
-> "If I'm a jerk to you Lenny, then I'm going to send you into fight or flight mode and then you literally cannot hear what I'm saying, so I'm wasting my breath."
 
 **Insight:** Abrasive leadership is fundamentally inefficient because it triggers a defensive physiological response that prevents the recipient from processing the actual feedback.
 
@@ -402,8 +394,6 @@
 
 ---
 
-> "IMHO, they are the secret weapon of the best managers. Done well, they improve performance, align expectations and accelerate your report's career. Done poorly, they accelerate their departure."
-
 **Insight:** A well-executed performance review system is a manager's most powerful tool for aligning expectations and accelerating a direct report's career growth.
 
 **Tactical advice:**
@@ -506,8 +496,6 @@
 
 ---
 
-> "If you’re a people manager, your job is to support and unblock your team. That’s hard to do if you’re not there, but it is possible if you get creative."
-
 **Insight:** Managers must proactively delegate their coaching and hiring responsibilities to peers or skip-level managers to keep the team supported.
 
 **Tactical advice:**
@@ -518,8 +506,6 @@
 *Source: [How to create an exceptional coverage plan for your parental leave](https://www.lennysnewsletter.com/p/how-to-create-an-exceptional-coverage-plan-for-your-parental-leave)*
 
 ---
-
-> "Instead, it’s by leveraging your newfound influence and authority to unblock your teams at every level: Short-term (e.g. making sure decisions are made), medium-term (e.g. hiring quickly to fill gaps), and long-term (e.g. aligning everyone around a winning vision and strategy)."
 
 **Insight:** Managers must move beyond day-to-day tasks to systematically remove barriers at multiple time horizons using their organizational influence.
 
@@ -545,8 +531,6 @@
 
 ---
 
-> "Product Leadership by Reforge—for budding managers, created by Ravi Mehta"
-
 **Insight:** Moving from individual contributor to leader requires a distinct shift in focus from executing tasks to managing people and organizational strategy.
 
 **Tactical advice:**
@@ -557,8 +541,6 @@
 *Source: [My favorite PM courses](https://www.lennysnewsletter.com/p/my-favorite-pm-courses)*
 
 ---
-
-> "Over the past year, I’ve collected over twenty PM career ladders from companies like Uber, Slack, Airbnb, Intercom, Amazon, and Asana. After analyzing these documents, it’s become clear to me that (1) the PM role varies significantly across company, but (2) there are a set of ten core PM skills that will serve you well no matter where you work."
 
 **Insight:** A robust PM career ladder should move beyond generic titles to define concrete behavioral expectations across ten core functional areas.
 
@@ -571,8 +553,6 @@
 
 ---
 
-> "The power of performance reviews to become a better manager"
-
 **Insight:** Becoming a better leader involves mastering structured internal processes like performance reviews and planning while adopting new tools like AI.
 
 **Tactical advice:**
@@ -582,8 +562,6 @@
 *Source: [The Best of Lenny’s Newsletter—2024 Edition](https://www.lennysnewsletter.com/p/the-best-of-lennys-newsletter-2024-edition)*
 
 ---
-
-> "I am proud to say that my top-performing direct reports now hold higher positions than I did when I retired. People who worked for me are now company founders and executives all over the industry. They did it through the Magic Loop—by doing a great job, asking for more, and then doing that new work well."
 
 **Insight:** Managers can build high-performing, executive-level talent by encouraging their reports to take ownership of both their current duties and the team's unmet needs.
 
@@ -722,8 +700,6 @@
 
 ## Manik Gupta
 
-> "When you look at individuals and you think about, or you ask them, or you think about what they have done that have made them successful, we tend to put a greater amount of emphasis on effort and a little less emphasis on luck and risk. I think I strongly subscribe to that. The important thing when you look back is how much luck played a big part, and of course the risk that somebody took played a big part."
-
 **Insight:** Many early-career professionals over-attribute success to hard work, missing the reality that strategic positioning for luck and risk-taking are often more decisive factors.
 
 **Tactical advice:**
@@ -768,8 +744,6 @@
 ---
 
 ## Paige Costello
-
-> "Your brain is so accustomed to having a scarcity mindset as opposed to creating alternative options or seeing a different path. Effectively, there's this notion of, 'How might the opposite be true?'"
 
 **Insight:** New product managers often struggle with a scarcity mindset, which can be overcome by intentionally questioning assumptions and looking for alternative truths.
 
@@ -876,8 +850,6 @@
 *Source: [The secret to better AI prototypes: Why Tinder’s CPO starts with JSON, not design | Ravi Mehta (product advisor, previously EIR at Reforge)](https://www.youtube.com/watch?v=_yQMGHHl49g) @ 01:06:05*
 
 ---
-
-> "We're also using AI to make coaches more efficient with the goal of making expertise-driven coaching a lot more accessible for folks."
 
 **Insight:** AI is most effective when used to scale and augment human expertise rather than attempting to replace the human element entirely.
 

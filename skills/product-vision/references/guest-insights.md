@@ -120,8 +120,6 @@
 
 ## Gustav Söderström
 
-> "That was the original goal, make senior leadership more approachable and reduce the distance and then also share more of the thinking in an entertaining way rather than just through docs that people end up not reading."
-
 **Insight:** Using storytelling and audio formats to communicate strategy humanizes leadership and ensures the message is consumed more effectively than traditional static documentation.
 
 **Tactical advice:**
@@ -237,8 +235,6 @@
 
 ---
 
-> "But if you want to discover something that other people haven’t, you need to do things the wrong way. Initiate a failure by doing something that’s very silly, unthinkable, naughty, dangerous. Watching why that fails can take you on a completely different path."
-
 **Insight:** Achieving the "impossible" often requires intentionally breaking established rules and learning from the resulting failures to find a new path.
 
 **Tactical advice:**
@@ -326,8 +322,6 @@
 
 ## Melanie Perkins
 
-> "So I guess the column B thinking is thinking about what is that magical wonderful future that you then want to invest years and decades of your life actually building? And so that's column A and column B in a nutshell."
-
 **Insight:** Effective long-term vision requires 'Column B' thinking, which starts by imagining an ideal future state and working backward, rather than incrementally building on current resources.
 
 **Tactical advice:**
@@ -355,8 +349,6 @@
 ---
 
 ## Petra Wille
-
-> "Getting promoted is way harder if you're not good in telling stories and rallying the team behind the shared goal and all these kind of things, and you usually achieve this through good storytelling techniques."
 
 **Insight:** Storytelling is a fundamental leadership skill that serves as a primary driver for team alignment and career advancement.
 

@@ -177,8 +177,6 @@
 
 ---
 
-> "Instead, what you want to do is keep the overall goals aligned, and parallelize projects that point toward this goal by sharing reusable guides and processes. Especially with the advance of AI, it’s possible to minimize coordination costs by using AI for “rubber duck debugging” your ideas instead of relying on perfect alignment and consensus."
-
 **Insight:** Reduce organizational friction by replacing traditional consensus-heavy review cycles with a decentralized model powered by single Directly Responsible Individuals (DRIs) and AI-assisted alignment.
 
 **Tactical advice:**
@@ -202,8 +200,6 @@
 *Source: [How Ramp builds product](https://www.lennysnewsletter.com/p/how-ramp-builds-product)*
 
 ---
-
-> "You are now the torch-bearer for the quality, ambition, and innovation that happens within your team, (and adjacent teams). Without micromanaging and telling everyone exactly what to do, push your team to think deeper and go further."
 
 **Insight:** Raising product quality requires acting as a strategic sounding board that challenges the team's depth of thought without dictating their every move.
 

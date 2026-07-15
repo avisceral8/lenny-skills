@@ -43,11 +43,6 @@ Ethan Smith: "Significantly more valuable. Webflow saw a 6X conversion rate diff
 
 Traffic from AI engines often converts at a higher rate because users arrive deeper into their research journey compared to traditional search.
 
-### Prioritize High-Quality Citations
-Ethan Smith: "Anything can be optimized, but if you're spamming it, they'll see that. And they'll have a whole team looking at that and then they'll change your algorithm to prevent you from doing that."
-
-Authentic, human-led content is the only long-term defense against being flagged as spam by AI providers who prioritize reliable citations.
-
 ### Identify Content Gaps
 From "Content-driven growth": "Research topics where searchers are underserved, and create content that delivers compelling, valuable, and differentiated value to those searchers."
 

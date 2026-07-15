@@ -96,8 +96,6 @@
 
 ---
 
-> "the best way to prepare for this fast-approaching future is to dive in and get your hands dirty."
-
 **Insight:** Generative AI can draft comprehensive interview guides to ensure user research covers all necessary objectives.
 
 **Tactical advice:**
@@ -185,8 +183,6 @@
 
 ## Mihika Kapoor
 
-> "You cannot go into a vacuum and come out with a compelling vision that does not exist. You have to be fundamentally inseparable from your users, and also, fundamentally inseparable from your team. And so, I think that there is sort of this important cross-pollination of functions that is really important in crafting a compelling vision."
-
 **Insight:** Developing valid product insights requires becoming inseparable from users to uncover the emotional and generative nuances of their workflows.
 
 **Tactical advice:**
@@ -199,8 +195,6 @@
 ---
 
 ## Nan Yu
-
-> "My goal is to feel bad in the same way that customers feel bad."
 
 **Insight:** Successful discovery requires digging past surface-level feature requests to identify the root emotional frustrations and 'speed bumps' users face.
 

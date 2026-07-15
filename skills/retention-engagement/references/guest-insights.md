@@ -66,8 +66,6 @@
 
 ## Hila Qu
 
-> "Think about Zoom how me or you, maybe everyday users, how we get to know Zoom is not necessary through a sales team call me code or email me code and introducing me this, showing a demo of Zoom, and I get to know Zoom, right? It's because maybe Lenny, you hosted a webinar I joined and I get to just use this software already without even knowing it's Zoom."
-
 **Insight:** Retention is built when a product embeds itself into existing workflows so seamlessly that users encounter and use it before they even realize they've become customers.
 
 **Tactical advice:**
@@ -147,8 +145,6 @@
 
 ## Kristen Berman
 
-> "Sometimes, we think behavior change is driven by our attitudes, our preferences like, 'I really want to be a runner' or 'I really like this thing.' But in reality, our behavior is driven by what we do. So, in order to change behavior, you have to do something different."
-
 **Insight:** Effective behavior change requires redesigning the environment to shift concrete actions rather than relying on changing a user's attitudes or long-term goals.
 
 **Tactical advice:**
@@ -159,8 +155,6 @@
 *Source: [Using behavioral science to improve your product | Kristen Berman (Irrational Labs)](https://www.youtube.com/watch?v=u53fplD_C30) @ 00:18:21*
 
 ---
-
-> "And then recently, we've done work with TikTok where we've tried to... It actually accomplished decreasing misinformation share by 24%."
 
 **Insight:** Introducing intentional friction can reduce harmful impulsive actions by forcing users out of a 'hot state' and into a more deliberative mental process.
 
@@ -198,8 +192,6 @@
 *Source: [How to accelerate growth by focusing on the features you already have](https://www.lennysnewsletter.com/p/how-to-accelerate-growth-by-focusing-on-the-features-you-already-have)*
 
 ---
-
-> "As Brian Balfour pointed out, “if you have poor retention, nothing else matters.” As you’ll see in the examples below, it is certainly possible to increase retention, and when you can pull it off it’s often the biggest lever you have to grow your business. For early-stage companies, it’s the single most important growth metric to get right."
 
 **Insight:** Retention is the most critical growth lever because no amount of acquisition can sustain a business where users do not find enough value to stay.
 
@@ -250,8 +242,6 @@
 *Source: [Lessons on building a viral consumer app: The story of Saturn](https://www.lennysnewsletter.com/p/lessons-on-building-a-viral-consumer-app-the-story-of-saturn)*
 
 ---
-
-> "It’s essential that you understand what healthy monthly churn looks like for your type of business—so that you know if you’re on track for 🚀 or ☠️"
 
 **Insight:** SaaS churn benchmarks vary significantly by business model and price point, with higher-priced enterprise products requiring much lower churn rates to remain viable.
 
@@ -316,8 +306,6 @@
 
 ---
 
-> "The team consisted of an engineering manager, an engineer, a designer, an APM, and me. But there was one small issue: we had no idea which incremental gamification mechanics would work for Duolingo."
-
 **Insight:** Building a gamification strategy for a non-game product starts with a small, cross-functional team that experiments with mechanics that align with the product’s core user activities.
 
 **Tactical advice:**
@@ -381,8 +369,6 @@
 
 ---
 
-> "The graphs can be difficult to read, the definitions vary for each product and business type, and the SQL is complex. At the same time, retention is both the most important and the least understood metric at most companies."
-
 **Insight:** Writing effective retention SQL requires managing complex logic that buckets users into cohorts and accurately counts core activity events over specific time intervals.
 
 **Tactical advice:**
@@ -393,8 +379,6 @@
 *Source: [How to measure cohort retention](https://www.lennysnewsletter.com/p/how-to-measure-cohort-retention)*
 
 ---
-
-> "Many analysts (and product managers, founders, and most people) are intimidated by retention. The graphs can be difficult to read, the definitions vary for each product and business type, and the SQL is complex."
 
 **Insight:** Visualizing retention effectively involves transforming complex cohort data into readable graphs that reflect user behavior relative to their starting date.
 
@@ -420,8 +404,6 @@
 
 ---
 
-> "Reporting retention from these tools is doable (and becomes common), assuming you have the right events you need, which often is not the case."
-
 **Insight:** Product analytics tools are excellent for behavior tracking but often require external data integration to accurately measure SaaS-specific retention metrics like subscriptions.
 
 **Tactical advice:**
@@ -432,8 +414,6 @@
 *Source: [How to measure cohort retention](https://www.lennysnewsletter.com/p/how-to-measure-cohort-retention)*
 
 ---
-
-> "If you don’t do this, you are likely to count background app refreshes, notifications, and any other app activity that is not related to user activity (read more: This Is Why You Overcount Your Daily Active Users)."
 
 **Insight:** Precise retention measurement depends on excluding 'noise' events and ensuring activity definitions reflect genuine user engagement rather than automated actions.
 
@@ -523,8 +503,6 @@
 *Source: [The most important consumer metrics to track](https://www.lennysnewsletter.com/p/the-most-important-consumer-metrics-to-track)*
 
 ---
-
-> "Ad-based products generally succeed through virality-driven (aka cheap) user growth, large percentages of daily/weekly engagement, and high retention. I’d start by focusing on the following six metrics:"
 
 **Insight:** For ad-supported models, measure engagement intensity through ratios like DAU/MAU and power user curves to understand the depth of usage.
 
@@ -655,8 +633,6 @@
 *Source: [What is good monthly churn](https://www.lennysnewsletter.com/p/what-is-good-monthly-churn)*
 
 ---
-
-> "“Taking these insights and combining them with available public data, we’ve come up with a set of concrete recommendations for GOOD and GREAT retention across most types of businesses.”"
 
 **Insight:** To conduct a valid retention analysis, a business must first be correctly classified into one of the core categories, as each has a unique profile for churn and expansion.
 
