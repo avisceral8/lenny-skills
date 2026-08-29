@@ -1,0 +1,15 @@
+{
+  "Strategy & Positioning": ["defining-product-strategy","product-vision","positioning","pricing-strategy","north-star-metrics","measuring-pmf","competitive-strategy","recovering-from-failure"],
+  "Planning & Prioritization": ["roadmap-prioritization","goal-setting-okrs","planning-cadence","high-stakes-decisions","evaluating-trade-offs"],
+  "Discovery & Research": ["customer-interviews","continuous-discovery","idea-validation","product-experiments","defining-icp","analyzing-user-feedback","product-taste"],
+  "Building & Shipping": ["writing-prds","shipping-velocity","ai-assisted-prototyping","building-with-ai-agents","product-tool-stack","engineering-health"],
+  "Launch & Go-to-Market": ["launch-planning","plg-sales-integration","enterprise-sales-motion","first-b2b-customers","marketing-org-and-stack","pr-and-press","naming-and-branding"],
+  "Growth & Retention": ["growth-model","acquisition-channels","user-onboarding-activation","retention-engagement","referrals-word-of-mouth","seo-strategy","growth-experimentation","international-expansion"],
+  "Team & Organization": ["hiring-product-talent","interviewing-evaluating-candidates","org-design","building-growth-team","founding-exec-team","coaching-development","team-culture","giving-feedback","fixing-underperforming-teams","leading-org-change"],
+  "Operating Cadence & Communication": ["product-reviews","executive-communication","managing-up","running-meetings","written-communication","stakeholder-alignment"],
+  "Playbook: Marketplaces": ["marketplace-fundamentals","supply-demand-balance","marketplace-liquidity-take-rates"],
+  "Playbook: Building AI Products": ["ai-product-strategy","ai-evals","ai-native-ux"],
+  "Playbook: Zero to One": ["evaluating-startup-ideas","fundraising","founder-sales"],
+  "Playbook: Enterprise & PLG": ["plg-fundamentals"],
+  "Career": ["breaking-into-product","pm-career-growth","career-transitions","building-a-promotion-case","negotiating-compensation","personal-brand-network","public-speaking","time-energy-management","founder-psychology"]
+}
