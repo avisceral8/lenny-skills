@@ -2,9 +2,10 @@
 
 **TL;DR: one slash command, 76 product-management brains, you read nothing.**
 Type `/lenny <anything>` with your question in whatever words come out. A tiny
-router picks the 1–3 skills you actually need from the
-[76 Lenny's Product Skills](https://github.com/refoundai/lenny-skills), loads
-only those, and answers through them. You will never pick a skill yourself,
+router seats every relevant skill from the
+[76 Lenny's Product Skills](https://github.com/refoundai/lenny-skills) as a
+council, hears each one out, and reconciles the counsels into one answer.
+You will never pick a skill yourself,
 which is the whole point, because you were going to either install all 76 and
 hope your agent guessed right, or install none of them. You're lazy. That's
 the ICP, and this repo is built for it.
@@ -43,9 +44,11 @@ lenny/
 ```
 
 When you type `/lenny how should I price my B2B tool?`, the router reads its
-one-line-per-skill table once per session, decides that `pricing-strategy`
-applies (probably with `competitive-strategy` for market context), reads only
-those two files off disk, and answers using their frameworks. If your question
+one-line-per-skill table once per session, seats every skill that covers the
+decision — `pricing-strategy`, plus `competitive-strategy`, `defining-icp`,
+`positioning`, whoever else actually has skin in this question — reads only
+those files off disk, answers once through each, then settles the disagreements
+and answers once, synthesized. If your question
 has nothing to do with product work, it reads the table, says "not my
 library," and answers normally. No forced wisdom about marketplace take rates
 landing on your CSS bug.
@@ -57,7 +60,7 @@ landing on your CSS bug.
 | Shape | 76 skills, pick-your-own, browse the README like a catalog | 1 skill that memorized the catalog for you |
 | Your effort | learn 76 folder names, install the ones you recognize | type `/lenny` + your question |
 | Context cost | one index line per installed skill, forever | one line for the router; the 76 bodies stay asleep until routed to |
-| Composition | you notice that "new idea" wants 3 skills | built-in combo hints do it (`idea-validation` + `evaluating-startup-ideas` + `defining-icp`) |
+| Composition | you notice that "new idea" wants 3 skills | relevance-gated: every skill with a stake gets seated and the conflicts get argued out |
 | Staleness | re-clone when upstream ships v3 | `python scripts/sync_lenny_skills.py` |
 | Skill content | all of it, theirs | vendored verbatim, MIT, LICENSE preserved |
 
