@@ -13,7 +13,7 @@ serves the second one.
 [lenny-skills](https://github.com/refoundai/lenny-skills): 76 MIT-licensed
 skills distilled from 597 Lenny Podcast episodes and newsletter posts, with
 4,019 sourced insights. It is the best product-management library you can
-install. Star theirs first. We'll wait.
+install. Star theirs first. I'll wait.
 
 Installing all 76 has a cost nobody advertises. Every skill adds an index
 line to your agent's context on every turn, forever. You'd sit down to fix a
