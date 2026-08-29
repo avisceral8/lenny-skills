@@ -19,10 +19,17 @@ $py = Get-Command python3 -ErrorAction SilentlyContinue
 if (-not $py) { $py = Get-Command python -ErrorAction SilentlyContinue }
 if (-not $py) { Write-Error "python is required"; exit 1 }
 
-$libMarker = Join-Path $Pkg "references\routing-table.md"
-if (-not (Test-Path $libMarker) -or -not (Test-Path (Join-Path $Pkg "references\lenny\writing-prds"))) {
+$libFile = "routing-table.md"
+$libMarker = Join-Path (Join-Path $Pkg "references") $libFile
+$hasBodies = Test-Path (Join-Path $Pkg "references\lenny\writing-prds")
+if (-not (Test-Path $libMarker) -or -not $hasBodies) {
     Write-Host ">> Populating skill library..."
-    & $py.Source (Join-Path $Pkg "scripts\sync_lenny_skills.py")
+    if (Test-Path (Join-Path $Pkg "skills")) {
+        # Fork layout: the 76 skills are vendored in-repo - sync offline from them.
+        & $py.Source (Join-Path $Pkg "scripts\sync_lenny_skills.py") --from $Pkg
+    } else {
+        & $py.Source (Join-Path $Pkg "scripts\sync_lenny_skills.py")
+    }
     if ($LASTEXITCODE -ne 0) { Write-Error "sync failed"; exit 1 }
 } else { Write-Host ">> Skill library already present." }
 

@@ -1,4 +1,2 @@
-.DS_Store
-*.log
-.env
-node_modules/
+# Generated at install/first-sync time (rebuild: python scripts/sync_lenny_skills.py)
+references/lenny/
