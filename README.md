@@ -19,7 +19,7 @@ Installing all 76 has a cost nobody advertises. Every skill adds an index
 line to your agent's context on every turn, forever. You'd sit down to fix a
 semicolon and drag "marketplace-liquidity-take-rates" along for the ride. The
 original repo assumes you'll curate 76 skills like a professional. You won't.
-Neither would we.
+Neither would I.
 
 ## How it works
 
