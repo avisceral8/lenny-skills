@@ -1,38 +1,35 @@
-# lenny — the `/lenny` router skill for the dumb and the lazy
+# lenny — the router for people who'd rather not
 
-**TL;DR: one slash command, 76 product-management brains, you read nothing.**
-Type `/lenny <anything>` with your question in whatever words come out. A tiny
-router seats every relevant skill from the
-[76 Lenny's Product Skills](https://github.com/refoundai/lenny-skills) as a
-council, hears each one out, and reconciles the counsels into one answer.
-You will never pick a skill yourself,
-which is the whole point, because you were going to either install all 76 and
-hope your agent guessed right, or install none of them. You're lazy. That's
-the ICP, and this repo is built for it.
+**TL;DR: one command, 76 skills, and you don't have to pick any of them. You're welcome.**
 
-## The Situation (facts, no opinions)
+Somewhere, a diligent person listened to 597 episodes and distilled 4,019
+insights into 76 skills. You are not that person. You are the person who
+wants the answer without the homework. Both people are valid. This repo
+serves the second one.
+
+## The problem
 
 [Refound AI](https://refoundai.com) built
 [lenny-skills](https://github.com/refoundai/lenny-skills): 76 MIT-licensed
 skills distilled from 597 Lenny Podcast episodes and newsletter posts, with
-4,019 verbatim-sourced insights. It is excellent work, and this repo exists
-because of it. Go star theirs.
+4,019 sourced insights. It is the best product-management library you can
+install. Star theirs first. We'll wait.
 
-Installing all 76 skills naively has a cost nobody advertises. Each one adds
-an index line to your agent's system prompt, every single turn: several
-thousand tokens of "product-taste, negotiating-compensation,
-marketplace-liquidity-take-rates…" whether you're asking about pricing or just
-telling the agent to fix a semicolon. The original repo hands you 76 sharp
-tools and expects you to keep a workshop. You won't keep a workshop.
+Installing all 76 has a cost nobody advertises. Every skill adds an index
+line to your agent's context on every turn, forever. You'd sit down to fix a
+semicolon and drag "marketplace-liquidity-take-rates" along for the ride. The
+original repo assumes you'll curate 76 skills like a professional. You won't.
+Neither would we.
 
-## The Resolution (this fork)
+## How it works
 
-`lenny` is one router skill sitting on top of all 76.
+`lenny` is one router skill on top of all 76. Only the router loads. The 76
+sit quietly on disk until a question actually needs one.
 
 ```
 lenny/
-├── SKILL.md                 ← the router: ~4 KB, the only thing always loaded
-├── LICENSE.md               ← MIT for the router; upstream's own MIT ships with the pack
+├── SKILL.md                 ← the router, ~4 KB, the only file always loaded
+├── LICENSE.md               ← combined MIT (router + vendored skills)
 ├── scripts/
 │   ├── sync_lenny_skills.py   # fetch/refresh the 76 from GitHub (or --from a local clone)
 │   ├── gen_routing_table.py   # regenerate references/routing-table.md
@@ -43,82 +40,98 @@ lenny/
     └── lenny/                 # generated: the 76 upstream skills, untouched
 ```
 
-When you type `/lenny how should I price my B2B tool?`, the router reads its
-one-line-per-skill table once per session, seats every skill that covers the
-decision — `pricing-strategy`, plus `competitive-strategy`, `defining-icp`,
-`positioning`, whoever else actually has skin in this question — reads only
-those files off disk, answers once through each, then settles the disagreements
-and answers once, synthesized. If your question
-has nothing to do with product work, it reads the table, says "not my
-library," and answers normally. No forced wisdom about marketplace take rates
-landing on your CSS bug.
+The router reads a one-line-per-skill table once per session, then runs one
+of four modes.
 
-## What's different from the original (with full credit, so hear me out)
+### The four modes
+
+| Mode | Invoke | What happens |
+|---|---|---|
+| DIRECT | `/lenny pricing-strategy positioning …` | Runs exactly the skills you name |
+| ROUTE | `/lenny route how do I price my B2B tool?` | Seats the 2-4 best-fit skills, one merged answer |
+| COUNCIL (default) | `/lenny how do I price my B2B tool?` | Seats every relevant skill (minimum 5), reconciles |
+| LIST | `/lenny list` / `list career` | Prints skill names grouped by category |
+
+COUNCIL is the default. No mode is forced.
+
+If your question has nothing to do with product work, the router says so and
+answers from general knowledge. No marketplace take rates on your CSS bug.
+
+## What's different
 
 | | [upstream lenny-skills](https://github.com/refoundai/lenny-skills) | this fork |
 |---|---|---|
-| Shape | 76 skills, pick-your-own, browse the README like a catalog | 1 skill that memorized the catalog for you |
-| Your effort | learn 76 folder names, install the ones you recognize | type `/lenny` + your question |
-| Context cost | one index line per installed skill, forever | one line for the router; the 76 bodies stay asleep until routed to |
-| Composition | you notice that "new idea" wants 3 skills | relevance-gated: every skill with a stake gets seated and the conflicts get argued out |
+| Shape | 76 skills, pick-your-own | 1 skill that knows the catalog |
+| Your effort | learn 76 folder names | type `/lenny` + your question |
+| Context cost | one index line per skill, forever | one line for the router |
+| Composition | you notice "new idea" wants 3 skills | the router seats the right skills per mode |
 | Staleness | re-clone when upstream ships v3 | `python scripts/sync_lenny_skills.py` |
 | Skill content | all of it, theirs | vendored verbatim, MIT, LICENSE preserved |
 
-None of the actual wisdom is ours. We did the plumbing: routing, vendoring,
-regenerating, and pretending we always knew which of the 76 you needed. You're
-welcome.
+The wisdom is Refound AI's. We did the plumbing so you don't have to.
 
 ## Install
 
-Requirements: Python 3.9+ (stdlib only) and git, needed only when the library
-is first populated or refreshed.
+Requirements: Python 3.9+ (stdlib only) and git, needed only to populate or
+refresh the library.
 
 ```bash
 git clone https://github.com/avisceral8/lenny-skills.git lenny-router
 cd lenny-router
 ```
 
-This repo is a true GitHub fork of `RefoundAI/lenny-skills`, so the 76 skills
-already sit in `skills/` at the repo root. The installer notices that and
-generates `references/lenny/` + the routing table locally, no second fetch:
+This repo is a GitHub fork of `RefoundAI/lenny-skills`, so the 76 skills
+already sit in `skills/` at the repo root. The installer generates
+`references/lenny/` and the routing table locally, no second fetch.
 
 ```bash
-# any agent, POSIX shell — auto-detects ~/.claude, ~/.hermes, ~/.codex:
+# POSIX shell, auto-detects ~/.claude, ~/.hermes, ~/.codex:
 ./scripts/install.sh
-# or be explicit:
 ./scripts/install.sh --agent claude        # -> ~/.claude/skills/lenny
 ./scripts/install.sh --agent codex         # -> ~/.codex/skills/lenny
 ./scripts/install.sh --agent hermes        # -> $HERMES_HOME/skills/lenny
 ./scripts/install.sh --dest ~/myproject/.claude/skills   # project-local
 
 # Windows PowerShell:
-.\scripts\install.ps1                # auto-detect
+.\scripts\install.ps1
 .\scripts\install.ps1 -Agent claude
 .\scripts\install.ps1 -Dest C:\Users\you\myproject\.claude\skills
 ```
 
 The installer copies the package to `<skills-dir>/lenny/`. On a standalone
-(non-fork) copy without `skills/` checked out, first install runs
-`scripts/sync_lenny_skills.py` to fetch the 76 from GitHub; add
+copy without `skills/` checked out, the first install runs
+`scripts/sync_lenny_skills.py` to fetch the 76 from GitHub. Add
 `--from /path/to/lenny-skills-clone` to work offline.
 
 The package uses the open SKILL.md format (YAML frontmatter, markdown,
-relative `references/` paths), so it works in Hermes, Claude Code, Codex CLI,
-opencode, Gemini CLI and friends. On agents without slash commands (Cursor
-rules, Copilot instructions), add one line to your rules file: *"For product,
-growth, strategy, or PM-career questions, load the `lenny` skill and follow
-its routing procedure."*
+relative `references/` paths), so it works in Hermes, Claude Code, Codex
+CLI, opencode, Gemini CLI, and similar. On agents without slash commands
+(Cursor rules, Copilot instructions), add one line to your rules file:
+*"For product, growth, strategy, or PM-career questions, load the `lenny`
+skill and follow its routing procedure."*
 
 ## Use
 
 ```
-/lenny we're a 4-person team selling B2B analytics, how do I price it?
-/lenny help me write a PRD for a mobile onboarding revamp
+# DIRECT: run the skills you name
+/lenny pricing-strategy we're a 4-person team selling B2B analytics
+/lenny positioning pricing-strategy competitive-strategy how do I price my B2B tool?
+/lenny @writing-prds help me spec a mobile onboarding revamp
+
+# ROUTE: auto-seat the 2-4 best-fit skills
+/lenny route how do I price my B2B analytics tool?
+/lenny --route is my marketplace problem liquidity or supply?
+
+# COUNCIL (default): seat all relevant skills and reconcile
+/lenny how do I price my B2B analytics tool?
 /lenny my manager won't put me up for promotion
-/lenny is my marketplace problem liquidity or supply?
+
+# LIST: print skill names by category
+/lenny list
+/lenny list career
 ```
 
-Refresh later:
+## Maintain
 
 ```bash
 python scripts/sync_lenny_skills.py            # pull upstream, regenerate table
@@ -127,11 +140,10 @@ grep -c '^- \*\*' references/routing-table.md  # verify: 76
 
 ## Attribution
 
-All 76 skills and 100% of the frameworks, quotes, and checklists are
-**Lenny's Product Skills v2.0 © [Refound AI](https://refoundai.com), MIT**:
-https://github.com/RefoundAI/lenny-skills, browsable with guides at
+All 76 skills and 100% of the frameworks, quotes, and checklists are Lenny's
+Product Skills v2.0, © Refound AI, MIT licensed:
+https://github.com/RefoundAI/lenny-skills, browsable at
 [refoundai.com/lenny-skills](https://refoundai.com/lenny-skills/). This fork
-adds a router, two installers, and their `LICENSE`, vendored at
-`references/lenny/LICENSE`. Router and scripts: MIT. The star you're saving
-for this repo belongs on
+adds a router, two installers, and a combined `LICENSE.md`. The star you were
+going to give this repo belongs on
 [theirs](https://github.com/refoundai/lenny-skills).

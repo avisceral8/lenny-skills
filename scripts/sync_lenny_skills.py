@@ -92,6 +92,8 @@ def main() -> int:
         shutil.copytree(folder, dest)
         n += 1
     lic = repo_root / "LICENSE"
+    if not lic.exists():
+        lic = repo_root / "LICENSE.md"
     if lic.exists():
         shutil.copy2(lic, LIB / "LICENSE")
     subprocess.run([sys.executable, str(HERE / "gen_routing_table.py"),
