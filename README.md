@@ -68,7 +68,7 @@ answers from general knowledge. No marketplace take rates on your CSS bug.
 | Staleness | re-clone when upstream ships v3 | `python scripts/sync_lenny_skills.py` |
 | Skill content | all of it, theirs | vendored verbatim, MIT, LICENSE preserved |
 
-The wisdom is Refound AI's. We did the plumbing so you don't have to.
+The wisdom is Refound AI's. I did the plumbing so you don't have to.
 
 ## Install
 
